@@ -8,6 +8,8 @@
 0.0.0.0 e.crashlytics.com
 0.0.0.0 test.netguard.me
 0.0.0.0 graph.instagram.com
+0.0.0.0 z-p4.graph.instagram.com
+0.0.0.0 z-p42.graph.instagram.com
 0.0.0.0 events.redditmedia.co
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 ssl.google-analytics.com
@@ -17,3 +19,4 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 connect.facebook.net
