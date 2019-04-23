@@ -39692,3 +39692,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 shavar.services.mozilla.com
+0.0.0.0 test.com
