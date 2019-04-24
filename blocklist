@@ -14,6 +14,8 @@
 127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 events.redditmedia.com
 127.0.0.1 ssl.google-analytics.com
+127.0.0.1 www.google-analytics.com
+127.0.0.1 google-analytics.com
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 device-metrics-us.amazon.com
@@ -22,3 +24,18 @@
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 stats.pusher.com
 127.0.0.1 edatasales.com
+127.0.0.1 collector-cdn.github.com
+127.0.0.1 collector.githubapp.com
+127.0.0.1 sb.scorecardresearch.com
+127.0.0.1 scorecardresearch.com
+127.0.0.1 scorecardresearch.net
+127.0.0.1 static.criteo.com
+127.0.0.1 static.criteo.net
+127.0.0.1 googleadservices.com
+127.0.0.1 amazon-adsystem.com
+127.0.0.1 aax-eu.amazon-adsystem.com
+127.0.0.1 googlesyndication.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 pagead3.googlesyndication.com
