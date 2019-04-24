@@ -1,6 +1,8 @@
 # personal blocking list
 127.0.0.1 sessions.bugsnag.com
+127.0.0.1 blocklists.settings.services.mozilla.com
 127.0.0.1 firefox.settings.services.mozilla.com
+127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 shavar.services.mozilla.com
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 settings.crashlytics.com
@@ -10,15 +12,12 @@
 127.0.0.1 graph.instagram.com
 127.0.0.1 z-p4.graph.instagram.com
 127.0.0.1 z-p42.graph.instagram.com
-127.0.0.1 events.redditmedia.co
-127.0.0.1 shavar.services.mozilla.com
+127.0.0.1 events.redditmedia.com
 127.0.0.1 ssl.google-analytics.com
-127.0.0.1 blocklists.settings.services.mozilla.com
-127.0.0.1 device-metrics-us.amazon.com
-127.0.0.1 googleads.g.doubleclick.net
-127.0.0.1 app-measurement.com
 127.0.0.1 www.googletagmanager.com
+127.0.0.1 googleads.g.doubleclick.net
 127.0.0.1 device-metrics-us.amazon.com
+127.0.0.1 app-measurement.com
 127.0.0.1 udm.scorecardresearch.com
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 stats.pusher.com
