@@ -1,4 +1,4 @@
-v# personal blocking list
+# personal blocking list
 127.0.0.1 sessions.bugsnag.com
 127.0.0.1 blocklists.settings.services.mozilla.com
 127.0.0.1 firefox.settings.services.mozilla.com
