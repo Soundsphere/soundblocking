@@ -1,12 +1,11 @@
-# created for netguard 
-# peronsal stuff
+# personal blocking list
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 e.crashlytics.com
-0.0.0.0 test.netguard.me
+0.0.0.0 connect.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 z-p4.graph.instagram.com
@@ -20,6 +19,5 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 device-metrics-us.amazon.com
-0.0.0.0 connect.facebook.net
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 b.scorecardresearch.com
