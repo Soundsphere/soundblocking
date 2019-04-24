@@ -43,6 +43,7 @@
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 z-na.amazon-adsystem.com
+127.0.0.1 ws-na.amazon.adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aaxads.com
 127.0.0.1 c.aaxads.com
@@ -73,3 +74,4 @@
 127.0.0.1 s7.addthis.com
 127.0.0.1 onesignal.com
 127.0.0.1 cdn.onesignal.com
+127.0.0.1 stats.wp.com
