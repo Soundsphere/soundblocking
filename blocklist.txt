@@ -39,8 +39,10 @@
 127.0.0.1 scorecardresearch.net
 127.0.0.1 static.criteo.com
 127.0.0.1 static.criteo.net
+127.0.0.1 fls-eu.amazon.de
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 c.amazon-adsystem.com
+127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aaxads.com
 127.0.0.1 c.aaxads.com
@@ -66,3 +68,8 @@
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 quantserve.com
 127.0.0.1 secure.quantserve.com
+127.0.0.1 cdn.krxd.com
+127.0.0.1 addthis.com
+127.0.0.1 s7.addthis.com
+127.0.0.1 onesignal.com
+127.0.0.1 cdn.onesignal.com
