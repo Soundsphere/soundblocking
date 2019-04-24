@@ -21,3 +21,5 @@
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 stats.pusher.com
+0.0.0.0 edatasales.com
