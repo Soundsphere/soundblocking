@@ -1,4 +1,4 @@
-# personal blocking list
+v# personal blocking list
 127.0.0.1 sessions.bugsnag.com
 127.0.0.1 blocklists.settings.services.mozilla.com
 127.0.0.1 firefox.settings.services.mozilla.com
@@ -55,7 +55,7 @@
 127.0.0.1 cpx.golem.de
 127.0.0.1 cpxl.golem.de
 127.0.0.1 ioam.de
-128.0.0.1 de.ioam.de
+127.0.0.1 de.ioam.de
 127.0.0.1 script.ioam.de
 127.0.0.1 config.ioam.de
 127.0.0.1 onthe.io
@@ -80,7 +80,6 @@
 127.0.0.1 stats.wp.com
 127.0.0.1 statcounter.com
 127.0.0.1 www.statcounter.com
-127.0.0.1 analytics-twitter.com
 127.0.0.1 app-measurement.com
 127.0.0.1 www.zergnet.com
 127.0.0.1 194792.engine.mobileapptracking.com
@@ -93,3 +92,4 @@
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 z.moatads.com
 127.0.0.1 api.amplitude.com
+127.0.0.1 analytics.twitter.com
