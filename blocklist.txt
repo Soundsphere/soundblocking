@@ -66,4 +66,3 @@
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 quantserve.com
 127.0.0.1 secure.quantserve.com
-127.0.0.1 test
