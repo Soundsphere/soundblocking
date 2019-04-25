@@ -114,3 +114,9 @@
 127.0.0.1 tracking.m6r.eu
 127.0.0.1 si.nuggad.net
 127.0.0.1 syndication.twitter.com
+127.0.0.1 s.media-imdb.com
+127.0.0.1 ad.doubleclick.net
+127.0.0.1 pixel.adsafeprotected.com
+127.0.0.1 www.zergnet.com
+127.0.0.1 static.doubleclick.net
+127.0.0.1 tags.tiqcdn.com
