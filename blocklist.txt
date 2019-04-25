@@ -45,7 +45,6 @@
 127.0.0.1 static.criteo.com
 127.0.0.1 static.criteo.net
 127.0.0.1 bidder.criteo.com
-127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 fls-eu.amazon.de
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 amazon-adsystem.com
@@ -53,6 +52,8 @@
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 ws-na.amazon.adsystem.com
 127.0.0.1 aax-eu.amazon-adsystem.com
+127.0.0.1 aax.amazon-adsystem.com
+127.0.0.1 mads.amazon-adsystem.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 aaxads.com
@@ -173,3 +174,11 @@
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 axel-springer-d.openx.net
 127.0.0.1 a.teads.tv
+127.0.0.1 ds-aksb-a.akamaihd.net
+127.0.0.1 assets.tapad.com
+127.0.0.1 k.intellitxt.com
+127.0.0.1 a.bf-ad.net
+127.0.0.1 odb.outbrain.com
+127.0.0.1 cdn.permutive.com
+127.0.0.1 amplify.outbrain.com
+127.0.0.1 adtm.chip.de
