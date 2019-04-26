@@ -283,6 +283,6 @@
 127.0.0.1 responder.wt-safetag.com
 127.0.0.1 boss.berlinonline.de
 127.0.0.1 oms.nuggad.net
-127.0.0.1 js.adscale.de
 127.0.0.1 tracking.m6r.eu
-127.0.0.1 xpl.theadex.com
+127.0.0.1 csi.gstatic.com
+127.0.0.1 static.plista.com
