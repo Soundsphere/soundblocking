@@ -123,7 +123,6 @@
 127.0.0.1 si.nuggad.net
 127.0.0.1 s.media-imdb.com
 127.0.0.1 pixel.adsafeprotected.com
-127.0.0.1 www.zergnet.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 ws.pusherapp.com
 127.0.0.1 kleinanzeigen-d.openx.net
@@ -264,3 +263,6 @@
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 om.cbsi.com
+127.0.0.1 r.skimresources.com
+127.0.0.1 storage.googleapis.com
