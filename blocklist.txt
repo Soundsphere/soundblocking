@@ -90,7 +90,6 @@
 127.0.0.1 stats.wp.com
 127.0.0.1 statcounter.com
 127.0.0.1 www.statcounter.com
-127.0.0.1 app-measurement.com
 127.0.0.1 www.zergnet.com
 127.0.0.1 194792.engine.mobileapptracking.com
 127.0.0.1 adobecorp.sc.omtrdc.net
@@ -258,3 +257,10 @@
 127.0.0.1 events.redditmedia.com
 127.0.0.1 c.paypal.com
 127.0.0.1 b.stats.paypal.com
+127.0.0.1 scontent.xx.fbcdn.net
+127.0.0.1 xtrapath2.izatcloud.net
+127.0.0.1 xtrapath3.izatcloud.net
+127.0.0.1 android.bugly.qq.com
+127.0.0.1 resolver.msg.xiaomi.net
+127.0.0.1 resolver.gslb.mi-idc.com
+127.0.0.1 data.mistat.xiaomi.com
