@@ -250,3 +250,11 @@
 127.0.0.1 etahub.com
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 dis.criteo.com
+127.0.0.1 t.appsflyer.com
+127.0.0.1 geolocation.stroeerdp.de
+127.0.0.1 p.t-online.de
+127.0.0.1 www.sdad.guru
+127.0.0.1 x.bidswitch.net
+127.0.0.1 events.redditmedia.com
+127.0.0.1 c.paypal.com
+127.0.0.1 b.stats.paypal.com
