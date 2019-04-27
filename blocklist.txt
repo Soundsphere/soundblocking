@@ -310,3 +310,14 @@
 127.0.0.1 a.mobify.com
 127.0.0.1 cdn.tt.omtrdc.net
 127.0.0.1 assets.pinterest.com
+127.0.0.1 hubt.pornhub.com
+127.0.0.1 ads.trafficjunky.net
+127.0.0.1 platform.tumblr.com
+127.0.0.1 ads2.contentabc.com
+127.0.0.1 m1.nsimg.net
+127.0.0.1 cdn.mxpnl.com
+127.0.0.1 hw-cdn.trafficjunky.net
+127.0.0.1 vz-cdn.contentabc.com
+127.0.0.1 cdn.feeds.videosz.com
+127.0.0.1 cdn.niche.videosz.com
+127.0.0.1 cdn1.ads.contentabc.com
