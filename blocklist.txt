@@ -147,7 +147,6 @@
 127.0.0.1 bt.mediaimpact.de
 127.0.0.1 dyn.emetriq.de
 127.0.0.1 cc.zeit.de
-127.0.0.1 responder.wt-safetag.com
 127.0.0.1 vfd2dyn.vodafone.de
 127.0.0.1 m.exactag.com
 127.0.0.1 www.roosterfirework.com
@@ -344,3 +343,11 @@
 127.0.0.1 wa.ui-portal.de
 127.0.0.1 static.clicktripz.com
 127.0.0.1 a.bf-tools.net
+127.0.0.1 79423.analytics.edgekey.net
+127.0.0.1 logs1406.xiti.com
+127.0.0.1 0.gravatar.com
+127.0.0.1 whos.amung.us
+127.0.0.1 t1.extreme-dm.com
+127.0.0.1 www.fastcounter.de
+127.0.0.1 e1.extreme-dm.com
+127.0.0.1 extremetracking.com
