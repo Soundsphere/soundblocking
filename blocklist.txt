@@ -357,3 +357,8 @@
 127.0.0.1 a.hstrck.com
 127.0.0.1 servedby.flashtalking.com
 127.0.0.1 contextual.media.net
+127.0.0.1 static.ak.fbcdn.net
+127.0.0.1 www.ranking-hits.de
+127.0.0.1 static.addtoany.com
+127.0.0.1 w.sharethis.com
+127.0.0.1 tracking.vcommission.com
