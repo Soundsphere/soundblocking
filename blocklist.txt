@@ -405,3 +405,9 @@
 127.0.0.1 bit.ly
 127.0.0.1 smarturl.it
 127.0.0.1 fc03.deviantart.net
+127.0.0.1 scontent-iad3-1.cdninstagram.com
+127.0.0.1 static.showheroes.com
+127.0.0.1 secure-us.imrworldwide.com
+127.0.0.1 www.disclaimer.de
+127.0.0.1 js.adsrvr.org
+127.0.0.1 browser-update.org
