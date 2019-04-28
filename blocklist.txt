@@ -156,7 +156,6 @@
 127.0.0.1 static.adfarm1.adition.com
 127.0.0.1 imagesrv.adition.com
 127.0.0.1 match.adsrvr.org
-127.0.0.1 d.nativendo.de
 127.0.0.1 static.apester.com
 127.0.0.1 oms.nuggad.net
 127.0.0.1 try.abtasty.com
@@ -352,3 +351,8 @@
 127.0.0.1 e1.extreme-dm.com
 127.0.0.1 extremetracking.com
 127.0.0.1 cdn.ravenjs.com
+127.0.0.1 metrics.brightcove.com
+127.0.0.1 vjs.zencdn.net
+127.0.0.1 cdn.tinypass.com
+127.0.0.1 a.hstrck.com
+127.0.0.1 servedby.flashtalking.com
