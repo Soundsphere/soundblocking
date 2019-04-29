@@ -1252,3 +1252,5 @@
 127.0.0.1 app-lon04.marketo.com
 127.0.0.1 www.za-ads.de
 127.0.0.1 ti.tradetracker.net
+127.0.0.1 smetrics.aem.playstation.com
+127.0.0.1 www.265.com
