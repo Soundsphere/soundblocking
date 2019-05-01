@@ -1539,3 +1539,7 @@
 127.0.0.1 decide.mixpanel.com
 127.0.0.1 ws1.hotjar.com
 127.0.0.1 perr.h-cdn.com
+127.0.0.1 ia601507.us.archive.org
+127.0.0.1 gallery.mailchimp.com
+127.0.0.1 s.youtube.com
+127.0.0.1 cdn.bestcheck.de
