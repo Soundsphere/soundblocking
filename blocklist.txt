@@ -1,4 +1,3 @@
-# personal blocking list
 127.0.0.1 0.gravatar.com
 127.0.0.1 1364.tm.zedo.com
 127.0.0.1 15.taboola.com
@@ -111,6 +110,7 @@
 127.0.0.1 ads.rubiconproject.com
 127.0.0.1 ads.samsungads.com
 127.0.0.1 ads.scorecardresearch.com
+127.0.0.1 ads.servebom.com
 127.0.0.1 ads.smartstream.tv
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 adstax-match.adrtx.net
@@ -259,6 +259,7 @@
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.pinterest.com
 127.0.0.1 assets.privy.com
+127.0.0.1 assets.purch.com
 127.0.0.1 assets.tapad.com
 127.0.0.1 a-ssl.ligatus.com
 127.0.0.1 a.teads.tv
@@ -310,6 +311,7 @@
 127.0.0.1 bilder.bild.de
 127.0.0.1 bit.ly
 127.0.0.1 blocklists.settings.services.mozilla.com
+127.0.0.1 blogcounter.de
 127.0.0.1 bloggerei.de
 127.0.0.1 blog.naver.com
 127.0.0.1 bm.adentifi.com
@@ -473,6 +475,7 @@
 127.0.0.1 collector-medium.lightstep.com
 127.0.0.1 collect.tealiumiq.com
 127.0.0.1 combine.urbanairship.com
+127.0.0.1 completion.amazon.com
 127.0.0.1 config1.veinteractive.com
 127.0.0.1 config2.mparticle.com
 127.0.0.1 config.inmobi.com
@@ -779,6 +782,7 @@
 127.0.0.1 help.bingads.microsoft.com
 127.0.0.1 hexagon-analytics.com
 127.0.0.1 hi.hellobar.com
+127.0.0.1 history.google.com
 127.0.0.1 hm.baidu.com
 127.0.0.1 h.nexac.com
 127.0.0.1 hn.inspectlet.com
@@ -995,7 +999,6 @@
 127.0.0.1 ol.uk.at.atwola.com
 127.0.0.1 om.cbsi.com
 127.0.0.1 oms.nuggad.net
-127.0.0.1 oms.nuggad.net
 127.0.0.1 oneadvertising-d.openx.net
 127.0.0.1 onecollector.cloudapp.aria.akadns.net
 127.0.0.1 onesignal.com
@@ -1067,7 +1070,6 @@
 127.0.0.1 pixel.s3xified.com
 127.0.0.1 pixel.sojern.com
 127.0.0.1 pixel-sync.sitescout.com
-127.0.0.1 pixel-sync.sitescout.com
 127.0.0.1 pixel.tapad.com
 127.0.0.1 pixel-us-east.rubiconproject.com
 127.0.0.1 pixel-us-west.rubiconproject.com
@@ -1120,7 +1122,6 @@
 127.0.0.1 push-notifications.top
 127.0.0.1 p.vtracy.de
 127.0.0.1 px.adhigh.net
-127.0.0.1 px.ads.linkedin.com
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 pxc.otto.de
 127.0.0.1 px.dynamicyield.com
@@ -1219,7 +1220,6 @@
 127.0.0.1 scomcluster.cxense.com
 127.0.0.1 scontent-iad3-1.cdninstagram.com
 127.0.0.1 scontent.xx.fbcdn.net
-127.0.0.1 scorecardresearch.com
 127.0.0.1 scorecardresearch.com
 127.0.0.1 scorecardresearch.net
 127.0.0.1 scout24-d.openx.net
@@ -1490,7 +1490,6 @@
 127.0.0.1 tracking.immobilienscout24.de
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.m6r.eu
-127.0.0.1 tracking.m6r.eu
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.mlsat02.de
 127.0.0.1 tracking.musixmatch.com
@@ -1593,6 +1592,7 @@
 127.0.0.1 web-sdk.urbanairship.com
 127.0.0.1 web-t.9gag.com
 127.0.0.1 web.vortex.data.microsoft.com
+127.0.0.1 w.estat.com
 127.0.0.1 wetransfer-d.openx.net
 127.0.0.1 wf.taboola.com
 127.0.0.1 whos.amung.us
@@ -1637,6 +1637,7 @@
 127.0.0.1 www.barilliance.net
 127.0.0.1 www.bet365.com
 127.0.0.1 www.bizographics.com
+127.0.0.1 www.blogcounter.de
 127.0.0.1 www.cbox.ws
 127.0.0.1 www.crazyegg.com
 127.0.0.1 www.criteo.com
@@ -1700,10 +1701,3 @@
 127.0.0.1 zoover.adtrackers.net
 127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 z-p4.graph.instagram.com
-127.0.0.1 history.google.com
-127.0.0.1 completion.amazon.com
-127.0.0.1 ads.servebom.com
-127.0.0.1 blogcounter.de
-127.0.0.1 www.blogcounter.de
-127.0.0.1 assets.purch.com
-127.0.0.1 w.estat.com
