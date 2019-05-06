@@ -1700,3 +1700,10 @@
 127.0.0.1 zoover.adtrackers.net
 127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 z-p4.graph.instagram.com
+127.0.0.1 history.google.com
+127.0.0.1 completion.amazon.com
+127.0.0.1 ads.servebom.com
+127.0.0.1 blogcounter.de
+127.0.0.1 www.blogcounter.de
+127.0.0.1 assets.purch.com
+127.0.0.1 w.estat.com
