@@ -1701,3 +1701,4 @@
 127.0.0.1 zoover.adtrackers.net
 127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 z-p4.graph.instagram.com
+127.0.0.1 domains.googlesyndication.com
