@@ -921,6 +921,7 @@
 127.0.0.1 idt.id-news.net
 127.0.0.1 ie8eamus.com
 127.0.0.1 ih.adscale.de
+127.0.0.1 ikea.com
 127.0.0.1 ikea.de
 127.0.0.1 i.kissmetrics.com
 127.0.0.1 ilead.itrack.it
