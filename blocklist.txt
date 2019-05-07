@@ -17,6 +17,7 @@
 127.0.0.1 79423.analytics.edgekey.net
 127.0.0.1 882-nzg-493.mktoresp.com
 127.0.0.1 883205.fls.doubleclick.net
+127.0.0.1 a2150.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
 127.0.0.1 a3281.casalemedia.com
 127.0.0.1 a3290.casalemedia.com
@@ -42,6 +43,7 @@
 127.0.0.1 acds.prod.eu-west-1.vidible.tv
 127.0.0.1 acds.prod.vidible.tv
 127.0.0.1 a.company-target.com
+127.0.0.1 action.media6degrees.com
 127.0.0.1 actions-am.taboola.com
 127.0.0.1 activity.windows.com
 127.0.0.1 act.webmasterplan.com
@@ -217,6 +219,7 @@
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
+127.0.0.1 api.primecaster.net
 127.0.0.1 api.privy.com
 127.0.0.1 api-public.addthis.com
 127.0.0.1 api.rollbar.com
@@ -261,6 +264,7 @@
 127.0.0.1 asoscomltd.tt.omtrdc.net
 127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 assets.adobedtm.com
+127.0.0.1 assets-jpcust.jwpsrv.com
 127.0.0.1 assets.pinterest.com
 127.0.0.1 assets.privy.com
 127.0.0.1 assets.purch.com
@@ -341,6 +345,7 @@
 127.0.0.1 c2.taboola.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 cache-ssl.celtra.com
+127.0.0.1 cafemedia-d.openx.net
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 capture.condenastdigital.com
 127.0.0.1 casale-match.dotomi.com
@@ -365,6 +370,7 @@
 127.0.0.1 cdn.adrtx.net
 127.0.0.1 cdn.adsafeprotected.com
 127.0.0.1 cdn.adskeeper.co.uk
+127.0.0.1 cdn.adspirit.de
 127.0.0.1 cdn.adtrue.com
 127.0.0.1 cdn.appdynamics.com
 127.0.0.1 cdn.at.atwola.com
@@ -386,6 +392,7 @@
 127.0.0.1 cdn.dynamicyield.com
 127.0.0.1 cdn.feeds.videosz.com
 127.0.0.1 cdn.flashtalking.com
+127.0.0.1 cdn.geodns.tubemogul.com
 127.0.0.1 cdn.gigya.com
 127.0.0.1 cdn-gl.imrworldwide.com
 127.0.0.1 cdn.heapanalytics.com
@@ -486,6 +493,7 @@
 127.0.0.1 config2.mparticle.com
 127.0.0.1 config.inmobi.com
 127.0.0.1 config.ioam.de
+127.0.0.1 config.safedk.com
 127.0.0.1 connect.ekomi.de
 127.0.0.1 connect.facebook.com
 127.0.0.1 connect.facebook.net
@@ -550,6 +558,7 @@
 127.0.0.1 d3qxwzhswv93jk.cloudfront.net
 127.0.0.1 d3sbxpiag177w8.cloudfront.net
 127.0.0.1 d3v27wwd40f0xu.cloudfront.net
+127.0.0.1 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 127.0.0.1 d9hhrg4mnvzow.cloudfront.net
 127.0.0.1 d.adroll.com
 127.0.0.1 d.adtriba.com
@@ -565,6 +574,7 @@
 127.0.0.1 data2.gosquared.com
 127.0.0.1 data35.adlooxtracking.com
 127.0.0.1 data37.adlooxtracking.com
+127.0.0.1 data62.adlooxtracking.com
 127.0.0.1 data.adsrvr.org
 127.0.0.1 data.alexa.com
 127.0.0.1 data.appexnw.com
@@ -669,6 +679,7 @@
 127.0.0.1 eqx.smartadserver.com
 127.0.0.1 eqx-tmk-geoloc.smartadserver.com
 127.0.0.1 errors.client.optimizely.com
+127.0.0.1 es-sunicontent.videoplaza.tv
 127.0.0.1 etahub.com
 127.0.0.1 etl.tindersparks.com
 127.0.0.1 eu-aa.online-metrix.net
@@ -802,6 +813,7 @@
 127.0.0.1 hp.myway.com
 127.0.0.1 hubt.pornhub.com
 127.0.0.1 hw-cdn.trafficjunky.net
+127.0.0.1 i2.createsend1.com
 127.0.0.1 ia601507.us.archive.org
 127.0.0.1 iad-2-sync.go.sonobi.com
 127.0.0.1 iadsdk.apple.com
@@ -835,6 +847,7 @@
 127.0.0.1 images.taboola.com
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img1.blogblog.com
+127.0.0.1 img.alibaba.com
 127.0.0.1 img.applovin.com
 127.0.0.1 img.en25.com
 127.0.0.1 imggprx.mgid.com
@@ -907,7 +920,9 @@
 127.0.0.1 lnkd.demdex.net
 127.0.0.1 load77.exelator.com
 127.0.0.1 loadeu.exelator.com
+127.0.0.1 load.instinctiveads.com
 127.0.0.1 loadm.exelator.com
+127.0.0.1 loadr.exelator.com
 127.0.0.1 load.sumome.com
 127.0.0.1 loadus.exelator.com
 127.0.0.1 loadus.tm.ssl.exelator.com
@@ -915,6 +930,7 @@
 127.0.0.1 log.adaptv.advertising.com
 127.0.0.1 log.dmtry.com
 127.0.0.1 logging.carambo.la
+127.0.0.1 log.mmstat.com
 127.0.0.1 log.olark.com
 127.0.0.1 log.outbrainimg.com
 127.0.0.1 log.pinterest.com
@@ -923,6 +939,7 @@
 127.0.0.1 logs1125.xiti.com
 127.0.0.1 logs1406.xiti.com
 127.0.0.1 logs.dashlane.com
+127.0.0.1 log.tagcade.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 loopme.me
 127.0.0.1 lptag.liveperson.net
@@ -947,6 +964,7 @@
 127.0.0.1 manifest.localytics.com
 127.0.0.1 mantodea.mantisadnetwork.com
 127.0.0.1 map.media6degrees.com
+127.0.0.1 marketing.alibaba.com
 127.0.0.1 marketing.criteo.com
 127.0.0.1 marriott.btttag.com
 127.0.0.1 mastertag.effiliation.com
@@ -1010,6 +1028,7 @@
 127.0.0.1 o2.mouseflow.com
 127.0.0.1 ocsp.sca1b.amazontrust.com
 127.0.0.1 odb.outbrain.com
+127.0.0.1 offer.alibaba.com
 127.0.0.1 okt.to
 127.0.0.1 ol.uk.at.atwola.com
 127.0.0.1 om.cbsi.com
@@ -1145,6 +1164,7 @@
 127.0.0.1 px.dynamicyield.com
 127.0.0.1 px-eu.adhigh.net
 127.0.0.1 pxl.connexity.net
+127.0.0.1 pxl.jivox.com
 127.0.0.1 px.moatads.com
 127.0.0.1 px.owneriq.net
 127.0.0.1 px.steelhousemedia.com
@@ -1202,7 +1222,9 @@
 127.0.0.1 rtb.adentifi.com
 127.0.0.1 rtb.adgrx.com
 127.0.0.1 rtbcdn.doubleverify.com
+127.0.0.1 rtb.connatix.com
 127.0.0.1 rtb-csync.smartadserver.com
+127.0.0.1 rtb.geodns.tubemogul.com
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtb.mfadsrvr.com
 127.0.0.1 rtb.openx.net
@@ -1265,6 +1287,7 @@
 127.0.0.1 secure-gg.imrworldwide.com
 127.0.0.1 secure-gl.imrworldwide.com
 127.0.0.1 secure.gravatar.com
+127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 secure.insightexpressai.com
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 securemetrics.apple.com
@@ -1351,6 +1374,7 @@
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 stas.outbrain.com
+127.0.0.1 stat.alibaba.com
 127.0.0.1 statcounter.com
 127.0.0.1 stat.dealtime.com
 127.0.0.1 stat.flashtalking.com
@@ -1389,9 +1413,11 @@
 127.0.0.1 stats.g.doubleclick.net
 127.0.0.1 stats.l.doubleclick.net
 127.0.0.1 stats.merriam-webster.com
+127.0.0.1 stats.mezzobit.com
 127.0.0.1 stats.mos.ru
 127.0.0.1 stats.pagefair.com
 127.0.0.1 stats.pusher.com
+127.0.0.1 stats.tubemogul.com
 127.0.0.1 stats.wordpress.com
 127.0.0.1 stats.wp.com
 127.0.0.1 stats.zotabox.com
@@ -1400,6 +1426,7 @@
 127.0.0.1 s.thebrighttag.com
 127.0.0.1 storage.googleapis.com
 127.0.0.1 streamamp-d.openx.net
+127.0.0.1 s.tribalfusion.com
 127.0.0.1 strips.vidible.tv
 127.0.0.1 studio-t.teads.tv
 127.0.0.1 su.addthis.com
@@ -1468,6 +1495,7 @@
 127.0.0.1 telemetry.soundcloud.com
 127.0.0.1 tg.socdm.com
 127.0.0.1 theadex.com
+127.0.0.1 thechive-d.openx.net
 127.0.0.1 thrtle.com
 127.0.0.1 time.izatcloud.net
 127.0.0.1 ti.tradetracker.net
@@ -1649,6 +1677,7 @@
 127.0.0.1 www.ad4mat.de
 127.0.0.1 www.addthis.com
 127.0.0.1 www.addtoany.com
+127.0.0.1 www.adobetag.com
 127.0.0.1 www.adtilt.com
 127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.a.shifen.com
@@ -1670,6 +1699,7 @@
 127.0.0.1 www.dwin2.com
 127.0.0.1 www.econda-monitor.de
 127.0.0.1 www.etracker.de
+127.0.0.1 www.everestjs.net
 127.0.0.1 www.fastcounter.de
 127.0.0.1 www.fullstory.com
 127.0.0.1 www.googleadservices.com
@@ -1686,7 +1716,9 @@
 127.0.0.1 www.linkwithin.com
 127.0.0.1 www.nexus.ensighten.com
 127.0.0.1 www.ojrq.net
+127.0.0.1 www.outbrain.com
 127.0.0.1 www.qualcomm.cn
+127.0.0.1 www.quantcast.com
 127.0.0.1 www.ranking-hits.de
 127.0.0.1 www.refersion.com
 127.0.0.1 www.res-x.com
