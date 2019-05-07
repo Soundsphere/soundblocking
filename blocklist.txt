@@ -399,6 +399,7 @@
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 cc.zeit.de
 127.0.0.1 cdata.carambo.la
+127.0.0.1 cdn11.contentabc.com
 127.0.0.1 cdn1.ads.contentabc.com
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 cdn2.hubspot.net
@@ -920,6 +921,7 @@
 127.0.0.1 idt.id-news.net
 127.0.0.1 ie8eamus.com
 127.0.0.1 ih.adscale.de
+127.0.0.1 ikea.de
 127.0.0.1 i.kissmetrics.com
 127.0.0.1 ilead.itrack.it
 127.0.0.1 i.liadm.com
@@ -1088,11 +1090,13 @@
 127.0.0.1 mcdp-nydc1.outbrain.com
 127.0.0.1 mc.webvisor.org
 127.0.0.1 mc.yandex.ru
+127.0.0.1 media.admob.com
 127.0.0.1 media.carambo.la
 127.0.0.1 media-lax1.inq.com
 127.0.0.1 media.licdn.com
 127.0.0.1 medianet-match.dotomi.com
 127.0.0.1 mediator.mail.ru
+127.0.0.1 media.trafficjunky.net
 127.0.0.1 metrics.api.drift.com
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.gfycat.com
@@ -1276,6 +1280,7 @@
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.smartertravel.com
 127.0.0.1 p.t-online.de
+127.0.0.1 p.twitter.com
 127.0.0.1 p.typekit.net
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 pubmatic2waycm-atl.netmng.com
@@ -1297,6 +1302,7 @@
 127.0.0.1 px.spiceworks.com
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 px.wa.ui-portal.de
+127.0.0.1 px.wayfair.com
 127.0.0.1 q.adrta.com
 127.0.0.1 q.quora.com
 127.0.0.1 quantcast584928381.s.moatpixel.com
@@ -1454,6 +1460,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.luckyorange.net
 127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 s.go-mpulse.net
 127.0.0.1 s.gravatar.com
 127.0.0.1 shared.iad.appboy.com
 127.0.0.1 share.yandex.ru
