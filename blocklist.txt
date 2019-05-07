@@ -2,6 +2,7 @@
 127.0.0.1 1364.tm.zedo.com
 127.0.0.1 15.taboola.com
 127.0.0.1 194792.engine.mobileapptracking.com
+127.0.0.1 1-edge-chat.facebook.com
 127.0.0.1 2-01-2a40-0017.cdx.cdxcn.net
 127.0.0.1 2507573.fls.doubleclick.net
 127.0.0.1 2542116.fls.doubleclick.net
@@ -20,6 +21,7 @@
 127.0.0.1 883205.fls.doubleclick.net
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a2150.casalemedia.com
+127.0.0.1 a2220.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
 127.0.0.1 a3281.casalemedia.com
 127.0.0.1 a3290.casalemedia.com
@@ -130,6 +132,7 @@
 127.0.0.1 adtm.chip.de
 127.0.0.1 adtrack.adleadevent.com
 127.0.0.1 adtrackers.net
+127.0.0.1 adtr.io
 127.0.0.1 ad.turn.com
 127.0.0.1 adventori.com
 127.0.0.1 advertise.bingads.microsoft.com
@@ -305,6 +308,7 @@
 127.0.0.1 b.aol.com
 127.0.0.1 b-api.facebook.com
 127.0.0.1 bat.bing.com
+127.0.0.1 bats.video.yahoo.com
 127.0.0.1 bbcdn-bbnaut.ibillboard.com
 127.0.0.1 bcb-beacon-nr.rubiconproject.com
 127.0.0.1 bcp.crwdcntrl.net
@@ -420,6 +424,8 @@
 127.0.0.1 cdn.mxpnl.com
 127.0.0.1 cdn.nativendo.de
 127.0.0.1 cdn.niche.videosz.com
+127.0.0.1 cdn.oas-eu1.adnxs.com
+127.0.0.1 cdn.onenote.net
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.onthe.io
 127.0.0.1 cdn.permutive.com
@@ -459,6 +465,7 @@
 127.0.0.1 cds.j3z9t3p6.hwcdn.net
 127.0.0.1 ced.sascdn.com
 127.0.0.1 ce.lijit.com
+127.0.0.1 cenome.nanovisor.io
 127.0.0.1 centro.pixel.ad
 127.0.0.1 certify.alexametrics.com
 127.0.0.1 c.evidon.com
@@ -538,6 +545,7 @@
 127.0.0.1 creativecdn.com
 127.0.0.1 creative.metalyzer.com
 127.0.0.1 criteo-sync.teads.tv
+127.0.0.1 cs9.wac.phicdn.net
 127.0.0.1 cs.adingo.jp
 127.0.0.1 csi.gstatic.com
 127.0.0.1 cs.media.net
@@ -610,6 +618,7 @@
 127.0.0.1 dd6zx4ibq538k.cloudfront.net
 127.0.0.1 de.ads.justpremium.com
 127.0.0.1 decide.mixpanel.com
+127.0.0.1 deezer.com
 127.0.0.1 de-gmtdmp.mookie1.com
 127.0.0.1 de.ioam.de
 127.0.0.1 delivery.content-recommendation.net
@@ -759,6 +768,7 @@
 127.0.0.1 freegeoip.io
 127.0.0.1 frog.wix.com
 127.0.0.1 front.optimonk.com
+127.0.0.1 fs.microsoft.com
 127.0.0.1 fusionads.net
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 fwapi.adsafeprotected.com
@@ -876,6 +886,7 @@
 127.0.0.1 img.en25.com
 127.0.0.1 imggprx.mgid.com
 127.0.0.1 img.metaffiliation.com
+127.0.0.1 img.web.de
 127.0.0.1 imprammp.taboola.com
 127.0.0.1 impression.appsflyer.com
 127.0.0.1 imstore.bet365affiliates.com
@@ -954,6 +965,7 @@
 127.0.0.1 location.services.mozilla.com
 127.0.0.1 log.adaptv.advertising.com
 127.0.0.1 log.dmtry.com
+127.0.0.1 log.fc.yahoo.com
 127.0.0.1 logging.carambo.la
 127.0.0.1 log.mmstat.com
 127.0.0.1 log.olark.com
@@ -1059,6 +1071,7 @@
 127.0.0.1 okt.to
 127.0.0.1 ol.uk.at.atwola.com
 127.0.0.1 om.cbsi.com
+127.0.0.1 omns.americanexpress.com
 127.0.0.1 oms.nuggad.net
 127.0.0.1 oneadvertising-d.openx.net
 127.0.0.1 oneclient.sfx.ms
@@ -1072,9 +1085,11 @@
 127.0.0.1 openx2-match.dotomi.com
 127.0.0.1 opps.taboola.com
 127.0.0.1 optimized-by.rubiconproject.com
+127.0.0.1 optimized-by.rubiconproject.net.akadns.net
 127.0.0.1 optimize.innity.com
 127.0.0.1 optimize-stats.voxmedia.com
 127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 o.ss2.us
 127.0.0.1 otf.msn.com
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 pagead1.googlesyndication.com
@@ -1144,6 +1159,7 @@
 127.0.0.1 platform.linkedin.com
 127.0.0.1 platform.tumblr.com
 127.0.0.1 platform.twitter.com
+127.0.0.1 player.performgroup.com
 127.0.0.1 player.spoods.io
 127.0.0.1 plugin.mediavoice.com
 127.0.0.1 pluralsight.hb.omtrdc.net
@@ -1169,6 +1185,7 @@
 127.0.0.1 p.rfihub.com
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 privymktg.com
+127.0.0.1 probe.yieldlab.net
 127.0.0.1 profile-api-prod-elb.53.localytics.com
 127.0.0.1 profile.localytics.com
 127.0.0.1 pro.hit.gemius.pl
@@ -1240,6 +1257,7 @@
 127.0.0.1 rollbar.com
 127.0.0.1 route.carambo.la
 127.0.0.1 router.infolinks.com
+127.0.0.1 rover.ebay.com
 127.0.0.1 rpt.cedexis.com
 127.0.0.1 rpxnow.com
 127.0.0.1 r.remarketingpixel.com
@@ -1286,6 +1304,8 @@
 127.0.0.1 salesforcecom.demdex.net
 127.0.0.1 sales.liveperson.net
 127.0.0.1 salesviewer.org
+127.0.0.1 sa.scorecardresearch.com
+127.0.0.1 sb.l.google.com
 127.0.0.1 sb.monetate.net
 127.0.0.1 sbnationbidder-d.openx.net
 127.0.0.1 sb.scorecardresearch.com
@@ -1319,6 +1339,7 @@
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 secure.eloqua.com
 127.0.0.1 secure-eu.imrworldwide.com
+127.0.0.1 secure.footprint.net
 127.0.0.1 secure-gg.imrworldwide.com
 127.0.0.1 secure-gl.imrworldwide.com
 127.0.0.1 secure.gravatar.com
@@ -1347,6 +1368,7 @@
 127.0.0.1 settings.crashlytics.com
 127.0.0.1 settings.luckyorange.net
 127.0.0.1 settings-win.data.microsoft.com
+127.0.0.1 s.gravatar.com
 127.0.0.1 shared.iad.appboy.com
 127.0.0.1 share.yandex.ru
 127.0.0.1 shavar.services.mozilla.com
@@ -1424,6 +1446,7 @@
 127.0.0.1 static-bp.kameleoon.com
 127.0.0.1 static.chartbeat.com
 127.0.0.1 static.clicktripz.com
+127.0.0.1 static.clmbtech.com
 127.0.0.1 static.criteo.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static-de.plista.com
@@ -1567,6 +1590,7 @@
 127.0.0.1 trackbar.navigator.web.de
 127.0.0.1 track.celtra.com
 127.0.0.1 trackcmp.net
+127.0.0.1 track.cordial.io
 127.0.0.1 track.customer.io
 127.0.0.1 track.custora.com
 127.0.0.1 tracker.marinsm.com
@@ -1587,9 +1611,11 @@
 127.0.0.1 tracking.mlsat02.de
 127.0.0.1 tracking.musixmatch.com
 127.0.0.1 tracking.omnitagjs.com
+127.0.0.1 tracking.s24.com
 127.0.0.1 tracking.searchmarketing.com
 127.0.0.1 tracking.vcommission.com
 127.0.0.1 track.mailerlite.com
+127.0.0.1 track.thesaurus.com
 127.0.0.1 track.webgains.com
 127.0.0.1 tradeassurance.alibaba.com
 127.0.0.1 traffective-d.openx.net
@@ -1607,6 +1633,7 @@
 127.0.0.1 tr.outbrain.com
 127.0.0.1 tr.snapchat.com
 127.0.0.1 try.abtasty.com
+127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
 127.0.0.1 t.sharethis.com
 127.0.0.1 t.skimresources.com
 127.0.0.1 t.svtrd.com
@@ -1664,6 +1691,7 @@
 127.0.0.1 video-ads.rubiconproject.com
 127.0.0.1 video.oms.eu
 127.0.0.1 video.unrulymedia.com
+127.0.0.1 video.xx.fbcdn.net
 127.0.0.1 vidstatb.taboola.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 vidutils.taboola.com
@@ -1764,6 +1792,7 @@
 127.0.0.1 www.nexus.ensighten.com
 127.0.0.1 www.ojrq.net
 127.0.0.1 www.outbrain.com
+127.0.0.1 www.pinterest.com
 127.0.0.1 www.qualcomm.cn
 127.0.0.1 www.quantcast.com
 127.0.0.1 www.ranking-hits.de
@@ -1774,6 +1803,7 @@
 127.0.0.1 www.snapengage.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.summerhamster.com
+127.0.0.1 www.tumblr.com
 127.0.0.1 www.unbounce.com
 127.0.0.1 www.usefomo.com
 127.0.0.1 www.usemax.de
