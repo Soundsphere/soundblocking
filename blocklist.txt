@@ -156,6 +156,7 @@
 127.0.0.1 aktrack.pubmatic.com
 127.0.0.1 alb.reddit.com
 127.0.0.1 a.ligatus.com
+127.0.0.1 alogs.umeng.com
 127.0.0.1 altfarm.mediaplex.com
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 a.mobify.com
@@ -223,6 +224,7 @@
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.sec.miui.com
 127.0.0.1 api.segment.io
+127.0.0.1 api.taboola.com
 127.0.0.1 api.tr.blismedia.com
 127.0.0.1 api.usebutton.com
 127.0.0.1 api.vanilla.futurecdn.net
@@ -248,9 +250,11 @@
 127.0.0.1 app-sj02.marketo.com
 127.0.0.1 app-sj09.marketo.com
 127.0.0.1 app.yieldify.com
+127.0.0.1 apvdr.com
 127.0.0.1 apx.moatads.com
 127.0.0.1 arc.msn.com
 127.0.0.1 a.rfihub.com
+127.0.0.1 as.gettyservices.com
 127.0.0.1 asimov-win.settings.data.microsoft.com.akadns.net
 127.0.0.1 as.innity.com
 127.0.0.1 asn.advolution.de
@@ -278,6 +282,7 @@
 127.0.0.1 az1.qualtrics.com
 127.0.0.1 az416426.vo.msecnd.net
 127.0.0.1 b1sync.zemanta.com
+127.0.0.1 b97.yahoo.co.jp
 127.0.0.1 backstage.taboola.com
 127.0.0.1 badge.facebook.com
 127.0.0.1 badges.instagram.com
@@ -290,6 +295,7 @@
 127.0.0.1 bat.bing.com
 127.0.0.1 bbcdn-bbnaut.ibillboard.com
 127.0.0.1 bcb-beacon-nr.rubiconproject.com
+127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bea4.v.fwmrm.net
 127.0.0.1 beacon.errorception.com
 127.0.0.1 beacon-eu2.rubiconproject.com
@@ -496,6 +502,7 @@
 127.0.0.1 convammp.taboola.com
 127.0.0.1 conv.tubemogul.com
 127.0.0.1 cookie.brealtime.com
+127.0.0.1 cookie-matching.mediarithmics.com
 127.0.0.1 cookiesync.vertamedia.com
 127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.yadro.ru
@@ -552,6 +559,7 @@
 127.0.0.1 d.applvn.com
 127.0.0.1 dart.l.doubleclick.net
 127.0.0.1 data01.adlooxtracking.com
+127.0.0.1 data02.adlooxtracking.com
 127.0.0.1 data09.adlooxtracking.com
 127.0.0.1 data27.adlooxtracking.com
 127.0.0.1 data2.gosquared.com
@@ -612,6 +620,7 @@
 127.0.0.1 dmp.theadex.com
 127.0.0.1 d.nativendo.de
 127.0.0.1 dnn506yrbagrg.cloudfront.net
+127.0.0.1 domains.googlesyndication.com
 127.0.0.1 doug1izaerwt3.cloudfront.net
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dp-sync.dotomi.com
@@ -649,6 +658,7 @@
 127.0.0.1 ee.hit.gemius.pl
 127.0.0.1 eldamar02-loadbalanced.kameleoon.com
 127.0.0.1 eldamar03-loadbalanced.kameleoon.com
+127.0.0.1 eldamar04-loadbalanced.kameleoon.com
 127.0.0.1 embed.tawk.to
 127.0.0.1 e.nexac.com
 127.0.0.1 engage.commander1.com
@@ -683,6 +693,7 @@
 127.0.0.1 events.privy.com
 127.0.0.1 events.redditmedia.co
 127.0.0.1 events.redditmedia.com
+127.0.0.1 evt.klarna.com
 127.0.0.1 exch.quantcount.com
 127.0.0.1 exch.quantserve.com
 127.0.0.1 expedia.com.ssl.d1.sc.omtrdc.net
@@ -758,6 +769,7 @@
 127.0.0.1 googlesyndication.com
 127.0.0.1 go.onelink.me
 127.0.0.1 go.pardot.com
+127.0.0.1 graph.accountkit.com
 127.0.0.1 graph.facebook.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 green.erne.co
@@ -787,6 +799,7 @@
 127.0.0.1 h.nexac.com
 127.0.0.1 hn.inspectlet.com
 127.0.0.1 h.online-metrix.net
+127.0.0.1 hp.myway.com
 127.0.0.1 hubt.pornhub.com
 127.0.0.1 hw-cdn.trafficjunky.net
 127.0.0.1 ia601507.us.archive.org
@@ -824,6 +837,7 @@
 127.0.0.1 img1.blogblog.com
 127.0.0.1 img.applovin.com
 127.0.0.1 img.en25.com
+127.0.0.1 imggprx.mgid.com
 127.0.0.1 img.metaffiliation.com
 127.0.0.1 imprammp.taboola.com
 127.0.0.1 impression.appsflyer.com
@@ -841,6 +855,7 @@
 127.0.0.1 insitez.blob.core.windows.net
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ioam.de
+127.0.0.1 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 127.0.0.1 ir2.beap.gemini.yahoo.com
 127.0.0.1 ir-conductor.clicktale.net
 127.0.0.1 ir-de.amazon-adsystem.com
@@ -1012,6 +1027,7 @@
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 optimize.innity.com
 127.0.0.1 optimize-stats.voxmedia.com
+127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 otf.msn.com
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 pagead1.googlesyndication.com
@@ -1026,6 +1042,7 @@
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 partners.webmasterplan.com
 127.0.0.1 pb.adriver.ru
+127.0.0.1 p.bm23.com
 127.0.0.1 p.cpx.to
 127.0.0.1 pentos-cdn.polarmobile.com
 127.0.0.1 perf.logsss.com
@@ -1118,6 +1135,7 @@
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 pubmatic2waycm-atl.netmng.com
 127.0.0.1 pubmatic-match.dotomi.com
+127.0.0.1 pubmatic-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 pugm22000nf.pubmatic.com
 127.0.0.1 push-notifications.top
 127.0.0.1 p.vtracy.de
@@ -1154,6 +1172,7 @@
 127.0.0.1 referrer.disqus.com
 127.0.0.1 relap.io
 127.0.0.1 rem-track.bild.de
+127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 reporting.aatkit.com
 127.0.0.1 reports.crashlytics.com
 127.0.0.1 resolver.gslb.mi-idc.com
@@ -1362,6 +1381,7 @@
 127.0.0.1 static.yieldmo.com
 127.0.0.1 stat.radar.imgsmail.ru
 127.0.0.1 stats3.unrulymedia.com
+127.0.0.1 stats.aws.rubiconproject.com
 127.0.0.1 stats.bannersnack.com
 127.0.0.1 stats.buysellads.com
 127.0.0.1 stats.computecmedia.de
@@ -1381,6 +1401,7 @@
 127.0.0.1 storage.googleapis.com
 127.0.0.1 streamamp-d.openx.net
 127.0.0.1 strips.vidible.tv
+127.0.0.1 studio-t.teads.tv
 127.0.0.1 su.addthis.com
 127.0.0.1 s.update.adsrvr.org
 127.0.0.1 s.update.indexww.com
@@ -1629,9 +1650,11 @@
 127.0.0.1 www.addthis.com
 127.0.0.1 www.addtoany.com
 127.0.0.1 www.adtilt.com
+127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.a.shifen.com
 127.0.0.1 www.assoc-amazon.com
 127.0.0.1 www.assoc-amazon.de
+127.0.0.1 www.audiencemanager.de
 127.0.0.1 www.autopilothq.com
 127.0.0.1 www.avantlink.com
 127.0.0.1 www.barilliance.net
@@ -1701,25 +1724,3 @@
 127.0.0.1 zoover.adtrackers.net
 127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 z-p4.graph.instagram.com
-127.0.0.1 domains.googlesyndication.com
-127.0.0.1 report.appmetrica.yandex.net
-127.0.0.1 graph.accountkit.com
-127.0.0.1 b97.yahoo.co.jp
-127.0.0.1 alogs.umeng.com
-127.0.0.1 bcp.crwdcntrl.net
-127.0.0.1 evt.klarna.com
-127.0.0.1 hp.myway.com
-127.0.0.1 studio-t.teads.tv
-127.0.0.1 as.gettyservices.com
-127.0.0.1 p.bm23.com
-127.0.0.1 api.taboola.com
-127.0.0.1 cookie-matching.mediarithmics.com
-127.0.0.1 iqdigitalmediamarketinggmbh.sc.omtrdc.net
-127.0.0.1 www.audiencemanager.de
-127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
-127.0.0.1 imggprx.mgid.com
-127.0.0.1 www.anrdoezrs.net
-127.0.0.1 pubmatic-winners-eu-west-1-rtb.adroll.com
-127.0.0.1 apvdr.com
-127.0.0.1 stats.aws.rubiconproject.com
-127.0.0.1 data02.adlooxtracking.com
