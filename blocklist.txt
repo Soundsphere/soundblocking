@@ -3,6 +3,7 @@
 127.0.0.1 15.taboola.com
 127.0.0.1 194792.engine.mobileapptracking.com
 127.0.0.1 1-edge-chat.facebook.com
+127.0.0.1 1f2e7.v.fwmrm.net
 127.0.0.1 2-01-2a40-0017.cdx.cdxcn.net
 127.0.0.1 2507573.fls.doubleclick.net
 127.0.0.1 2542116.fls.doubleclick.net
@@ -12,6 +13,8 @@
 127.0.0.1 4228414.fls.doubleclick.net
 127.0.0.1 4898337.fls.doubleclick.net
 127.0.0.1 4.bp.blogspot.com
+127.0.0.1 4-edge-chat.facebook.com
+127.0.0.1 5290727.fls.doubleclick.net
 127.0.0.1 5994599.fls.doubleclick.net
 127.0.0.1 5-edge-chat.facebook.com
 127.0.0.1 6144643.fls.doubleclick.net
@@ -20,6 +23,7 @@
 127.0.0.1 882-nzg-493.mktoresp.com
 127.0.0.1 883205.fls.doubleclick.net
 127.0.0.1 a-0001.a-msedge.net
+127.0.0.1 a-0003.a-msedge.net
 127.0.0.1 a2150.casalemedia.com
 127.0.0.1 a2220.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
@@ -169,6 +173,8 @@
 127.0.0.1 alog.umeng.com
 127.0.0.1 altfarm.mediaplex.com
 127.0.0.1 amazon-adsystem.com
+127.0.0.1 amazon.ca
+127.0.0.1 amazon.co.jp
 127.0.0.1 a.mobify.com
 127.0.0.1 amplify-imp.outbrain.com
 127.0.0.1 amplify.outbrain.com
@@ -198,6 +204,7 @@
 127.0.0.1 analytics.freespee.com
 127.0.0.1 analytics.localytics.com
 127.0.0.1 analytics.mailmunch.co
+127.0.0.1 analytics.mobile.walmart.com
 127.0.0.1 analytics.ooyala.com
 127.0.0.1 analytics.pokki.com
 127.0.0.1 analytics.query.yahoo.com
@@ -227,6 +234,8 @@
 127.0.0.1 api.instabug.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
+127.0.0.1 api.monetizer101.com
+127.0.0.1 api.nextgen.guardianapps.co.uk
 127.0.0.1 api.permutive.com
 127.0.0.1 api.primecaster.net
 127.0.0.1 api.privy.com
@@ -236,6 +245,7 @@
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.sec.miui.com
 127.0.0.1 api.segment.io
+127.0.0.1 api.similarweb.com
 127.0.0.1 api.taboola.com
 127.0.0.1 api.tr.blismedia.com
 127.0.0.1 api.usebutton.com
@@ -263,6 +273,7 @@
 127.0.0.1 app-sj02.marketo.com
 127.0.0.1 app-sj09.marketo.com
 127.0.0.1 app.yieldify.com
+127.0.0.1 a.pub.network
 127.0.0.1 apvdr.com
 127.0.0.1 apx.moatads.com
 127.0.0.1 arc.msn.com
@@ -274,6 +285,7 @@
 127.0.0.1 asoscomltd.tt.omtrdc.net
 127.0.0.1 as-sec.casalemedia.com
 127.0.0.1 assets.adobedtm.com
+127.0.0.1 assets.adstage.io
 127.0.0.1 assets-jpcust.jwpsrv.com
 127.0.0.1 assets.pinterest.com
 127.0.0.1 assets.privy.com
@@ -293,6 +305,7 @@
 127.0.0.1 a.volvelle.tech
 127.0.0.1 axdget-sync.nuggad.net
 127.0.0.1 axel-springer-d.openx.net
+127.0.0.1 ayads.co
 127.0.0.1 az1.qualtrics.com
 127.0.0.1 az416426.vo.msecnd.net
 127.0.0.1 b1sync.zemanta.com
@@ -323,6 +336,7 @@
 127.0.0.1 beacon.walmart.com
 127.0.0.1 beap1.cb.g01.yahoodns.net
 127.0.0.1 beap-bc.yahoo.com
+127.0.0.1 bei.nuggad.net
 127.0.0.1 b-graph.facebook.com
 127.0.0.1 bh.contextweb.com
 127.0.0.1 bia.brightinfo.com
@@ -389,6 +403,7 @@
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
 127.0.0.1 cdn.avocet.io
+127.0.0.1 cdnaws.mobidea.com
 127.0.0.1 cdn-a.yieldlove.com
 127.0.0.1 cdn.bestcheck.de
 127.0.0.1 cdn.bizible.com
@@ -463,6 +478,7 @@
 127.0.0.1 cdn.zarget.com
 127.0.0.1 cdn.zopim.com
 127.0.0.1 cds.j3z9t3p6.hwcdn.net
+127.0.0.1 cds.s5x3j6q5.hwcdn.net
 127.0.0.1 ced.sascdn.com
 127.0.0.1 ce.lijit.com
 127.0.0.1 cenome.nanovisor.io
@@ -470,6 +486,7 @@
 127.0.0.1 certify.alexametrics.com
 127.0.0.1 c.evidon.com
 127.0.0.1 c.go-mpulse.net
+127.0.0.1 c.gumgum.com
 127.0.0.1 chartbeat.com
 127.0.0.1 chimpstatic.com
 127.0.0.1 choices.trustarc.com
@@ -501,6 +518,7 @@
 127.0.0.1 code.etracker.com
 127.0.0.1 codefund.app
 127.0.0.1 col.eum-appdynamics.com
+127.0.0.1 collect.albacross.com
 127.0.0.1 collect-eu-central-1.tealiumiq.com
 127.0.0.1 collector-cdn.github.com
 127.0.0.1 collector.githubapp.com
@@ -569,6 +587,7 @@
 127.0.0.1 d24v0qfgxmmkdg.cloudfront.net
 127.0.0.1 d29usylhdk1xyu.cloudfront.net
 127.0.0.1 d2dq2ahtl5zl1z.cloudfront.net
+127.0.0.1 d2k03kvdk5cku0.cloudfront.net
 127.0.0.1 d2oh4tlt9mrke9.cloudfront.net
 127.0.0.1 d2wy8f7a9ursnm.cloudfront.net
 127.0.0.1 d2xxq4ijfwetlm.cloudfront.net
@@ -629,12 +648,14 @@
 127.0.0.1 deref-gmx.net
 127.0.0.1 des.smartclip.net
 127.0.0.1 dev.appboy.com
+127.0.0.1 developers.facebook.com
 127.0.0.1 device-api.urbanairship.com
 127.0.0.1 device-metrics-us-2.amazon.com
 127.0.0.1 device-metrics-us.amazon.com
 127.0.0.1 dev.visualwebsiteoptimizer.com
 127.0.0.1 dh.serving-sys.com
 127.0.0.1 diapi.webgains.com
+127.0.0.1 diff.smartadserver.com
 127.0.0.1 d.impactradius-event.com
 127.0.0.1 di.rlcdn.com
 127.0.0.1 dis.criteo.com
@@ -691,7 +712,9 @@
 127.0.0.1 edatasales.com
 127.0.0.1 edge-chat.facebook.com
 127.0.0.1 e.dlx.addthis.com
+127.0.0.1 ee.adocean.pl
 127.0.0.1 ee.hit.gemius.pl
+127.0.0.1 eldamar01-loadbalanced.kameleoon.com
 127.0.0.1 eldamar02-loadbalanced.kameleoon.com
 127.0.0.1 eldamar03-loadbalanced.kameleoon.com
 127.0.0.1 eldamar04-loadbalanced.kameleoon.com
@@ -765,6 +788,7 @@
 127.0.0.1 fp.msedge.net
 127.0.0.1 fptadtrue-d.openx.net
 127.0.0.1 fra1-ib.adnxs.com
+127.0.0.1 franecki.net
 127.0.0.1 freegeoip.io
 127.0.0.1 frog.wix.com
 127.0.0.1 front.optimonk.com
@@ -772,6 +796,7 @@
 127.0.0.1 fusionads.net
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 fwapi.adsafeprotected.com
+127.0.0.1 g17.v.fwmrm.net
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g.3gl.net
 127.0.0.1 g3.s.fwmrm.net
@@ -810,6 +835,7 @@
 127.0.0.1 googlesyndication.com
 127.0.0.1 go.onelink.me
 127.0.0.1 go.pardot.com
+127.0.0.1 grammarly.go2cloud.org
 127.0.0.1 graph.accountkit.com
 127.0.0.1 graph.facebook.com
 127.0.0.1 graph.instagram.com
@@ -823,6 +849,7 @@
 127.0.0.1 gurgle.zdbb.net
 127.0.0.1 ha-api.pushwoosh.com
 127.0.0.1 hal9000.redintelligence.net
+127.0.0.1 halc.iadvize.com
 127.0.0.1 happyunicorns.gutefrage.net
 127.0.0.1 hb-api.omnitagjs.com
 127.0.0.1 hbevents.1rx.io
@@ -886,9 +913,11 @@
 127.0.0.1 img.en25.com
 127.0.0.1 imggprx.mgid.com
 127.0.0.1 img.metaffiliation.com
+127.0.0.1 img.mplx.akadns.net
 127.0.0.1 img.web.de
 127.0.0.1 imprammp.taboola.com
 127.0.0.1 impression.appsflyer.com
+127.0.0.1 impr.taboola.com
 127.0.0.1 imstore.bet365affiliates.com
 127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 index-winners-eu-west-1-rtb.adroll.com
@@ -904,6 +933,7 @@
 127.0.0.1 inspection.alibaba.com
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ioam.de
+127.0.0.1 ios.bugly.qq.com
 127.0.0.1 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 127.0.0.1 ir2.beap.gemini.yahoo.com
 127.0.0.1 ir-conductor.clicktale.net
@@ -948,6 +978,7 @@
 127.0.0.1 lcs.naver.com
 127.0.0.1 libs.coremetrics.com
 127.0.0.1 libs.outbrain.com
+127.0.0.1 likemore-fe.go.mail.ru
 127.0.0.1 links.services.disqus.com
 127.0.0.1 live.chartboost.com
 127.0.0.1 live.rezync.com
@@ -963,6 +994,7 @@
 127.0.0.1 loadus.exelator.com
 127.0.0.1 loadus.tm.ssl.exelator.com
 127.0.0.1 location.services.mozilla.com
+127.0.0.1 lockerdome.com
 127.0.0.1 log.adaptv.advertising.com
 127.0.0.1 log.dmtry.com
 127.0.0.1 log.fc.yahoo.com
@@ -990,6 +1022,7 @@
 127.0.0.1 m.addthisedge.com
 127.0.0.1 m.adnxs.com
 127.0.0.1 mads.amazon-adsystem.com
+127.0.0.1 mads-eu.amazon.com
 127.0.0.1 magnetic.t.domdex.com
 127.0.0.1 mailderef.web.de
 127.0.0.1 mailfoogae.appspot.com
@@ -1042,9 +1075,11 @@
 127.0.0.1 modern.watson.data.microsoft.com.akadns.net
 127.0.0.1 mpp.vindicosuite.com
 127.0.0.1 mpsnare.iesnare.com
+127.0.0.1 mpx.mopub.com
 127.0.0.1 mscom.demdex.net
 127.0.0.1 m.servedby-buysellads.com
 127.0.0.1 msntrademarketing.112.2o7.net
+127.0.0.1 mwzeom.zeotap.com
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 myfamilycominc.tt.omtrdc.net
 127.0.0.1 my.hellobar.com
@@ -1059,6 +1094,7 @@
 127.0.0.1 nexus.officeapps.live.com
 127.0.0.1 notebooksbilliger02.webtrekk.net
 127.0.0.1 nova.collect.igodigital.com
+127.0.0.1 now.eloqua.com
 127.0.0.1 nqs-nl12-c2.youboranqs01.com
 127.0.0.1 nr.taboola.com
 127.0.0.1 ntvcld-a.akamaihd.net
@@ -1067,6 +1103,7 @@
 127.0.0.1 ocsp.godaddy.com.akadns.net
 127.0.0.1 ocsp.sca1b.amazontrust.com
 127.0.0.1 odb.outbrain.com
+127.0.0.1 odr-1134265115.eu-central-1.elb.amazonaws.com
 127.0.0.1 offer.alibaba.com
 127.0.0.1 okt.to
 127.0.0.1 ol.uk.at.atwola.com
@@ -1121,6 +1158,7 @@
 127.0.0.1 pings.vidpulse.com
 127.0.0.1 pi.pardot.com
 127.0.0.1 pipedream.wistia.com
+127.0.0.1 pipe.skype.com
 127.0.0.1 pippio.com
 127.0.0.1 piwik.up.welt.de
 127.0.0.1 pix.btrll.com
@@ -1165,6 +1203,7 @@
 127.0.0.1 pluralsight.hb.omtrdc.net
 127.0.0.1 pluralsight.tt.omtrdc.net
 127.0.0.1 pm.w55c.net
+127.0.0.1 pnytimes.chartbeat.net
 127.0.0.1 polarcdn-pentos.com
 127.0.0.1 polldaddy.com
 127.0.0.1 pool4.moatads.com
@@ -1188,6 +1227,7 @@
 127.0.0.1 probe.yieldlab.net
 127.0.0.1 profile-api-prod-elb.53.localytics.com
 127.0.0.1 profile.localytics.com
+127.0.0.1 profile.ssp.rambler.ru
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 pro.ip-api.com
 127.0.0.1 prophet.heise.de
@@ -1219,6 +1259,7 @@
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 px.wa.ui-portal.de
 127.0.0.1 q.adrta.com
+127.0.0.1 q.quora.com
 127.0.0.1 quantcast584928381.s.moatpixel.com
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 quantserve.com
@@ -1296,6 +1337,7 @@
 127.0.0.1 s1.adform.net
 127.0.0.1 s290.mxcdn.net
 127.0.0.1 s3.eu-central-1.amazonaws.com
+127.0.0.1 s4.histats.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8.addthis.com
 127.0.0.1 s8t.teads.tv
@@ -1380,6 +1422,7 @@
 127.0.0.1 simage4.pubmatic.com
 127.0.0.1 s.innovid.com
 127.0.0.1 si.nuggad.net
+127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjrtp5.marketo.com
 127.0.0.1 sjrtp8-cdn.marketo.com
@@ -1391,6 +1434,7 @@
 127.0.0.1 smarturl.it
 127.0.0.1 s.media-imdb.com
 127.0.0.1 smetrics.aem.playstation.com
+127.0.0.1 smetrics.cnn.com
 127.0.0.1 smetrics.marriott.com
 127.0.0.1 snigel-d.openx.net
 127.0.0.1 snippets.cdn.mozilla.net
@@ -1404,6 +1448,7 @@
 127.0.0.1 spiegel-de.spiegel.de
 127.0.0.1 spiegel.met.vgwort.de
 127.0.0.1 s.po.st
+127.0.0.1 spot-im-d.openx.net
 127.0.0.1 s.pubmine.com
 127.0.0.1 sqm.telemetry.microsoft.com.nsatc.net
 127.0.0.1 srv.buysellads.com
@@ -1431,6 +1476,7 @@
 127.0.0.1 ssum-sec.casalemedia.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 star.c10r.facebook.com
+127.0.0.1 star.facebook.com
 127.0.0.1 star-mini.c10r.facebook.com
 127.0.0.1 stas.outbrain.com
 127.0.0.1 stat.alibaba.com
@@ -1500,6 +1546,7 @@
 127.0.0.1 supersonicads-a.akamaihd.net
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 s-usweb.dotomi.com
+127.0.0.1 s.webtrends.com
 127.0.0.1 swrap.tradedoubler.com
 127.0.0.1 sy.eu.angsrvr.com
 127.0.0.1 s.yjtag.jp
@@ -1542,6 +1589,7 @@
 127.0.0.1 tag.perfectaudience.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags-cdn.deployads.com
+127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags.mathtag.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tag.yieldoptimizer.com
@@ -1557,6 +1605,7 @@
 127.0.0.1 tdn.r42tag.com
 127.0.0.1 technical-service.net
 127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 telemetry.soundcloud.com
 127.0.0.1 tg.socdm.com
 127.0.0.1 theadex.com
@@ -1601,12 +1650,14 @@
 127.0.0.1 track.hubspot.com
 127.0.0.1 tracking.aatkit.com
 127.0.0.1 tracking.adalliance.io
+127.0.0.1 tracking.content-recommendation.net
 127.0.0.1 tracking.cp.ligatus.com
 127.0.0.1 tracking.g2crowd.com
 127.0.0.1 tracking.gj-mobile-services.de
 127.0.0.1 tracking.immobilienscout24.de
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.m6r.eu
+127.0.0.1 tracking.metalyzer.com
 127.0.0.1 tracking.miui.com
 127.0.0.1 tracking.mlsat02.de
 127.0.0.1 tracking.musixmatch.com
@@ -1645,6 +1696,7 @@
 127.0.0.1 tw.netcore.co.in
 127.0.0.1 udc.yahoo.com
 127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 ugdturner.com
 127.0.0.1 u.heatmap.it
 127.0.0.1 uidbox.uimserv.net
 127.0.0.1 uim.tifbs.net
@@ -1673,6 +1725,7 @@
 127.0.0.1 v10.events.data.microsoft.com
 127.0.0.1 v20.events.data.microsoft.com
 127.0.0.1 v2.zopim.com
+127.0.0.1 v4.moatads.com
 127.0.0.1 vap4ewr1.lijit.com
 127.0.0.1 vap.lijit.com
 127.0.0.1 vars.hotjar.com
@@ -1741,6 +1794,7 @@
 127.0.0.1 ww1097.smartadserver.com
 127.0.0.1 ww251.smartadserver.com
 127.0.0.1 www14.smartadserver.com
+127.0.0.1 www1.belboon.de
 127.0.0.1 www1.mpnrs.com
 127.0.0.1 www.265.com
 127.0.0.1 www2.mpnrs.com
@@ -1754,6 +1808,7 @@
 127.0.0.1 www.addtoany.com
 127.0.0.1 www.adobetag.com
 127.0.0.1 www.adtilt.com
+127.0.0.1 www.alexa.com
 127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.a.shifen.com
 127.0.0.1 www.assoc-amazon.com
@@ -1783,9 +1838,11 @@
 127.0.0.1 www.googletagmanager.com
 127.0.0.1 www-googletagmanager.l.google.com
 127.0.0.1 www.googletagservices.com
+127.0.0.1 www.grab.com
 127.0.0.1 www.hashing.win
 127.0.0.1 www.hitwebcounter.com
 127.0.0.1 www.hlserve.com
+127.0.0.1 www.inskinad.com
 127.0.0.1 www.ist-track.com
 127.0.0.1 www.lduhtrp.net
 127.0.0.1 www.linkwithin.com
@@ -1799,6 +1856,7 @@
 127.0.0.1 www.refersion.com
 127.0.0.1 www.res-x.com
 127.0.0.1 www.roosterfirework.com
+127.0.0.1 www.salesforce.com
 127.0.0.1 www.sdad.guru
 127.0.0.1 www.snapengage.com
 127.0.0.1 www.statcounter.com
@@ -1816,6 +1874,7 @@
 127.0.0.1 x.dlx.addthis.com
 127.0.0.1 x.fidelity-media.com
 127.0.0.1 xlog-va.byteoversea.com
+127.0.0.1 xml.adbetnet.com
 127.0.0.1 xpl.theadex.com
 127.0.0.1 xray.mail.ru
 127.0.0.1 x.skimresources.com
