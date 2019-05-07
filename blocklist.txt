@@ -71,11 +71,13 @@
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 addthis.com
+127.0.0.1 ad.eanalyzer.de
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adespresso.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 adimg.uimserv.net
+127.0.0.1 adlmerge.com
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ad.mail.ru
 127.0.0.1 ad.mediaplex.com
@@ -517,6 +519,7 @@
 127.0.0.1 code.bildstatic.de
 127.0.0.1 code.etracker.com
 127.0.0.1 codefund.app
+127.0.0.1 coinmarketcap.com
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect.albacross.com
 127.0.0.1 collect-eu-central-1.tealiumiq.com
@@ -551,6 +554,7 @@
 127.0.0.1 cookie.brealtime.com
 127.0.0.1 cookie-matching.mediarithmics.com
 127.0.0.1 cookiesync.vertamedia.com
+127.0.0.1 cookiex.ngd.yahoo.com
 127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.yadro.ru
 127.0.0.1 count-server.sharethis.com
@@ -630,6 +634,7 @@
 127.0.0.1 db5.settings.data.microsoft.com.akadns.net
 127.0.0.1 db5.vortex.data.microsoft.com.akadns.net
 127.0.0.1 dc.ads.linkedin.com
+127.0.0.1 dc.banggood.com
 127.0.0.1 dcinfos.abtasty.com
 127.0.0.1 dclk-match.dotomi.com
 127.0.0.1 d.company-target.com
@@ -763,12 +768,14 @@
 127.0.0.1 farm-de.plista.com
 127.0.0.1 farm.plista.com
 127.0.0.1 fast.fonts.net
+127.0.0.1 fastlane-adv.rubiconproject.com
 127.0.0.1 fastlane.rubiconproject.com
 127.0.0.1 fast-nc.appcues.com
 127.0.0.1 fast.skydeutschland.demdex.net
 127.0.0.1 fast.wistia.com
 127.0.0.1 fbc.wcfbc.net
 127.0.0.1 fc03.deviantart.net
+127.0.0.1 fc.webmasterpro.de
 127.0.0.1 fc.yahoo.com
 127.0.0.1 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 127.0.0.1 fei.pro-market.net
@@ -807,6 +814,7 @@
 127.0.0.1 gate.datacaciques.com
 127.0.0.1 gate.hockeyapp.net
 127.0.0.1 gcdn.2mdn.net
+127.0.0.1 gdc.indeed.com
 127.0.0.1 geo2.adobe.com
 127.0.0.1 geoced.smartadserver.com
 127.0.0.1 geolocation.stroeerdp.de
@@ -815,6 +823,7 @@
 127.0.0.1 geo.settings.data.microsoft.com.akadns.net
 127.0.0.1 geo.vortex.data.microsoft.com.akadns.net
 127.0.0.1 geo.yahoo.com
+127.0.0.1 get.mirando.de
 127.0.0.1 getrockerbox.com
 127.0.0.1 g.ezoic.net
 127.0.0.1 gg.google.com
@@ -928,6 +937,7 @@
 127.0.0.1 ink1001.com
 127.0.0.1 in.ml314.com
 127.0.0.1 insight.adsrvr.org
+127.0.0.1 insights.hotjar.com
 127.0.0.1 insights.plista.com
 127.0.0.1 insitez.blob.core.windows.net
 127.0.0.1 inspection.alibaba.com
@@ -977,6 +987,7 @@
 127.0.0.1 lcprd1.samsungcloudsolution.net
 127.0.0.1 lcs.naver.com
 127.0.0.1 libs.coremetrics.com
+127.0.0.1 libs.de.coremetrics.com
 127.0.0.1 libs.outbrain.com
 127.0.0.1 likemore-fe.go.mail.ru
 127.0.0.1 links.services.disqus.com
@@ -1577,6 +1588,7 @@
 127.0.0.1 t1.extreme-dm.com
 127.0.0.1 t23.intelliad.de
 127.0.0.1 t.a3cloud.net
+127.0.0.1 taboola-d.openx.net
 127.0.0.1 tag.1rx.io
 127.0.0.1 tag.aticdn.net
 127.0.0.1 tag.bounceexchange.com
@@ -1745,6 +1757,7 @@
 127.0.0.1 video.oms.eu
 127.0.0.1 video.unrulymedia.com
 127.0.0.1 video.xx.fbcdn.net
+127.0.0.1 vid.pubmatic.com
 127.0.0.1 vidstatb.taboola.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 vidutils.taboola.com
