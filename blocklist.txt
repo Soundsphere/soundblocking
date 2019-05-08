@@ -27,6 +27,7 @@
 127.0.0.1 a-0003.a-msedge.net
 127.0.0.1 a2150.casalemedia.com
 127.0.0.1 a2170.casalemedia.com
+127.0.0.1 a2181.casalemedia.com
 127.0.0.1 a2220.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
 127.0.0.1 a3281.casalemedia.com
@@ -76,11 +77,13 @@
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 addthis.com
 127.0.0.1 ad.eanalyzer.de
+127.0.0.1 ade.clmbtech.com
 127.0.0.1 ade.googlesyndication.com
 127.0.0.1 adespresso.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 adimg.uimserv.net
+127.0.0.1 ad.lkqd.net
 127.0.0.1 adlmerge.com
 127.0.0.1 adlog.flurry.com
 127.0.0.1 ad.mail.ru
@@ -90,6 +93,7 @@
 127.0.0.1 adobe.com.ssl.d1.sc.omtrdc.net
 127.0.0.1 adobecorp.sc.omtrdc.net
 127.0.0.1 adobe-sync.dotomi.com
+127.0.0.1 adobe.tt.omtrdc.net
 127.0.0.1 ado.pro-market.net
 127.0.0.1 ads18.vertamedia.com
 127.0.0.1 ads2.contentabc.com
@@ -99,6 +103,7 @@
 127.0.0.1 ads.altitude-arena.com
 127.0.0.1 ads.api.vungle.com
 127.0.0.1 ads.avocet.io
+127.0.0.1 ads.ayads.co
 127.0.0.1 ads.betweendigital.com
 127.0.0.1 ads-bid.l.doubleclick.net
 127.0.0.1 ads.celtra.com
@@ -157,6 +162,7 @@
 127.0.0.1 ad.wsod.com
 127.0.0.1 adx.adform.net
 127.0.0.1 adx.chip.de
+127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 adx-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 ad.yieldlab.net
 127.0.0.1 ad.yieldmanager.com
@@ -170,10 +176,12 @@
 127.0.0.1 a.idio.co
 127.0.0.1 a.impactradius-go.com
 127.0.0.1 a.intentmedia.net
+127.0.0.1 airbrake.io
 127.0.0.1 ak1s.abmr.net
 127.0.0.1 aka-cdn.adtech.de
 127.0.0.1 aka-cdn.adtechus.com
 127.0.0.1 akamai.mathtag.com
+127.0.0.1 akamai.smartadserver.com
 127.0.0.1 a.klaviyo.com
 127.0.0.1 ak.sail-horizon.com
 127.0.0.1 aktrack.pubmatic.com
@@ -245,6 +253,7 @@
 127.0.0.1 api.hybrid.intl.xiaomi.com
 127.0.0.1 api-iam.intercom.io
 127.0.0.1 api.instabug.com
+127.0.0.1 api.iperceptions.com
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.monetizer101.com
@@ -293,6 +302,7 @@
 127.0.0.1 apx.moatads.com
 127.0.0.1 arc.msn.com
 127.0.0.1 a.rfihub.com
+127.0.0.1 ase.clmbtech.com
 127.0.0.1 as.gettyservices.com
 127.0.0.1 asimov-win.settings.data.microsoft.com.akadns.net
 127.0.0.1 as.innity.com
@@ -354,6 +364,7 @@
 127.0.0.1 beap1.cb.g01.yahoodns.net
 127.0.0.1 beap-bc.yahoo.com
 127.0.0.1 bei.nuggad.net
+127.0.0.1 betathome.glb.adtech.de
 127.0.0.1 b-graph.facebook.com
 127.0.0.1 bh.contextweb.com
 127.0.0.1 bia.brightinfo.com
@@ -377,6 +388,7 @@
 127.0.0.1 b.scorecardresearch.com
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 b.stats.paypal.com
+127.0.0.1 b-s.tercept.com
 127.0.0.1 bs.yandex.ru
 127.0.0.1 bt.mediaimpact.de
 127.0.0.1 bttrack.com
@@ -386,6 +398,7 @@
 127.0.0.1 by.uservoice.com
 127.0.0.1 c00.adobe.com
 127.0.0.1 c1.adform.net
+127.0.0.1 c1.rfihub.net
 127.0.0.1 c2.taboola.com
 127.0.0.1 ca1.qualtrics.com
 127.0.0.1 c.aaxads.com
@@ -433,6 +446,7 @@
 127.0.0.1 cdn.buysellads.com
 127.0.0.1 cdn.carbonads.com
 127.0.0.1 cdn.c-i.as
+127.0.0.1 cdn.connatix.com
 127.0.0.1 cdn.connectad.io
 127.0.0.1 cdn.content.prod.cms.msn.com
 127.0.0.1 cdn.contentspread.net
@@ -456,6 +470,7 @@
 127.0.0.1 cdn.livechatinc.com
 127.0.0.1 cdn.livefyre.com
 127.0.0.1 cdn.mediavoice.com
+127.0.0.1 cdn.moengage.com
 127.0.0.1 cdn.mouseflow.com
 127.0.0.1 cdn.m-pathy.com
 127.0.0.1 cdn.mxpnl.com
@@ -477,6 +492,7 @@
 127.0.0.1 cdn-settings.segment.com
 127.0.0.1 cdns.eu1.gigya.com
 127.0.0.1 cdns.gigya.com
+127.0.0.1 cdn-sic.33across.com
 127.0.0.1 cdn.siftscience.com
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdnssl.clicktale.net
@@ -487,6 +503,7 @@
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.tagcommander.com
 127.0.0.1 cdn.teads.tv
+127.0.0.1 cdn.tercept.com
 127.0.0.1 cdn.tinypass.com
 127.0.0.1 cdn.trackjs.com
 127.0.0.1 cdn.tradelab.fr
@@ -530,6 +547,8 @@
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.adgrx.com
+127.0.0.1 cmap.alibaba.com
+127.0.0.1 cm.eyereturn.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 c.mgid.com
 127.0.0.1 cmi.netseer.com
@@ -542,6 +561,7 @@
 127.0.0.1 codefund.app
 127.0.0.1 code.ionicframework.com
 127.0.0.1 codeload.github.com
+127.0.0.1 coinbase.com
 127.0.0.1 coinmarketcap.com
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect.albacross.com
@@ -564,6 +584,7 @@
 127.0.0.1 connect.ok.ru
 127.0.0.1 connect.rom.miui.com
 127.0.0.1 connect.scroll.com
+127.0.0.1 connect.tapjoy.com
 127.0.0.1 consent.cookiebot.com
 127.0.0.1 consent.truste.com
 127.0.0.1 content.aimatch.com
@@ -613,6 +634,7 @@
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zgderxoe1a.cloudfront.net
+127.0.0.1 d24n15hnbwhuhn.cloudfront.net
 127.0.0.1 d24v0qfgxmmkdg.cloudfront.net
 127.0.0.1 d29usylhdk1xyu.cloudfront.net
 127.0.0.1 d2dq2ahtl5zl1z.cloudfront.net
@@ -660,6 +682,7 @@
 127.0.0.1 data.sec.miui.com
 127.0.0.1 db5.settings.data.microsoft.com.akadns.net
 127.0.0.1 db5.vortex.data.microsoft.com.akadns.net
+127.0.0.1 dbt.adition.com
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dc.banggood.com
 127.0.0.1 dcinfos.abtasty.com
@@ -707,6 +730,7 @@
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmpsync.3lift.com
 127.0.0.1 dmp.theadex.com
+127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 d.nativendo.de
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 domains.googlesyndication.com
@@ -792,6 +816,7 @@
 127.0.0.1 events.privy.com
 127.0.0.1 events.redditmedia.co
 127.0.0.1 events.redditmedia.com
+127.0.0.1 events.whisk.com
 127.0.0.1 evt.klarna.com
 127.0.0.1 exch.quantcount.com
 127.0.0.1 exch.quantserve.com
@@ -880,6 +905,7 @@
 127.0.0.1 googlesyndication.com
 127.0.0.1 go.onelink.me
 127.0.0.1 go.pardot.com
+127.0.0.1 go.toutapp.com
 127.0.0.1 grammarly.go2cloud.org
 127.0.0.1 graph.accountkit.com
 127.0.0.1 graph.facebook.com
@@ -971,6 +997,7 @@
 127.0.0.1 incoming.telemetry.mozilla.org
 127.0.0.1 index-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 infinityid.condenastdigital.com
+127.0.0.1 info.evidon.com
 127.0.0.1 ing-district.clicktale.net
 127.0.0.1 in.getclicky.com
 127.0.0.1 inimage.carambo.la
@@ -991,6 +1018,7 @@
 127.0.0.1 ir2.beap.gemini.yahoo.com
 127.0.0.1 ir-conductor.clicktale.net
 127.0.0.1 ir-de.amazon-adsystem.com
+127.0.0.1 ir-ing-district.clicktale.net
 127.0.0.1 irl1.demdex.net
 127.0.0.1 ir-na.amazon-adsystem.com
 127.0.0.1 irqs.ioam.de
@@ -1102,6 +1130,7 @@
 127.0.0.1 match.sharethrough.com
 127.0.0.1 match.taboola.com
 127.0.0.1 mathid.mathtag.com
+127.0.0.1 mathid-origin.mathtag.com
 127.0.0.1 mazu.sec.miui.com
 127.0.0.1 mb.moatads.com
 127.0.0.1 mboxedge26.tt.omtrdc.net
@@ -1133,6 +1162,7 @@
 127.0.0.1 mobile-de-d.openx.net
 127.0.0.1 mobile.pipe.aria.microsoft.com
 127.0.0.1 modern.watson.data.microsoft.com.akadns.net
+127.0.0.1 modes.taboola.com
 127.0.0.1 mpp.vindicosuite.com
 127.0.0.1 mpsnare.iesnare.com
 127.0.0.1 mpx.mopub.com
@@ -1190,6 +1220,7 @@
 127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 o.ss2.us
 127.0.0.1 otf.msn.com
+127.0.0.1 ow-gateway.supersonicads.com
 127.0.0.1 p.adsymptotic.com
 127.0.0.1 pagead1.googlesyndication.com
 127.0.0.1 pagead2.googleadservices.com
@@ -1208,6 +1239,7 @@
 127.0.0.1 p.cpx.to
 127.0.0.1 pentos-cdn.polarmobile.com
 127.0.0.1 perf.logsss.com
+127.0.0.1 perf.mmstat.com
 127.0.0.1 performance.typekit.net
 127.0.0.1 perr.h-cdn.com
 127.0.0.1 perr.hola.org
@@ -1257,6 +1289,7 @@
 127.0.0.1 pixel-us-west.rubiconproject.com
 127.0.0.1 pixel.wp.com
 127.0.0.1 pix.impdesk.com
+127.0.0.1 plarium.com
 127.0.0.1 platform.linkedin.com
 127.0.0.1 platform.tumblr.com
 127.0.0.1 platform.twitter.com
@@ -1311,6 +1344,7 @@
 127.0.0.1 pubmatic2waycm-atl.netmng.com
 127.0.0.1 pubmatic-match.dotomi.com
 127.0.0.1 pubmatic-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 pubpress.net
 127.0.0.1 pugm22000nf.pubmatic.com
 127.0.0.1 pulsepoint-cm.p.veruta.com
 127.0.0.1 push-notifications.top
@@ -1364,6 +1398,7 @@
 127.0.0.1 responder.wt-safetag.com
 127.0.0.1 retracker.com
 127.0.0.1 retrack.q-divisioncdn.de
+127.0.0.1 reveal.clearbit.com
 127.0.0.1 r.mail.ru
 127.0.0.1 r.my.com
 127.0.0.1 r.nexac.com
@@ -1466,6 +1501,7 @@
 127.0.0.1 secure.img-cdn.mediaplex.com
 127.0.0.1 secure.insightexpressai.com
 127.0.0.1 secure.leadback.advertising.com
+127.0.0.1 secure.leadforensics.com
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 secure.quantserve.com
@@ -1568,6 +1604,7 @@
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.adsnative.com
 127.0.0.1 static.ads-twitter.com
+127.0.0.1 static.adzerk.net
 127.0.0.1 static.ak.fbcdn.net
 127.0.0.1 static.apester.com
 127.0.0.1 static-bp.kameleoon.com
@@ -1632,6 +1669,7 @@
 127.0.0.1 s-usweb.dotomi.com
 127.0.0.1 s.webtrends.com
 127.0.0.1 swrap.tradedoubler.com
+127.0.0.1 s.xp1.ru4.com
 127.0.0.1 sy.eu.angsrvr.com
 127.0.0.1 s.yjtag.jp
 127.0.0.1 sync.1dmp.io
@@ -1719,6 +1757,7 @@
 127.0.0.1 t.premii.com
 127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tps.doubleverify.com
+127.0.0.1 track1.aniview.com
 127.0.0.1 track1.viewdeos.com
 127.0.0.1 track2.trbo.com
 127.0.0.1 track.adform.net
@@ -1768,6 +1807,7 @@
 127.0.0.1 trk.kissmetrics.com
 127.0.0.1 trkn.us
 127.0.0.1 trk.pinterest.com
+127.0.0.1 trk.prod.vidible.tv
 127.0.0.1 trk.vidible.tv
 127.0.0.1 tr.outbrain.com
 127.0.0.1 tr.snapchat.com
@@ -1843,6 +1883,7 @@
 127.0.0.1 visitor-service.tealiumiq.com
 127.0.0.1 vjs.zencdn.net
 127.0.0.1 vk.com
+127.0.0.1 v.lkqd.net
 127.0.0.1 volvelle-ads-cdn.azureedge.net
 127.0.0.1 vop.sundaysky.com
 127.0.0.1 vpaid.adsafeprotected.com
@@ -1923,6 +1964,7 @@
 127.0.0.1 www.etracker.de
 127.0.0.1 www.everestjs.net
 127.0.0.1 www.fastcounter.de
+127.0.0.1 www.fitforfun.de
 127.0.0.1 www.fullstory.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.google-analytics.com
@@ -1981,6 +2023,7 @@
 127.0.0.1 z-eu.amazon-adsystem.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 z.moatads.com
+127.0.0.1 zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 zoover.adtrackers.net
 127.0.0.1 z-p42.graph.instagram.com
