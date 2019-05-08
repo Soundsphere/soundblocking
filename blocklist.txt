@@ -218,6 +218,7 @@
 127.0.0.1 analytics.pokki.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.twitter.com
+127.0.0.1 analytics-udg.netdna-ssl.com
 127.0.0.1 analytics.webgains.io
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 an.yandex.ru
@@ -282,6 +283,7 @@
 127.0.0.1 app.pendo.io
 127.0.0.1 app-sj02.marketo.com
 127.0.0.1 app-sj09.marketo.com
+127.0.0.1 app-sj16.marketo.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 a.pub.network
 127.0.0.1 apvdr.com
@@ -320,6 +322,7 @@
 127.0.0.1 az1.qualtrics.com
 127.0.0.1 az416426.vo.msecnd.net
 127.0.0.1 b1sync.zemanta.com
+127.0.0.1 b.6sc.co
 127.0.0.1 b97.yahoo.co.jp
 127.0.0.1 backstage.taboola.com
 127.0.0.1 badge.facebook.com
@@ -407,6 +410,7 @@
 127.0.0.1 cdn4.mxpnl.com
 127.0.0.1 cdn.accelerator.arsdev.net
 127.0.0.1 cdn.adikteev.com
+127.0.0.1 cdn.admixer.net
 127.0.0.1 cdn.adrta.com
 127.0.0.1 cdn.adrtx.net
 127.0.0.1 cdn.adsafeprotected.com
@@ -598,6 +602,7 @@
 127.0.0.1 d10lpsik1i8c69.cloudfront.net
 127.0.0.1 d12ulf131zb0yj.cloudfront.net
 127.0.0.1 d1447tq2m68ekg.cloudfront.net
+127.0.0.1 d16fk4ms6rqz1v.cloudfront.net
 127.0.0.1 d1eoo1tco6rr5e.cloudfront.net
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
@@ -632,6 +637,7 @@
 127.0.0.1 data09.adlooxtracking.com
 127.0.0.1 data27.adlooxtracking.com
 127.0.0.1 data28.adlooxtracking.com
+127.0.0.1 data29.adlooxtracking.com
 127.0.0.1 data2.gosquared.com
 127.0.0.1 data35.adlooxtracking.com
 127.0.0.1 data37.adlooxtracking.com
@@ -710,6 +716,7 @@
 127.0.0.1 dsp.adkernel.com
 127.0.0.1 dsum.casalemedia.com
 127.0.0.1 dsum-sec.casalemedia.com
+127.0.0.1 dt.admission.net
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtm.advertising.com
 127.0.0.1 dts.innovid.com
@@ -832,6 +839,7 @@
 127.0.0.1 gallery.mailchimp.com
 127.0.0.1 gate.datacaciques.com
 127.0.0.1 gate.hockeyapp.net
+127.0.0.1 gaua.hit.gemius.pl
 127.0.0.1 gcdn.2mdn.net
 127.0.0.1 gdc.indeed.com
 127.0.0.1 geo2.adobe.com
@@ -966,6 +974,7 @@
 127.0.0.1 insights.plista.com
 127.0.0.1 insitez.blob.core.windows.net
 127.0.0.1 inspection.alibaba.com
+127.0.0.1 intljs.rmtag.com
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ioam.de
 127.0.0.1 ios.bugly.qq.com
@@ -1096,6 +1105,7 @@
 127.0.0.1 media-lax1.inq.com
 127.0.0.1 media.licdn.com
 127.0.0.1 medianet-match.dotomi.com
+127.0.0.1 media.richrelevance.com
 127.0.0.1 mediator.mail.ru
 127.0.0.1 media.trafficjunky.net
 127.0.0.1 metrics.api.drift.com
@@ -1103,6 +1113,7 @@
 127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.nt.vc
 127.0.0.1 metrics.n-tv.de
+127.0.0.1 metrics.responsetap.com
 127.0.0.1 m.exactag.com
 127.0.0.1 microsoftwindows.112.2o7.net
 127.0.0.1 ml314.com
@@ -1280,6 +1291,7 @@
 127.0.0.1 ps.eyeota.net
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.smartertravel.com
+127.0.0.1 pt.ispot.tv
 127.0.0.1 p.t-online.de
 127.0.0.1 p.twitter.com
 127.0.0.1 p.typekit.net
@@ -1312,6 +1324,7 @@
 127.0.0.1 queuer-prod-elb.53.localytics.com
 127.0.0.1 r1.computerbild.de
 127.0.0.1 r.254a.com
+127.0.0.1 r2---sn-4g5ednsk.gvt1.com
 127.0.0.1 r.ad6media.fr
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radar.imgsmail.ru
@@ -1395,6 +1408,7 @@
 127.0.0.1 salesforcecom.demdex.net
 127.0.0.1 sales.liveperson.net
 127.0.0.1 salesviewer.org
+127.0.0.1 sam.msn.com
 127.0.0.1 sa.scorecardresearch.com
 127.0.0.1 sb.l.google.com
 127.0.0.1 sb.monetate.net
@@ -1843,6 +1857,7 @@
 127.0.0.1 win8.ipv6.microsoft.com
 127.0.0.1 ws1.hotjar.com
 127.0.0.1 ws2.hotjar.com
+127.0.0.1 ws4.hotjar.com
 127.0.0.1 ws5.hotjar.com
 127.0.0.1 wsdk-files.webengage.com
 127.0.0.1 ws-eu.amazon-adsystem.com
