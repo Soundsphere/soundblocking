@@ -26,6 +26,7 @@
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a-0003.a-msedge.net
 127.0.0.1 a2150.casalemedia.com
+127.0.0.1 a2170.casalemedia.com
 127.0.0.1 a2220.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
 127.0.0.1 a3281.casalemedia.com
@@ -68,6 +69,7 @@
 127.0.0.1 adadvisor.net
 127.0.0.1 ad.afy11.net
 127.0.0.1 ad.atdmt.com
+127.0.0.1 adbutler-fermion.com
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 ad.crwdcntrl.net
 127.0.0.1 ad-delivery.net
@@ -284,6 +286,7 @@
 127.0.0.1 app-sj02.marketo.com
 127.0.0.1 app-sj09.marketo.com
 127.0.0.1 app-sj16.marketo.com
+127.0.0.1 app-sjp.marketo.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 a.pub.network
 127.0.0.1 apvdr.com
@@ -504,6 +507,7 @@
 127.0.0.1 centro.pixel.ad
 127.0.0.1 certify.alexametrics.com
 127.0.0.1 c.evidon.com
+127.0.0.1 c.fqtag.com
 127.0.0.1 c.go-mpulse.net
 127.0.0.1 c.gumgum.com
 127.0.0.1 chartbeat.com
@@ -537,6 +541,7 @@
 127.0.0.1 code.etracker.com
 127.0.0.1 codefund.app
 127.0.0.1 code.ionicframework.com
+127.0.0.1 codeload.github.com
 127.0.0.1 coinmarketcap.com
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect.albacross.com
@@ -564,6 +569,7 @@
 127.0.0.1 content.aimatch.com
 127.0.0.1 content.carambo.la
 127.0.0.1 content.livesportmedia.eu
+127.0.0.1 content.quantcount.com
 127.0.0.1 contextual.media.net
 127.0.0.1 continuum.dds.microsoft.com
 127.0.0.1 control.kochava.com
@@ -741,6 +747,7 @@
 127.0.0.1 e.crashlytics.com
 127.0.0.1 edatasales.com
 127.0.0.1 edge-chat.facebook.com
+127.0.0.1 edge.quantserve.com
 127.0.0.1 e.dlx.addthis.com
 127.0.0.1 ee.adocean.pl
 127.0.0.1 ee.hit.gemius.pl
@@ -762,6 +769,7 @@
 127.0.0.1 es-sunicontent.videoplaza.tv
 127.0.0.1 etahub.com
 127.0.0.1 etl.tindersparks.com
+127.0.0.1 et.nytimes.com
 127.0.0.1 eu-aa.online-metrix.net
 127.0.0.1 eu-eb2.3lift.com
 127.0.0.1 eu.qualtrics.com
@@ -978,6 +986,7 @@
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ioam.de
 127.0.0.1 ios.bugly.qq.com
+127.0.0.1 ip.nuggad.net
 127.0.0.1 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 127.0.0.1 ir2.beap.gemini.yahoo.com
 127.0.0.1 ir-conductor.clicktale.net
@@ -1134,6 +1143,7 @@
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 myfamilycominc.tt.omtrdc.net
 127.0.0.1 my.hellobar.com
+127.0.0.1 my.rtmark.net
 127.0.0.1 n.ads3-adnow.com
 127.0.0.1 nan.netmng.com
 127.0.0.1 nativesdks.mparticle.com
@@ -1231,6 +1241,7 @@
 127.0.0.1 pixel.mathtag.com
 127.0.0.1 pixel.moatads.com
 127.0.0.1 pixel.monitor1.returnpath.net
+127.0.0.1 pixel.mtrcs.samba.tv
 127.0.0.1 pixel.nymag.com
 127.0.0.1 pixel.onaudience.com
 127.0.0.1 pixel-origin.mathtag.com
@@ -1258,6 +1269,7 @@
 127.0.0.1 pnytimes.chartbeat.net
 127.0.0.1 polarcdn-pentos.com
 127.0.0.1 polldaddy.com
+127.0.0.1 pool1.moatads.com
 127.0.0.1 pool4.moatads.com
 127.0.0.1 pool5.moatads.com
 127.0.0.1 pool6.moatads.com
@@ -1409,6 +1421,7 @@
 127.0.0.1 sales.liveperson.net
 127.0.0.1 salesviewer.org
 127.0.0.1 sam.msn.com
+127.0.0.1 samsung-germany.demdex.net
 127.0.0.1 sa.scorecardresearch.com
 127.0.0.1 sb.l.google.com
 127.0.0.1 sb.monetate.net
@@ -1459,6 +1472,7 @@
 127.0.0.1 secure.statcounter.com
 127.0.0.1 secure-uk.imrworldwide.com
 127.0.0.1 secure-us.imrworldwide.com
+127.0.0.1 s.effectivemeasure.net
 127.0.0.1 segments.company-target.com
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 se.monetate.net
@@ -1581,6 +1595,7 @@
 127.0.0.1 stat.radar.imgsmail.ru
 127.0.0.1 stats3.unrulymedia.com
 127.0.0.1 statsapi.screen9.com
+127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.aws.rubiconproject.com
 127.0.0.1 stats.bannersnack.com
 127.0.0.1 stats.buysellads.com
@@ -1714,6 +1729,7 @@
 127.0.0.1 track.cordial.io
 127.0.0.1 track.customer.io
 127.0.0.1 track.custora.com
+127.0.0.1 tracker.affirm.com
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracker.wordstream.com
 127.0.0.1 track-eu.adformnet.akadns.net
