@@ -373,6 +373,7 @@
 127.0.0.1 beacon.walmart.com
 127.0.0.1 beap1.cb.g01.yahoodns.net
 127.0.0.1 beap-bc.yahoo.com
+127.0.0.1 behacdn.ksmobile.net
 127.0.0.1 bei.nuggad.net
 127.0.0.1 betathome.glb.adtech.de
 127.0.0.1 b-graph.facebook.com
@@ -942,6 +943,7 @@
 127.0.0.1 happyunicorns.gutefrage.net
 127.0.0.1 hb-api.omnitagjs.com
 127.0.0.1 hbevents.1rx.io
+127.0.0.1 hb.nexage.com
 127.0.0.1 hbopenbid.pubmatic.com
 127.0.0.1 hb.vntsm.com
 127.0.0.1 healte.de
@@ -1205,6 +1207,7 @@
 127.0.0.1 newrelic.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nexus.officeapps.live.com
+127.0.0.1 nike.demdex.net
 127.0.0.1 notebooksbilliger02.webtrekk.net
 127.0.0.1 nova.collect.igodigital.com
 127.0.0.1 now.eloqua.com
@@ -1509,6 +1512,7 @@
 127.0.0.1 sdk.beeketing.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 seal.verisign.com
+127.0.0.1 seccdn-gl.imrworldwide.com
 127.0.0.1 secserv.adtech.de
 127.0.0.1 secure.33across.com
 127.0.0.1 secure.adnxs.com
