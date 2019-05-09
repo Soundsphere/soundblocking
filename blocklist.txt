@@ -12,6 +12,7 @@
 127.0.0.1 3276817.fls.doubleclick.net
 127.0.0.1 3p.ampproject.net
 127.0.0.1 4228414.fls.doubleclick.net
+127.0.0.1 4704202.fls.doubleclick.net
 127.0.0.1 4898337.fls.doubleclick.net
 127.0.0.1 4.bp.blogspot.com
 127.0.0.1 4-edge-chat.facebook.com
@@ -79,6 +80,7 @@
 127.0.0.1 adbutler-fermion.com
 127.0.0.1 adclick.g.doubleclick.net
 127.0.0.1 ad.crwdcntrl.net
+127.0.0.1 adc.xxxlutz.de
 127.0.0.1 ad-delivery.net
 127.0.0.1 ad.doubleclick.net
 127.0.0.1 addthis.com
@@ -226,6 +228,7 @@
 127.0.0.1 ams-login.dotomi.com
 127.0.0.1 ams-usadmm.dotomi.com
 127.0.0.1 analytics.analytics-egain.com
+127.0.0.1 analytics.any.do
 127.0.0.1 analytics.blogspot.com
 127.0.0.1 analytics.businessinsider.com
 127.0.0.1 analytics.carambo.la
@@ -242,9 +245,11 @@
 127.0.0.1 analytics.ooyala.com
 127.0.0.1 analytics.pokki.com
 127.0.0.1 analytics.query.yahoo.com
+127.0.0.1 analytics-static.ugc.bazaarvoice.com
 127.0.0.1 analytics.twitter.com
 127.0.0.1 analytics-udg.netdna-ssl.com
 127.0.0.1 analytics.webgains.io
+127.0.0.1 analytics.zg-api.com
 127.0.0.1 android.bugly.qq.com
 127.0.0.1 animate.adobe.com
 127.0.0.1 an.yandex.ru
@@ -345,6 +350,7 @@
 127.0.0.1 assets.tapad.com
 127.0.0.1 a-ssl.ligatus.com
 127.0.0.1 a.teads.tv
+127.0.0.1 atemda.com
 127.0.0.1 a.tfag.de
 127.0.0.1 a.tribalfusion.com
 127.0.0.1 a.trkme.net
@@ -379,6 +385,7 @@
 127.0.0.1 bbcdn-bbnaut.ibillboard.com
 127.0.0.1 bcb-beacon-nr.rubiconproject.com
 127.0.0.1 bcp.crwdcntrl.net
+127.0.0.1 bdg-analytics.appspot.com
 127.0.0.1 bea4.v.fwmrm.net
 127.0.0.1 beacon.errorception.com
 127.0.0.1 beacon-eu2.rubiconproject.com
@@ -679,6 +686,7 @@
 127.0.0.1 d1zgderxoe1a.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
 127.0.0.1 d24v0qfgxmmkdg.cloudfront.net
+127.0.0.1 d26b395fwzu5fz.cloudfront.net
 127.0.0.1 d29usylhdk1xyu.cloudfront.net
 127.0.0.1 d2dq2ahtl5zl1z.cloudfront.net
 127.0.0.1 d2k03kvdk5cku0.cloudfront.net
@@ -793,6 +801,7 @@
 127.0.0.1 dsms0mj1bbhn4.cloudfront.net
 127.0.0.1 dsp.adfarm1.adition.com
 127.0.0.1 dsp.adkernel.com
+127.0.0.1 dspcluster.adfarm1.adition.com
 127.0.0.1 dsum.casalemedia.com
 127.0.0.1 dsum-sec.casalemedia.com
 127.0.0.1 dt.admission.net
@@ -912,6 +921,7 @@
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 franecki.net
 127.0.0.1 freegeoip.io
+127.0.0.1 fresh8.co
 127.0.0.1 frog.wix.com
 127.0.0.1 front.optimonk.com
 127.0.0.1 fs.microsoft.com
@@ -965,6 +975,7 @@
 127.0.0.1 go.onelink.me
 127.0.0.1 go.pardot.com
 127.0.0.1 go.toutapp.com
+127.0.0.1 go.urbanairship.com
 127.0.0.1 grammarly.go2cloud.org
 127.0.0.1 graph.accountkit.com
 127.0.0.1 graph.facebook.com
@@ -1260,6 +1271,7 @@
 127.0.0.1 navdmp.com
 127.0.0.1 nba.demdex.net
 127.0.0.1 nbcu.demdex.net
+127.0.0.1 netzwelt-gmbh-d.openx.net
 127.0.0.1 newrelic.com
 127.0.0.1 nexus.ensighten.com
 127.0.0.1 nexus.officeapps.live.com
@@ -1299,6 +1311,7 @@
 127.0.0.1 optimize.innity.com
 127.0.0.1 optimize-stats.voxmedia.com
 127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 origin-tracking.trulia.com
 127.0.0.1 o.ss2.us
 127.0.0.1 otf.msn.com
 127.0.0.1 ow-gateway.supersonicads.com
@@ -1345,6 +1358,7 @@
 127.0.0.1 pixel-a.sitescout.com
 127.0.0.1 pixel.bild.de
 127.0.0.1 pixelbox.uimserv.net
+127.0.0.1 pixel.carambo.la
 127.0.0.1 pixel.cdnwidget.com
 127.0.0.1 pixel.condenastdigital.com
 127.0.0.1 pixel-eu.rubiconproject.com
@@ -1649,6 +1663,7 @@
 127.0.0.1 sjs.bizographics.com
 127.0.0.1 s.ktxtr.com
 127.0.0.1 skydeutschland.demdex.net
+127.0.0.1 s.logsss.com
 127.0.0.1 sls.update.microsoft.com.akadns.net
 127.0.0.1 sm4xqadz4o.kameleoon.eu
 127.0.0.1 smarticon.geotrust.com
@@ -1870,6 +1885,7 @@
 127.0.0.1 tlp-03.kameleoon.com
 127.0.0.1 tlp-04.kameleoon.com
 127.0.0.1 tmk-secure.smartadserver.com
+127.0.0.1 tmk.smartadserver.com
 127.0.0.1 t.mookie1.com
 127.0.0.1 t.mplxtms.com
 127.0.0.1 tmscdn.coremetrics.com
@@ -1977,6 +1993,7 @@
 127.0.0.1 usemax.de
 127.0.0.1 usermatch.krxd.net
 127.0.0.1 usersegment.wpdigital.net
+127.0.0.1 use-tor.adsrvr.org
 127.0.0.1 use.typekit.net
 127.0.0.1 us.galleryapi.micloud.xiaomi.net
 127.0.0.1 us.micardapi.micloud.xiaomi.net
@@ -2076,6 +2093,7 @@
 127.0.0.1 www6.smartadserver.com
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 www.ad4mat.de
+127.0.0.1 www.adcell.de
 127.0.0.1 www.addthis.com
 127.0.0.1 www.addtoany.com
 127.0.0.1 www.adobetag.com
