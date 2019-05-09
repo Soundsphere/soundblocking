@@ -147,6 +147,7 @@
 127.0.0.1 ads.samsungads.com
 127.0.0.1 ads.scorecardresearch.com
 127.0.0.1 ads.servebom.com
+127.0.0.1 ads.s-i-r.de
 127.0.0.1 ads.smartstream.tv
 127.0.0.1 ads.stickyadstv.com
 127.0.0.1 adstax-match.adrtx.net
@@ -498,6 +499,7 @@
 127.0.0.1 cdn.innity.net
 127.0.0.1 cdn.inspectlet.com
 127.0.0.1 cdn.interactivemedia.net
+127.0.0.1 cdn.intergi.com
 127.0.0.1 cdn.krxd.com
 127.0.0.1 cdn.krxd.net
 127.0.0.1 cdn.livechatinc.com
@@ -1487,6 +1489,7 @@
 127.0.0.1 retracker.com
 127.0.0.1 retrack.q-divisioncdn.de
 127.0.0.1 reveal.clearbit.com
+127.0.0.1 revee.outbrain.com
 127.0.0.1 r.mail.ru
 127.0.0.1 r.my.com
 127.0.0.1 r.nexac.com
@@ -2049,6 +2052,7 @@
 127.0.0.1 wms-na.amazon-adsystem.com
 127.0.0.1 ws1.hotjar.com
 127.0.0.1 ws2.hotjar.com
+127.0.0.1 ws3.hotjar.com
 127.0.0.1 ws4.hotjar.com
 127.0.0.1 ws5.hotjar.com
 127.0.0.1 wsdk-files.webengage.com
