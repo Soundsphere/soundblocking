@@ -618,6 +618,7 @@
 127.0.0.1 cookiesync.vertamedia.com
 127.0.0.1 cookiex.ngd.yahoo.com
 127.0.0.1 counter.rambler.ru
+127.0.0.1 counter.top.ge
 127.0.0.1 counter.yadro.ru
 127.0.0.1 count-server.sharethis.com
 127.0.0.1 count.spiegel.de
@@ -648,6 +649,7 @@
 127.0.0.1 d12ulf131zb0yj.cloudfront.net
 127.0.0.1 d1447tq2m68ekg.cloudfront.net
 127.0.0.1 d16fk4ms6rqz1v.cloudfront.net
+127.0.0.1 d1af033869koo7.cloudfront.net
 127.0.0.1 d1eoo1tco6rr5e.cloudfront.net
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
@@ -1286,6 +1288,7 @@
 127.0.0.1 pfa.levexis.com
 127.0.0.1 phar.gu-web.net
 127.0.0.1 phonograph2.voxmedia.com
+127.0.0.1 p.imgur.com
 127.0.0.1 ping.chartbeat.net
 127.0.0.1 ping.getadblock.com
 127.0.0.1 pings.vidpulse.com
@@ -1386,6 +1389,7 @@
 127.0.0.1 pubmatic2waycm-atl.netmng.com
 127.0.0.1 pubmatic-match.dotomi.com
 127.0.0.1 pubmatic-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 pubmatic-winners-us-east-1-rtb.adroll.com
 127.0.0.1 pubpress.net
 127.0.0.1 pugm22000nf.pubmatic.com
 127.0.0.1 pulsepoint-cm.p.veruta.com
@@ -1773,6 +1777,7 @@
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags.mathtag.com
 127.0.0.1 tags.tiqcdn.com
+127.0.0.1 tags.w55c.net
 127.0.0.1 tag.yieldoptimizer.com
 127.0.0.1 tapestry.tapad.com
 127.0.0.1 tapfiliate.com
