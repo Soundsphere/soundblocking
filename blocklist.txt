@@ -34,6 +34,7 @@
 127.0.0.1 a3281.casalemedia.com
 127.0.0.1 a3290.casalemedia.com
 127.0.0.1 a3340.casalemedia.com
+127.0.0.1 a3361.casalemedia.com
 127.0.0.1 a3371.casalemedia.com
 127.0.0.1 a4550.casalemedia.com
 127.0.0.1 a4p.adpartner.pro
@@ -206,6 +207,7 @@
 127.0.0.1 ams01-bfp02.mediaplex.com
 127.0.0.1 ams01-login-ds.dotomi.com
 127.0.0.1 ams01-usadmm-ds.dotomi.com
+127.0.0.1 ams02-bfp02.mediaplex.com
 127.0.0.1 ams02-login-ds.dotomi.com
 127.0.0.1 ams02-usadmm-ds.dotomi.com
 127.0.0.1 ams03-bfp01.mediaplex.com
@@ -275,6 +277,7 @@
 127.0.0.1 api.sec.miui.com
 127.0.0.1 api.segment.io
 127.0.0.1 api.similarweb.com
+127.0.0.1 api.skyhookwireless.com
 127.0.0.1 api.taboola.com
 127.0.0.1 api.tr.blismedia.com
 127.0.0.1 api.usebutton.com
@@ -469,6 +472,7 @@
 127.0.0.1 cdn.districtm.io
 127.0.0.1 cdn.doubleverify.com
 127.0.0.1 cdn.dynamicyield.com
+127.0.0.1 cdn.evergage.com
 127.0.0.1 cdn.exactag.com
 127.0.0.1 cdn.feeds.videosz.com
 127.0.0.1 cdn.firstimpression.io
@@ -548,6 +552,7 @@
 127.0.0.1 chimpstatic.com
 127.0.0.1 choices.trustarc.com
 127.0.0.1 choices.truste.com
+127.0.0.1 cj.com
 127.0.0.1 cj.dotomi.com
 127.0.0.1 cj.madeleine.de
 127.0.0.1 ckm-m.xp1.ru4.com
@@ -697,6 +702,7 @@
 127.0.0.1 data.alexa.com
 127.0.0.1 data.appexnw.com
 127.0.0.1 datacloud.tealiumiq.com
+127.0.0.1 datacollect6.abtasty.com
 127.0.0.1 data.coremetrics.com
 127.0.0.1 data.flurry.com
 127.0.0.1 data.mistat.intl.xiaomi.com
@@ -820,6 +826,7 @@
 127.0.0.1 eqx-tmk-geoloc.smartadserver.com
 127.0.0.1 ergoag.d3.sc.omtrdc.net
 127.0.0.1 errors.client.optimizely.com
+127.0.0.1 espn.hb.omtrdc.net
 127.0.0.1 es-sunicontent.videoplaza.tv
 127.0.0.1 etahub.com
 127.0.0.1 etl.tindersparks.com
@@ -895,6 +902,7 @@
 127.0.0.1 fw.adsafeprotected.com
 127.0.0.1 fwapi.adsafeprotected.com
 127.0.0.1 g17.v.fwmrm.net
+127.0.0.1 g1.v.fwmrm.net
 127.0.0.1 g2.gumgum.com
 127.0.0.1 g.3gl.net
 127.0.0.1 g3.s.fwmrm.net
@@ -944,6 +952,7 @@
 127.0.0.1 graph.facebook.com
 127.0.0.1 graph.instagram.com
 127.0.0.1 green.erne.co
+127.0.0.1 grmtech.net
 127.0.0.1 gscounters.eu1.gigya.com
 127.0.0.1 gscounters.us1.gigya.com
 127.0.0.1 gslb.demdex.net
@@ -1082,6 +1091,7 @@
 127.0.0.1 js.idio.co
 127.0.0.1 js.maxmind.com
 127.0.0.1 js.moatads.com
+127.0.0.1 json.bild.de
 127.0.0.1 js.pusher.com
 127.0.0.1 js.recurly.com
 127.0.0.1 js-sec.indexww.com
@@ -1098,6 +1108,7 @@
 127.0.0.1 l.betrad.com
 127.0.0.1 lcprd1.samsungcloudsolution.net
 127.0.0.1 lcs.naver.com
+127.0.0.1 lg3.media.net
 127.0.0.1 libs.coremetrics.com
 127.0.0.1 libs.de.coremetrics.com
 127.0.0.1 libs.outbrain.com
@@ -1212,6 +1223,7 @@
 127.0.0.1 mscom.demdex.net
 127.0.0.1 m.servedby-buysellads.com
 127.0.0.1 msntrademarketing.112.2o7.net
+127.0.0.1 mssl.fwmrm.net
 127.0.0.1 mwzeom.zeotap.com
 127.0.0.1 m.yap.yahoo.com
 127.0.0.1 myfamilycominc.tt.omtrdc.net
@@ -1426,6 +1438,7 @@
 127.0.0.1 r.ad6media.fr
 127.0.0.1 radar.cedexis.com
 127.0.0.1 radar.imgsmail.ru
+127.0.0.1 r.adserver01.de
 127.0.0.1 rb.adnxs.com
 127.0.0.1 rbp.mxptint.net
 127.0.0.1 r.casalemedia.com
@@ -1569,6 +1582,7 @@
 127.0.0.1 seed.bitnodes.io
 127.0.0.1 s.effectivemeasure.net
 127.0.0.1 segments.company-target.com
+127.0.0.1 sejs.moatads.com
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 se.monetate.net
 127.0.0.1 sentry.io
@@ -1607,6 +1621,7 @@
 127.0.0.1 s.ktxtr.com
 127.0.0.1 skydeutschland.demdex.net
 127.0.0.1 sls.update.microsoft.com.akadns.net
+127.0.0.1 sm4xqadz4o.kameleoon.eu
 127.0.0.1 smarticon.geotrust.com
 127.0.0.1 smarturl.it
 127.0.0.1 s.media-imdb.com
@@ -1688,6 +1703,7 @@
 127.0.0.1 static.licdn.com
 127.0.0.1 static.plista.com
 127.0.0.1 static.showheroes.com
+127.0.0.1 static.site24x7rum.com
 127.0.0.1 static.tradetracker.net
 127.0.0.1 static.vertamedia.com
 127.0.0.1 staticw2.yotpo.com
@@ -1781,7 +1797,9 @@
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 tags.crwdcntrl.net
+127.0.0.1 tags-eu.tiqcdn.com
 127.0.0.1 tags.mathtag.com
+127.0.0.1 tags.onscroll.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tags.w55c.net
 127.0.0.1 tag.yieldoptimizer.com
@@ -1817,6 +1835,7 @@
 127.0.0.1 t.mookie1.com
 127.0.0.1 t.mplxtms.com
 127.0.0.1 tmscdn.coremetrics.com
+127.0.0.1 tm.tradetracker.net
 127.0.0.1 t.myvisualiq.net
 127.0.0.1 t.nativendo.de
 127.0.0.1 token.rubiconproject.com
@@ -1895,6 +1914,7 @@
 127.0.0.1 tw.netcore.co.in
 127.0.0.1 udc.yahoo.com
 127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 ue.flipboard.com
 127.0.0.1 ugdturner.com
 127.0.0.1 u.heatmap.it
 127.0.0.1 uidbox.uimserv.net
@@ -1984,6 +2004,7 @@
 127.0.0.1 widget.us.criteo.com
 127.0.0.1 wildcard.moatads.com.edgekey.net
 127.0.0.1 win8.ipv6.microsoft.com
+127.0.0.1 wms-na.amazon-adsystem.com
 127.0.0.1 ws1.hotjar.com
 127.0.0.1 ws2.hotjar.com
 127.0.0.1 ws4.hotjar.com
@@ -2026,6 +2047,7 @@
 127.0.0.1 www.bizographics.com
 127.0.0.1 www.blogcounter.de
 127.0.0.1 www.cbox.ws
+127.0.0.1 www.cj.com
 127.0.0.1 www.coinbase.com
 127.0.0.1 www.crazyegg.com
 127.0.0.1 www.criteo.com
@@ -2034,6 +2056,7 @@
 127.0.0.1 www.dwin1.com
 127.0.0.1 www.dwin2.com
 127.0.0.1 www.econda-monitor.de
+127.0.0.1 www.emjcd.com
 127.0.0.1 www.etracker.de
 127.0.0.1 www.everestjs.net
 127.0.0.1 www.fastcounter.de
