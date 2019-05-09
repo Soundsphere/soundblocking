@@ -1110,6 +1110,7 @@
 127.0.0.1 i.w55c.net
 127.0.0.1 j93557g.com
 127.0.0.1 jadserve.postrelease.com
+127.0.0.1 jp-u.openx.net
 127.0.0.1 js.adscale.de
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js-agent.newrelic.com
@@ -1130,6 +1131,7 @@
 127.0.0.1 js.smartredirect.de
 127.0.0.1 js.spotx.tv
 127.0.0.1 js-webt-lol.9cache.com
+127.0.0.1 jvz9.com
 127.0.0.1 jwpltx.com
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 k.intellitxt.com
@@ -1663,6 +1665,7 @@
 127.0.0.1 sjs.bizographics.com
 127.0.0.1 s.ktxtr.com
 127.0.0.1 skydeutschland.demdex.net
+127.0.0.1 slipstream.skyscanner.net
 127.0.0.1 s.logsss.com
 127.0.0.1 sls.update.microsoft.com.akadns.net
 127.0.0.1 sm4xqadz4o.kameleoon.eu
@@ -1866,6 +1869,7 @@
 127.0.0.1 tdn.r42tag.com
 127.0.0.1 technical-service.net
 127.0.0.1 telecommand.telemetry.microsoft.com
+127.0.0.1 telekom01.webtrekk.net
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 telemetry.malwarebytes.com
 127.0.0.1 telemetry.soundcloud.com
@@ -1913,6 +1917,7 @@
 127.0.0.1 track.custora.com
 127.0.0.1 track.effiliation.com
 127.0.0.1 tracker.affirm.com
+127.0.0.1 tracker-api.my.com
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracker.wordstream.com
 127.0.0.1 track-eu.adformnet.akadns.net
