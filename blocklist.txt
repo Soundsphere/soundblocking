@@ -303,9 +303,11 @@
 127.0.0.1 app.miui.com
 127.0.0.1 app.pendo.io
 127.0.0.1 app-sj02.marketo.com
+127.0.0.1 app-sj05.marketo.com
 127.0.0.1 app-sj09.marketo.com
 127.0.0.1 app-sj16.marketo.com
 127.0.0.1 app-sjp.marketo.com
+127.0.0.1 app-sjqe.marketo.com
 127.0.0.1 app.yieldify.com
 127.0.0.1 a.pub.network
 127.0.0.1 apvdr.com
@@ -346,6 +348,7 @@
 127.0.0.1 az416426.vo.msecnd.net
 127.0.0.1 b1sync.zemanta.com
 127.0.0.1 b.6sc.co
+127.0.0.1 b92.yahoo.co.jp
 127.0.0.1 b97.yahoo.co.jp
 127.0.0.1 backstage.taboola.com
 127.0.0.1 badge.facebook.com
@@ -1035,6 +1038,8 @@
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ioam.de
 127.0.0.1 ios.bugly.qq.com
+127.0.0.1 ipinfo.io
+127.0.0.1 ipm-provider.ff.avast.com
 127.0.0.1 ip.nuggad.net
 127.0.0.1 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 127.0.0.1 ir2.beap.gemini.yahoo.com
@@ -1142,6 +1147,7 @@
 127.0.0.1 map.media6degrees.com
 127.0.0.1 marketing.alibaba.com
 127.0.0.1 marketing.criteo.com
+127.0.0.1 marketing.dropbox.com
 127.0.0.1 marriott.btttag.com
 127.0.0.1 masterh5.adriver.ru
 127.0.0.1 mastertag.effiliation.com
@@ -1724,6 +1730,7 @@
 127.0.0.1 sync.mathtag.com
 127.0.0.1 sync.outbrain.com
 127.0.0.1 sync.search.spotxchange.com
+127.0.0.1 sync-tapi.admatrix.jp
 127.0.0.1 sync.teads.tv
 127.0.0.1 sync.tidaltv.com
 127.0.0.1 sync-tm.everesttech.net
