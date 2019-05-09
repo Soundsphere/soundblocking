@@ -385,6 +385,7 @@
 127.0.0.1 bid.contextweb.com
 127.0.0.1 bidder.criteo.com
 127.0.0.1 bid.g.doubleclick.net
+127.0.0.1 bidr.trellian.com
 127.0.0.1 bid.socdm.com
 127.0.0.1 bild01.webtrekk.net
 127.0.0.1 bilder.bild.de
@@ -650,6 +651,7 @@
 127.0.0.1 d1447tq2m68ekg.cloudfront.net
 127.0.0.1 d16fk4ms6rqz1v.cloudfront.net
 127.0.0.1 d1af033869koo7.cloudfront.net
+127.0.0.1 d-1.co
 127.0.0.1 d1eoo1tco6rr5e.cloudfront.net
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
@@ -704,6 +706,7 @@
 127.0.0.1 db5.settings.data.microsoft.com.akadns.net
 127.0.0.1 db5.vortex.data.microsoft.com.akadns.net
 127.0.0.1 dbt.adition.com
+127.0.0.1 dc56.s290.meetrics.net
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dc.banggood.com
 127.0.0.1 dcinfos.abtasty.com
@@ -807,6 +810,7 @@
 127.0.0.1 embed.tawk.to
 127.0.0.1 e.nexac.com
 127.0.0.1 engage.commander1.com
+127.0.0.1 engine.adzerk.net
 127.0.0.1 entitlements.jwplayer.com
 127.0.0.1 ep3.performfeeds.com
 127.0.0.1 epl.paypal-communication.com
@@ -1273,6 +1277,7 @@
 127.0.0.1 partnerad.l.doubleclick.net
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partnernet.amazon.de
+127.0.0.1 partners.cmptch.com
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 partners.webmasterplan.com
 127.0.0.1 pb.adriver.ru
@@ -1635,6 +1640,7 @@
 127.0.0.1 s.skimresources.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 ssl-google-analytics.l.google.com
+127.0.0.1 ssl.mousestats.com
 127.0.0.1 ssl-munchkin.marketo.net
 127.0.0.1 ssl-vg03.met.vgwort.de
 127.0.0.1 sslwidget.criteo.com
@@ -1920,6 +1926,7 @@
 127.0.0.1 v20.events.data.microsoft.com
 127.0.0.1 v2.zopim.com
 127.0.0.1 v4.moatads.com
+127.0.0.1 v7event.stats.avast.com
 127.0.0.1 vap4ewr1.lijit.com
 127.0.0.1 vap.lijit.com
 127.0.0.1 vars.hotjar.com
