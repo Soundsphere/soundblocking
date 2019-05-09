@@ -787,6 +787,7 @@
 127.0.0.1 dmp.adform.net
 127.0.0.1 dmpsync.3lift.com
 127.0.0.1 dmp.theadex.com
+127.0.0.1 dmp.v.fwmrm.net
 127.0.0.1 dmtracking2.alibaba.com
 127.0.0.1 d.nativendo.de
 127.0.0.1 dnn506yrbagrg.cloudfront.net
