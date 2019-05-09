@@ -468,6 +468,7 @@
 127.0.0.1 cdn.districtm.io
 127.0.0.1 cdn.doubleverify.com
 127.0.0.1 cdn.dynamicyield.com
+127.0.0.1 cdn.exactag.com
 127.0.0.1 cdn.feeds.videosz.com
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 cdn.flashtalking.com
@@ -556,6 +557,7 @@
 127.0.0.1 click.plista.com
 127.0.0.1 clickserve.dartsearch.net
 127.0.0.1 click.virt.exacttarget.com
+127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 clientcdn.pushengage.com
 127.0.0.1 client.perimeterx.net
 127.0.0.1 c.live.com
@@ -720,6 +722,7 @@
 127.0.0.1 deref-gmx.net
 127.0.0.1 des.smartclip.net
 127.0.0.1 de.tynt.com
+127.0.0.1 deutschepostag1.d3.sc.omtrdc.net
 127.0.0.1 dev.appboy.com
 127.0.0.1 developers.facebook.com
 127.0.0.1 device-api.urbanairship.com
@@ -754,6 +757,7 @@
 127.0.0.1 dnsseed.bluematt.me
 127.0.0.1 domains.googlesyndication.com
 127.0.0.1 doug1izaerwt3.cloudfront.net
+127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dp-sync.dotomi.com
 127.0.0.1 d.pub.network
@@ -815,6 +819,7 @@
 127.0.0.1 etl.tindersparks.com
 127.0.0.1 et.nytimes.com
 127.0.0.1 eu-aa.online-metrix.net
+127.0.0.1 eu.a.volvelle.tech
 127.0.0.1 eu-eb2.3lift.com
 127.0.0.1 eu.qualtrics.com
 127.0.0.1 eur-ukp.adsrvr.org
@@ -1034,6 +1039,7 @@
 127.0.0.1 insights.plista.com
 127.0.0.1 insitez.blob.core.windows.net
 127.0.0.1 inspection.alibaba.com
+127.0.0.1 insticator-d.openx.net
 127.0.0.1 intljs.rmtag.com
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ioam.de
@@ -1062,6 +1068,7 @@
 127.0.0.1 js-agent.newrelic.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 jscdn.yieldbird.com
+127.0.0.1 js.gumgum.com
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hscollectedforms.net
 127.0.0.1 js.hsleadflows.net
@@ -1173,6 +1180,7 @@
 127.0.0.1 media.licdn.com
 127.0.0.1 medianet-match.dotomi.com
 127.0.0.1 media.richrelevance.com
+127.0.0.1 mediation.adnxs.com
 127.0.0.1 mediator.mail.ru
 127.0.0.1 media.trafficjunky.net
 127.0.0.1 metrics.api.drift.com
@@ -1261,6 +1269,7 @@
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead.l.doubleclick.net
 127.0.0.1 partnerad.l.doubleclick.net
+127.0.0.1 partner.googleadservices.com
 127.0.0.1 partnernet.amazon.de
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 partners.webmasterplan.com
@@ -1307,6 +1316,7 @@
 127.0.0.1 pixel.nymag.com
 127.0.0.1 pixel.onaudience.com
 127.0.0.1 pixel-origin.mathtag.com
+127.0.0.1 pixel.prfct.co
 127.0.0.1 pixel.quantcount.com
 127.0.0.1 pixel.quantserve.com
 127.0.0.1 pixel.rubiconproject.com
@@ -1381,6 +1391,7 @@
 127.0.0.1 pulsepoint-cm.p.veruta.com
 127.0.0.1 push-notifications.top
 127.0.0.1 p.vtracy.de
+127.0.0.1 pv.tubemogul.com
 127.0.0.1 px.adhigh.net
 127.0.0.1 px.ads.linkedin.com
 127.0.0.1 pxc.otto.de
@@ -1477,6 +1488,7 @@
 127.0.0.1 s0.wp.com
 127.0.0.1 s1.adform.net
 127.0.0.1 s290.mxcdn.net
+127.0.0.1 s3.buysellads.com
 127.0.0.1 s3.eu-central-1.amazonaws.com
 127.0.0.1 s4.histats.com
 127.0.0.1 s7.addthis.com
@@ -1517,6 +1529,7 @@
 127.0.0.1 sdk.accountkit.com
 127.0.0.1 sdk.beeketing.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
+127.0.0.1 sdk.streamrail.com
 127.0.0.1 seal.verisign.com
 127.0.0.1 seccdn-gl.imrworldwide.com
 127.0.0.1 secserv.adtech.de
@@ -1557,6 +1570,7 @@
 127.0.0.1 serve.tercept.com
 127.0.0.1 service.cmp.oath.com
 127.0.0.1 service.maxymiser.net
+127.0.0.1 servicer.mgid.com
 127.0.0.1 services.serving-sys.com
 127.0.0.1 sessions.bugsnag.com
 127.0.0.1 settings.crashlytics.com
@@ -1690,6 +1704,7 @@
 127.0.0.1 stats.wp.com
 127.0.0.1 stats.zotabox.com
 127.0.0.1 st.dynamicyield.com
+127.0.0.1 stepan-fe.go.mail.ru
 127.0.0.1 stepstone.d1.sc.omtrdc.net
 127.0.0.1 s.thebrighttag.com
 127.0.0.1 storage.googleapis.com
@@ -1773,6 +1788,7 @@
 127.0.0.1 telecommand.telemetry.microsoft.com
 127.0.0.1 telemetry.api.swiftkey.com
 127.0.0.1 telemetry.soundcloud.com
+127.0.0.1 tendertest.com
 127.0.0.1 tg.socdm.com
 127.0.0.1 theadex.com
 127.0.0.1 thechive-d.openx.net
