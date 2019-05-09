@@ -74,6 +74,7 @@
 127.0.0.1 ad.71i.de
 127.0.0.1 adac02.webtrekk.net
 127.0.0.1 ad.ad-srv.net
+127.0.0.1 ad.adsrvr.org
 127.0.0.1 adadvisor.net
 127.0.0.1 ad.afy11.net
 127.0.0.1 ad.atdmt.com
@@ -110,6 +111,7 @@
 127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 ads-adaptv.vidible.tv
 127.0.0.1 ads.admized.com
+127.0.0.1 ads.adtiger.de
 127.0.0.1 ads.altitude-arena.com
 127.0.0.1 ads.api.vungle.com
 127.0.0.1 ads.avocet.io
@@ -1062,6 +1064,7 @@
 127.0.0.1 img.applovin.com
 127.0.0.1 img.en25.com
 127.0.0.1 imggprx.mgid.com
+127.0.0.1 img.mediaplex.com
 127.0.0.1 img.metaffiliation.com
 127.0.0.1 img.mplx.akadns.net
 127.0.0.1 img.web.de
@@ -1227,6 +1230,7 @@
 127.0.0.1 mc.webvisor.org
 127.0.0.1 mc.yandex.ru
 127.0.0.1 me-cdn.effectivemeasure.net
+127.0.0.1 med.heyzap.com
 127.0.0.1 media.admob.com
 127.0.0.1 media.carambo.la
 127.0.0.1 media-lax1.inq.com
@@ -1251,6 +1255,7 @@
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-de-d.openx.net
 127.0.0.1 mobile.pipe.aria.microsoft.com
+127.0.0.1 mobile-service.segment.com
 127.0.0.1 modern.watson.data.microsoft.com.akadns.net
 127.0.0.1 modes.taboola.com
 127.0.0.1 mpp.vindicosuite.com
@@ -1497,6 +1502,7 @@
 127.0.0.1 report.appmetrica.yandex.net
 127.0.0.1 reporting.aatkit.com
 127.0.0.1 reports.crashlytics.com
+127.0.0.1 res1.applovin.com
 127.0.0.1 resolver.gslb.mi-idc.com
 127.0.0.1 resolver.msg.xiaomi.net
 127.0.0.1 resources.infolinks.com
@@ -1590,6 +1596,7 @@
 127.0.0.1 scripts.demandbase.com
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.kissmetrics.com
+127.0.0.1 s-cs.send.microad.jp
 127.0.0.1 sc-static.net
 127.0.0.1 sc.tynt.com
 127.0.0.1 sdk.accountkit.com
@@ -2054,6 +2061,7 @@
 127.0.0.1 wa.ui-portal.de
 127.0.0.1 waust.at
 127.0.0.1 waves.retentionscience.com
+127.0.0.1 wd.adcolony.com
 127.0.0.1 web-analytics.engagio.com
 127.0.0.1 web-sdk.urbanairship.com
 127.0.0.1 web-t.9gag.com
