@@ -54,6 +54,7 @@
 127.0.0.1 abs.proxistore.com
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 acdn.adnxs.com
+127.0.0.1 a.cdn.intentmedia.net
 127.0.0.1 acds-b.prod.eu-west-1.vidible.tv
 127.0.0.1 acds.prod.eu-west-1.vidible.tv
 127.0.0.1 acds.prod.vidible.tv
@@ -865,6 +866,7 @@
 127.0.0.1 events.redditmedia.com
 127.0.0.1 events.whisk.com
 127.0.0.1 evt.klarna.com
+127.0.0.1 ew1.dms-gld.bigdata.ssp.samsung.com
 127.0.0.1 exch.quantcount.com
 127.0.0.1 exch.quantserve.com
 127.0.0.1 expedia.com.ssl.d1.sc.omtrdc.net
@@ -884,6 +886,7 @@
 127.0.0.1 fc.webmasterpro.de
 127.0.0.1 fc.yahoo.com
 127.0.0.1 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+127.0.0.1 feed.mikle.com
 127.0.0.1 fei.pro-market.net
 127.0.0.1 fe.sitedataprocessing.com
 127.0.0.1 find.api.micloud.xiaomi.net
@@ -966,6 +969,7 @@
 127.0.0.1 gscounters.eu1.gigya.com
 127.0.0.1 gscounters.us1.gigya.com
 127.0.0.1 gslb.demdex.net
+127.0.0.1 gslbeacon.lijit.com
 127.0.0.1 gs.statcounter.com
 127.0.0.1 gstaticadssl.l.google.com
 127.0.0.1 gum.criteo.com
@@ -1924,6 +1928,7 @@
 127.0.0.1 trk.vidible.tv
 127.0.0.1 tr.outbrain.com
 127.0.0.1 tr.snapchat.com
+127.0.0.1 trs.webprospector.de
 127.0.0.1 try.abtasty.com
 127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
 127.0.0.1 t.sharethis.com
