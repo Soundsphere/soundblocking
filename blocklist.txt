@@ -1291,6 +1291,7 @@
 127.0.0.1 metrics.n-tv.de
 127.0.0.1 metrics.responsetap.com
 127.0.0.1 m.exactag.com
+127.0.0.1 mg.mgid.com
 127.0.0.1 microsoftwindows.112.2o7.net
 127.0.0.1 ml314.com
 127.0.0.1 mmtro.com
@@ -1398,6 +1399,7 @@
 127.0.0.1 p.imgur.com
 127.0.0.1 ping.chartbeat.net
 127.0.0.1 ping.getadblock.com
+127.0.0.1 pingma.qq.com
 127.0.0.1 pings.vidpulse.com
 127.0.0.1 pi.pardot.com
 127.0.0.1 pipedream.wistia.com
