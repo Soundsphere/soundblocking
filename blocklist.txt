@@ -20,6 +20,7 @@
 127.0.0.1 5994599.fls.doubleclick.net
 127.0.0.1 5d0b6.v.fwmrm.net
 127.0.0.1 5-edge-chat.facebook.com
+127.0.0.1 6124109.fls.doubleclick.net
 127.0.0.1 6144643.fls.doubleclick.net
 127.0.0.1 71i.nuggad.net
 127.0.0.1 727-zqe-044.mktoresp.com
@@ -310,6 +311,7 @@
 127.0.0.1 apn-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 apnx-match.dotomi.com
 127.0.0.1 app.adjust.com
+127.0.0.1 app.adroll.com
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app.appsflyer.com
 127.0.0.1 app.box.com
@@ -382,6 +384,7 @@
 127.0.0.1 badges.instagram.com
 127.0.0.1 bam.nr-data.net
 127.0.0.1 banner.congstar.de
+127.0.0.1 banners.adfox.ru
 127.0.0.1 banners.contentfeed.net
 127.0.0.1 banners.webmasterplan.com
 127.0.0.1 bannertrack.net
@@ -990,6 +993,7 @@
 127.0.0.1 gocm.c.appier.net
 127.0.0.1 gocp.stroeermediabrands.de
 127.0.0.1 go.ezoic.net
+127.0.0.1 goldbach-de-d.openx.net
 127.0.0.1 googleadapis.l.google.com
 127.0.0.1 googleads4.g.doubleclick.net
 127.0.0.1 googleadservices.com
@@ -1614,6 +1618,7 @@
 127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 scdn.cxense.com
 127.0.0.1 sc.iasds01.com
+127.0.0.1 s.click.aliexpress.com
 127.0.0.1 s.clickiocdn.com
 127.0.0.1 scomcluster.cxense.com
 127.0.0.1 scontent-iad3-1.cdninstagram.com
@@ -2216,6 +2221,7 @@
 127.0.0.1 www.roosterfirework.com
 127.0.0.1 www.salesforce.com
 127.0.0.1 www.sdad.guru
+127.0.0.1 www.semrush.com
 127.0.0.1 www.snapengage.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.summerhamster.com
@@ -2247,6 +2253,8 @@
 127.0.0.1 yasni.bannertrack.net
 127.0.0.1 yastatic.net
 127.0.0.1 yieldlove-d.openx.net
+127.0.0.1 ynuf.alibaba.com
+127.0.0.1 ynuf.alipay.com
 127.0.0.1 z15ba20a04.webengage.co
 127.0.0.1 z-eu.amazon-adsystem.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
