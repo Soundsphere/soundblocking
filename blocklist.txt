@@ -147,6 +147,7 @@
 127.0.0.1 ads.indeed.com
 127.0.0.1 ads.lfstmedia.com
 127.0.0.1 ads.mopub.com
+127.0.0.1 ads.nexage.com
 127.0.0.1 ads.programattik.com
 127.0.0.1 adspsp.com
 127.0.0.1 ads.pubmatic.com
@@ -407,6 +408,7 @@
 127.0.0.1 beacon.krxd.net
 127.0.0.1 beacon.netflix.com
 127.0.0.1 beacon-nf.rubiconproject.com
+127.0.0.1 beacon.riskified.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacon.sojern.com
 127.0.0.1 beacon.walmart.com
@@ -439,6 +441,7 @@
 127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 browser-update.org
 127.0.0.1 b.scorecardresearch.com
+127.0.0.1 bsnj.eyeblaster.akadns.net
 127.0.0.1 bs.serving-sys.com
 127.0.0.1 b.stats.paypal.com
 127.0.0.1 b-s.tercept.com
@@ -471,6 +474,7 @@
 127.0.0.1 cbm02.webtrekk.net
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 ccc.sys.miui.com
+127.0.0.1 cc.swiftype.com
 127.0.0.1 cc.zeit.de
 127.0.0.1 cdata.carambo.la
 127.0.0.1 cdn11.contentabc.com
@@ -906,6 +910,7 @@
 127.0.0.1 events.appsflyer.com
 127.0.0.1 events.browsiprod.com
 127.0.0.1 events.jotform.com
+127.0.0.1 events.kaloo.ga
 127.0.0.1 events.launchdarkly.com
 127.0.0.1 events.mapbox.com
 127.0.0.1 events.privy.com
@@ -981,6 +986,7 @@
 127.0.0.1 geoced.smartadserver.com
 127.0.0.1 geoip-db.com
 127.0.0.1 geoip-lookup.vice.com
+127.0.0.1 geo.kaloo.ga
 127.0.0.1 geolocation.stroeerdp.de
 127.0.0.1 geo.moatads.com
 127.0.0.1 geo.qualaroo.com
@@ -1950,6 +1956,7 @@
 127.0.0.1 telemetry.soundcloud.com
 127.0.0.1 tendertest.com
 127.0.0.1 tg.socdm.com
+127.0.0.1 thaliade02.webtrekk.net
 127.0.0.1 theadex.com
 127.0.0.1 thechive-d.openx.net
 127.0.0.1 thisiswaldo.com
@@ -2269,6 +2276,7 @@
 127.0.0.1 x.dlx.addthis.com
 127.0.0.1 x.fidelity-media.com
 127.0.0.1 xlog-va.byteoversea.com
+127.0.0.1 xl-trk.com
 127.0.0.1 xml.adbetnet.com
 127.0.0.1 xpl.theadex.com
 127.0.0.1 xray.mail.ru
