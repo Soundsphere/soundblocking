@@ -228,6 +228,7 @@
 127.0.0.1 ams03-bfp02.mediaplex.com
 127.0.0.1 ams03-login.dotomi.com
 127.0.0.1 ams03-login-ds.dotomi.com
+127.0.0.1 ams03-usadmm.dotomi.com
 127.0.0.1 ams03-usadmm-ds.dotomi.com
 127.0.0.1 ams1-ib.adnxs.com
 127.0.0.1 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
@@ -395,6 +396,7 @@
 127.0.0.1 bat.bing.com
 127.0.0.1 bats.video.yahoo.com
 127.0.0.1 bbcdn-bbnaut.ibillboard.com
+127.0.0.1 bbc.gscontxt.net
 127.0.0.1 bcb-beacon-nr.rubiconproject.com
 127.0.0.1 bcp.crwdcntrl.net
 127.0.0.1 bdg-analytics.appspot.com
@@ -859,6 +861,7 @@
 127.0.0.1 edatasales.com
 127.0.0.1 edge-chat.facebook.com
 127.0.0.1 edge.quantserve.com
+127.0.0.1 edigitalsurvey.com
 127.0.0.1 e.dlx.addthis.com
 127.0.0.1 ee.adocean.pl
 127.0.0.1 ee.hit.gemius.pl
@@ -2032,6 +2035,7 @@
 127.0.0.1 trk.pinterest.com
 127.0.0.1 trk.prod.vidible.tv
 127.0.0.1 trk.vidible.tv
+127.0.0.1 trmads.eu
 127.0.0.1 tr.outbrain.com
 127.0.0.1 tr.snapchat.com
 127.0.0.1 trs.webprospector.de
