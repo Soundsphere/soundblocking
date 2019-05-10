@@ -743,6 +743,7 @@
 127.0.0.1 datacollect6.abtasty.com
 127.0.0.1 data.coremetrics.com
 127.0.0.1 data.flurry.com
+127.0.0.1 data.logentries.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
 127.0.0.1 data.sec.intl.miui.com
@@ -1047,6 +1048,7 @@
 127.0.0.1 iam-agof-app.irquest.com
 127.0.0.1 ib.3lift.com
 127.0.0.1 ib.adnxs.com
+127.0.0.1 ibclick.stream
 127.0.0.1 ibeat.indiatimes.com
 127.0.0.1 ichnaea.netflix.com
 127.0.0.1 i.connectad.io
@@ -1577,6 +1579,7 @@
 127.0.0.1 r.turn.com.akadns.net
 127.0.0.1 rubicon-match.dotomi.com
 127.0.0.1 rub-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 rudy.adsnative.com
 127.0.0.1 rules.atgsvcs.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum-static.pingdom.net
@@ -1749,6 +1752,7 @@
 127.0.0.1 ssl-munchkin.marketo.net
 127.0.0.1 ssl-vg03.met.vgwort.de
 127.0.0.1 sslwidget.criteo.com
+127.0.0.1 ssl.xplosion.de
 127.0.0.1 ss.musthird.com
 127.0.0.1 ssp.adriver.ru
 127.0.0.1 s.spoutable.com
@@ -1801,6 +1805,7 @@
 127.0.0.1 staticw2.yotpo.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.yieldmo.com
+127.0.0.1 static.zotabox.com
 127.0.0.1 stat.radar.imgsmail.ru
 127.0.0.1 stats3.unrulymedia.com
 127.0.0.1 statsapi.screen9.com
