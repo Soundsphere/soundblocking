@@ -333,6 +333,7 @@
 127.0.0.1 app-sj05.marketo.com
 127.0.0.1 app-sj09.marketo.com
 127.0.0.1 app-sj16.marketo.com
+127.0.0.1 app-sji.marketo.com
 127.0.0.1 app-sjp.marketo.com
 127.0.0.1 app-sjqe.marketo.com
 127.0.0.1 app.yieldify.com
@@ -450,6 +451,7 @@
 127.0.0.1 c1.adform.net
 127.0.0.1 c1.rfihub.net
 127.0.0.1 c2.taboola.com
+127.0.0.1 c3.adalyser.com
 127.0.0.1 ca1.qualtrics.com
 127.0.0.1 c.aaxads.com
 127.0.0.1 cache-ssl.celtra.com
@@ -478,6 +480,7 @@
 127.0.0.1 cdn.accelerator.arsdev.net
 127.0.0.1 cdn.adikteev.com
 127.0.0.1 cdn.admixer.net
+127.0.0.1 cdn.adpushup.com
 127.0.0.1 cdn.adrta.com
 127.0.0.1 cdn.adrtx.net
 127.0.0.1 cdn.adsafeprotected.com
@@ -1035,6 +1038,8 @@
 127.0.0.1 hb.vntsm.com
 127.0.0.1 healte.de
 127.0.0.1 heapanalytics.com
+127.0.0.1 heartbeats.hb.omtrdc.net
+127.0.0.1 heartbeats.omtrdc.net
 127.0.0.1 h-ebay.online-metrix.net
 127.0.0.1 hello.myfonts.net
 127.0.0.1 help.bingads.microsoft.com
@@ -1111,6 +1116,7 @@
 127.0.0.1 index-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 infinityid.condenastdigital.com
 127.0.0.1 info.evidon.com
+127.0.0.1 info.web.de
 127.0.0.1 ing-district.clicktale.net
 127.0.0.1 in.getclicky.com
 127.0.0.1 inimage.carambo.la
@@ -1188,6 +1194,7 @@
 127.0.0.1 live.chartboost.com
 127.0.0.1 live.rezync.com
 127.0.0.1 live.sekindo.com
+127.0.0.1 l.m.naver.com
 127.0.0.1 lmyd3iz3qn.kameleoon.eu
 127.0.0.1 lnkd.demdex.net
 127.0.0.1 load77.exelator.com
@@ -1940,6 +1947,7 @@
 127.0.0.1 tg.socdm.com
 127.0.0.1 theadex.com
 127.0.0.1 thechive-d.openx.net
+127.0.0.1 thisiswaldo.com
 127.0.0.1 thrtle.com
 127.0.0.1 tiles.services.mozilla.com
 127.0.0.1 time.izatcloud.net
@@ -2051,6 +2059,7 @@
 127.0.0.1 um2.eqads.com
 127.0.0.1 ums.adtech.de
 127.0.0.1 um.simpli.fi
+127.0.0.1 undefined.fls.doubleclick.net
 127.0.0.1 universal.iperceptions.com
 127.0.0.1 uop.umeng.com
 127.0.0.1 up.cm.ksmobile.com
