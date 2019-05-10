@@ -28,6 +28,7 @@
 127.0.0.1 883205.fls.doubleclick.net
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a-0003.a-msedge.net
+127.0.0.1 a1.adform.net
 127.0.0.1 a2150.casalemedia.com
 127.0.0.1 a2170.casalemedia.com
 127.0.0.1 a2181.casalemedia.com
@@ -417,6 +418,7 @@
 127.0.0.1 bid.socdm.com
 127.0.0.1 bild01.webtrekk.net
 127.0.0.1 bilder.bild.de
+127.0.0.1 b.imonomy.com
 127.0.0.1 bit.ly
 127.0.0.1 blocklists.settings.services.mozilla.com
 127.0.0.1 blogcounter.de
@@ -498,6 +500,7 @@
 127.0.0.1 cdn.districtm.io
 127.0.0.1 cdn.doubleverify.com
 127.0.0.1 cdn.dynamicyield.com
+127.0.0.1 cdn.elasticad.net
 127.0.0.1 cdn.evergage.com
 127.0.0.1 cdn.exactag.com
 127.0.0.1 cdn.feeds.videosz.com
@@ -676,6 +679,7 @@
 127.0.0.1 c.t4ft.de
 127.0.0.1 cti.w55c.net
 127.0.0.1 ct.pinterest.com
+127.0.0.1 ct.sddan.com
 127.0.0.1 cw.addthis.com
 127.0.0.1 c.webengage.com
 127.0.0.1 cws.conviva.com
@@ -716,11 +720,13 @@
 127.0.0.1 d.adtriba.com
 127.0.0.1 d.adup-tech.com
 127.0.0.1 d.agkn.com
+127.0.0.1 dap.digitalgov.gov
 127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
 127.0.0.1 dart.l.doubleclick.net
 127.0.0.1 data01.adlooxtracking.com
 127.0.0.1 data02.adlooxtracking.com
+127.0.0.1 data03.adlooxtracking.com
 127.0.0.1 data09.adlooxtracking.com
 127.0.0.1 data15.adlooxtracking.com
 127.0.0.1 data27.adlooxtracking.com
@@ -801,6 +807,7 @@
 127.0.0.1 dnsseed.bluematt.me
 127.0.0.1 domains.googlesyndication.com
 127.0.0.1 doug1izaerwt3.cloudfront.net
+127.0.0.1 download.gamestar.de
 127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dp-sync.dotomi.com
@@ -836,6 +843,7 @@
 127.0.0.1 ebayinc.demdex.net
 127.0.0.1 ebdr3.com
 127.0.0.1 eb.trbas.com
+127.0.0.1 ecommerce.iap.unity3d.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 edatasales.com
 127.0.0.1 edge-chat.facebook.com
@@ -850,6 +858,7 @@
 127.0.0.1 embed.tawk.to
 127.0.0.1 e.nexac.com
 127.0.0.1 engage.commander1.com
+127.0.0.1 engine.addroplet.com
 127.0.0.1 engine.adzerk.net
 127.0.0.1 entitlements.jwplayer.com
 127.0.0.1 ep3.performfeeds.com
@@ -957,6 +966,7 @@
 127.0.0.1 geo2.adobe.com
 127.0.0.1 geoced.smartadserver.com
 127.0.0.1 geoip-db.com
+127.0.0.1 geoip-lookup.vice.com
 127.0.0.1 geolocation.stroeerdp.de
 127.0.0.1 geo.moatads.com
 127.0.0.1 geo.qualaroo.com
@@ -973,6 +983,7 @@
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 global.ib-ibi.com
 127.0.0.1 global.ymtracking.com
+127.0.0.1 g.msn.com
 127.0.0.1 gnar.grammarly.com
 127.0.0.1 go.affec.tv
 127.0.0.1 gocm.c.appier.net
@@ -1245,6 +1256,7 @@
 127.0.0.1 med.heyzap.com
 127.0.0.1 media.admob.com
 127.0.0.1 media.carambo.la
+127.0.0.1 mediafire-d.openx.net
 127.0.0.1 media-lax1.inq.com
 127.0.0.1 media.licdn.com
 127.0.0.1 medianet-match.dotomi.com
@@ -1324,6 +1336,7 @@
 127.0.0.1 open.oneplus.net
 127.0.0.1 opentag-stats.qubit.com
 127.0.0.1 openx2-match.dotomi.com
+127.0.0.1 ophan.theguardian.com
 127.0.0.1 opps.taboola.com
 127.0.0.1 optimized-by.rubiconproject.com
 127.0.0.1 optimized-by.rubiconproject.net.akadns.net
@@ -1400,6 +1413,7 @@
 127.0.0.1 pixel.rubiconproject.com
 127.0.0.1 pixel.rubiconproject.net.akadns.net
 127.0.0.1 pixel.s3xified.com
+127.0.0.1 pixel.sitescout.com
 127.0.0.1 pixel.sojern.com
 127.0.0.1 pixel-sync.sitescout.com
 127.0.0.1 pixel.tapad.com
@@ -1489,6 +1503,7 @@
 127.0.0.1 quantcast584928381.s.moatpixel.com
 127.0.0.1 quantcast.mgr.consensu.org
 127.0.0.1 quantserve.com
+127.0.0.1 query.petametrics.com
 127.0.0.1 queuer-prod-elb.53.localytics.com
 127.0.0.1 r1.computerbild.de
 127.0.0.1 r.254a.com
@@ -1554,6 +1569,7 @@
 127.0.0.1 rtb-lb-eu-west.tubemogul.com
 127.0.0.1 rtb-lb-event-tm-ams.tubemogul.com
 127.0.0.1 rtb.mfadsrvr.com
+127.0.0.1 rtb.nativeads.com
 127.0.0.1 rtb.openx.net
 127.0.0.1 rtb-xa.openx.net
 127.0.0.1 rtd.tubemogul.com
@@ -1623,7 +1639,9 @@
 127.0.0.1 secure.adnxs.com
 127.0.0.1 secure-assets.rubiconproject.com
 127.0.0.1 secureaud.solocpm.com
+127.0.0.1 secure-au.imrworldwide.com
 127.0.0.1 secure-cdn.mplxtms.com
+127.0.0.1 secure-dcr.imrworldwide.com
 127.0.0.1 secure-ds.serving-sys.com
 127.0.0.1 secure.eloqua.com
 127.0.0.1 secure-eu.imrworldwide.com
@@ -1678,6 +1696,7 @@
 127.0.0.1 simage4.pubmatic.com
 127.0.0.1 s.innovid.com
 127.0.0.1 si.nuggad.net
+127.0.0.1 site.adform.com
 127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjrtp5.marketo.com
@@ -1776,6 +1795,7 @@
 127.0.0.1 static.plista.com
 127.0.0.1 static.showheroes.com
 127.0.0.1 static.site24x7rum.com
+127.0.0.1 static.ssacdn.com
 127.0.0.1 static.tradetracker.net
 127.0.0.1 static.vertamedia.com
 127.0.0.1 staticw2.yotpo.com
@@ -2036,6 +2056,7 @@
 127.0.0.1 vap4ewr1.lijit.com
 127.0.0.1 vap.lijit.com
 127.0.0.1 vars.hotjar.com
+127.0.0.1 vast.adsafeprotected.com
 127.0.0.1 vastcdn.outbrain.com
 127.0.0.1 vast.mathtag.com
 127.0.0.1 vastpixel.adsafeprotected.com
@@ -2108,6 +2129,7 @@
 127.0.0.1 ws-na.amazon.adsystem.com
 127.0.0.1 ws.pusherapp.com
 127.0.0.1 ws.sharethis.com
+127.0.0.1 wt.adctrl.com
 127.0.0.1 w.usabilla.com
 127.0.0.1 wv.inner-active.mobi
 127.0.0.1 ww1097.smartadserver.com
@@ -2120,6 +2142,7 @@
 127.0.0.1 www3.macys.com
 127.0.0.1 www3.mpnrs.com
 127.0.0.1 www3.smartadserver.com
+127.0.0.1 www4.smartadserver.com
 127.0.0.1 www6.smartadserver.com
 127.0.0.1 www8.smartadserver.com
 127.0.0.1 www.ad4mat.de
@@ -2174,11 +2197,13 @@
 127.0.0.1 www.ligatus.com
 127.0.0.1 www.linkwithin.com
 127.0.0.1 www.mainadv.com
+127.0.0.1 www.mathtag.com
 127.0.0.1 www.nexus.ensighten.com
 127.0.0.1 www.ojrq.net
 127.0.0.1 www.outbrain.com
 127.0.0.1 www.pinterest.com
 127.0.0.1 www.qualcomm.cn
+127.0.0.1 www.qualtrics.com
 127.0.0.1 www.quantcast.com
 127.0.0.1 www.ranking-hits.de
 127.0.0.1 www.refersion.com
@@ -2189,8 +2214,10 @@
 127.0.0.1 www.snapengage.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.summerhamster.com
+127.0.0.1 www.taboola.com
 127.0.0.1 www.tumblr.com
 127.0.0.1 www.unbounce.com
+127.0.0.1 www.urbandictionary.com
 127.0.0.1 www.usefomo.com
 127.0.0.1 www.usemax.de
 127.0.0.1 www.vungle.com
