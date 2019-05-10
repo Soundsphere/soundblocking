@@ -126,6 +126,7 @@
 127.0.0.1 adsearch.adkontekst.pl
 127.0.0.1 ads.ebay.com
 127.0.0.1 adselect.nuggad.net
+127.0.0.1 adserver1.backbeatmedia.com
 127.0.0.1 adserver.71i.de
 127.0.0.1 adserver.adtech.advertising.com
 127.0.0.1 adserver.adtech.de
@@ -273,6 +274,7 @@
 127.0.0.1 api.company-target.com
 127.0.0.1 api.demandbase.com
 127.0.0.1 api.gameanalytics.com
+127.0.0.1 api.getdrip.com
 127.0.0.1 api.getvero.com
 127.0.0.1 api.hybrid.intl.xiaomi.com
 127.0.0.1 api-iam.intercom.io
@@ -311,6 +313,7 @@
 127.0.0.1 app.appsflyer.com
 127.0.0.1 app.box.com
 127.0.0.1 app.chat.xiaomi.net
+127.0.0.1 app.crazyegg.com
 127.0.0.1 app.crossengage.io
 127.0.0.1 app-e.marketo.com
 127.0.0.1 app.getsentry.com
@@ -345,6 +348,7 @@
 127.0.0.1 asset.pagefair.com
 127.0.0.1 assets.adobedtm.com
 127.0.0.1 assets.adstage.io
+127.0.0.1 assets.customer.io
 127.0.0.1 assets-jpcust.jwpsrv.com
 127.0.0.1 assets.pinterest.com
 127.0.0.1 assets.privy.com
@@ -591,6 +595,7 @@
 127.0.0.1 clientcdn.pushengage.com
 127.0.0.1 client.perimeterx.net
 127.0.0.1 c.live.com
+127.0.0.1 clk.solocpm.com
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.adgrx.com
@@ -662,6 +667,7 @@
 127.0.0.1 criteo-sync.teads.tv
 127.0.0.1 cs9.wac.phicdn.net
 127.0.0.1 cs.adingo.jp
+127.0.0.1 csc.beap.bc.yahoo.com
 127.0.0.1 csi.gstatic.com
 127.0.0.1 cs.media.net
 127.0.0.1 c.spiegel.de
@@ -716,6 +722,7 @@
 127.0.0.1 data01.adlooxtracking.com
 127.0.0.1 data02.adlooxtracking.com
 127.0.0.1 data09.adlooxtracking.com
+127.0.0.1 data15.adlooxtracking.com
 127.0.0.1 data27.adlooxtracking.com
 127.0.0.1 data28.adlooxtracking.com
 127.0.0.1 data29.adlooxtracking.com
@@ -898,6 +905,7 @@
 127.0.0.1 fast-nc.appcues.com
 127.0.0.1 fast.skydeutschland.demdex.net
 127.0.0.1 fast.wistia.com
+127.0.0.1 faz.met.vgwort.de
 127.0.0.1 fbc.wcfbc.net
 127.0.0.1 fc03.deviantart.net
 127.0.0.1 fc.webmasterpro.de
@@ -964,7 +972,9 @@
 127.0.0.1 glitter.services.disqus.com
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 global.ib-ibi.com
+127.0.0.1 global.ymtracking.com
 127.0.0.1 gnar.grammarly.com
+127.0.0.1 go.affec.tv
 127.0.0.1 gocm.c.appier.net
 127.0.0.1 gocp.stroeermediabrands.de
 127.0.0.1 go.ezoic.net
@@ -1150,6 +1160,7 @@
 127.0.0.1 libs.coremetrics.com
 127.0.0.1 libs.de.coremetrics.com
 127.0.0.1 libs.outbrain.com
+127.0.0.1 licensing.bitmovin.com
 127.0.0.1 likemore-fe.go.mail.ru
 127.0.0.1 links.services.disqus.com
 127.0.0.1 live.chartboost.com
@@ -1583,6 +1594,7 @@
 127.0.0.1 sb.voicefive.com
 127.0.0.1 sc-analytics.appspot.com
 127.0.0.1 scdn.cxense.com
+127.0.0.1 sc.iasds01.com
 127.0.0.1 s.clickiocdn.com
 127.0.0.1 scomcluster.cxense.com
 127.0.0.1 scontent-iad3-1.cdninstagram.com
@@ -1669,6 +1681,7 @@
 127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjrtp5.marketo.com
+127.0.0.1 sjrtp6.marketo.com
 127.0.0.1 sjrtp8-cdn.marketo.com
 127.0.0.1 sjs.bizographics.com
 127.0.0.1 s.ktxtr.com
@@ -1855,6 +1868,7 @@
 127.0.0.1 tag.leadplace.fr
 127.0.0.1 tag.marinsm.com
 127.0.0.1 tag.perfectaudience.com
+127.0.0.1 tag.researchnow.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 tags.crwdcntrl.net
@@ -2008,6 +2022,7 @@
 127.0.0.1 usersegment.wpdigital.net
 127.0.0.1 use-tor.adsrvr.org
 127.0.0.1 use.typekit.net
+127.0.0.1 us.find.api.micloud.xiaomi.net
 127.0.0.1 us.galleryapi.micloud.xiaomi.net
 127.0.0.1 us.micardapi.micloud.xiaomi.net
 127.0.0.1 us.phonecallapi.micloud.xiaomi.net
@@ -2025,6 +2040,7 @@
 127.0.0.1 vast.mathtag.com
 127.0.0.1 vastpixel.adsafeprotected.com
 127.0.0.1 vast-pop-zrh.mathtag.com
+127.0.0.1 vast-test.mathtag.com
 127.0.0.1 va.tawk.to
 127.0.0.1 vcdn.adnxs.com
 127.0.0.1 venatusmedia-d.openx.net
@@ -2151,6 +2167,7 @@
 127.0.0.1 www.hashing.win
 127.0.0.1 www.hitwebcounter.com
 127.0.0.1 www.hlserve.com
+127.0.0.1 www.hotjar.com
 127.0.0.1 www.inskinad.com
 127.0.0.1 www.ist-track.com
 127.0.0.1 www.lduhtrp.net
@@ -2177,6 +2194,7 @@
 127.0.0.1 www.usefomo.com
 127.0.0.1 www.usemax.de
 127.0.0.1 www.vungle.com
+127.0.0.1 www.website-hit-counters.com
 127.0.0.1 www.za-ads.de
 127.0.0.1 www.zanox-affiliate.de
 127.0.0.1 www.zergnet.com
