@@ -46,6 +46,7 @@
 127.0.0.1 a.ad.gt
 127.0.0.1 a-ams.1rx.io
 127.0.0.1 a.applovin.com
+127.0.0.1 a.applvn.com
 127.0.0.1 a.audrte.com
 127.0.0.1 aaxads.com
 127.0.0.1 aax.amazon-adsystem.com
@@ -401,6 +402,7 @@
 127.0.0.1 beacon-eu2.rubiconproject.com
 127.0.0.1 beacon-eu-ams3.rubiconproject.com
 127.0.0.1 beacon.krxd.net
+127.0.0.1 beacon.netflix.com
 127.0.0.1 beacon-nf.rubiconproject.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacon.sojern.com
@@ -710,6 +712,7 @@
 127.0.0.1 d2xxq4ijfwetlm.cloudfront.net
 127.0.0.1 d31bfnnwekbny6.cloudfront.net
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
+127.0.0.1 d36wtdrdo22bqa.cloudfront.net
 127.0.0.1 d37gvrvc0wt4s1.cloudfront.net
 127.0.0.1 d3c3cq33003psk.cloudfront.net
 127.0.0.1 d3cxv97fi8q177.cloudfront.net
@@ -827,6 +830,7 @@
 127.0.0.1 dsum-sec.casalemedia.com
 127.0.0.1 dt.admission.net
 127.0.0.1 dt.adsafeprotected.com
+127.0.0.1 dtlilztwypawv.cloudfront.net
 127.0.0.1 dtm.advertising.com
 127.0.0.1 dts.innovid.com
 127.0.0.1 dumontnet.d3.sc.omtrdc.net
@@ -982,6 +986,7 @@
 127.0.0.1 getrockerbox.com
 127.0.0.1 g.ezoic.net
 127.0.0.1 gg.google.com
+127.0.0.1 gj.mmstat.com
 127.0.0.1 glb-ads.atwola.adtech.de
 127.0.0.1 glitter.services.disqus.com
 127.0.0.1 globalapi.ad.xiaomi.com
@@ -1208,6 +1213,7 @@
 127.0.0.1 logs1125.xiti.com
 127.0.0.1 logs1406.xiti.com
 127.0.0.1 logs.dashlane.com
+127.0.0.1 logs.supersonic.com
 127.0.0.1 log.tagcade.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 loopme.me
@@ -1238,6 +1244,7 @@
 127.0.0.1 marketing.alibaba.com
 127.0.0.1 marketing.criteo.com
 127.0.0.1 marketing.dropbox.com
+127.0.0.1 marketing.net.brillen.de
 127.0.0.1 marriott.btttag.com
 127.0.0.1 masterh5.adriver.ru
 127.0.0.1 mastertag.effiliation.com
@@ -1601,6 +1608,7 @@
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8.addthis.com
 127.0.0.1 s8t.teads.tv
+127.0.0.1 sa.api.intl.miui.com
 127.0.0.1 s.adroll.com
 127.0.0.1 salesforce.com
 127.0.0.1 salesforcecom.demdex.net
@@ -1609,6 +1617,7 @@
 127.0.0.1 sam.msn.com
 127.0.0.1 samsung-germany.demdex.net
 127.0.0.1 sa.scorecardresearch.com
+127.0.0.1 sat.sanoma.fi
 127.0.0.1 sb.l.google.com
 127.0.0.1 sb.monetate.net
 127.0.0.1 sbnationbidder-d.openx.net
@@ -1676,6 +1685,7 @@
 127.0.0.1 self.events.data.microsoft.com
 127.0.0.1 semantiqo.com
 127.0.0.1 se.monetate.net
+127.0.0.1 sentry.hotjar.com
 127.0.0.1 sentry.io
 127.0.0.1 serve.adtrackers.net
 127.0.0.1 serve.bannertrack.net
@@ -1757,6 +1767,7 @@
 127.0.0.1 ssl-munchkin.marketo.net
 127.0.0.1 ssl-vg03.met.vgwort.de
 127.0.0.1 sslwidget.criteo.com
+127.0.0.1 ssl.widgets.webengage.com
 127.0.0.1 ssl.xplosion.de
 127.0.0.1 ss.musthird.com
 127.0.0.1 ssp.adriver.ru
@@ -2074,6 +2085,7 @@
 127.0.0.1 vast-test.mathtag.com
 127.0.0.1 va.tawk.to
 127.0.0.1 vcdn.adnxs.com
+127.0.0.1 vdna.exelator.com
 127.0.0.1 venatusmedia-d.openx.net
 127.0.0.1 vendorlist.consensu.org
 127.0.0.1 vfd2dyn.vodafone.de
