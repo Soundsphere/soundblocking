@@ -119,6 +119,7 @@
 127.0.0.1 ads.adadapted.com
 127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 ads-adaptv.vidible.tv
+127.0.0.1 ads.ad-center.com
 127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.admized.com
 127.0.0.1 ads.adtiger.de
@@ -555,6 +556,7 @@
 127.0.0.1 cdn.livechatinc.com
 127.0.0.1 cdn.livefyre.com
 127.0.0.1 cdn.mediavoice.com
+127.0.0.1 cdn.mgid.com
 127.0.0.1 cdn.moengage.com
 127.0.0.1 cdn.mouseflow.com
 127.0.0.1 cdn.m-pathy.com
@@ -645,6 +647,7 @@
 127.0.0.1 cmp.advertising.com
 127.0.0.1 cms.analytics.yahoo.com
 127.0.0.1 cms.quantserve.com
+127.0.0.1 cm.steepto.com
 127.0.0.1 cms-xch.33across.com
 127.0.0.1 code.bildstatic.de
 127.0.0.1 code.etracker.com
@@ -1672,6 +1675,7 @@
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtb-lb-eu-west.tubemogul.com
 127.0.0.1 rtb-lb-event-tm-ams.tubemogul.com
+127.0.0.1 rtb.metrigo.com
 127.0.0.1 rtb.mfadsrvr.com
 127.0.0.1 rtb.nativeads.com
 127.0.0.1 rtb.openx.net
@@ -2211,6 +2215,7 @@
 127.0.0.1 vidapi.expepp.de
 127.0.0.1 video-adserver.ibillboard.com
 127.0.0.1 video-ads.rubiconproject.com
+127.0.0.1 videoevents.outbrain.com
 127.0.0.1 video.oms.eu
 127.0.0.1 video.unrulymedia.com
 127.0.0.1 video.xx.fbcdn.net
