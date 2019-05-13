@@ -173,6 +173,7 @@
 127.0.0.1 ads.trafficjunky.net
 127.0.0.1 ads.undertone.com
 127.0.0.1 ads.videoadex.com
+127.0.0.1 ads.w55c.net
 127.0.0.1 ad.sxp.smartclip.net
 127.0.0.1 ads.yahoo.com
 127.0.0.1 ads.yap.yahoo.com
@@ -234,6 +235,7 @@
 127.0.0.1 ams01-login.dotomi.com
 127.0.0.1 ams01-login-ds.dotomi.com
 127.0.0.1 ams01-usadmm-ds.dotomi.com
+127.0.0.1 ams02-bfp01.mediaplex.com
 127.0.0.1 ams02-bfp02.mediaplex.com
 127.0.0.1 ams02-login-ds.dotomi.com
 127.0.0.1 ams02-usadmm-ds.dotomi.com
@@ -1202,6 +1204,7 @@
 127.0.0.1 itx5.smartadserver.com
 127.0.0.1 i.w55c.net
 127.0.0.1 j93557g.com
+127.0.0.1 j.adlooxtracking.com
 127.0.0.1 jadserve.postrelease.com
 127.0.0.1 jp-u.openx.net
 127.0.0.1 js.adscale.de
@@ -1210,6 +1213,7 @@
 127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 jscdn.yieldbird.com
+127.0.0.1 jsc.mgid.com
 127.0.0.1 js.gumgum.com
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hscollectedforms.net
@@ -1226,6 +1230,7 @@
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 js.smartredirect.de
 127.0.0.1 js.spotx.tv
+127.0.0.1 js.users.51.la
 127.0.0.1 js-webt-lol.9cache.com
 127.0.0.1 junkeemedia.demdex.net
 127.0.0.1 jvz9.com
@@ -1279,6 +1284,7 @@
 127.0.0.1 logs1406.xiti.com
 127.0.0.1 logs.dashlane.com
 127.0.0.1 logs.supersonic.com
+127.0.0.1 log.streamagent.sensic.net
 127.0.0.1 log.tagcade.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 lonrtp1-cdn.marketo.com
@@ -2070,6 +2076,7 @@
 127.0.0.1 t.premii.com
 127.0.0.1 tps30.doubleverify.com
 127.0.0.1 tps.doubleverify.com
+127.0.0.1 t.pubmatic.com
 127.0.0.1 track1.aniview.com
 127.0.0.1 track1.viewdeos.com
 127.0.0.1 track2.trbo.com
@@ -2104,6 +2111,7 @@
 127.0.0.1 tracking.mlsat02.de
 127.0.0.1 tracking.musixmatch.com
 127.0.0.1 tracking.omnitagjs.com
+127.0.0.1 tracking.retailrocket.net
 127.0.0.1 tracking.s24.com
 127.0.0.1 tracking.searchmarketing.com
 127.0.0.1 tracking.vcommission.com
