@@ -11,6 +11,7 @@
 127.0.0.1 2.chipde.damoh.schneevonmorgen.com
 127.0.0.1 3276817.fls.doubleclick.net
 127.0.0.1 3p.ampproject.net
+127.0.0.1 403-agf-920.mktoresp.com
 127.0.0.1 4228414.fls.doubleclick.net
 127.0.0.1 4345210.fls.doubleclick.net
 127.0.0.1 4704202.fls.doubleclick.net
@@ -737,6 +738,7 @@
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
 127.0.0.1 d1m6l9dfulcyw7.cloudfront.net
+127.0.0.1 d1.openx.org
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zgderxoe1a.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
@@ -800,6 +802,7 @@
 127.0.0.1 dc43.s290.meetrics.net
 127.0.0.1 dc56.s290.meetrics.net
 127.0.0.1 dc61.s290.meetrics.net
+127.0.0.1 dc84.s290.meetrics.net
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dc.banggood.com
 127.0.0.1 dcinfos.abtasty.com
