@@ -731,6 +731,7 @@
 127.0.0.1 d1eoo1tco6rr5e.cloudfront.net
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
+127.0.0.1 d1m6l9dfulcyw7.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zgderxoe1a.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
@@ -2051,6 +2052,7 @@
 127.0.0.1 tlp-02.kameleoon.com
 127.0.0.1 tlp-03.kameleoon.com
 127.0.0.1 tlp-04.kameleoon.com
+127.0.0.1 tmgr.ccmbg.com
 127.0.0.1 tmk-secure.smartadserver.com
 127.0.0.1 tmk.smartadserver.com
 127.0.0.1 t.mookie1.com
