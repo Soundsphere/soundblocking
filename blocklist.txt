@@ -12,6 +12,7 @@
 127.0.0.1 3276817.fls.doubleclick.net
 127.0.0.1 3p.ampproject.net
 127.0.0.1 4228414.fls.doubleclick.net
+127.0.0.1 4345210.fls.doubleclick.net
 127.0.0.1 4704202.fls.doubleclick.net
 127.0.0.1 4898337.fls.doubleclick.net
 127.0.0.1 4.bp.blogspot.com
@@ -63,6 +64,7 @@
 127.0.0.1 acds-b.prod.eu-west-1.vidible.tv
 127.0.0.1 acds.prod.eu-west-1.vidible.tv
 127.0.0.1 acds.prod.vidible.tv
+127.0.0.1 acl.stayfriends.de
 127.0.0.1 a.company-target.com
 127.0.0.1 action.media6degrees.com
 127.0.0.1 action.metaffiliation.com
@@ -261,6 +263,7 @@
 127.0.0.1 analytics.pokki.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.shareaholic.com
+127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
 127.0.0.1 analytics.twitter.com
 127.0.0.1 analytics-udg.netdna-ssl.com
@@ -378,6 +381,7 @@
 127.0.0.1 ats.otto.de
 127.0.0.1 a.twiago.com
 127.0.0.1 auction.unityads.unity3d.com
+127.0.0.1 audible.tt.omtrdc.net
 127.0.0.1 authbe.sec.intl.miui.com
 127.0.0.1 auth.be.sec.miui.com
 127.0.0.1 authentication.taboola.com
@@ -641,6 +645,7 @@
 127.0.0.1 codefund.app
 127.0.0.1 code.ionicframework.com
 127.0.0.1 codeload.github.com
+127.0.0.1 code.visitor-track.com
 127.0.0.1 coinbase.com
 127.0.0.1 coinmarketcap.com
 127.0.0.1 col.eum-appdynamics.com
@@ -745,6 +750,7 @@
 127.0.0.1 d3sbxpiag177w8.cloudfront.net
 127.0.0.1 d3v27wwd40f0xu.cloudfront.net
 127.0.0.1 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+127.0.0.1 d8rk54i4mohrb.cloudfront.net
 127.0.0.1 d9hhrg4mnvzow.cloudfront.net
 127.0.0.1 d.adroll.com
 127.0.0.1 d.adtriba.com
@@ -1257,6 +1263,7 @@
 127.0.0.1 log.outbrainimg.com
 127.0.0.1 log.pinterest.com
 127.0.0.1 log.quora.com
+127.0.0.1 log.rutube.ru
 127.0.0.1 logs-01.loggly.com
 127.0.0.1 logs1125.xiti.com
 127.0.0.1 logs1242.xiti.com
@@ -1439,6 +1446,7 @@
 127.0.0.1 pespn.chartbeat.net
 127.0.0.1 pfa.levexis.com
 127.0.0.1 phar.gu-web.net
+127.0.0.1 philips.112.2o7.net
 127.0.0.1 phonograph2.voxmedia.com
 127.0.0.1 p.imgur.com
 127.0.0.1 ping.chartbeat.net
@@ -1539,6 +1547,7 @@
 127.0.0.1 ps.eyeota.net
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.smartertravel.com
+127.0.0.1 p.teads.tv
 127.0.0.1 pt.ispot.tv
 127.0.0.1 p.t-online.de
 127.0.0.1 p.twitter.com
@@ -1578,6 +1587,7 @@
 127.0.0.1 r.254a.com
 127.0.0.1 r2---sn-4g5e6n76.gvt1.com
 127.0.0.1 r2---sn-4g5ednsk.gvt1.com
+127.0.0.1 r2---sn-4g5ednsy.gvt1.com
 127.0.0.1 r6---sn-4g5e6nes.gvt1.com
 127.0.0.1 r6---sn-4g5edne7.gvt1.com
 127.0.0.1 r.ad6media.fr
@@ -1891,6 +1901,7 @@
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.yieldmo.com
 127.0.0.1 static.zotabox.com
+127.0.0.1 stat.pladform.ru
 127.0.0.1 stat.radar.imgsmail.ru
 127.0.0.1 stats3.unrulymedia.com
 127.0.0.1 statsapi.screen9.com
