@@ -1223,6 +1223,7 @@
 127.0.0.1 js.smartredirect.de
 127.0.0.1 js.spotx.tv
 127.0.0.1 js-webt-lol.9cache.com
+127.0.0.1 junkeemedia.demdex.net
 127.0.0.1 jvz9.com
 127.0.0.1 jwpltx.com
 127.0.0.1 kinesis.us-east-1.amazonaws.com
@@ -1500,6 +1501,7 @@
 127.0.0.1 pixel-us-east.rubiconproject.com
 127.0.0.1 pixel-us-west.rubiconproject.com
 127.0.0.1 pixel.wp.com
+127.0.0.1 pixel.yabidos.com
 127.0.0.1 pix.impdesk.com
 127.0.0.1 plarium.com
 127.0.0.1 platform.linkedin.com
@@ -1904,6 +1906,7 @@
 127.0.0.1 static.ssacdn.com
 127.0.0.1 static.tradetracker.net
 127.0.0.1 static.vertamedia.com
+127.0.0.1 static.virgul.com
 127.0.0.1 staticw2.yotpo.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.yieldmo.com
