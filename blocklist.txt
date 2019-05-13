@@ -34,6 +34,7 @@
 127.0.0.1 a2150.casalemedia.com
 127.0.0.1 a2170.casalemedia.com
 127.0.0.1 a2181.casalemedia.com
+127.0.0.1 a2190.casalemedia.com
 127.0.0.1 a2220.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
 127.0.0.1 a3281.casalemedia.com
@@ -229,6 +230,7 @@
 127.0.0.1 amplifypixel.outbrain.com
 127.0.0.1 ams01-bfp01.mediaplex.com
 127.0.0.1 ams01-bfp02.mediaplex.com
+127.0.0.1 ams01-login.dotomi.com
 127.0.0.1 ams01-login-ds.dotomi.com
 127.0.0.1 ams01-usadmm-ds.dotomi.com
 127.0.0.1 ams02-bfp02.mediaplex.com
@@ -263,6 +265,7 @@
 127.0.0.1 analytics.pokki.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.shareaholic.com
+127.0.0.1 analytics.similarweb.com
 127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
 127.0.0.1 analytics.twitter.com
@@ -787,6 +790,7 @@
 127.0.0.1 db5.settings.data.microsoft.com.akadns.net
 127.0.0.1 db5.vortex.data.microsoft.com.akadns.net
 127.0.0.1 dbt.adition.com
+127.0.0.1 dc43.s290.meetrics.net
 127.0.0.1 dc56.s290.meetrics.net
 127.0.0.1 dc61.s290.meetrics.net
 127.0.0.1 dc.ads.linkedin.com
@@ -1305,6 +1309,7 @@
 127.0.0.1 marriott.btttag.com
 127.0.0.1 masterh5.adriver.ru
 127.0.0.1 mastertag.effiliation.com
+127.0.0.1 mastertag.q-sis.de
 127.0.0.1 match.adsby.bidtheatre.com
 127.0.0.1 match.adsrvr.org
 127.0.0.1 match.basebanner.com
@@ -1506,6 +1511,7 @@
 127.0.0.1 plugin.mediavoice.com
 127.0.0.1 pluralsight.hb.omtrdc.net
 127.0.0.1 pluralsight.tt.omtrdc.net
+127.0.0.1 pmetrics.performancing.com
 127.0.0.1 pm.w55c.net
 127.0.0.1 pnytimes.chartbeat.net
 127.0.0.1 polarcdn-pentos.com
@@ -1604,6 +1610,7 @@
 127.0.0.1 rdi.eu.criteo.com
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 recommender.scarabresearch.com
+127.0.0.1 recreativ.ru
 127.0.0.1 recs.shareaholic.com
 127.0.0.1 redirect.viglink.com
 127.0.0.1 referrer.disqus.com
@@ -2046,6 +2053,7 @@
 127.0.0.1 t.nativendo.de
 127.0.0.1 token.rubiconproject.com
 127.0.0.1 top-fwz1.mail.ru
+127.0.0.1 touch.myntra.com
 127.0.0.1 t.paypal.com
 127.0.0.1 tpc.googlesyndication.com
 127.0.0.1 t.powerreviews.com
