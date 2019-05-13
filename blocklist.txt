@@ -142,6 +142,7 @@
 127.0.0.1 adserver.adtech.de
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 adserver-eu.adtech.advertising.com
+127.0.0.1 adserver-qcamt.adtech.de
 127.0.0.1 adserver.snapads.com
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adservex.media.net
@@ -846,6 +847,7 @@
 127.0.0.1 dmp.theadex.com
 127.0.0.1 dmp.v.fwmrm.net
 127.0.0.1 dmtracking2.alibaba.com
+127.0.0.1 dn3y71tq7jf07.cloudfront.net
 127.0.0.1 d.nativendo.de
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dnsseed.bluematt.me
@@ -853,6 +855,7 @@
 127.0.0.1 doug1izaerwt3.cloudfront.net
 127.0.0.1 download.gamestar.de
 127.0.0.1 downloads.intercomcdn.com
+127.0.0.1 dp2.33across.com
 127.0.0.1 dpm.demdex.net
 127.0.0.1 dp-sync.dotomi.com
 127.0.0.1 d.pub.network
@@ -1278,6 +1281,7 @@
 127.0.0.1 log.tagcade.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 lonrtp1-cdn.marketo.com
+127.0.0.1 look.kfiopkln.com
 127.0.0.1 loopme.me
 127.0.0.1 l.ooyala.com
 127.0.0.1 lptag.liveperson.net
@@ -1681,6 +1685,7 @@
 127.0.0.1 s0.2mdn.net
 127.0.0.1 s0.doubleclick.net
 127.0.0.1 s0.wp.com
+127.0.0.1 s10.histats.com
 127.0.0.1 s1.adform.net
 127.0.0.1 s248.meetrics.net
 127.0.0.1 s290.mxcdn.net
@@ -2238,6 +2243,7 @@
 127.0.0.1 widget.privy.com
 127.0.0.1 widgets.outbrain.com
 127.0.0.1 widget.us.criteo.com
+127.0.0.1 wikia-d.openx.net
 127.0.0.1 wildcard.moatads.com.edgekey.net
 127.0.0.1 win8.ipv6.microsoft.com
 127.0.0.1 wms-na.amazon-adsystem.com
@@ -2272,6 +2278,7 @@
 127.0.0.1 www.adcell.de
 127.0.0.1 www.addthis.com
 127.0.0.1 www.addtoany.com
+127.0.0.1 www.adition.com
 127.0.0.1 www.adobetag.com
 127.0.0.1 www.adtilt.com
 127.0.0.1 www.alexa.com
@@ -2317,6 +2324,7 @@
 127.0.0.1 www.hotjar.com
 127.0.0.1 www.inskinad.com
 127.0.0.1 www.ist-track.com
+127.0.0.1 www.kqzyfj.com
 127.0.0.1 www.lduhtrp.net
 127.0.0.1 www.ligatus.com
 127.0.0.1 www.linkwithin.com
