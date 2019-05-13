@@ -55,6 +55,7 @@
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 a.bf-ad.net
 127.0.0.1 a.bf-tools.net
+127.0.0.1 abp.smartadcheck.de
 127.0.0.1 abs.proxistore.com
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 acdn.adnxs.com
@@ -64,6 +65,7 @@
 127.0.0.1 acds.prod.vidible.tv
 127.0.0.1 a.company-target.com
 127.0.0.1 action.media6degrees.com
+127.0.0.1 action.metaffiliation.com
 127.0.0.1 actions-am.taboola.com
 127.0.0.1 activity.windows.com
 127.0.0.1 act.webmasterplan.com
@@ -114,6 +116,7 @@
 127.0.0.1 ads.adadapted.com
 127.0.0.1 ads.adaptv.advertising.com
 127.0.0.1 ads-adaptv.vidible.tv
+127.0.0.1 ads.adfox.ru
 127.0.0.1 ads.admized.com
 127.0.0.1 ads.adtiger.de
 127.0.0.1 ads.altitude-arena.com
@@ -149,6 +152,7 @@
 127.0.0.1 ads.lfstmedia.com
 127.0.0.1 ads.mopub.com
 127.0.0.1 ads.nexage.com
+127.0.0.1 ads.pictela.net
 127.0.0.1 ads.programattik.com
 127.0.0.1 adspsp.com
 127.0.0.1 ads.pubmatic.com
@@ -190,6 +194,7 @@
 127.0.0.1 ad.zanox.com
 127.0.0.1 aexp.demdex.net
 127.0.0.1 aff.bstatic.com
+127.0.0.1 affiliate.immobilienscout24.de
 127.0.0.1 afs.googleusercontent.com
 127.0.0.1 agentanalytics.com
 127.0.0.1 ag.innovid.com
@@ -215,6 +220,7 @@
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 amazon.ca
 127.0.0.1 amazon.co.jp
+127.0.0.1 amcglobal.sc.omtrdc.net
 127.0.0.1 a.mobify.com
 127.0.0.1 amplify-imp.outbrain.com
 127.0.0.1 amplify.outbrain.com
@@ -470,6 +476,7 @@
 127.0.0.1 cas.criteo.com
 127.0.0.1 cat.fr.eu.criteo.com
 127.0.0.1 cat.nl.eu.criteo.com
+127.0.0.1 ca.video-cdn.net
 127.0.0.1 cbcca.demdex.net
 127.0.0.1 c.betrad.com
 127.0.0.1 c.bing.com
@@ -485,6 +492,7 @@
 127.0.0.1 cdn2.hubspot.net
 127.0.0.1 cdn3.doubleverify.com
 127.0.0.1 cdn4.mxpnl.com
+127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 cdn.accelerator.arsdev.net
 127.0.0.1 cdn.adikteev.com
 127.0.0.1 cdn.admixer.net
@@ -561,6 +569,7 @@
 127.0.0.1 cdns.gigya.com
 127.0.0.1 cdn-sic.33across.com
 127.0.0.1 cdn.siftscience.com
+127.0.0.1 cdn.simility.com
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 cdn-static.optimonk.com
@@ -666,6 +675,7 @@
 127.0.0.1 continuum.dds.microsoft.com
 127.0.0.1 control.kochava.com
 127.0.0.1 convammp.taboola.com
+127.0.0.1 conversions.adaptv.advertising.com
 127.0.0.1 conv.tubemogul.com
 127.0.0.1 cookie.brealtime.com
 127.0.0.1 cookie-matching.mediarithmics.com
@@ -770,6 +780,7 @@
 127.0.0.1 db5.vortex.data.microsoft.com.akadns.net
 127.0.0.1 dbt.adition.com
 127.0.0.1 dc56.s290.meetrics.net
+127.0.0.1 dc61.s290.meetrics.net
 127.0.0.1 dc.ads.linkedin.com
 127.0.0.1 dc.banggood.com
 127.0.0.1 dcinfos.abtasty.com
@@ -814,6 +825,7 @@
 127.0.0.1 djtflbt20bdde.cloudfront.net
 127.0.0.1 dkb01.webtrekk.net
 127.0.0.1 d.liadm.com
+127.0.0.1 d.ligatus.com
 127.0.0.1 dmd.metaservices.microsoft.com
 127.0.0.1 dmg.digitaltarget.ru
 127.0.0.1 dm.hybrid.ai
@@ -882,6 +894,7 @@
 127.0.0.1 engage.commander1.com
 127.0.0.1 engine.addroplet.com
 127.0.0.1 engine.adzerk.net
+127.0.0.1 engine.widespace.com
 127.0.0.1 entitlements.jwplayer.com
 127.0.0.1 ep3.performfeeds.com
 127.0.0.1 epl.paypal-communication.com
@@ -1004,6 +1017,7 @@
 127.0.0.1 g.ezoic.net
 127.0.0.1 gg.google.com
 127.0.0.1 gj.mmstat.com
+127.0.0.1 glassmoni.researchgate.net
 127.0.0.1 glb-ads.atwola.adtech.de
 127.0.0.1 glb-ads.atwola.adtechus.com
 127.0.0.1 glitter.services.disqus.com
@@ -1074,6 +1088,7 @@
 127.0.0.1 hw-cdn.trafficjunky.net
 127.0.0.1 i2.createsend1.com
 127.0.0.1 ia601507.us.archive.org
+127.0.0.1 iad-2-apex.go.sonobi.com
 127.0.0.1 iad-2-sync.go.sonobi.com
 127.0.0.1 iadsdk.apple.com
 127.0.0.1 iam-agof-app.irquest.com
@@ -1115,6 +1130,7 @@
 127.0.0.1 imasdk.googleapis.com
 127.0.0.1 img1.blogblog.com
 127.0.0.1 img1.zergnet.com
+127.0.0.1 img.3lift.com
 127.0.0.1 img.alibaba.com
 127.0.0.1 img.applovin.com
 127.0.0.1 img.en25.com
@@ -1173,6 +1189,7 @@
 127.0.0.1 js.adscale.de
 127.0.0.1 js.adsrvr.org
 127.0.0.1 js-agent.newrelic.com
+127.0.0.1 js.agkn.com
 127.0.0.1 js.appboycdn.com
 127.0.0.1 jscdn.yieldbird.com
 127.0.0.1 js.gumgum.com
@@ -1428,6 +1445,7 @@
 127.0.0.1 pippio.com
 127.0.0.1 piwik.up.welt.de
 127.0.0.1 pix.btrll.com
+127.0.0.1 pixel-a.basis.net
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
 127.0.0.1 pixel-a.sitescout.com
@@ -1507,6 +1525,7 @@
 127.0.0.1 pro.ip-api.com
 127.0.0.1 projectagora.net
 127.0.0.1 prophet.heise.de
+127.0.0.1 prosieben01.webtrekk.net
 127.0.0.1 proxy.sec.miui.com
 127.0.0.1 pr.ybp.yahoo.com
 127.0.0.1 psa.carambo.la
@@ -1629,6 +1648,7 @@
 127.0.0.1 rules.atgsvcs.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rum-static.pingdom.net
+127.0.0.1 run-syndicate.com
 127.0.0.1 rva.outbrain.com
 127.0.0.1 rv-gateway.supersonicads.com
 127.0.0.1 s01.flagcounter.com
@@ -1685,6 +1705,7 @@
 127.0.0.1 sdk.beeketing.com
 127.0.0.1 sdkconfig.ad.intl.xiaomi.com
 127.0.0.1 sdk.streamrail.com
+127.0.0.1 sdrive.skoda-auto.com
 127.0.0.1 seal.verisign.com
 127.0.0.1 seccdn-gl.imrworldwide.com
 127.0.0.1 secserv.adtech.de
@@ -1754,6 +1775,7 @@
 127.0.0.1 siteimproveanalytics.com
 127.0.0.1 siteintercept.qualtrics.com
 127.0.0.1 sjrtp5.marketo.com
+127.0.0.1 sjrtp6-cdn.marketo.com
 127.0.0.1 sjrtp6.marketo.com
 127.0.0.1 sjrtp8-cdn.marketo.com
 127.0.0.1 sjs.bizographics.com
@@ -1795,6 +1817,7 @@
 127.0.0.1 srx.main.ebayrtm.com
 127.0.0.1 ssc.33across.com
 127.0.0.1 ssc.api.bbc.com
+127.0.0.1 ssc-cms.33across.com
 127.0.0.1 sshowads.pubmatic.com
 127.0.0.1 s.skimresources.com
 127.0.0.1 ssl.google-analytics.com
@@ -1895,6 +1918,7 @@
 127.0.0.1 s.update.adsrvr.org
 127.0.0.1 s.update.indexww.com
 127.0.0.1 s.update.rubiconproject.com
+127.0.0.1 s.update.wtag.adaptv.advertising.com
 127.0.0.1 supersonicads-a.akamaihd.net
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 s-usweb.dotomi.com
@@ -2282,6 +2306,7 @@
 127.0.0.1 www.storygize.net
 127.0.0.1 www.summerhamster.com
 127.0.0.1 www.taboola.com
+127.0.0.1 www.tns-counter.ru
 127.0.0.1 www.tumblr.com
 127.0.0.1 www.unbounce.com
 127.0.0.1 www.urbandictionary.com
@@ -2313,6 +2338,7 @@
 127.0.0.1 ynuf.alibaba.com
 127.0.0.1 ynuf.alipay.com
 127.0.0.1 z15ba20a04.webengage.co
+127.0.0.1 zeit.met.vgwort.de
 127.0.0.1 z-eu.amazon-adsystem.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 z.moatads.com
