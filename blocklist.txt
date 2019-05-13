@@ -649,6 +649,7 @@
 127.0.0.1 collector-cdn.github.com
 127.0.0.1 collector.githubapp.com
 127.0.0.1 collector-medium.lightstep.com
+127.0.0.1 collector.prod.expedia.com
 127.0.0.1 collect.tealiumiq.com
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 completion.amazon.com
@@ -682,6 +683,7 @@
 127.0.0.1 cookiesync.vertamedia.com
 127.0.0.1 cookiex.ngd.yahoo.com
 127.0.0.1 counter.rambler.ru
+127.0.0.1 counter.theconversation.edu.au
 127.0.0.1 counter.top.ge
 127.0.0.1 counter.yadro.ru
 127.0.0.1 count-server.sharethis.com
@@ -875,6 +877,7 @@
 127.0.0.1 ebaydeb-d.openx.net
 127.0.0.1 ebayinc.demdex.net
 127.0.0.1 ebdr3.com
+127.0.0.1 ebs.criteo.com
 127.0.0.1 eb.trbas.com
 127.0.0.1 ecommerce.iap.unity3d.com
 127.0.0.1 e.crashlytics.com
@@ -1138,6 +1141,7 @@
 127.0.0.1 img.mediaplex.com
 127.0.0.1 img.metaffiliation.com
 127.0.0.1 img.mplx.akadns.net
+127.0.0.1 imguplo.com
 127.0.0.1 img.web.de
 127.0.0.1 imprammp.taboola.com
 127.0.0.1 impression.appsflyer.com
@@ -1195,6 +1199,7 @@
 127.0.0.1 js.gumgum.com
 127.0.0.1 js.hs-analytics.net
 127.0.0.1 js.hscollectedforms.net
+127.0.0.1 js.hscta.net
 127.0.0.1 js.hsleadflows.net
 127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.idio.co
@@ -1260,6 +1265,7 @@
 127.0.0.1 logs.supersonic.com
 127.0.0.1 log.tagcade.com
 127.0.0.1 logx.optimizely.com
+127.0.0.1 lonrtp1-cdn.marketo.com
 127.0.0.1 loopme.me
 127.0.0.1 l.ooyala.com
 127.0.0.1 lptag.liveperson.net
@@ -1610,6 +1616,7 @@
 127.0.0.1 r.my.com
 127.0.0.1 r.nexac.com
 127.0.0.1 rollbar.com
+127.0.0.1 rotumal.com
 127.0.0.1 route.carambo.la
 127.0.0.1 router.infolinks.com
 127.0.0.1 rover.ebay.com
@@ -1653,6 +1660,7 @@
 127.0.0.1 rv-gateway.supersonicads.com
 127.0.0.1 s01.flagcounter.com
 127.0.0.1 s0.2mdn.net
+127.0.0.1 s0.doubleclick.net
 127.0.0.1 s0.wp.com
 127.0.0.1 s1.adform.net
 127.0.0.1 s248.meetrics.net
@@ -1664,6 +1672,7 @@
 127.0.0.1 s8.addthis.com
 127.0.0.1 s8t.teads.tv
 127.0.0.1 sa.api.intl.miui.com
+127.0.0.1 sa.bbc.co.uk
 127.0.0.1 s.adroll.com
 127.0.0.1 salesforce.com
 127.0.0.1 salesforcecom.demdex.net
@@ -1800,6 +1809,7 @@
 127.0.0.1 sofia.trustx.org
 127.0.0.1 solutions.nitro.bunchball.net
 127.0.0.1 soma.smaato.net
+127.0.0.1 sonyglobal.d1.sc.omtrdc.net
 127.0.0.1 sp1cluster.cxense.com
 127.0.0.1 sp.adbrn.com
 127.0.0.1 sp.analytics.yahoo.com
@@ -1922,6 +1932,7 @@
 127.0.0.1 supersonicads-a.akamaihd.net
 127.0.0.1 survey.g.doubleclick.net
 127.0.0.1 s-usweb.dotomi.com
+127.0.0.1 svastx.moatads.com
 127.0.0.1 s.webtrends.com
 127.0.0.1 swrap.tradedoubler.com
 127.0.0.1 s.xp1.ru4.com
@@ -1970,6 +1981,7 @@
 127.0.0.1 tag.marinsm.com
 127.0.0.1 tag.perfectaudience.com
 127.0.0.1 tag.researchnow.com
+127.0.0.1 tags.api.umbel.com
 127.0.0.1 tags.bkrtx.com
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 tags.crwdcntrl.net
@@ -2125,6 +2137,7 @@
 127.0.0.1 usage.trackjs.com
 127.0.0.1 usasync01.admantx.com
 127.0.0.1 usemax.de
+127.0.0.1 usemaxserver.de
 127.0.0.1 usermatch.krxd.net
 127.0.0.1 usersegment.wpdigital.net
 127.0.0.1 use-tor.adsrvr.org
@@ -2263,6 +2276,7 @@
 127.0.0.1 www.dwin2.com
 127.0.0.1 www.econda-monitor.de
 127.0.0.1 www.emjcd.com
+127.0.0.1 www.etracker.com
 127.0.0.1 www.etracker.de
 127.0.0.1 www.everestjs.net
 127.0.0.1 www.fastcounter.de
