@@ -1566,6 +1566,7 @@
 127.0.0.1 pixel.wp.com
 127.0.0.1 pixel.yabidos.com
 127.0.0.1 pix.impdesk.com
+127.0.0.1 placements.tapjoy.com
 127.0.0.1 plarium.com
 127.0.0.1 platform.linkedin.com
 127.0.0.1 platform.tumblr.com
@@ -2233,6 +2234,8 @@
 127.0.0.1 uir.uimserv.net
 127.0.0.1 uk-ads.openx.net
 127.0.0.1 uk.at.atwola.com
+127.0.0.1 ulogs.umengcloud.com
+127.0.0.1 ulogs.umeng.com
 127.0.0.1 um2.eqads.com
 127.0.0.1 ums.adtech.de
 127.0.0.1 um.simpli.fi
