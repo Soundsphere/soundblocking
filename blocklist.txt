@@ -41,6 +41,7 @@
 127.0.0.1 a2240.casalemedia.com
 127.0.0.1 a3281.casalemedia.com
 127.0.0.1 a3290.casalemedia.com
+127.0.0.1 a3291.casalemedia.com
 127.0.0.1 a3340.casalemedia.com
 127.0.0.1 a3361.casalemedia.com
 127.0.0.1 a3371.casalemedia.com
@@ -59,6 +60,7 @@
 127.0.0.1 aax-us-east.amazon-adsystem.com
 127.0.0.1 a.bf-ad.net
 127.0.0.1 a.bf-tools.net
+127.0.0.1 abload.de
 127.0.0.1 abp.smartadcheck.de
 127.0.0.1 abs.proxistore.com
 127.0.0.1 accounts.doubleclick.net
@@ -337,6 +339,7 @@
 127.0.0.1 ap.lijit.com
 127.0.0.1 apn-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 apnx-match.dotomi.com
+127.0.0.1 app-ab25.marketo.com
 127.0.0.1 app.adjust.com
 127.0.0.1 app.adroll.com
 127.0.0.1 app-analytics.snapchat.com
@@ -924,6 +927,7 @@
 127.0.0.1 e.dlx.addthis.com
 127.0.0.1 ee.adocean.pl
 127.0.0.1 ee.hit.gemius.pl
+127.0.0.1 eiv.baidu.com
 127.0.0.1 eldamar01-loadbalanced.kameleoon.com
 127.0.0.1 eldamar02-loadbalanced.kameleoon.com
 127.0.0.1 eldamar03-loadbalanced.kameleoon.com
@@ -978,6 +982,7 @@
 127.0.0.1 exch.quantcount.com
 127.0.0.1 exch.quantserve.com
 127.0.0.1 expedia.com.ssl.d1.sc.omtrdc.net
+127.0.0.1 exponea.com
 127.0.0.1 extremetracking.com
 127.0.0.1 eyeota-sync.dotomi.com
 127.0.0.1 fanatics.112.2o7.net
@@ -1180,6 +1185,7 @@
 127.0.0.1 img.mplx.akadns.net
 127.0.0.1 imguplo.com
 127.0.0.1 img.web.de
+127.0.0.1 impde.tradedoubler.com
 127.0.0.1 imprammp.taboola.com
 127.0.0.1 impression.appsflyer.com
 127.0.0.1 impr.taboola.com
@@ -1934,6 +1940,7 @@
 127.0.0.1 static.criteo.com
 127.0.0.1 static.criteo.net
 127.0.0.1 static-de.plista.com
+127.0.0.1 static.digidip.net
 127.0.0.1 static.doubleclick.net
 127.0.0.1 static.emsservice.de
 127.0.0.1 static.etracker.com
@@ -1952,6 +1959,7 @@
 127.0.0.1 static.vertamedia.com
 127.0.0.1 static.virgul.com
 127.0.0.1 staticw2.yotpo.com
+127.0.0.1 static.woopra.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.yieldmo.com
 127.0.0.1 static.zotabox.com
@@ -2030,6 +2038,7 @@
 127.0.0.1 sync-tm.everesttech.net
 127.0.0.1 sync.tubemogul.com
 127.0.0.1 sync.upravel.com
+127.0.0.1 syndication.exdynsrv.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 s.youtube.com
 127.0.0.1 t13.intelliad.de
@@ -2065,6 +2074,7 @@
 127.0.0.1 targeting.washpost.nile.works
 127.0.0.1 tcheck.outbrainimg.com
 127.0.0.1 t.contentsquare.net
+127.0.0.1 tcr.tynt.com
 127.0.0.1 t.cwkuki.com
 127.0.0.1 td2.crwdcntrl.net
 127.0.0.1 td.crwdcntrl.net
@@ -2172,6 +2182,7 @@
 127.0.0.1 tr.outbrain.com
 127.0.0.1 tr.snapchat.com
 127.0.0.1 trs.webprospector.de
+127.0.0.1 tru.am
 127.0.0.1 try.abtasty.com
 127.0.0.1 tsfe.trafficshaping.dsp.mp.microsoft.com
 127.0.0.1 t.sharethis.com
