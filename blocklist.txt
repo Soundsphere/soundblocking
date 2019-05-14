@@ -36,6 +36,7 @@
 127.0.0.1 a2170.casalemedia.com
 127.0.0.1 a2181.casalemedia.com
 127.0.0.1 a2190.casalemedia.com
+127.0.0.1 a2201.casalemedia.com
 127.0.0.1 a2220.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
 127.0.0.1 a3281.casalemedia.com
@@ -149,6 +150,7 @@
 127.0.0.1 adserver-us.adtech.advertising.com
 127.0.0.1 adservex.media.net
 127.0.0.1 adservice.google.com
+127.0.0.1 adservice.google.com.au
 127.0.0.1 adservice.google.de
 127.0.0.1 ads.eu.criteo.com
 127.0.0.1 ads.flurry.com
@@ -293,6 +295,7 @@
 127.0.0.1 api.autopilothq.com
 127.0.0.1 api.bounceexchange.com
 127.0.0.1 api.branch.io
+127.0.0.1 api.brs.intl.miui.com
 127.0.0.1 api-cf.affirm.com
 127.0.0.1 api.chat.xiaomi.net
 127.0.0.1 api.company-target.com
@@ -474,6 +477,7 @@
 127.0.0.1 by.uservoice.com
 127.0.0.1 c00.adobe.com
 127.0.0.1 c1.adform.net
+127.0.0.1 c1.microsoft.com
 127.0.0.1 c1.rfihub.net
 127.0.0.1 c2.taboola.com
 127.0.0.1 c3.adalyser.com
@@ -644,6 +648,7 @@
 127.0.0.1 cm.eyereturn.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 c.mgid.com
+127.0.0.1 c.microsoft.com
 127.0.0.1 cmi.netseer.com
 127.0.0.1 cmp.advertising.com
 127.0.0.1 cms.analytics.yahoo.com
@@ -761,6 +766,7 @@
 127.0.0.1 d3qxwzhswv93jk.cloudfront.net
 127.0.0.1 d3sbxpiag177w8.cloudfront.net
 127.0.0.1 d3v27wwd40f0xu.cloudfront.net
+127.0.0.1 d5p.de17a.com
 127.0.0.1 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 127.0.0.1 d8rk54i4mohrb.cloudfront.net
 127.0.0.1 d9hhrg4mnvzow.cloudfront.net
@@ -1191,7 +1197,9 @@
 127.0.0.1 intljs.rmtag.com
 127.0.0.1 inv-nets.admixer.net
 127.0.0.1 ioam.de
+127.0.0.1 io.narrative.io
 127.0.0.1 ios.bugly.qq.com
+127.0.0.1 ip-info.ff.avast.com
 127.0.0.1 ipinfo.io
 127.0.0.1 ipm-provider.ff.avast.com
 127.0.0.1 ip.nuggad.net
@@ -1575,6 +1583,7 @@
 127.0.0.1 p.teads.tv
 127.0.0.1 pt.ispot.tv
 127.0.0.1 p.t-online.de
+127.0.0.1 p.travelsmarter.net
 127.0.0.1 p.twitter.com
 127.0.0.1 p.typekit.net
 127.0.0.1 publisher-config.unityads.unity3d.com
@@ -1980,6 +1989,7 @@
 127.0.0.1 s.yjtag.jp
 127.0.0.1 sync.1dmp.io
 127.0.0.1 sync.1rx.io
+127.0.0.1 sync.adap.tv
 127.0.0.1 sync.adaptv.advertising.com
 127.0.0.1 sync.adkernel.com
 127.0.0.1 sync.adotmob.com
@@ -2312,6 +2322,7 @@
 127.0.0.1 www.bet365.com
 127.0.0.1 www.bizographics.com
 127.0.0.1 www.blogcounter.de
+127.0.0.1 www.bloglines.com
 127.0.0.1 www.cbox.ws
 127.0.0.1 www.cj.com
 127.0.0.1 www.coinbase.com
@@ -2337,6 +2348,7 @@
 127.0.0.1 www.googletagservices.com
 127.0.0.1 www.grab.com
 127.0.0.1 www.hashing.win
+127.0.0.1 www.histats.com
 127.0.0.1 www.hitwebcounter.com
 127.0.0.1 www.hlserve.com
 127.0.0.1 www.hotjar.com
