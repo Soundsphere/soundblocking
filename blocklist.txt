@@ -1772,6 +1772,7 @@
 127.0.0.1 s290.mxcdn.net
 127.0.0.1 s3.buysellads.com
 127.0.0.1 s3.eu-central-1.amazonaws.com
+127.0.0.1 s3-eu-west-1.amazonaws.com
 127.0.0.1 s4.histats.com
 127.0.0.1 s7.addthis.com
 127.0.0.1 s8.addthis.com
