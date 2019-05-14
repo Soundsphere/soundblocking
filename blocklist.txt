@@ -1,4 +1,5 @@
 127.0.0.1 0.gravatar.com
+127.0.0.1 112-tzm-766.mktoresp.com
 127.0.0.1 1364.tm.zedo.com
 127.0.0.1 15.taboola.com
 127.0.0.1 194792.engine.mobileapptracking.com
@@ -36,6 +37,7 @@
 127.0.0.1 a2170.casalemedia.com
 127.0.0.1 a2181.casalemedia.com
 127.0.0.1 a2190.casalemedia.com
+127.0.0.1 a2200.casalemedia.com
 127.0.0.1 a2201.casalemedia.com
 127.0.0.1 a2220.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
@@ -83,6 +85,7 @@
 127.0.0.1 ad.360yield.com
 127.0.0.1 ad3.adfarm1.adition.com
 127.0.0.1 ad4.adfarm1.adition.com
+127.0.0.1 ad4mat.net
 127.0.0.1 ad.71i.de
 127.0.0.1 adac02.webtrekk.net
 127.0.0.1 ad.ad-srv.net
@@ -190,6 +193,7 @@
 127.0.0.1 adtrackers.net
 127.0.0.1 adtr.io
 127.0.0.1 ad.turn.com
+127.0.0.1 ad.uk.doubleclick.net
 127.0.0.1 adventori.com
 127.0.0.1 advertise.bingads.microsoft.com
 127.0.0.1 advertiser.wbtrk.net
@@ -232,6 +236,7 @@
 127.0.0.1 amazon-adsystem.com
 127.0.0.1 amazon.ca
 127.0.0.1 amazon.co.jp
+127.0.0.1 amazonwebservices.d2.sc.omtrdc.net
 127.0.0.1 amcglobal.sc.omtrdc.net
 127.0.0.1 a.mobify.com
 127.0.0.1 amplify-imp.outbrain.com
@@ -316,6 +321,7 @@
 127.0.0.1 api.monetizer101.com
 127.0.0.1 api.native.ai
 127.0.0.1 api.nextgen.guardianapps.co.uk
+127.0.0.1 api.parsely.com
 127.0.0.1 api.permutive.com
 127.0.0.1 api.primecaster.net
 127.0.0.1 api.privy.com
@@ -439,6 +445,7 @@
 127.0.0.1 beacon-nf.rubiconproject.com
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacons.gcp.gvt2.com
+127.0.0.1 beacon.shazam.com
 127.0.0.1 beacon.sojern.com
 127.0.0.1 beacon-us-iad2.rubiconproject.com
 127.0.0.1 beacon.walmart.com
@@ -516,6 +523,7 @@
 127.0.0.1 cdn2.hubspot.net
 127.0.0.1 cdn3.doubleverify.com
 127.0.0.1 cdn4.mxpnl.com
+127.0.0.1 cdn5.userzoom.com
 127.0.0.1 cdn-a.amazon-adsystem.com
 127.0.0.1 cdn.accelerator.arsdev.net
 127.0.0.1 cdn.adikteev.com
@@ -554,6 +562,7 @@
 127.0.0.1 cdn.feeds.videosz.com
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 cdn.flashtalking.com
+127.0.0.1 cdn.geni.us
 127.0.0.1 cdn.geodns.tubemogul.com
 127.0.0.1 cdn.gigya.com
 127.0.0.1 cdn-gl.imrworldwide.com
@@ -1084,6 +1093,7 @@
 127.0.0.1 googlesyndication.com
 127.0.0.1 go.onelink.me
 127.0.0.1 go.pardot.com
+127.0.0.1 go.redirectingat.com
 127.0.0.1 go.shareaholic.com
 127.0.0.1 go.toutapp.com
 127.0.0.1 go.urbanairship.com
@@ -1412,6 +1422,7 @@
 127.0.0.1 mssl.fwmrm.net
 127.0.0.1 mwzeom.zeotap.com
 127.0.0.1 m.yap.yahoo.com
+127.0.0.1 mydmp.exelator.com
 127.0.0.1 myfamilycominc.tt.omtrdc.net
 127.0.0.1 my.hellobar.com
 127.0.0.1 my.rtmark.net
@@ -1708,6 +1719,7 @@
 127.0.0.1 rtb.gumgum.com
 127.0.0.1 rtb-lb-eu-west.tubemogul.com
 127.0.0.1 rtb-lb-event-tm-ams.tubemogul.com
+127.0.0.1 rtb-lb-us-east.tubemogul.com
 127.0.0.1 rtb.metrigo.com
 127.0.0.1 rtb.mfadsrvr.com
 127.0.0.1 rtb.nativeads.com
@@ -2149,6 +2161,7 @@
 127.0.0.1 tracking.gj-mobile-services.de
 127.0.0.1 tracking.immobilienscout24.de
 127.0.0.1 tracking.intl.miui.com
+127.0.0.1 tracking.lqm.io
 127.0.0.1 tracking.m6r.eu
 127.0.0.1 tracking.metalyzer.com
 127.0.0.1 tracking.miui.com
@@ -2190,6 +2203,7 @@
 127.0.0.1 t.svtrd.com
 127.0.0.1 t.teads.tv
 127.0.0.1 tt.onthe.io
+127.0.0.1 t.trafmag.com
 127.0.0.1 t.update.rubiconproject.com
 127.0.0.1 twa.netcoresmartech.com
 127.0.0.1 t.wayfair.com
@@ -2221,6 +2235,7 @@
 127.0.0.1 us-ads.openx.net
 127.0.0.1 usage.trackjs.com
 127.0.0.1 usasync01.admantx.com
+127.0.0.1 usc.adserver.snapads.com
 127.0.0.1 usemax.de
 127.0.0.1 usemaxserver.de
 127.0.0.1 usermatch.krxd.net
@@ -2445,6 +2460,7 @@
 127.0.0.1 ynuf.alibaba.com
 127.0.0.1 ynuf.alipay.com
 127.0.0.1 z15ba20a04.webengage.co
+127.0.0.1 z9q9kj37oy.kameleoon.eu
 127.0.0.1 zeit.met.vgwort.de
 127.0.0.1 z-eu.amazon-adsystem.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
