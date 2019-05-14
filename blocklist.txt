@@ -198,6 +198,7 @@
 127.0.0.1 adventori.com
 127.0.0.1 advertise.bingads.microsoft.com
 127.0.0.1 advertiser.wbtrk.net
+127.0.0.1 advertising.amazon.co.uk
 127.0.0.1 advideo.uimserv.net
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adwords.google.com
@@ -964,6 +965,7 @@
 127.0.0.1 espn.hb.omtrdc.net
 127.0.0.1 es-sunicontent.videoplaza.tv
 127.0.0.1 etahub.com
+127.0.0.1 et-cod.com
 127.0.0.1 ethn.io
 127.0.0.1 etl.tindersparks.com
 127.0.0.1 et.nytimes.com
@@ -1575,6 +1577,7 @@
 127.0.0.1 player.adtelligent.com
 127.0.0.1 player.performgroup.com
 127.0.0.1 player.spoods.io
+127.0.0.1 pls.webtype.com
 127.0.0.1 plugin.mediavoice.com
 127.0.0.1 pluralsight.hb.omtrdc.net
 127.0.0.1 pluralsight.tt.omtrdc.net
