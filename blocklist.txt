@@ -509,6 +509,7 @@
 127.0.0.1 cdn11.contentabc.com
 127.0.0.1 cdn1.ads.contentabc.com
 127.0.0.1 cdn1.smartadserver.com
+127.0.0.1 cdn1.stickyadstv.com
 127.0.0.1 cdn2.hubspot.net
 127.0.0.1 cdn3.doubleverify.com
 127.0.0.1 cdn4.mxpnl.com
@@ -1104,6 +1105,7 @@
 127.0.0.1 hbevents.1rx.io
 127.0.0.1 hb.nexage.com
 127.0.0.1 hbopenbid.pubmatic.com
+127.0.0.1 hb.sekindo.com
 127.0.0.1 hb.vntsm.com
 127.0.0.1 healte.de
 127.0.0.1 heapanalytics.com
@@ -1373,12 +1375,14 @@
 127.0.0.1 mediation.adnxs.com
 127.0.0.1 mediator.mail.ru
 127.0.0.1 media.trafficjunky.net
+127.0.0.1 mediav3.inq.com
 127.0.0.1 metrics.api.drift.com
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.gfycat.com
 127.0.0.1 metrics.nt.vc
 127.0.0.1 metrics.n-tv.de
 127.0.0.1 metrics.responsetap.com
+127.0.0.1 metrics.ryanair.com
 127.0.0.1 m.exactag.com
 127.0.0.1 mg.mgid.com
 127.0.0.1 microsoftwindows.112.2o7.net
@@ -1498,6 +1502,7 @@
 127.0.0.1 pippio.com
 127.0.0.1 piwik.up.welt.de
 127.0.0.1 pix.btrll.com
+127.0.0.1 pixel.33across.com
 127.0.0.1 pixel-a.basis.net
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
@@ -1595,6 +1600,7 @@
 127.0.0.1 p.travelsmarter.net
 127.0.0.1 p.twitter.com
 127.0.0.1 p.typekit.net
+127.0.0.1 public2.bravenet.com
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 pubmatic2waycm-atl.netmng.com
 127.0.0.1 pubmatic-match.dotomi.com
@@ -1763,6 +1769,7 @@
 127.0.0.1 scripts.host.bannerflow.com
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.kissmetrics.com
+127.0.0.1 scripts.psyma.com
 127.0.0.1 s-cs.send.microad.jp
 127.0.0.1 sc-static.net
 127.0.0.1 sc.tynt.com
@@ -2197,6 +2204,8 @@
 127.0.0.1 uobsoe.com
 127.0.0.1 uop.umeng.com
 127.0.0.1 up.cm.ksmobile.com
+127.0.0.1 ups.demdex.net
+127.0.0.1 ups.tt.omtrdc.net
 127.0.0.1 urbanmedia-d.openx.net
 127.0.0.1 us-ads.openx.net
 127.0.0.1 usage.trackjs.com
