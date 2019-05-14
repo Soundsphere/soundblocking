@@ -10,6 +10,7 @@
 127.0.0.1 2507573.fls.doubleclick.net
 127.0.0.1 2542116.fls.doubleclick.net
 127.0.0.1 2.chipde.damoh.schneevonmorgen.com
+127.0.0.1 2oceansvibe.com
 127.0.0.1 3276817.fls.doubleclick.net
 127.0.0.1 3p.ampproject.net
 127.0.0.1 403-agf-920.mktoresp.com
@@ -321,6 +322,7 @@
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.monetizer101.com
+127.0.0.1 api.nanigans.com
 127.0.0.1 api.native.ai
 127.0.0.1 api.nextgen.guardianapps.co.uk
 127.0.0.1 api.parsely.com
@@ -773,6 +775,7 @@
 127.0.0.1 d1v9u0bgi1uimx.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zgderxoe1a.cloudfront.net
+127.0.0.1 d20duyjzb7cuoc.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
 127.0.0.1 d24v0qfgxmmkdg.cloudfront.net
 127.0.0.1 d26b395fwzu5fz.cloudfront.net
@@ -1089,6 +1092,7 @@
 127.0.0.1 globalapi.ad.xiaomi.com
 127.0.0.1 global.ib-ibi.com
 127.0.0.1 global.ymtracking.com
+127.0.0.1 gm.mmstat.com
 127.0.0.1 g.msn.com
 127.0.0.1 gnar.grammarly.com
 127.0.0.1 go.affec.tv
@@ -1716,6 +1720,7 @@
 127.0.0.1 rpc.tapjoy.com
 127.0.0.1 rpt.cedexis.com
 127.0.0.1 rpxnow.com
+127.0.0.1 r.refinedads.com
 127.0.0.1 r.remarketingpixel.com
 127.0.0.1 r.scoota.co
 127.0.0.1 rs.epoq.de
@@ -2276,6 +2281,7 @@
 127.0.0.1 v2.zopim.com
 127.0.0.1 v4.moatads.com
 127.0.0.1 v7event.stats.avast.com
+127.0.0.1 v.adsrvr.org
 127.0.0.1 vap4ewr1.lijit.com
 127.0.0.1 vap.lijit.com
 127.0.0.1 vars.hotjar.com
@@ -2399,6 +2405,7 @@
 127.0.0.1 www.bloglines.com
 127.0.0.1 www.cbox.ws
 127.0.0.1 www.cj.com
+127.0.0.1 www.clicktripz.com
 127.0.0.1 www.coinbase.com
 127.0.0.1 www.crazyegg.com
 127.0.0.1 www.criteo.com
