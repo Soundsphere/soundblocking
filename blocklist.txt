@@ -102,6 +102,7 @@
 127.0.0.1 adespresso.com
 127.0.0.1 adeventtracker.spotify.com
 127.0.0.1 adfarm.mediaplex.com
+127.0.0.1 adgebra.co.in
 127.0.0.1 adimg.uimserv.net
 127.0.0.1 ad.lkqd.net
 127.0.0.1 adlmerge.com
@@ -269,6 +270,7 @@
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.mobile.walmart.com
 127.0.0.1 analytics.ooyala.com
+127.0.0.1 analytics.pinpoll.com
 127.0.0.1 analytics.pokki.com
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.shareaholic.com
@@ -409,6 +411,7 @@
 127.0.0.1 backstage.taboola.com
 127.0.0.1 badge.facebook.com
 127.0.0.1 badges.instagram.com
+127.0.0.1 b.admedia.com
 127.0.0.1 bam.nr-data.net
 127.0.0.1 banner.congstar.de
 127.0.0.1 banners.adfox.ru
@@ -434,6 +437,7 @@
 127.0.0.1 beacon.riskified.com
 127.0.0.1 beacons.gcp.gvt2.com
 127.0.0.1 beacon.sojern.com
+127.0.0.1 beacon-us-iad2.rubiconproject.com
 127.0.0.1 beacon.walmart.com
 127.0.0.1 beacon.wikia-services.com
 127.0.0.1 beap1.cb.g01.yahoodns.net
@@ -666,6 +670,7 @@
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect.albacross.com
 127.0.0.1 collect-eu-central-1.tealiumiq.com
+127.0.0.1 collector.bunchbox.co
 127.0.0.1 collector-cdn.github.com
 127.0.0.1 collector.githubapp.com
 127.0.0.1 collector-medium.lightstep.com
@@ -744,6 +749,7 @@
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
 127.0.0.1 d1m6l9dfulcyw7.cloudfront.net
 127.0.0.1 d1.openx.org
+127.0.0.1 d1v9u0bgi1uimx.cloudfront.net
 127.0.0.1 d1z2jf7jlzjs58.cloudfront.net
 127.0.0.1 d1zgderxoe1a.cloudfront.net
 127.0.0.1 d24n15hnbwhuhn.cloudfront.net
@@ -842,6 +848,7 @@
 127.0.0.1 diff.smartadserver.com
 127.0.0.1 d.impactradius-event.com
 127.0.0.1 di.rlcdn.com
+127.0.0.1 dis.as.criteo.com
 127.0.0.1 dis.criteo.com
 127.0.0.1 dis.eu.criteo.com
 127.0.0.1 dispatcher.oewabox.at
@@ -1188,6 +1195,7 @@
 127.0.0.1 init.supersonicads.com
 127.0.0.1 ink1001.com
 127.0.0.1 in.ml314.com
+127.0.0.1 inputs.alooma.com
 127.0.0.1 insight.adsrvr.org
 127.0.0.1 insights.hotjar.com
 127.0.0.1 insights.plista.com
@@ -1554,6 +1562,7 @@
 127.0.0.1 popup.taboola.com
 127.0.0.1 port.sec.intl.miui.com
 127.0.0.1 po.st
+127.0.0.1 powr-counter.herokuapp.com
 127.0.0.1 pp.lp4.io
 127.0.0.1 pp.userapi.com
 127.0.0.1 pr-bh.ybp.yahoo.com
@@ -2005,6 +2014,7 @@
 127.0.0.1 synchroscript.deliveryengine.adswizz.com
 127.0.0.1 sync.ipredictive.com
 127.0.0.1 sync.mathtag.com
+127.0.0.1 sync.monarchads.com
 127.0.0.1 sync.outbrain.com
 127.0.0.1 sync.search.spotxchange.com
 127.0.0.1 sync-tapi.admatrix.jp
@@ -2168,6 +2178,7 @@
 127.0.0.1 tw.netcore.co.in
 127.0.0.1 udc.yahoo.com
 127.0.0.1 udm.scorecardresearch.com
+127.0.0.1 udmserve.net
 127.0.0.1 ue.flipboard.com
 127.0.0.1 ugdturner.com
 127.0.0.1 u.heatmap.it
@@ -2248,6 +2259,7 @@
 127.0.0.1 vpaid.pubmatic.com
 127.0.0.1 vt.adition.com
 127.0.0.1 vt.myvisualiq.net
+127.0.0.1 vuukle-analytics.appspot.com
 127.0.0.1 vz-cdn.contentabc.com
 127.0.0.1 walker.zdbb.net
 127.0.0.1 washingtonpost.com.102.112.2o7.net
@@ -2286,6 +2298,7 @@
 127.0.0.1 ws-na.amazon.adsystem.com
 127.0.0.1 ws.pusherapp.com
 127.0.0.1 ws.sharethis.com
+127.0.0.1 ws.tapjoyads.com
 127.0.0.1 wt.adctrl.com
 127.0.0.1 w.usabilla.com
 127.0.0.1 wv.inner-active.mobi
