@@ -878,6 +878,7 @@
 127.0.0.1 dis.eu.criteo.com
 127.0.0.1 dispatcher.oewabox.at
 127.0.0.1 display.apester.com
+127.0.0.1 displayf.tubemogul.com
 127.0.0.1 disqusads.com
 127.0.0.1 distillery.wistia.com
 127.0.0.1 districtm-match.dotomi.com
@@ -1210,6 +1211,7 @@
 127.0.0.1 img.mediaplex.com
 127.0.0.1 img.metaffiliation.com
 127.0.0.1 img.mplx.akadns.net
+127.0.0.1 img.sedoparking.com
 127.0.0.1 imguplo.com
 127.0.0.1 img.web.de
 127.0.0.1 impde.tradedoubler.com
@@ -1287,6 +1289,7 @@
 127.0.0.1 js-sec.indexww.com
 127.0.0.1 js.smartredirect.de
 127.0.0.1 js.spotx.tv
+127.0.0.1 js.stroeermediabrands.de
 127.0.0.1 js.users.51.la
 127.0.0.1 js-webt-lol.9cache.com
 127.0.0.1 junkeemedia.demdex.net
