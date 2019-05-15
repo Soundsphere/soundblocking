@@ -12,6 +12,7 @@
 127.0.0.1 2.chipde.damoh.schneevonmorgen.com
 127.0.0.1 2oceansvibe.com
 127.0.0.1 3276817.fls.doubleclick.net
+127.0.0.1 3573281.fls.doubleclick.net
 127.0.0.1 3p.ampproject.net
 127.0.0.1 403-agf-920.mktoresp.com
 127.0.0.1 4228414.fls.doubleclick.net
@@ -227,6 +228,7 @@
 127.0.0.1 ak1s.abmr.net
 127.0.0.1 aka-cdn.adtech.de
 127.0.0.1 aka-cdn.adtechus.com
+127.0.0.1 aka-cdn-ns.adtech.de
 127.0.0.1 akamai.mathtag.com
 127.0.0.1 akamai.smartadserver.com
 127.0.0.1 ak.imgfarm.com
@@ -754,6 +756,7 @@
 127.0.0.1 count-server.sharethis.com
 127.0.0.1 count.spiegel.de
 127.0.0.1 c.paypal.com
+127.0.0.1 cp.pushwoosh.com
 127.0.0.1 c.pub.network
 127.0.0.1 cpx.golem.de
 127.0.0.1 cpxl.golem.de
@@ -1367,6 +1370,7 @@
 127.0.0.1 logs.dashlane.com
 127.0.0.1 logs.supersonic.com
 127.0.0.1 log.streamagent.sensic.net
+127.0.0.1 logs.xiti.com
 127.0.0.1 log.tagcade.com
 127.0.0.1 logx.optimizely.com
 127.0.0.1 lonrtp1-cdn.marketo.com
@@ -1478,6 +1482,7 @@
 127.0.0.1 navdmp.com
 127.0.0.1 nba.demdex.net
 127.0.0.1 nbcu.demdex.net
+127.0.0.1 network.bazaarvoice.com
 127.0.0.1 netzwelt-gmbh-d.openx.net
 127.0.0.1 newrelic.com
 127.0.0.1 nexus.ensighten.com
@@ -1944,6 +1949,7 @@
 127.0.0.1 smartsuppchat.com
 127.0.0.1 smarturl.it
 127.0.0.1 smct.co
+127.0.0.1 s-media-cache-ak0.pinimg.com
 127.0.0.1 s.media-imdb.com
 127.0.0.1 smetrics.aem.playstation.com
 127.0.0.1 smetrics.cnn.com
@@ -2064,6 +2070,7 @@
 127.0.0.1 stats.mos.ru
 127.0.0.1 stats.pagefair.com
 127.0.0.1 stats.pusher.com
+127.0.0.1 stats.smartclip.net
 127.0.0.1 stats.tubemogul.com
 127.0.0.1 stats.wordpress.com
 127.0.0.1 stats.wp.com
@@ -2406,6 +2413,7 @@
 127.0.0.1 widget.perfectmarket.com
 127.0.0.1 widget.privy.com
 127.0.0.1 widgets.outbrain.com
+127.0.0.1 widgets.stackcommerce.com
 127.0.0.1 widget.us.criteo.com
 127.0.0.1 wikia-d.openx.net
 127.0.0.1 wildcard.moatads.com.edgekey.net
