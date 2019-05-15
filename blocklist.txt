@@ -50,6 +50,7 @@
 127.0.0.1 a3290.casalemedia.com
 127.0.0.1 a3291.casalemedia.com
 127.0.0.1 a3340.casalemedia.com
+127.0.0.1 a3360.casalemedia.com
 127.0.0.1 a3361.casalemedia.com
 127.0.0.1 a3371.casalemedia.com
 127.0.0.1 a4550.casalemedia.com
@@ -1360,6 +1361,7 @@
 127.0.0.1 log.dmtry.com
 127.0.0.1 log.fc.yahoo.com
 127.0.0.1 logging.carambo.la
+127.0.0.1 logg.kiwi.com
 127.0.0.1 log.mmstat.com
 127.0.0.1 log.olark.com
 127.0.0.1 log.outbrain.com
@@ -1961,6 +1963,7 @@
 127.0.0.1 smetrics.cnn.com
 127.0.0.1 smetrics.marriott.com
 127.0.0.1 smetrics.mcafee.com
+127.0.0.1 smetrics.tesco.com
 127.0.0.1 snigel-d.openx.net
 127.0.0.1 snip.ly
 127.0.0.1 snippets.cdn.mozilla.net
@@ -2379,6 +2382,7 @@
 127.0.0.1 video.unrulymedia.com
 127.0.0.1 video.xx.fbcdn.net
 127.0.0.1 vid.pubmatic.com
+127.0.0.1 vidroll.ru
 127.0.0.1 vidstatb.taboola.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 vidutils.taboola.com
