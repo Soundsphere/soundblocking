@@ -369,6 +369,7 @@
 127.0.0.1 app-analytics.snapchat.com
 127.0.0.1 app.appsflyer.com
 127.0.0.1 app.box.com
+127.0.0.1 appboy-images.com
 127.0.0.1 app.chat.xiaomi.net
 127.0.0.1 app.crazyegg.com
 127.0.0.1 app.crossengage.io
@@ -450,6 +451,7 @@
 127.0.0.1 bannertrack.net
 127.0.0.1 b.aol.com
 127.0.0.1 b-api.facebook.com
+127.0.0.1 basepush.com
 127.0.0.1 bat.bing.com
 127.0.0.1 bat.r.msn.com
 127.0.0.1 bats.video.yahoo.com
@@ -525,6 +527,7 @@
 127.0.0.1 cafemedia-d.openx.net
 127.0.0.1 c.amazon-adsystem.com
 127.0.0.1 capture.condenastdigital.com
+127.0.0.1 capture.trackjs.com
 127.0.0.1 carambola-d.openx.net
 127.0.0.1 casale-match.dotomi.com
 127.0.0.1 cas.criteo.com
@@ -583,6 +586,7 @@
 127.0.0.1 cdn.elasticad.net
 127.0.0.1 cdn.evergage.com
 127.0.0.1 cdn.exactag.com
+127.0.0.1 cdn.exelator.com
 127.0.0.1 cdn.feeds.videosz.com
 127.0.0.1 cdn.firstimpression.io
 127.0.0.1 cdn.flashtalking.com
@@ -1453,6 +1457,7 @@
 127.0.0.1 ml314.com
 127.0.0.1 mmtro.com
 127.0.0.1 mobile.adfarm1.adition.com
+127.0.0.1 mobile.adsafeprotected.com
 127.0.0.1 mobileanalytics.us-east-1.amazonaws.com
 127.0.0.1 mobile-collector.newrelic.com
 127.0.0.1 mobile-de-d.openx.net
@@ -1798,6 +1803,7 @@
 127.0.0.1 rules.atgsvcs.com
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rumcollector.teslamotors.com
+127.0.0.1 rum.logsss.com
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 run-syndicate.com
 127.0.0.1 rva.outbrain.com
@@ -2271,6 +2277,7 @@
 127.0.0.1 trgde.adocean.pl
 127.0.0.1 tri.privy.com
 127.0.0.1 trk.connatix.com
+127.0.0.1 trk.freepik.com
 127.0.0.1 trk.helios.ligatus.com
 127.0.0.1 trk.kissmetrics.com
 127.0.0.1 trkn.us
@@ -2561,6 +2568,7 @@
 127.0.0.1 yagiay.com
 127.0.0.1 yasni.bannertrack.net
 127.0.0.1 yastatic.net
+127.0.0.1 yast.rutube.ru
 127.0.0.1 yieldlove-d.openx.net
 127.0.0.1 yield-manager.browsiprod.com
 127.0.0.1 ynuf.alibaba.com
