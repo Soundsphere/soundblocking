@@ -29,6 +29,7 @@
 127.0.0.1 71i.nuggad.net
 127.0.0.1 727-zqe-044.mktoresp.com
 127.0.0.1 79423.analytics.edgekey.net
+127.0.0.1 7b935.v.fwmrm.net
 127.0.0.1 882-nzg-493.mktoresp.com
 127.0.0.1 883205.fls.doubleclick.net
 127.0.0.1 998766.fls.doubleclick.net
@@ -268,6 +269,7 @@
 127.0.0.1 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 127.0.0.1 ams-login.dotomi.com
 127.0.0.1 ams-usadmm.dotomi.com
+127.0.0.1 amzn.to
 127.0.0.1 analytics.analytics-egain.com
 127.0.0.1 analytics.any.do
 127.0.0.1 analytics.blogspot.com
@@ -311,6 +313,7 @@
 127.0.0.1 api.adrtx.net
 127.0.0.1 api.amplitude.com
 127.0.0.1 api.appsflyer.com
+127.0.0.1 api.apptentive.com
 127.0.0.1 api.autopilothq.com
 127.0.0.1 api.bounceexchange.com
 127.0.0.1 api.branch.io
@@ -326,6 +329,7 @@
 127.0.0.1 api-iam.intercom.io
 127.0.0.1 api.instabug.com
 127.0.0.1 api.iperceptions.com
+127.0.0.1 api.keen.io
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
 127.0.0.1 api.monetizer101.com
@@ -1415,6 +1419,7 @@
 127.0.0.1 mbsy.co
 127.0.0.1 mcdp-chidc2.outbrain.com
 127.0.0.1 mcdp-nydc1.outbrain.com
+127.0.0.1 mcdp-sadc1.outbrain.com
 127.0.0.1 mc.webvisor.org
 127.0.0.1 mc.yandex.ru
 127.0.0.1 me-cdn.effectivemeasure.net
@@ -2033,6 +2038,7 @@
 127.0.0.1 static.showheroes.com
 127.0.0.1 static.site24x7rum.com
 127.0.0.1 static.ssacdn.com
+127.0.0.1 statics.streamable.com
 127.0.0.1 static.tradetracker.net
 127.0.0.1 static.vertamedia.com
 127.0.0.1 static.virgul.com
@@ -2325,6 +2331,7 @@
 127.0.0.1 us.smsapi.micloud.xiaomi.net
 127.0.0.1 us.statusapi.micloud.xiaomi.net
 127.0.0.1 us-u.openx.net
+127.0.0.1 u.videoamp.com
 127.0.0.1 v10.events.data.microsoft.com
 127.0.0.1 v20.events.data.microsoft.com
 127.0.0.1 v2.zopim.com
@@ -2509,6 +2516,7 @@
 127.0.0.1 www.roosterfirework.com
 127.0.0.1 www.salesforce.com
 127.0.0.1 www.sdad.guru
+127.0.0.1 www.search.com
 127.0.0.1 www.semrush.com
 127.0.0.1 www.smartredirect.de
 127.0.0.1 www.snapengage.com
