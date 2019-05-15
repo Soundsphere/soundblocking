@@ -310,6 +310,7 @@
 127.0.0.1 api.ad.intl.xiaomi.com
 127.0.0.1 api.adrtx.net
 127.0.0.1 api.amplitude.com
+127.0.0.1 api.appsflyer.com
 127.0.0.1 api.autopilothq.com
 127.0.0.1 api.bounceexchange.com
 127.0.0.1 api.branch.io
@@ -2550,6 +2551,7 @@
 127.0.0.1 zm232.com
 127.0.0.1 z.moatads.com
 127.0.0.1 zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com
+127.0.0.1 zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
 127.0.0.1 z-na.amazon-adsystem.com
 127.0.0.1 zoover.adtrackers.net
 127.0.0.1 z-p42.graph.instagram.com
