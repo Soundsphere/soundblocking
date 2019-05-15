@@ -1884,6 +1884,7 @@
 127.0.0.1 seed.bitcoin.sipa.be
 127.0.0.1 seed.bitnodes.io
 127.0.0.1 s.effectivemeasure.net
+127.0.0.1 segment-data.zqtk.net
 127.0.0.1 segments.company-target.com
 127.0.0.1 sejs.moatads.com
 127.0.0.1 self.events.data.microsoft.com
@@ -1958,6 +1959,7 @@
 127.0.0.1 spanids.thesaurus.com
 127.0.0.1 spiegel-de.spiegel.de
 127.0.0.1 spiegel.met.vgwort.de
+127.0.0.1 spl.zeotap.com
 127.0.0.1 s.po.st
 127.0.0.1 spot-im-d.openx.net
 127.0.0.1 s.pubmine.com
@@ -2148,6 +2150,7 @@
 127.0.0.1 tapfiliate.com
 127.0.0.1 t.appsflyer.com
 127.0.0.1 tap.rubiconproject.com
+127.0.0.1 tap-secure.rubiconproject.com
 127.0.0.1 targeting.washpost.nile.works
 127.0.0.1 tcheck.outbrainimg.com
 127.0.0.1 t.contentsquare.net
@@ -2402,6 +2405,7 @@
 127.0.0.1 win8.ipv6.microsoft.com
 127.0.0.1 wla.vivaldi.com
 127.0.0.1 wms-na.amazon-adsystem.com
+127.0.0.1 wolve.pro
 127.0.0.1 ws1.hotjar.com
 127.0.0.1 ws2.hotjar.com
 127.0.0.1 ws3.hotjar.com
@@ -2506,6 +2510,7 @@
 127.0.0.1 www.salesforce.com
 127.0.0.1 www.sdad.guru
 127.0.0.1 www.semrush.com
+127.0.0.1 www.smartredirect.de
 127.0.0.1 www.snapengage.com
 127.0.0.1 www.statcounter.com
 127.0.0.1 www.storygize.net
@@ -2541,6 +2546,7 @@
 127.0.0.1 yasni.bannertrack.net
 127.0.0.1 yastatic.net
 127.0.0.1 yieldlove-d.openx.net
+127.0.0.1 yield-manager.browsiprod.com
 127.0.0.1 ynuf.alibaba.com
 127.0.0.1 ynuf.alipay.com
 127.0.0.1 z15ba20a04.webengage.co
