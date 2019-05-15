@@ -31,6 +31,7 @@
 127.0.0.1 79423.analytics.edgekey.net
 127.0.0.1 882-nzg-493.mktoresp.com
 127.0.0.1 883205.fls.doubleclick.net
+127.0.0.1 998766.fls.doubleclick.net
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a-0003.a-msedge.net
 127.0.0.1 a1.adform.net
@@ -245,6 +246,7 @@
 127.0.0.1 amplify-imp.outbrain.com
 127.0.0.1 amplify.outbrain.com
 127.0.0.1 amplifypixel.outbrain.com
+127.0.0.1 ampmetrics.techcrunch.com
 127.0.0.1 ams01-bfp01.mediaplex.com
 127.0.0.1 ams01-bfp02.mediaplex.com
 127.0.0.1 ams01-login.dotomi.com
@@ -285,6 +287,7 @@
 127.0.0.1 analytics.query.yahoo.com
 127.0.0.1 analytics.shareaholic.com
 127.0.0.1 analytics.similarweb.com
+127.0.0.1 analytics.sitewit.com
 127.0.0.1 analytics.skyscanner.net
 127.0.0.1 analytics-static.ugc.bazaarvoice.com
 127.0.0.1 analytics.twitter.com
@@ -480,6 +483,7 @@
 127.0.0.1 blog.naver.com
 127.0.0.1 bm.adentifi.com
 127.0.0.1 bnc.lt
+127.0.0.1 boards.greenhouse.io
 127.0.0.1 bonfire.spklw.com
 127.0.0.1 boss.berlinonline.de
 127.0.0.1 browser.pipe.aria.microsoft.com
@@ -831,6 +835,7 @@
 127.0.0.1 data.logentries.com
 127.0.0.1 data.mistat.intl.xiaomi.com
 127.0.0.1 data.mistat.xiaomi.com
+127.0.0.1 data.pokkinw.com
 127.0.0.1 data.sec.intl.miui.com
 127.0.0.1 data.sec.miui.com
 127.0.0.1 db5.settings.data.microsoft.com.akadns.net
@@ -940,6 +945,7 @@
 127.0.0.1 ebdr3.com
 127.0.0.1 ebs.criteo.com
 127.0.0.1 eb.trbas.com
+127.0.0.1 ecdn.firstimpression.io
 127.0.0.1 ecommerce.iap.unity3d.com
 127.0.0.1 e.crashlytics.com
 127.0.0.1 edatasales.com
@@ -1077,6 +1083,7 @@
 127.0.0.1 geolocation.stroeerdp.de
 127.0.0.1 geo.moatads.com
 127.0.0.1 geo.qualaroo.com
+127.0.0.1 geo.query.yahoo.com
 127.0.0.1 geo.settings.data.microsoft.com.akadns.net
 127.0.0.1 geo-um.btrll.com
 127.0.0.1 geo.vortex.data.microsoft.com.akadns.net
@@ -1412,6 +1419,7 @@
 127.0.0.1 mediator.mail.ru
 127.0.0.1 media.trafficjunky.net
 127.0.0.1 mediav3.inq.com
+127.0.0.1 me-ssl.effectivemeasure.net
 127.0.0.1 metrics.api.drift.com
 127.0.0.1 metrics.brightcove.com
 127.0.0.1 metrics.gfycat.com
@@ -1442,6 +1450,7 @@
 127.0.0.1 mssl.fwmrm.net
 127.0.0.1 mwzeom.zeotap.com
 127.0.0.1 m.yap.yahoo.com
+127.0.0.1 mybbc-analytics.files.bbci.co.uk
 127.0.0.1 mydmp.exelator.com
 127.0.0.1 myfamilycominc.tt.omtrdc.net
 127.0.0.1 my.hellobar.com
@@ -1483,6 +1492,7 @@
 127.0.0.1 onecollector.cloudapp.aria.akadns.net
 127.0.0.1 onesignal.com
 127.0.0.1 onetag-sys.com
+127.0.0.1 onscroll-d.openx.net
 127.0.0.1 onthe.io
 127.0.0.1 ookla-d.openx.net
 127.0.0.1 open.oneplus.net
@@ -1495,6 +1505,7 @@
 127.0.0.1 optimize.innity.com
 127.0.0.1 optimize-stats.voxmedia.com
 127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 oracle.112.2o7.net
 127.0.0.1 origin-tracking.trulia.com
 127.0.0.1 o.ss2.us
 127.0.0.1 otf.msn.com
@@ -1591,6 +1602,7 @@
 127.0.0.1 plugin.mediavoice.com
 127.0.0.1 pluralsight.hb.omtrdc.net
 127.0.0.1 pluralsight.tt.omtrdc.net
+127.0.0.1 pmc-d.openx.net
 127.0.0.1 pmetrics.performancing.com
 127.0.0.1 pm.w55c.net
 127.0.0.1 pnytimes.chartbeat.net
@@ -1603,6 +1615,7 @@
 127.0.0.1 pool6.moatads.com
 127.0.0.1 pool7.moatads.com
 127.0.0.1 pool8.moatads.com
+127.0.0.1 pool9.moatads.com
 127.0.0.1 pool.admedo.com
 127.0.0.1 popup.taboola.com
 127.0.0.1 port.sec.intl.miui.com
@@ -1950,12 +1963,14 @@
 127.0.0.1 ss.musthird.com
 127.0.0.1 ssp.adriver.ru
 127.0.0.1 s.spoutable.com
+127.0.0.1 ssp.streamrail.net
 127.0.0.1 ssp.videoplaza.tv
 127.0.0.1 s-static.innovid.com
 127.0.0.1 sstats.adobe.com
 127.0.0.1 sstats.arstechnica.com
 127.0.0.1 ssum.casalemedia.com
 127.0.0.1 ssum-sec.casalemedia.com
+127.0.0.1 stag.mdotlabs.com
 127.0.0.1 stags.bluekai.com
 127.0.0.1 star.c10r.facebook.com
 127.0.0.1 star.facebook.com
@@ -2279,6 +2294,7 @@
 127.0.0.1 us.micardapi.micloud.xiaomi.net
 127.0.0.1 us.phonecallapi.micloud.xiaomi.net
 127.0.0.1 us.smsapi.micloud.xiaomi.net
+127.0.0.1 us.statusapi.micloud.xiaomi.net
 127.0.0.1 us-u.openx.net
 127.0.0.1 v10.events.data.microsoft.com
 127.0.0.1 v20.events.data.microsoft.com
@@ -2303,6 +2319,7 @@
 127.0.0.1 vfd2dyn.vodafone.de
 127.0.0.1 vfde.demdex.net
 127.0.0.1 vg01.met.vgwort.de
+127.0.0.1 vg06.met.vgwort.de
 127.0.0.1 vidanalytics.taboola.com
 127.0.0.1 vidapi.expepp.de
 127.0.0.1 video-adserver.ibillboard.com
@@ -2325,6 +2342,7 @@
 127.0.0.1 vop.sundaysky.com
 127.0.0.1 vpaid.adsafeprotected.com
 127.0.0.1 vpaid.pubmatic.com
+127.0.0.1 vra.outbrain.com
 127.0.0.1 vt.adition.com
 127.0.0.1 vt.myvisualiq.net
 127.0.0.1 vuukle-analytics.appspot.com
@@ -2411,6 +2429,7 @@
 127.0.0.1 www.cj.com
 127.0.0.1 www.clicktripz.com
 127.0.0.1 www.coinbase.com
+127.0.0.1 www.counter-gratis.com
 127.0.0.1 www.crazyegg.com
 127.0.0.1 www.criteo.com
 127.0.0.1 www.dianomi.com
