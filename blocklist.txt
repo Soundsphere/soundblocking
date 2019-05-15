@@ -228,6 +228,7 @@
 127.0.0.1 aka-cdn.adtechus.com
 127.0.0.1 akamai.mathtag.com
 127.0.0.1 akamai.smartadserver.com
+127.0.0.1 ak.imgfarm.com
 127.0.0.1 a.klaviyo.com
 127.0.0.1 ak.sail-horizon.com
 127.0.0.1 aktrack.pubmatic.com
@@ -1648,6 +1649,7 @@
 127.0.0.1 pro.hit.gemius.pl
 127.0.0.1 pro.ip-api.com
 127.0.0.1 projectagora.net
+127.0.0.1 propermedia-d.openx.net
 127.0.0.1 prophet.heise.de
 127.0.0.1 prosieben01.webtrekk.net
 127.0.0.1 proxy.sec.miui.com
@@ -1672,6 +1674,7 @@
 127.0.0.1 pubpress.net
 127.0.0.1 pugm22000nf.pubmatic.com
 127.0.0.1 pulsepoint-cm.p.veruta.com
+127.0.0.1 p.univide.com
 127.0.0.1 push-notifications.top
 127.0.0.1 p.vtracy.de
 127.0.0.1 pv.tubemogul.com
@@ -1716,6 +1719,7 @@
 127.0.0.1 rcm-na.amazon-adsystem.com
 127.0.0.1 rcp.c.appier.net
 127.0.0.1 rdi.eu.criteo.com
+127.0.0.1 r.dlx.addthis.com
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 recommender.scarabresearch.com
 127.0.0.1 recreativ.ru
@@ -2242,6 +2246,7 @@
 127.0.0.1 track.webgains.com
 127.0.0.1 tradeassurance.alibaba.com
 127.0.0.1 traffective-d.openx.net
+127.0.0.1 traffic.outbrain.com
 127.0.0.1 tr.blismedia.com
 127.0.0.1 trck.bdi-services.de
 127.0.0.1 trck.spoteffects.net
