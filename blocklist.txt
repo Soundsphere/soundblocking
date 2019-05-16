@@ -120,6 +120,7 @@
 127.0.0.1 adfarm.mediaplex.com
 127.0.0.1 adgebra.co.in
 127.0.0.1 adimg.uimserv.net
+127.0.0.1 ad-js.chip.de
 127.0.0.1 ad.lkqd.net
 127.0.0.1 adlmerge.com
 127.0.0.1 adlog.flurry.com
@@ -1348,6 +1349,7 @@
 127.0.0.1 junkeemedia.demdex.net
 127.0.0.1 jvz9.com
 127.0.0.1 jwpltx.com
+127.0.0.1 katie.runtnc.net
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 k.intellitxt.com
 127.0.0.1 kleinanzeigen-d.openx.net
@@ -1437,6 +1439,7 @@
 127.0.0.1 marriott.btttag.com
 127.0.0.1 masterh5.adriver.ru
 127.0.0.1 mastertag.effiliation.com
+127.0.0.1 mastertag.kpcustomer.de
 127.0.0.1 mastertag.q-sis.de
 127.0.0.1 match.adsby.bidtheatre.com
 127.0.0.1 match.adsrvr.org
@@ -1573,6 +1576,7 @@
 127.0.0.1 pagead-googlehosted.l.google.com
 127.0.0.1 pagead.googlesyndication.com
 127.0.0.1 pagead.l.doubleclick.net
+127.0.0.1 parkingcrew.net
 127.0.0.1 partnerad.l.doubleclick.net
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partnernet.amazon.de
