@@ -290,6 +290,7 @@
 127.0.0.1 analytics.freespee.com
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.htmedia.in
+127.0.0.1 analytics-ingress-global.bitmovin.com
 127.0.0.1 analytics.localytics.com
 127.0.0.1 analytics.mailmunch.co
 127.0.0.1 analytics.mobile.walmart.com
@@ -392,6 +393,7 @@
 127.0.0.1 app-sj02.marketo.com
 127.0.0.1 app-sj05.marketo.com
 127.0.0.1 app-sj09.marketo.com
+127.0.0.1 app-sj13.marketo.com
 127.0.0.1 app-sj16.marketo.com
 127.0.0.1 app-sji.marketo.com
 127.0.0.1 app-sjp.marketo.com
@@ -1930,6 +1932,7 @@
 127.0.0.1 serve.adtrackers.net
 127.0.0.1 serve.bannertrack.net
 127.0.0.1 servedby.flashtalking.com
+127.0.0.1 server.adformdsp.net
 127.0.0.1 server.adform.net
 127.0.0.1 serve.tercept.com
 127.0.0.1 service.cmp.oath.com
@@ -2094,6 +2097,7 @@
 127.0.0.1 stats.l.doubleclick.net
 127.0.0.1 stats.merriam-webster.com
 127.0.0.1 stats.mezzobit.com
+127.0.0.1 stats.monohost.com
 127.0.0.1 stats.mos.ru
 127.0.0.1 stats.pagefair.com
 127.0.0.1 stats.pusher.com
