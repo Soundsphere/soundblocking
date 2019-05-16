@@ -223,6 +223,7 @@
 127.0.0.1 ad.yieldmanager.com
 127.0.0.1 ad.zanox.com
 127.0.0.1 aexp.demdex.net
+127.0.0.1 a.farlex.com
 127.0.0.1 aff.bstatic.com
 127.0.0.1 affiliate.immobilienscout24.de
 127.0.0.1 afs.googleusercontent.com
@@ -267,6 +268,7 @@
 127.0.0.1 ams01-usadmm-ds.dotomi.com
 127.0.0.1 ams02-bfp01.mediaplex.com
 127.0.0.1 ams02-bfp02.mediaplex.com
+127.0.0.1 ams02-login.dotomi.com
 127.0.0.1 ams02-login-ds.dotomi.com
 127.0.0.1 ams02-usadmm.dotomi.com
 127.0.0.1 ams02-usadmm-ds.dotomi.com
@@ -542,6 +544,7 @@
 127.0.0.1 c3.adalyser.com
 127.0.0.1 ca1.qualtrics.com
 127.0.0.1 c.aaxads.com
+127.0.0.1 cache.addthiscdn.com
 127.0.0.1 cache.datamart.windows.com
 127.0.0.1 cache-ssl.celtra.com
 127.0.0.1 cafemedia-d.openx.net
@@ -568,6 +571,7 @@
 127.0.0.1 cdn1.ads.contentabc.com
 127.0.0.1 cdn1.smartadserver.com
 127.0.0.1 cdn1.stickyadstv.com
+127.0.0.1 cdn25.vizury.com
 127.0.0.1 cdn2.hubspot.net
 127.0.0.1 cdn3.doubleverify.com
 127.0.0.1 cdn4.mxpnl.com
@@ -713,6 +717,7 @@
 127.0.0.1 clientcdn.pushengage.com
 127.0.0.1 client.perimeterx.net
 127.0.0.1 c.live.com
+127.0.0.1 clkde.tradedoubler.com
 127.0.0.1 clk.solocpm.com
 127.0.0.1 cloudfront-labs.amazonaws.com
 127.0.0.1 cm.adform.net
@@ -757,6 +762,7 @@
 127.0.0.1 config.inmobi.com
 127.0.0.1 config.ioam.de
 127.0.0.1 config.safedk.com
+127.0.0.1 config.uca.cloud.unity3d.com
 127.0.0.1 connect.ekomi.de
 127.0.0.1 connect.facebook.com
 127.0.0.1 connect.facebook.net
@@ -781,6 +787,7 @@
 127.0.0.1 cookie-matching.mediarithmics.com
 127.0.0.1 cookiesync.vertamedia.com
 127.0.0.1 cookiex.ngd.yahoo.com
+127.0.0.1 counter.cyberschnuffi.de
 127.0.0.1 counter.rambler.ru
 127.0.0.1 counter.theconversation.edu.au
 127.0.0.1 counter.top.ge
@@ -805,6 +812,7 @@
 127.0.0.1 csr.onet.pl
 127.0.0.1 c.statcounter.com
 127.0.0.1 cstatic.weborama.fr
+127.0.0.1 ct1.addthis.com
 127.0.0.1 c.t4ft.de
 127.0.0.1 cti.w55c.net
 127.0.0.1 c.t-online.de
@@ -824,6 +832,7 @@
 127.0.0.1 d1eoo1tco6rr5e.cloudfront.net
 127.0.0.1 d1fc8wv8zag5ca.cloudfront.net
 127.0.0.1 d1l6p2sc9645hc.cloudfront.net
+127.0.0.1 d1lxhc4jvstzrp.cloudfront.net
 127.0.0.1 d1m6l9dfulcyw7.cloudfront.net
 127.0.0.1 d1.openx.org
 127.0.0.1 d1v9u0bgi1uimx.cloudfront.net
@@ -957,6 +966,7 @@
 127.0.0.1 d.nativendo.de
 127.0.0.1 dnn506yrbagrg.cloudfront.net
 127.0.0.1 dnsseed.bluematt.me
+127.0.0.1 docs.wixstatic.com
 127.0.0.1 domains.googlesyndication.com
 127.0.0.1 doug1izaerwt3.cloudfront.net
 127.0.0.1 download.gamestar.de
@@ -974,11 +984,13 @@
 127.0.0.1 dspcluster.adfarm1.adition.com
 127.0.0.1 dsum.casalemedia.com
 127.0.0.1 dsum-sec.casalemedia.com
+127.0.0.1 dsy5wmnntou9c.cloudfront.net
 127.0.0.1 dt.admission.net
 127.0.0.1 dt.adsafeprotected.com
 127.0.0.1 dtlilztwypawv.cloudfront.net
 127.0.0.1 dtm.advertising.com
 127.0.0.1 dts.innovid.com
+127.0.0.1 dtxtngytz5im1.cloudfront.net
 127.0.0.1 dumontnet.d3.sc.omtrdc.net
 127.0.0.1 dust.ipfingerprint.com
 127.0.0.1 d.xp1.ru4.com
@@ -1368,6 +1380,7 @@
 127.0.0.1 katie.runtnc.net
 127.0.0.1 kinesis.us-east-1.amazonaws.com
 127.0.0.1 k.intellitxt.com
+127.0.0.1 kiosked-d.openx.net
 127.0.0.1 kleinanzeigen-d.openx.net
 127.0.0.1 kraken.rambler.ru
 127.0.0.1 k.streamrail.com
@@ -1917,6 +1930,7 @@
 127.0.0.1 scripts.kiosked.com
 127.0.0.1 scripts.kissmetrics.com
 127.0.0.1 scripts.psyma.com
+127.0.0.1 scripts.sophus3.com
 127.0.0.1 s-cs.send.microad.jp
 127.0.0.1 sc-static.net
 127.0.0.1 sc.tynt.com
@@ -2084,6 +2098,7 @@
 127.0.0.1 stat.flashtalking.com
 127.0.0.1 static.addtoany.com
 127.0.0.1 static.adfarm1.adition.com
+127.0.0.1 static.adman.gr
 127.0.0.1 static.adsafeprotected.com
 127.0.0.1 static.adsnative.com
 127.0.0.1 static.ads-twitter.com
@@ -2319,6 +2334,7 @@
 127.0.0.1 tracking.cp.ligatus.com
 127.0.0.1 tracking.g2crowd.com
 127.0.0.1 tracking.gj-mobile-services.de
+127.0.0.1 tracking.hotel.check24.de
 127.0.0.1 tracking.immobilienscout24.de
 127.0.0.1 tracking.intl.miui.com
 127.0.0.1 tracking.lqm.io
@@ -2443,6 +2459,7 @@
 127.0.0.1 vfde.demdex.net
 127.0.0.1 vg01.met.vgwort.de
 127.0.0.1 vg06.met.vgwort.de
+127.0.0.1 vg08.met.vgwort.de
 127.0.0.1 vg09.met.vgwort.de
 127.0.0.1 vidanalytics.taboola.com
 127.0.0.1 vidapi.expepp.de
@@ -2455,6 +2472,7 @@
 127.0.0.1 video.xx.fbcdn.net
 127.0.0.1 vid.pubmatic.com
 127.0.0.1 vidroll.ru
+127.0.0.1 vid.springserve.com
 127.0.0.1 vidstatb.taboola.com
 127.0.0.1 vidstat.taboola.com
 127.0.0.1 vidutils.taboola.com
@@ -2503,6 +2521,7 @@
 127.0.0.1 wildcard.moatads.com.edgekey.net
 127.0.0.1 win8.ipv6.microsoft.com
 127.0.0.1 wla.vivaldi.com
+127.0.0.1 wms-eu.amazon-adsystem.com
 127.0.0.1 wms-na.amazon-adsystem.com
 127.0.0.1 wolve.pro
 127.0.0.1 ws1.hotjar.com
