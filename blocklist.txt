@@ -32,6 +32,7 @@
 127.0.0.1 727-zqe-044.mktoresp.com
 127.0.0.1 79423.analytics.edgekey.net
 127.0.0.1 7b935.v.fwmrm.net
+127.0.0.1 813-mam-392.mktoresp.com
 127.0.0.1 882-nzg-493.mktoresp.com
 127.0.0.1 883205.fls.doubleclick.net
 127.0.0.1 998766.fls.doubleclick.net
@@ -265,6 +266,7 @@
 127.0.0.1 ams02-bfp01.mediaplex.com
 127.0.0.1 ams02-bfp02.mediaplex.com
 127.0.0.1 ams02-login-ds.dotomi.com
+127.0.0.1 ams02-usadmm.dotomi.com
 127.0.0.1 ams02-usadmm-ds.dotomi.com
 127.0.0.1 ams03-bfp01.mediaplex.com
 127.0.0.1 ams03-bfp02.mediaplex.com
@@ -833,6 +835,7 @@
 127.0.0.1 d37gvrvc0wt4s1.cloudfront.net
 127.0.0.1 d3c3cq33003psk.cloudfront.net
 127.0.0.1 d3cxv97fi8q177.cloudfront.net
+127.0.0.1 d3pkntwtp2ukl5.cloudfront.net
 127.0.0.1 d3qxef4rp70elm.cloudfront.net
 127.0.0.1 d3qxwzhswv93jk.cloudfront.net
 127.0.0.1 d3sbxpiag177w8.cloudfront.net
@@ -1283,6 +1286,7 @@
 127.0.0.1 in.ml314.com
 127.0.0.1 inputs.alooma.com
 127.0.0.1 insight.adsrvr.org
+127.0.0.1 insights.blogfoster.com
 127.0.0.1 insights.hotjar.com
 127.0.0.1 insights.plista.com
 127.0.0.1 insitez.blob.core.windows.net
@@ -1727,6 +1731,7 @@
 127.0.0.1 px-eu.adhigh.net
 127.0.0.1 pxl.connexity.net
 127.0.0.1 pxl.jivox.com
+127.0.0.1 px.marchex.io
 127.0.0.1 px.moatads.com
 127.0.0.1 px.owneriq.net
 127.0.0.1 px.spiceworks.com
@@ -1837,6 +1842,7 @@
 127.0.0.1 rv-gateway.supersonicads.com
 127.0.0.1 s01.flagcounter.com
 127.0.0.1 s0.2mdn.net
+127.0.0.1 s05.flagcounter.com
 127.0.0.1 s0.doubleclick.net
 127.0.0.1 s0.wp.com
 127.0.0.1 s10.histats.com
@@ -2507,6 +2513,7 @@
 127.0.0.1 www.adobetag.com
 127.0.0.1 www.adtilt.com
 127.0.0.1 www.alexa.com
+127.0.0.1 www.andyhoppe.com
 127.0.0.1 www.anrdoezrs.net
 127.0.0.1 www.a.shifen.com
 127.0.0.1 www.assoc-amazon.com
@@ -2581,6 +2588,7 @@
 127.0.0.1 www.storygize.net
 127.0.0.1 www.summerhamster.com
 127.0.0.1 www.taboola.com
+127.0.0.1 www.tag4arm.com
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 www.tumblr.com
 127.0.0.1 www.unbounce.com
