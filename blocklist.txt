@@ -216,6 +216,7 @@
 127.0.0.1 ad.wsod.com
 127.0.0.1 adx.adform.net
 127.0.0.1 adx.chip.de
+127.0.0.1 adx.com.ru
 127.0.0.1 adx.g.doubleclick.net
 127.0.0.1 adx-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 ad.yieldlab.net
@@ -582,6 +583,7 @@
 127.0.0.1 cdn.adspirit.de
 127.0.0.1 cdn.adtrue.com
 127.0.0.1 cdn.appdynamics.com
+127.0.0.1 cdn.appsflyer.com
 127.0.0.1 cdn.at.atwola.com
 127.0.0.1 cdn.atwola.com
 127.0.0.1 cdn.avocet.io
@@ -1001,6 +1003,7 @@
 127.0.0.1 edatasales.com
 127.0.0.1 edge-chat.facebook.com
 127.0.0.1 edge.quantserve.com
+127.0.0.1 edge.simplereach.com
 127.0.0.1 edigitalsurvey.com
 127.0.0.1 e.dlx.addthis.com
 127.0.0.1 ee.adocean.pl
@@ -1032,6 +1035,7 @@
 127.0.0.1 ethn.io
 127.0.0.1 etl.tindersparks.com
 127.0.0.1 et.nytimes.com
+127.0.0.1 et.twyn.com
 127.0.0.1 eu-aa.online-metrix.net
 127.0.0.1 eu.a.volvelle.tech
 127.0.0.1 eu-eb2.3lift.com
@@ -2206,6 +2210,7 @@
 127.0.0.1 tag.contextweb.com
 127.0.0.1 tag.crsspxl.com
 127.0.0.1 tag.demandbase.com
+127.0.0.1 tag.digitaltarget.ru
 127.0.0.1 tagger.opecloud.com
 127.0.0.1 tag.leadplace.fr
 127.0.0.1 tag.marinsm.com
@@ -2408,6 +2413,7 @@
 127.0.0.1 us-u.openx.net
 127.0.0.1 u.videoamp.com
 127.0.0.1 v10.events.data.microsoft.com
+127.0.0.1 v10-win.vortex.data.microsoft.com.akadns.net
 127.0.0.1 v20.events.data.microsoft.com
 127.0.0.1 v2.zopim.com
 127.0.0.1 v4.moatads.com
