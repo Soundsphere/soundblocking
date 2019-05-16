@@ -68,6 +68,7 @@
 127.0.0.1 aaxdetect.com
 127.0.0.1 aax-eu.amazon-adsystem.com
 127.0.0.1 aax-us-east.amazon-adsystem.com
+127.0.0.1 abeagle-public.buzzfeed.com
 127.0.0.1 a.bf-ad.net
 127.0.0.1 a.bf-tools.net
 127.0.0.1 abload.de
@@ -272,6 +273,7 @@
 127.0.0.1 ams03-usadmm.dotomi.com
 127.0.0.1 ams03-usadmm-ds.dotomi.com
 127.0.0.1 ams1-ib.adnxs.com
+127.0.0.1 ams1.mobile.adnxs.com
 127.0.0.1 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 127.0.0.1 ams-login.dotomi.com
 127.0.0.1 ams-usadmm.dotomi.com
@@ -1455,6 +1457,7 @@
 127.0.0.1 media.admob.com
 127.0.0.1 media.carambo.la
 127.0.0.1 mediafire-d.openx.net
+127.0.0.1 media.gameduell.de
 127.0.0.1 media-lax1.inq.com
 127.0.0.1 media.licdn.com
 127.0.0.1 medianet-match.dotomi.com
@@ -1957,6 +1960,7 @@
 127.0.0.1 shutterstock.inq.com
 127.0.0.1 s.idio.co
 127.0.0.1 sig.atdmt.com
+127.0.0.1 silktide.com
 127.0.0.1 simage2.pubmatic.com
 127.0.0.1 simage4.pubmatic.com
 127.0.0.1 s.innovid.com
@@ -2000,6 +2004,7 @@
 127.0.0.1 sp.adbrn.com
 127.0.0.1 sp.analytics.yahoo.com
 127.0.0.1 spanids.thesaurus.com
+127.0.0.1 spgo.io
 127.0.0.1 spiegel-de.spiegel.de
 127.0.0.1 spiegel.met.vgwort.de
 127.0.0.1 spl.zeotap.com
@@ -2112,6 +2117,7 @@
 127.0.0.1 st.dynamicyield.com
 127.0.0.1 stepan-fe.go.mail.ru
 127.0.0.1 stepstone.d1.sc.omtrdc.net
+127.0.0.1 stetic.com
 127.0.0.1 s.thebrighttag.com
 127.0.0.1 storage.googleapis.com
 127.0.0.1 storecatalogrevocation.storequality.microsoft.com
@@ -2306,6 +2312,7 @@
 127.0.0.1 trck.spoteffects.net
 127.0.0.1 trc.taboola.com
 127.0.0.1 trgde.adocean.pl
+127.0.0.1 triggers.wfxtriggers.com
 127.0.0.1 tri.privy.com
 127.0.0.1 trk.connatix.com
 127.0.0.1 trker1.azalead.com
@@ -2439,6 +2446,7 @@
 127.0.0.1 waves.retentionscience.com
 127.0.0.1 wd.adcolony.com
 127.0.0.1 web-analytics.engagio.com
+127.0.0.1 websdk.moengage.com
 127.0.0.1 web-sdk.urbanairship.com
 127.0.0.1 web-t.9gag.com
 127.0.0.1 webts.adac.de
