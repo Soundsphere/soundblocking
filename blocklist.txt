@@ -668,6 +668,7 @@
 127.0.0.1 cdn.tt.omtrdc.net
 127.0.0.1 cdn.tynt.com
 127.0.0.1 cdn.undertone.com
+127.0.0.1 cdn.userreport.com
 127.0.0.1 cdn.viglink.com
 127.0.0.1 cdn.vuukle.com
 127.0.0.1 cdn.wbtrk.net
@@ -1221,6 +1222,7 @@
 127.0.0.1 ibclick.stream
 127.0.0.1 ibeat.indiatimes.com
 127.0.0.1 i.bigmir.net
+127.0.0.1 i.cdnpark.com
 127.0.0.1 ichnaea.netflix.com
 127.0.0.1 i.connectad.io
 127.0.0.1 ic.ph.affinity.com
@@ -2101,6 +2103,7 @@
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.yieldmo.com
 127.0.0.1 static.zotabox.com
+127.0.0.1 statistics.11880.com
 127.0.0.1 stat.pladform.ru
 127.0.0.1 stat.radar.imgsmail.ru
 127.0.0.1 stats3.unrulymedia.com
