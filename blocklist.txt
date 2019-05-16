@@ -542,6 +542,7 @@
 127.0.0.1 c3.adalyser.com
 127.0.0.1 ca1.qualtrics.com
 127.0.0.1 c.aaxads.com
+127.0.0.1 cache.datamart.windows.com
 127.0.0.1 cache-ssl.celtra.com
 127.0.0.1 cafemedia-d.openx.net
 127.0.0.1 c.amazon-adsystem.com
@@ -1175,6 +1176,7 @@
 127.0.0.1 go.pardot.com
 127.0.0.1 go.redirectingat.com
 127.0.0.1 go.shareaholic.com
+127.0.0.1 go.strpjmp.com
 127.0.0.1 go.toutapp.com
 127.0.0.1 go.urbanairship.com
 127.0.0.1 grammarly.go2cloud.org
@@ -1204,6 +1206,7 @@
 127.0.0.1 hb.sekindo.com
 127.0.0.1 hb.vntsm.com
 127.0.0.1 healte.de
+127.0.0.1 healthline-d.openx.net
 127.0.0.1 heapanalytics.com
 127.0.0.1 heartbeats.hb.omtrdc.net
 127.0.0.1 heartbeats.omtrdc.net
@@ -1671,6 +1674,7 @@
 127.0.0.1 player.adtelligent.com
 127.0.0.1 player.performgroup.com
 127.0.0.1 player.spoods.io
+127.0.0.1 playtime.tubemogul.com
 127.0.0.1 pls.webtype.com
 127.0.0.1 plugin.mediavoice.com
 127.0.0.1 pluralsight.hb.omtrdc.net
@@ -1753,6 +1757,7 @@
 127.0.0.1 px.moatads.com
 127.0.0.1 px.owneriq.net
 127.0.0.1 px.spiceworks.com
+127.0.0.1 px.srvcs.tumblr.com
 127.0.0.1 px.staticfiles.at
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 px.wa.ui-portal.de
@@ -2327,6 +2332,7 @@
 127.0.0.1 tracking.s24.com
 127.0.0.1 tracking.searchmarketing.com
 127.0.0.1 tracking.vcommission.com
+127.0.0.1 trackla.stackla.com
 127.0.0.1 track.mailerlite.com
 127.0.0.1 track.securedvisit.com
 127.0.0.1 track.thesaurus.com
@@ -2440,6 +2446,7 @@
 127.0.0.1 vg09.met.vgwort.de
 127.0.0.1 vidanalytics.taboola.com
 127.0.0.1 vidapi.expepp.de
+127.0.0.1 video-ads-apex.rubiconproject.com
 127.0.0.1 video-adserver.ibillboard.com
 127.0.0.1 video-ads.rubiconproject.com
 127.0.0.1 videoevents.outbrain.com
@@ -2544,6 +2551,7 @@
 127.0.0.1 www.autopilothq.com
 127.0.0.1 www.avantlink.com
 127.0.0.1 www.awin.com
+127.0.0.1 www.bannedsextapes.com
 127.0.0.1 www.barilliance.net
 127.0.0.1 www.bet365.com
 127.0.0.1 www.bizographics.com
