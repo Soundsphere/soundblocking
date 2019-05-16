@@ -72,6 +72,7 @@
 127.0.0.1 a.bf-tools.net
 127.0.0.1 abload.de
 127.0.0.1 abp.smartadcheck.de
+127.0.0.1 abrtp1.marketo.com
 127.0.0.1 abs.proxistore.com
 127.0.0.1 accounts.doubleclick.net
 127.0.0.1 acdn.adnxs.com
@@ -370,6 +371,7 @@
 127.0.0.1 apnx-match.dotomi.com
 127.0.0.1 app-ab23.marketo.com
 127.0.0.1 app-ab25.marketo.com
+127.0.0.1 app-ab27.marketo.com
 127.0.0.1 app.adjust.com
 127.0.0.1 app.adroll.com
 127.0.0.1 app-analytics.snapchat.com
@@ -1760,6 +1762,7 @@
 127.0.0.1 realtime.services.disqus.com
 127.0.0.1 recommender.scarabresearch.com
 127.0.0.1 recreativ.ru
+127.0.0.1 recs.richrelevance.com
 127.0.0.1 recs.shareaholic.com
 127.0.0.1 redirect.viglink.com
 127.0.0.1 referrer.disqus.com
@@ -2305,6 +2308,7 @@
 127.0.0.1 trgde.adocean.pl
 127.0.0.1 tri.privy.com
 127.0.0.1 trk.connatix.com
+127.0.0.1 trker1.azalead.com
 127.0.0.1 trk.freepik.com
 127.0.0.1 trk.helios.ligatus.com
 127.0.0.1 trk.kissmetrics.com
@@ -2610,6 +2614,7 @@
 127.0.0.1 zeus.ad.intl.xiaomi.com
 127.0.0.1 zm232.com
 127.0.0.1 z.moatads.com
+127.0.0.1 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 127.0.0.1 zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com
 127.0.0.1 zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
 127.0.0.1 z-na.amazon-adsystem.com
