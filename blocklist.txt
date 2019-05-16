@@ -293,6 +293,7 @@
 127.0.0.1 analytics-eu.clickdimensions.com
 127.0.0.1 analytics.faw.sky.com
 127.0.0.1 analytics.ff.avast.com
+127.0.0.1 analytics.foresee.com
 127.0.0.1 analytics.freespee.com
 127.0.0.1 analytics.google.com
 127.0.0.1 analytics.htmedia.in
@@ -329,6 +330,7 @@
 127.0.0.1 api.appsflyer.com
 127.0.0.1 api.apptentive.com
 127.0.0.1 api.autopilothq.com
+127.0.0.1 api.b2c.com
 127.0.0.1 api.bounceexchange.com
 127.0.0.1 api.branch.io
 127.0.0.1 api.brs.intl.miui.com
@@ -360,6 +362,7 @@
 127.0.0.1 api.sec.intl.miui.com
 127.0.0.1 api.sec.miui.com
 127.0.0.1 api.segment.io
+127.0.0.1 apiservices.krxd.net
 127.0.0.1 api.similarweb.com
 127.0.0.1 api.skyhookwireless.com
 127.0.0.1 api.taboola.com
@@ -659,6 +662,7 @@
 127.0.0.1 cdn.switchadhub.com
 127.0.0.1 cdn.taboola.com
 127.0.0.1 cdn.tagcommander.com
+127.0.0.1 cdn.taplytics.com
 127.0.0.1 cdn.teads.tv
 127.0.0.1 cdn.tercept.com
 127.0.0.1 cdn.tinypass.com
@@ -721,6 +725,7 @@
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cm.steepto.com
 127.0.0.1 cms-xch.33across.com
+127.0.0.1 cnt2.stroeerdp.de
 127.0.0.1 code.bildstatic.de
 127.0.0.1 code.etracker.com
 127.0.0.1 codefund.app
@@ -799,6 +804,7 @@
 127.0.0.1 cstatic.weborama.fr
 127.0.0.1 c.t4ft.de
 127.0.0.1 cti.w55c.net
+127.0.0.1 c.t-online.de
 127.0.0.1 ct.pinterest.com
 127.0.0.1 ct.sddan.com
 127.0.0.1 cw.addthis.com
@@ -1173,6 +1179,7 @@
 127.0.0.1 graph.instagram.com
 127.0.0.1 green.erne.co
 127.0.0.1 grmtech.net
+127.0.0.1 grunerandjahr.112.2o7.net
 127.0.0.1 gscounters.eu1.gigya.com
 127.0.0.1 gscounters.us1.gigya.com
 127.0.0.1 gslb.demdex.net
@@ -1380,6 +1387,7 @@
 127.0.0.1 load.instinctiveads.com
 127.0.0.1 loadm.exelator.com
 127.0.0.1 loadr.exelator.com
+127.0.0.1 load.s3.amazonaws.com
 127.0.0.1 load.sumome.com
 127.0.0.1 loadus.exelator.com
 127.0.0.1 loadus.tm.ssl.exelator.com
@@ -1844,6 +1852,7 @@
 127.0.0.1 rum.logsss.com
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 run-syndicate.com
+127.0.0.1 runtime.lemonpi.io
 127.0.0.1 rva.outbrain.com
 127.0.0.1 rv-gateway.supersonicads.com
 127.0.0.1 s01.flagcounter.com
