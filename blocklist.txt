@@ -1872,6 +1872,7 @@
 127.0.0.1 rtb.openx.net
 127.0.0.1 rtb-xa.openx.net
 127.0.0.1 rtd.tubemogul.com
+127.0.0.1 rtr.innovid.com
 127.0.0.1 r.turn.com
 127.0.0.1 r.turn.com.akadns.net
 127.0.0.1 rubicon-match.dotomi.com
