@@ -723,6 +723,7 @@
 127.0.0.1 cm.adform.net
 127.0.0.1 cm.adgrx.com
 127.0.0.1 cmap.alibaba.com
+127.0.0.1 c.marketgid.com
 127.0.0.1 cm.eyereturn.com
 127.0.0.1 cm.g.doubleclick.net
 127.0.0.1 c.mgid.com
@@ -730,6 +731,7 @@
 127.0.0.1 cmi.netseer.com
 127.0.0.1 cmp.advertising.com
 127.0.0.1 cms.analytics.yahoo.com
+127.0.0.1 cm.send.microad.jp
 127.0.0.1 cms.quantserve.com
 127.0.0.1 cm.steepto.com
 127.0.0.1 cms-xch.33across.com
@@ -1348,6 +1350,7 @@
 127.0.0.1 j93557g.com
 127.0.0.1 j.adlooxtracking.com
 127.0.0.1 jadserve.postrelease.com
+127.0.0.1 jmp.sh
 127.0.0.1 jp-u.openx.net
 127.0.0.1 js.adscale.de
 127.0.0.1 js.adsrvr.org
@@ -2218,6 +2221,7 @@
 127.0.0.1 sync.tubemogul.com
 127.0.0.1 sync.upravel.com
 127.0.0.1 syndication.exdynsrv.com
+127.0.0.1 syndication.exoclick.com
 127.0.0.1 syndication.twitter.com
 127.0.0.1 s.youtube.com
 127.0.0.1 t13.intelliad.de
@@ -2686,6 +2690,7 @@
 127.0.0.1 zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com
 127.0.0.1 zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
 127.0.0.1 z-na.amazon-adsystem.com
+127.0.0.1 znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
 127.0.0.1 zoover.adtrackers.net
 127.0.0.1 z-p42.graph.instagram.com
 127.0.0.1 z-p4.graph.instagram.com
