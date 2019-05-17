@@ -33,6 +33,7 @@
 127.0.0.1 79423.analytics.edgekey.net
 127.0.0.1 7b935.v.fwmrm.net
 127.0.0.1 813-mam-392.mktoresp.com
+127.0.0.1 8468614.fls.doubleclick.net
 127.0.0.1 882-nzg-493.mktoresp.com
 127.0.0.1 883205.fls.doubleclick.net
 127.0.0.1 998766.fls.doubleclick.net
@@ -870,6 +871,7 @@
 127.0.0.1 d.adtriba.com
 127.0.0.1 d.adup-tech.com
 127.0.0.1 d.agkn.com
+127.0.0.1 daimlerag.d2.sc.omtrdc.net
 127.0.0.1 dap.digitalgov.gov
 127.0.0.1 d.applovin.com
 127.0.0.1 d.applvn.com
@@ -2012,6 +2014,7 @@
 127.0.0.1 silktide.com
 127.0.0.1 simage2.pubmatic.com
 127.0.0.1 simage4.pubmatic.com
+127.0.0.1 sinfb.adsrvr.org
 127.0.0.1 s.innovid.com
 127.0.0.1 si.nuggad.net
 127.0.0.1 site.adform.com
@@ -2170,6 +2173,7 @@
 127.0.0.1 stepstone.d1.sc.omtrdc.net
 127.0.0.1 stetic.com
 127.0.0.1 s.thebrighttag.com
+127.0.0.1 st-n.ads1-adnow.com
 127.0.0.1 storage.googleapis.com
 127.0.0.1 storecatalogrevocation.storequality.microsoft.com
 127.0.0.1 streamamp-d.openx.net
