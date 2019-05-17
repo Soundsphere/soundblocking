@@ -131,6 +131,7 @@
 127.0.0.1 ad.mediaplex.com
 127.0.0.1 ad.mox.tv
 127.0.0.1 adn.ebay.com
+127.0.0.1 adn.meinsol.de
 127.0.0.1 adobe.com.ssl.d1.sc.omtrdc.net
 127.0.0.1 adobecorp.sc.omtrdc.net
 127.0.0.1 adobe-sync.dotomi.com
@@ -718,6 +719,7 @@
 127.0.0.1 click.virt.exacttarget.com
 127.0.0.1 client-analytics.braintreegateway.com
 127.0.0.1 clientcdn.pushengage.com
+127.0.0.1 client-event-reporter.twitch.tv
 127.0.0.1 client.perimeterx.net
 127.0.0.1 c.live.com
 127.0.0.1 clkde.tradedoubler.com
@@ -2364,6 +2366,7 @@
 127.0.0.1 tracking.vcommission.com
 127.0.0.1 trackla.stackla.com
 127.0.0.1 track.mailerlite.com
+127.0.0.1 track.omguk.com
 127.0.0.1 track.securedvisit.com
 127.0.0.1 track.thesaurus.com
 127.0.0.1 track.webgains.com
