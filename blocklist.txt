@@ -40,6 +40,7 @@
 127.0.0.1 a-0001.a-msedge.net
 127.0.0.1 a-0003.a-msedge.net
 127.0.0.1 a1.adform.net
+127.0.0.1 a2131.casalemedia.com
 127.0.0.1 a2150.casalemedia.com
 127.0.0.1 a2170.casalemedia.com
 127.0.0.1 a2181.casalemedia.com
@@ -645,6 +646,7 @@
 127.0.0.1 cdn.onenote.net
 127.0.0.1 cdn.onesignal.com
 127.0.0.1 cdn.onthe.io
+127.0.0.1 cdn.perfdrive.com
 127.0.0.1 cdn.permutive.com
 127.0.0.1 cdn.petametrics.com
 127.0.0.1 cdn.polyfill.io
@@ -2504,6 +2506,7 @@
 127.0.0.1 vz-cdn.contentabc.com
 127.0.0.1 walker.zdbb.net
 127.0.0.1 washingtonpost.com.102.112.2o7.net
+127.0.0.1 watson.microsoft.com
 127.0.0.1 watson.telemetry.microsoft.com
 127.0.0.1 wa.ui-portal.de
 127.0.0.1 waust.at
