@@ -321,7 +321,6 @@
 127.0.0.1 analytics.webgains.io
 127.0.0.1 analytics.zg-api.com
 127.0.0.1 android.bugly.qq.com
-127.0.0.1 android.clients.google.com
 127.0.0.1 animate.adobe.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 anycast.fw.adsafeprotected.com
