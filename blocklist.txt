@@ -321,6 +321,7 @@
 127.0.0.1 analytics.webgains.io
 127.0.0.1 analytics.zg-api.com
 127.0.0.1 android.bugly.qq.com
+127.0.0.1 android.clients.google.com
 127.0.0.1 animate.adobe.com
 127.0.0.1 an.yandex.ru
 127.0.0.1 anycast.fw.adsafeprotected.com
@@ -1245,6 +1246,7 @@
 127.0.0.1 hubt.pornhub.com
 127.0.0.1 hurra.com
 127.0.0.1 hw-cdn.trafficjunky.net
+127.0.0.1 i1.ytimg.com
 127.0.0.1 i2.createsend1.com
 127.0.0.1 ia601507.us.archive.org
 127.0.0.1 iad-2-apex.go.sonobi.com
