@@ -575,6 +575,7 @@
 127.0.0.1 c.bigmir.net
 127.0.0.1 c.bing.com
 127.0.0.1 cbm02.webtrekk.net
+127.0.0.1 cbsi.demdex.net
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 ccc.sys.miui.com
 127.0.0.1 c.cnzz.com
@@ -587,6 +588,7 @@
 127.0.0.1 cdn1.stickyadstv.com
 127.0.0.1 cdn25.vizury.com
 127.0.0.1 cdn2.hubspot.net
+127.0.0.1 cdn2.teads.tv
 127.0.0.1 cdn3.doubleverify.com
 127.0.0.1 cdn4.mxpnl.com
 127.0.0.1 cdn5.userzoom.com
@@ -1000,6 +1002,7 @@
 127.0.0.1 downloads.intercomcdn.com
 127.0.0.1 dp2.33across.com
 127.0.0.1 dpm.demdex.net
+127.0.0.1 dpndczlul8yjf.cloudfront.net
 127.0.0.1 dp-sync.dotomi.com
 127.0.0.1 d.pub.network
 127.0.0.1 drs2.veinteractive.com
@@ -1325,6 +1328,7 @@
 127.0.0.1 img.metaffiliation.com
 127.0.0.1 img.mplx.akadns.net
 127.0.0.1 img.sedoparking.com
+127.0.0.1 img.tradedoubler.com
 127.0.0.1 imguplo.com
 127.0.0.1 img.web.de
 127.0.0.1 impde.tradedoubler.com
@@ -1786,6 +1790,7 @@
 127.0.0.1 ps.eyeota.net
 127.0.0.1 p.skimresources.com
 127.0.0.1 p.smartertravel.com
+127.0.0.1 ps.ns-cdn.com
 127.0.0.1 p.teads.tv
 127.0.0.1 pt.ispot.tv
 127.0.0.1 p.t-online.de
