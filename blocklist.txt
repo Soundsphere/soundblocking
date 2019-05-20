@@ -29,6 +29,7 @@
 127.0.0.1 5-edge-chat.facebook.com
 127.0.0.1 6124109.fls.doubleclick.net
 127.0.0.1 6144643.fls.doubleclick.net
+127.0.0.1 6.adsco.re
 127.0.0.1 71i.nuggad.net
 127.0.0.1 727-zqe-044.mktoresp.com
 127.0.0.1 79423.analytics.edgekey.net
@@ -55,6 +56,7 @@
 127.0.0.1 a3281.casalemedia.com
 127.0.0.1 a3290.casalemedia.com
 127.0.0.1 a3291.casalemedia.com
+127.0.0.1 a3330.casalemedia.com
 127.0.0.1 a3340.casalemedia.com
 127.0.0.1 a3341.casalemedia.com
 127.0.0.1 a3360.casalemedia.com
@@ -141,6 +143,7 @@
 127.0.0.1 adobecorp.sc.omtrdc.net
 127.0.0.1 adobe-sync.dotomi.com
 127.0.0.1 adobe.tt.omtrdc.net
+127.0.0.1 adocean-ee.hit.gemius.pl
 127.0.0.1 ado.pro-market.net
 127.0.0.1 ads18.vertamedia.com
 127.0.0.1 ads2.contentabc.com
@@ -1527,6 +1530,7 @@
 127.0.0.1 mb.moatads.com
 127.0.0.1 mboxedge26.tt.omtrdc.net
 127.0.0.1 mbsy.co
+127.0.0.1 mcdonaldscorporation.sc.omtrdc.net
 127.0.0.1 mcdp-chidc2.outbrain.com
 127.0.0.1 mcdp-nydc1.outbrain.com
 127.0.0.1 mcdp-sadc1.outbrain.com
@@ -2048,6 +2052,7 @@
 127.0.0.1 service.maxymiser.net
 127.0.0.1 servicer.mgid.com
 127.0.0.1 services.serving-sys.com
+127.0.0.1 serving.bepolite.eu
 127.0.0.1 sessions.bugsnag.com
 127.0.0.1 session.timecommerce.net
 127.0.0.1 settings.crashlytics.com
@@ -2525,6 +2530,7 @@
 127.0.0.1 vastcdn.outbrain.com
 127.0.0.1 vast.mathtag.com
 127.0.0.1 vastpixel.adsafeprotected.com
+127.0.0.1 vast-pop-ams.mathtag.com
 127.0.0.1 vast-pop-zrh.mathtag.com
 127.0.0.1 vast-test.mathtag.com
 127.0.0.1 va.tawk.to
