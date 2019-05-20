@@ -2380,6 +2380,7 @@
 127.0.0.1 trck.bdi-services.de
 127.0.0.1 trck.spoteffects.net
 127.0.0.1 trc.taboola.com
+127.0.0.1 trends.revcontent.com
 127.0.0.1 trgde.adocean.pl
 127.0.0.1 triggers.wfxtriggers.com
 127.0.0.1 tri.privy.com
