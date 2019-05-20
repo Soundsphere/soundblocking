@@ -725,6 +725,7 @@
 127.0.0.1 ck.solocpm.com
 127.0.0.1 clarium.global.ssl.fastly.net
 127.0.0.1 clc.stackoverflow.com
+127.0.0.1 click-de.plista.com
 127.0.0.1 click.linksynergy.com
 127.0.0.1 click.plista.com
 127.0.0.1 clickserve.dartsearch.net
@@ -1301,6 +1302,7 @@
 127.0.0.1 image4.pubmatic.com
 127.0.0.1 image5.pubmatic.com
 127.0.0.1 image6.pubmatic.com
+127.0.0.1 image.providesupport.com
 127.0.0.1 images.bizrate.com
 127.0.0.1 images.intellitxt.com
 127.0.0.1 images.outbrainimg.com
@@ -1646,6 +1648,7 @@
 127.0.0.1 partner.googleadservices.com
 127.0.0.1 partnernet.amazon.de
 127.0.0.1 partners.cmptch.com
+127.0.0.1 partner.shareaholic.com
 127.0.0.1 partners.tremorhub.com
 127.0.0.1 partners.webmasterplan.com
 127.0.0.1 pb.adriver.ru
@@ -2082,6 +2085,7 @@
 127.0.0.1 smetrics.mcafee.com
 127.0.0.1 smetrics.payback.de
 127.0.0.1 smetrics.tesco.com
+127.0.0.1 snapsort-d.openx.net
 127.0.0.1 snigel-d.openx.net
 127.0.0.1 snip.ly
 127.0.0.1 snippets.cdn.mozilla.net
