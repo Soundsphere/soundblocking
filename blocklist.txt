@@ -346,6 +346,7 @@
 127.0.0.1 api.bounceexchange.com
 127.0.0.1 api.branch.io
 127.0.0.1 api.brs.intl.miui.com
+127.0.0.1 api.bufferapp.com
 127.0.0.1 api-cf.affirm.com
 127.0.0.1 api.chat.xiaomi.net
 127.0.0.1 api.company-target.com
@@ -1580,6 +1581,7 @@
 127.0.0.1 navdmp.com
 127.0.0.1 nba.demdex.net
 127.0.0.1 nbcu.demdex.net
+127.0.0.1 nervoussummer.com
 127.0.0.1 network.bazaarvoice.com
 127.0.0.1 netzwelt-gmbh-d.openx.net
 127.0.0.1 newrelic.com
