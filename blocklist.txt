@@ -1640,6 +1640,7 @@
 127.0.0.1 pb.adriver.ru
 127.0.0.1 p.bm23.com
 127.0.0.1 p.cpx.to
+127.0.0.1 p.dlx.addthis.com
 127.0.0.1 pentos-cdn.polarmobile.com
 127.0.0.1 perf.logsss.com
 127.0.0.1 perf.mmstat.com
@@ -2336,6 +2337,7 @@
 127.0.0.1 t.myvisualiq.net
 127.0.0.1 t.nativendo.de
 127.0.0.1 token.rubiconproject.com
+127.0.0.1 top100-images.rambler.ru
 127.0.0.1 top-fwz1.mail.ru
 127.0.0.1 touch.myntra.com
 127.0.0.1 t.paypal.com
@@ -2658,6 +2660,7 @@
 127.0.0.1 www.lduhtrp.net
 127.0.0.1 www.ligatus.com
 127.0.0.1 www.linkwithin.com
+127.0.0.1 www.liveinternet.ru
 127.0.0.1 www.mainadv.com
 127.0.0.1 www.mathtag.com
 127.0.0.1 www.nexus.ensighten.com
