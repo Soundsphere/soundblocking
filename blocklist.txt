@@ -48,16 +48,19 @@
 127.0.0.1 a2200.casalemedia.com
 127.0.0.1 a2201.casalemedia.com
 127.0.0.1 a2220.casalemedia.com
+127.0.0.1 a2231.casalemedia.com
 127.0.0.1 a2240.casalemedia.com
 127.0.0.1 a3270.casalemedia.com
 127.0.0.1 a3281.casalemedia.com
 127.0.0.1 a3290.casalemedia.com
 127.0.0.1 a3291.casalemedia.com
 127.0.0.1 a3340.casalemedia.com
+127.0.0.1 a3341.casalemedia.com
 127.0.0.1 a3360.casalemedia.com
 127.0.0.1 a3361.casalemedia.com
 127.0.0.1 a3371.casalemedia.com
 127.0.0.1 a3381.casalemedia.com
+127.0.0.1 a3400.casalemedia.com
 127.0.0.1 a4550.casalemedia.com
 127.0.0.1 a4p.adpartner.pro
 127.0.0.1 aa.agkn.com
@@ -89,6 +92,7 @@
 127.0.0.1 action.media6degrees.com
 127.0.0.1 action.metaffiliation.com
 127.0.0.1 actions-am.taboola.com
+127.0.0.1 activities.alibaba.com
 127.0.0.1 activity.windows.com
 127.0.0.1 act.webmasterplan.com
 127.0.0.1 acuityplatform.com
@@ -652,6 +656,7 @@
 127.0.0.1 cdn.petametrics.com
 127.0.0.1 cdn.polyfill.io
 127.0.0.1 cdn.pushassist.com
+127.0.0.1 cdn.quantummetric.com
 127.0.0.1 cdn.ravenjs.com
 127.0.0.1 cdn.rawgit.com
 127.0.0.1 cdn.revcontent.com
@@ -752,6 +757,7 @@
 127.0.0.1 coinmarketcap-d.openx.net
 127.0.0.1 col.eum-appdynamics.com
 127.0.0.1 collect.albacross.com
+127.0.0.1 collecte.audience.acpm.fr
 127.0.0.1 collect-eu-central-1.tealiumiq.com
 127.0.0.1 collector-1054.tvsquared.com
 127.0.0.1 collector.bunchbox.co
@@ -779,6 +785,7 @@
 127.0.0.1 connect.tapjoy.com
 127.0.0.1 consent.cookiebot.com
 127.0.0.1 consent.truste.com
+127.0.0.1 containertags.belboon.de
 127.0.0.1 content.aimatch.com
 127.0.0.1 content.carambo.la
 127.0.0.1 content.livesportmedia.eu
@@ -813,6 +820,7 @@
 127.0.0.1 cs9.wac.phicdn.net
 127.0.0.1 cs.adingo.jp
 127.0.0.1 csc.beap.bc.yahoo.com
+127.0.0.1 cs.gssprt.jp
 127.0.0.1 csi.gstatic.com
 127.0.0.1 cs.media.net
 127.0.0.1 c.spiegel.de
@@ -1091,6 +1099,7 @@
 127.0.0.1 exponea.com
 127.0.0.1 extremetracking.com
 127.0.0.1 eyeota-sync.dotomi.com
+127.0.0.1 f5.market.mi-img.com
 127.0.0.1 fanatics.112.2o7.net
 127.0.0.1 farlex-d.openx.net
 127.0.0.1 farm-de.plista.com
@@ -1113,6 +1122,7 @@
 127.0.0.1 fe.sitedataprocessing.com
 127.0.0.1 find.api.micloud.xiaomi.net
 127.0.0.1 firefox.settings.services.mozilla.com
+127.0.0.1 flaconi02.webtrekk.net
 127.0.0.1 flapi1.rubiconproject.com
 127.0.0.1 flash.sec.miui.com
 127.0.0.1 f-log-extension.grammarly.io
@@ -1123,6 +1133,7 @@
 127.0.0.1 fls-na.amazon.com
 127.0.0.1 f.monetate.net
 127.0.0.1 fo-api.omnitagjs.com
+127.0.0.1 form-cdn.pardot.com
 127.0.0.1 foxnews.demdex.net
 127.0.0.1 fp.msedge.net
 127.0.0.1 fptadtrue-d.openx.net
@@ -1395,6 +1406,7 @@
 127.0.0.1 kiosked-d.openx.net
 127.0.0.1 kleinanzeigen-d.openx.net
 127.0.0.1 kraken.rambler.ru
+127.0.0.1 krk.kargo.com
 127.0.0.1 k.streamrail.com
 127.0.0.1 kvinit-prod.api.kochava.com
 127.0.0.1 l96jc26jvj.kameleoon.eu
@@ -1721,6 +1733,7 @@
 127.0.0.1 pool9.moatads.com
 127.0.0.1 pool.admedo.com
 127.0.0.1 popup.taboola.com
+127.0.0.1 popup.wisepops.com
 127.0.0.1 port.sec.intl.miui.com
 127.0.0.1 po.st
 127.0.0.1 powr-counter.herokuapp.com
@@ -1735,6 +1748,7 @@
 127.0.0.1 prg.smartadserver.com
 127.0.0.1 privymktg.com
 127.0.0.1 probe.yieldlab.net
+127.0.0.1 prod-js.aws.y-track.com
 127.0.0.1 profile-api-prod-elb.53.localytics.com
 127.0.0.1 profile.localytics.com
 127.0.0.1 profile.ssp.rambler.ru
@@ -1885,6 +1899,7 @@
 127.0.0.1 rules.quantcount.com
 127.0.0.1 rumcollector.teslamotors.com
 127.0.0.1 rum.logsss.com
+127.0.0.1 rum.monitis.com
 127.0.0.1 rum-static.pingdom.net
 127.0.0.1 run-syndicate.com
 127.0.0.1 runtime.lemonpi.io
@@ -1975,6 +1990,7 @@
 127.0.0.1 secure.insightexpressai.com
 127.0.0.1 secure.leadback.advertising.com
 127.0.0.1 secure.leadforensics.com
+127.0.0.1 secure.media6degrees.com
 127.0.0.1 securemetrics.apple.com
 127.0.0.1 securepubads.g.doubleclick.net
 127.0.0.1 secure.quantserve.com
@@ -2050,6 +2066,7 @@
 127.0.0.1 smetrics.cnn.com
 127.0.0.1 smetrics.marriott.com
 127.0.0.1 smetrics.mcafee.com
+127.0.0.1 smetrics.payback.de
 127.0.0.1 smetrics.tesco.com
 127.0.0.1 snigel-d.openx.net
 127.0.0.1 snip.ly
@@ -2107,6 +2124,7 @@
 127.0.0.1 star.c10r.facebook.com
 127.0.0.1 star.facebook.com
 127.0.0.1 star-mini.c10r.facebook.com
+127.0.0.1 startrekk.flaconi.de
 127.0.0.1 stas.outbrain.com
 127.0.0.1 stat.alibaba.com
 127.0.0.1 statcounter.com
@@ -2160,6 +2178,7 @@
 127.0.0.1 stats.appsflyer.com
 127.0.0.1 stats.aws.rubiconproject.com
 127.0.0.1 stats.bannersnack.com
+127.0.0.1 stats.berkman.harvard.edu
 127.0.0.1 stats.buysellads.com
 127.0.0.1 stats.computecmedia.de
 127.0.0.1 statsfe2.ws.microsoft.com
@@ -2479,6 +2498,7 @@
 127.0.0.1 vfd2dyn.vodafone.de
 127.0.0.1 vfde.demdex.net
 127.0.0.1 vg01.met.vgwort.de
+127.0.0.1 vg02.met.vgwort.de
 127.0.0.1 vg06.met.vgwort.de
 127.0.0.1 vg08.met.vgwort.de
 127.0.0.1 vg09.met.vgwort.de
@@ -2503,6 +2523,7 @@
 127.0.0.1 vjs.zencdn.net
 127.0.0.1 vk.com
 127.0.0.1 v.lkqd.net
+127.0.0.1 vmss.boldchat.com
 127.0.0.1 volvelle-ads-cdn.azureedge.net
 127.0.0.1 vop.sundaysky.com
 127.0.0.1 vpaid.adsafeprotected.com
@@ -2533,6 +2554,7 @@
 127.0.0.1 whitelabel.media.net
 127.0.0.1 whos.amung.us
 127.0.0.1 widget.as.criteo.com
+127.0.0.1 widget.cloud.opta.net
 127.0.0.1 widget.eu.criteo.com
 127.0.0.1 widgetmonitor.outbrain.com
 127.0.0.1 widget.perfectmarket.com
