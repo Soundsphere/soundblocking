@@ -1107,6 +1107,7 @@
 127.0.0.1 events.whisk.com
 127.0.0.1 evt.klarna.com
 127.0.0.1 ew1.dms-gld.bigdata.ssp.samsung.com
+127.0.0.1 exapxl.de
 127.0.0.1 exch.quantcount.com
 127.0.0.1 exch.quantserve.com
 127.0.0.1 expedia.com.ssl.d1.sc.omtrdc.net
