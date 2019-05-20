@@ -21,6 +21,7 @@
 127.0.0.1 4704202.fls.doubleclick.net
 127.0.0.1 4898337.fls.doubleclick.net
 127.0.0.1 4.bp.blogspot.com
+127.0.0.1 4d.condenastdigital.com
 127.0.0.1 4-edge-chat.facebook.com
 127.0.0.1 5290727.fls.doubleclick.net
 127.0.0.1 5994599.fls.doubleclick.net
@@ -465,6 +466,7 @@
 127.0.0.1 az1.qualtrics.com
 127.0.0.1 az416426.vo.msecnd.net
 127.0.0.1 b1sync.zemanta.com
+127.0.0.1 b3.mookie1.com
 127.0.0.1 b.6sc.co
 127.0.0.1 b92.yahoo.co.jp
 127.0.0.1 b97.yahoo.co.jp
@@ -597,6 +599,7 @@
 127.0.0.1 cdn.adskeeper.co.uk
 127.0.0.1 cdn.adspirit.de
 127.0.0.1 cdn.adtrue.com
+127.0.0.1 cdn-akamai.mookie1.com
 127.0.0.1 cdn.appdynamics.com
 127.0.0.1 cdn.appsflyer.com
 127.0.0.1 cdn.at.atwola.com
@@ -773,6 +776,7 @@
 127.0.0.1 combine.urbanairship.com
 127.0.0.1 completion.amazon.com
 127.0.0.1 completion.amazon.co.uk
+127.0.0.1 condenast.demdex.net
 127.0.0.1 config1.veinteractive.com
 127.0.0.1 config2.mparticle.com
 127.0.0.1 config.inmobi.com
@@ -1755,6 +1759,7 @@
 127.0.0.1 privymktg.com
 127.0.0.1 probe.yieldlab.net
 127.0.0.1 prod-js.aws.y-track.com
+127.0.0.1 prof.estat.com
 127.0.0.1 profile-api-prod-elb.53.localytics.com
 127.0.0.1 profile.localytics.com
 127.0.0.1 profile.ssp.rambler.ru
@@ -2286,6 +2291,7 @@
 127.0.0.1 tags-cdn.deployads.com
 127.0.0.1 tags.crwdcntrl.net
 127.0.0.1 tags-eu.tiqcdn.com
+127.0.0.1 tags.h12-media.com
 127.0.0.1 tags.mathtag.com
 127.0.0.1 tags.onscroll.com
 127.0.0.1 tags.tiqcdn.com
@@ -2293,6 +2299,7 @@
 127.0.0.1 tag.yieldoptimizer.com
 127.0.0.1 tapestry.tapad.com
 127.0.0.1 tapfiliate.com
+127.0.0.1 tapjoy.go2cloud.org
 127.0.0.1 t.appsflyer.com
 127.0.0.1 tap.rubiconproject.com
 127.0.0.1 tap-secure.rubiconproject.com
@@ -2362,6 +2369,7 @@
 127.0.0.1 trackbar.navigator.web.de
 127.0.0.1 track.celtra.com
 127.0.0.1 trackcmp.net
+127.0.0.1 track.contently.com
 127.0.0.1 track.cordial.io
 127.0.0.1 track.customer.io
 127.0.0.1 track.custora.com
