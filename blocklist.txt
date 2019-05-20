@@ -390,6 +390,7 @@
 127.0.0.1 ap.lijit.com
 127.0.0.1 apn-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 apnx-match.dotomi.com
+127.0.0.1 a.postrelease.com
 127.0.0.1 app-ab14.marketo.com
 127.0.0.1 app-ab23.marketo.com
 127.0.0.1 app-ab25.marketo.com
@@ -914,6 +915,7 @@
 127.0.0.1 data.alexa.com
 127.0.0.1 data.appexnw.com
 127.0.0.1 datacloud.tealiumiq.com
+127.0.0.1 data.cnn.com
 127.0.0.1 datacollect6.abtasty.com
 127.0.0.1 data.coremetrics.com
 127.0.0.1 data.de.coremetrics.com
@@ -1374,6 +1376,7 @@
 127.0.0.1 itx4.smartadserver.com
 127.0.0.1 itx5-secure.smartadserver.com
 127.0.0.1 itx5.smartadserver.com
+127.0.0.1 i.viafoura.co
 127.0.0.1 i.w55c.net
 127.0.0.1 j93557g.com
 127.0.0.1 j.adlooxtracking.com
@@ -1463,6 +1466,7 @@
 127.0.0.1 logs1125.xiti.com
 127.0.0.1 logs1242.xiti.com
 127.0.0.1 logs1406.xiti.com
+127.0.0.1 logs6.xiti.com
 127.0.0.1 logs.dashlane.com
 127.0.0.1 logs.supersonic.com
 127.0.0.1 log.streamagent.sensic.net
@@ -1682,6 +1686,7 @@
 127.0.0.1 pixel-a.basis.net
 127.0.0.1 pixel.adsafeprotected.com
 127.0.0.1 pixel.advertising.com
+127.0.0.1 pixel.anyclip.com
 127.0.0.1 pixel-a.sitescout.com
 127.0.0.1 pixel.bild.de
 127.0.0.1 pixelbox.uimserv.net
@@ -1788,6 +1793,7 @@
 127.0.0.1 p.twitter.com
 127.0.0.1 p.typekit.net
 127.0.0.1 public2.bravenet.com
+127.0.0.1 public.vilynx.com
 127.0.0.1 publisher-config.unityads.unity3d.com
 127.0.0.1 pubmatic2waycm-atl.netmng.com
 127.0.0.1 pubmatic-match.dotomi.com
@@ -2380,6 +2386,7 @@
 127.0.0.1 track.customer.io
 127.0.0.1 track.custora.com
 127.0.0.1 track.effiliation.com
+127.0.0.1 tracker.adotmob.com
 127.0.0.1 tracker.affirm.com
 127.0.0.1 tracker-api.my.com
 127.0.0.1 tracker.departapp.com
@@ -2709,6 +2716,7 @@
 127.0.0.1 www.tag4arm.com
 127.0.0.1 www.tns-counter.ru
 127.0.0.1 www.tumblr.com
+127.0.0.1 www.ugdturner.com
 127.0.0.1 www.unbounce.com
 127.0.0.1 www.urbandictionary.com
 127.0.0.1 www.usefomo.com
