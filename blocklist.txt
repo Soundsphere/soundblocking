@@ -2133,6 +2133,7 @@
 127.0.0.1 s.skimresources.com
 127.0.0.1 ssl.google-analytics.com
 127.0.0.1 ssl-google-analytics.l.google.com
+127.0.0.1 ssl.luckyorange.com
 127.0.0.1 ssl.mousestats.com
 127.0.0.1 ssl-munchkin.marketo.net
 127.0.0.1 ssl-vg03.met.vgwort.de
@@ -2535,6 +2536,7 @@
 127.0.0.1 vfde.demdex.net
 127.0.0.1 vg01.met.vgwort.de
 127.0.0.1 vg02.met.vgwort.de
+127.0.0.1 vg05.met.vgwort.de
 127.0.0.1 vg06.met.vgwort.de
 127.0.0.1 vg08.met.vgwort.de
 127.0.0.1 vg09.met.vgwort.de
