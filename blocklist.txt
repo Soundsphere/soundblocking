@@ -178,6 +178,7 @@
 127.0.0.1 adservice.google.com.au
 127.0.0.1 adservice.google.de
 127.0.0.1 ads.eu.criteo.com
+127.0.0.1 ads.exdynsrv.com
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.golem.de
 127.0.0.1 ads.google.com
@@ -387,6 +388,7 @@
 127.0.0.1 ap.lijit.com
 127.0.0.1 apn-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 apnx-match.dotomi.com
+127.0.0.1 app-ab14.marketo.com
 127.0.0.1 app-ab23.marketo.com
 127.0.0.1 app-ab25.marketo.com
 127.0.0.1 app-ab27.marketo.com
@@ -571,6 +573,7 @@
 127.0.0.1 cbm02.webtrekk.net
 127.0.0.1 ccc.sys.intl.xiaomi.com
 127.0.0.1 ccc.sys.miui.com
+127.0.0.1 c.cnzz.com
 127.0.0.1 cc.swiftype.com
 127.0.0.1 cc.zeit.de
 127.0.0.1 cdata.carambo.la
@@ -1513,6 +1516,7 @@
 127.0.0.1 mcdp-sadc1.outbrain.com
 127.0.0.1 mc.webvisor.org
 127.0.0.1 mc.yandex.ru
+127.0.0.1 md-i-s.apptimize.com
 127.0.0.1 me-cdn.effectivemeasure.net
 127.0.0.1 med.heyzap.com
 127.0.0.1 media.admob.com
@@ -1527,6 +1531,7 @@
 127.0.0.1 mediator.mail.ru
 127.0.0.1 media.trafficjunky.net
 127.0.0.1 mediav3.inq.com
+127.0.0.1 megdexchange.com
 127.0.0.1 me-ssl.effectivemeasure.net
 127.0.0.1 metrics.api.drift.com
 127.0.0.1 metrics.brightcove.com
@@ -1902,6 +1907,7 @@
 127.0.0.1 rum.logsss.com
 127.0.0.1 rum.monitis.com
 127.0.0.1 rum-static.pingdom.net
+127.0.0.1 runative-syndicate.com
 127.0.0.1 run-syndicate.com
 127.0.0.1 runtime.lemonpi.io
 127.0.0.1 rva.outbrain.com
@@ -2362,6 +2368,7 @@
 127.0.0.1 track.effiliation.com
 127.0.0.1 tracker.affirm.com
 127.0.0.1 tracker-api.my.com
+127.0.0.1 tracker.departapp.com
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracker.wordstream.com
 127.0.0.1 track-eu.adformnet.akadns.net
@@ -2720,8 +2727,10 @@
 127.0.0.1 yield-manager.browsiprod.com
 127.0.0.1 ynuf.alibaba.com
 127.0.0.1 ynuf.alipay.com
+127.0.0.1 z11.cnzz.com
 127.0.0.1 z15ba20a04.webengage.co
 127.0.0.1 z9q9kj37oy.kameleoon.eu
+127.0.0.1 z.cnzz.com
 127.0.0.1 zeit.met.vgwort.de
 127.0.0.1 z-eu.amazon-adsystem.com
 127.0.0.1 zeus.ad.intl.xiaomi.com
