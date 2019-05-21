@@ -1118,6 +1118,7 @@
 127.0.0.1 events.privy.com
 127.0.0.1 events.redditmedia.co
 127.0.0.1 events.redditmedia.com
+127.0.0.1 events.streamrail.net
 127.0.0.1 events.whisk.com
 127.0.0.1 evt.klarna.com
 127.0.0.1 ew1.dms-gld.bigdata.ssp.samsung.com
@@ -2727,6 +2728,7 @@
 127.0.0.1 www.fitforfun.de
 127.0.0.1 www.friendlyduck.com
 127.0.0.1 www.fullstory.com
+127.0.0.1 www.getnow.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.google-analytics.com
 127.0.0.1 www-google-analytics.l.google.com
