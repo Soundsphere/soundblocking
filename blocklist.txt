@@ -420,6 +420,7 @@
 127.0.0.1 app-lon05.marketo.com
 127.0.0.1 app-measurement.com
 127.0.0.1 app.miui.com
+127.0.0.1 appnexus.com
 127.0.0.1 app.pendo.io
 127.0.0.1 app-sj02.marketo.com
 127.0.0.1 app-sj05.marketo.com
