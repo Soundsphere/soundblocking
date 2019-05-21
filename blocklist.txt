@@ -685,6 +685,7 @@
 127.0.0.1 cdn.speedcurve.com
 127.0.0.1 cdnssl.clicktale.net
 127.0.0.1 cdn-static.optimonk.com
+127.0.0.1 cdn.static.zdbb.net
 127.0.0.1 cdn.steepto.com
 127.0.0.1 cdn.stickyadstv.com
 127.0.0.1 cdn.stroeerdigitalmedia.de
@@ -1323,6 +1324,7 @@
 127.0.0.1 img03.en25.com
 127.0.0.1 img1.blogblog.com
 127.0.0.1 img1.zergnet.com
+127.0.0.1 img2.zergnet.com
 127.0.0.1 img.3lift.com
 127.0.0.1 img.alibaba.com
 127.0.0.1 img.applovin.com
@@ -1431,6 +1433,7 @@
 127.0.0.1 k.streamrail.com
 127.0.0.1 kvinit-prod.api.kochava.com
 127.0.0.1 l96jc26jvj.kameleoon.eu
+127.0.0.1 laas.americanexpress.com
 127.0.0.1 l.betrad.com
 127.0.0.1 lcprd1.samsungcloudsolution.net
 127.0.0.1 lcs.naver.com
@@ -2205,6 +2208,7 @@
 127.0.0.1 static.woopra.com
 127.0.0.1 staticxx.facebook.com
 127.0.0.1 static.yieldmo.com
+127.0.0.1 static.ziffdavis.com
 127.0.0.1 static.zotabox.com
 127.0.0.1 statistics.11880.com
 127.0.0.1 stat.pladform.ru
@@ -2567,6 +2571,7 @@
 127.0.0.1 vjs.zencdn.net
 127.0.0.1 vk.com
 127.0.0.1 v.lkqd.net
+127.0.0.1 vms.boldchat.com
 127.0.0.1 vmss.boldchat.com
 127.0.0.1 volvelle-ads-cdn.azureedge.net
 127.0.0.1 vop.sundaysky.com
@@ -2665,6 +2670,7 @@
 127.0.0.1 www.bizographics.com
 127.0.0.1 www.blogcounter.de
 127.0.0.1 www.bloglines.com
+127.0.0.1 www.buysellads.com
 127.0.0.1 www.cbox.ws
 127.0.0.1 www.cj.com
 127.0.0.1 www.clicktripz.com
