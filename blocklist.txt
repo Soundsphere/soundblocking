@@ -223,6 +223,7 @@
 127.0.0.1 advertise.bingads.microsoft.com
 127.0.0.1 advertiser.wbtrk.net
 127.0.0.1 advertising.amazon.co.uk
+127.0.0.1 advertising.bbcworldwide.com
 127.0.0.1 advideo.uimserv.net
 127.0.0.1 adv.sec.intl.miui.com
 127.0.0.1 adwords.google.com
@@ -618,6 +619,7 @@
 127.0.0.1 cdnaws.mobidea.com
 127.0.0.1 cdn-a.yieldlove.com
 127.0.0.1 cdn.bestcheck.de
+127.0.0.1 cdn.betrad.com
 127.0.0.1 cdn.bizible.com
 127.0.0.1 cdn.boomtrain.com
 127.0.0.1 cdn.branch.io
@@ -1786,6 +1788,7 @@
 127.0.0.1 port.sec.intl.miui.com
 127.0.0.1 po.st
 127.0.0.1 powr-counter.herokuapp.com
+127.0.0.1 ppchero.com
 127.0.0.1 pp.lp4.io
 127.0.0.1 pp.userapi.com
 127.0.0.1 pr-bh.ybp.yahoo.com
@@ -1853,6 +1856,7 @@
 127.0.0.1 px.steelhousemedia.com
 127.0.0.1 px.wa.ui-portal.de
 127.0.0.1 px.wayfair.com
+127.0.0.1 p.yotpo.com
 127.0.0.1 q.adrta.com
 127.0.0.1 q.quora.com
 127.0.0.1 quantcast584928381.s.moatpixel.com
@@ -2431,6 +2435,7 @@
 127.0.0.1 tracker.affirm.com
 127.0.0.1 tracker-api.my.com
 127.0.0.1 tracker.departapp.com
+127.0.0.1 tracker.euroweb.net
 127.0.0.1 tracker.marinsm.com
 127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracker.wordstream.com
@@ -2583,6 +2588,7 @@
 127.0.0.1 video-ads-apex.rubiconproject.com
 127.0.0.1 video-adserver.ibillboard.com
 127.0.0.1 video-ads.rubiconproject.com
+127.0.0.1 video-assets.mathtag.com
 127.0.0.1 videoevents.outbrain.com
 127.0.0.1 video.oms.eu
 127.0.0.1 video.unrulymedia.com
@@ -2662,6 +2668,7 @@
 127.0.0.1 wt.adctrl.com
 127.0.0.1 w.usabilla.com
 127.0.0.1 wv.inner-active.mobi
+127.0.0.1 ww1003.smartadserver.com
 127.0.0.1 ww1097.smartadserver.com
 127.0.0.1 ww251.smartadserver.com
 127.0.0.1 www14.smartadserver.com
@@ -2718,6 +2725,7 @@
 127.0.0.1 www.everestjs.net
 127.0.0.1 www.fastcounter.de
 127.0.0.1 www.fitforfun.de
+127.0.0.1 www.friendlyduck.com
 127.0.0.1 www.fullstory.com
 127.0.0.1 www.googleadservices.com
 127.0.0.1 www.google-analytics.com
