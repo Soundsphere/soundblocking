@@ -2343,6 +2343,7 @@
 127.0.0.1 tag.leadplace.fr
 127.0.0.1 tag.marinsm.com
 127.0.0.1 tag.mtrcs.samba.tv
+127.0.0.1 tagon.co
 127.0.0.1 tag.perfectaudience.com
 127.0.0.1 tag.researchnow.com
 127.0.0.1 tags.api.umbel.com
