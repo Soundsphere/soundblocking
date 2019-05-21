@@ -139,6 +139,7 @@
 127.0.0.1 ad.mox.tv
 127.0.0.1 adn.ebay.com
 127.0.0.1 adn.meinsol.de
+127.0.0.1 adnz.co
 127.0.0.1 adobe.com.ssl.d1.sc.omtrdc.net
 127.0.0.1 adobecorp.sc.omtrdc.net
 127.0.0.1 adobe-sync.dotomi.com
@@ -361,6 +362,7 @@
 127.0.0.1 api-iam.intercom.io
 127.0.0.1 api.instabug.com
 127.0.0.1 api.iperceptions.com
+127.0.0.1 api.iris.tv
 127.0.0.1 api.keen.io
 127.0.0.1 api.leanplum.com
 127.0.0.1 api.mixpanel.com
@@ -1066,6 +1068,7 @@
 127.0.0.1 engine.addroplet.com
 127.0.0.1 engine.adzerk.net
 127.0.0.1 engine.widespace.com
+127.0.0.1 ens.nzz.ch
 127.0.0.1 entitlements.jwplayer.com
 127.0.0.1 ep3.performfeeds.com
 127.0.0.1 epl.paypal-communication.com
@@ -1157,6 +1160,7 @@
 127.0.0.1 fp.msedge.net
 127.0.0.1 fptadtrue-d.openx.net
 127.0.0.1 fra1-ib.adnxs.com
+127.0.0.1 fra1.mobile.adnxs.com
 127.0.0.1 franecki.net
 127.0.0.1 freegeoip.io
 127.0.0.1 fresh8.co
@@ -1407,6 +1411,7 @@
 127.0.0.1 js.hsleadflows.net
 127.0.0.1 js.hs-scripts.com
 127.0.0.1 js.idio.co
+127.0.0.1 js.matheranalytics.com
 127.0.0.1 js.maxmind.com
 127.0.0.1 js.moatads.com
 127.0.0.1 js.mobileoffers-bn-download.com
@@ -1614,6 +1619,7 @@
 127.0.0.1 nr.taboola.com
 127.0.0.1 ntvcld-a.akamaihd.net
 127.0.0.1 nxtck.com
+127.0.0.1 nzz.d3.sc.omtrdc.net
 127.0.0.1 o2.mouseflow.com
 127.0.0.1 oasc-eu1.247realmedia.com
 127.0.0.1 ocsp.godaddy.com.akadns.net
@@ -2407,6 +2413,7 @@
 127.0.0.1 tracker-api.my.com
 127.0.0.1 tracker.departapp.com
 127.0.0.1 tracker.marinsm.com
+127.0.0.1 tracker.samplicio.us
 127.0.0.1 tracker.wordstream.com
 127.0.0.1 track-eu.adformnet.akadns.net
 127.0.0.1 track.eyeviewads.com
@@ -2516,6 +2523,7 @@
 127.0.0.1 us.galleryapi.micloud.xiaomi.net
 127.0.0.1 us.micardapi.micloud.xiaomi.net
 127.0.0.1 us.phonecallapi.micloud.xiaomi.net
+127.0.0.1 us.pixel.newscgp.com
 127.0.0.1 us.smsapi.micloud.xiaomi.net
 127.0.0.1 us.statusapi.micloud.xiaomi.net
 127.0.0.1 us-u.openx.net
@@ -2571,6 +2579,7 @@
 127.0.0.1 vjs.zencdn.net
 127.0.0.1 vk.com
 127.0.0.1 v.lkqd.net
+127.0.0.1 vmp.boldchat.com
 127.0.0.1 vms.boldchat.com
 127.0.0.1 vmss.boldchat.com
 127.0.0.1 volvelle-ads-cdn.azureedge.net
