@@ -9,6 +9,7 @@
 127.0.0.1 2-01-2a40-0017.cdx.cdxcn.net
 127.0.0.1 2507573.fls.doubleclick.net
 127.0.0.1 2542116.fls.doubleclick.net
+127.0.0.1 299-kii-331.mktoresp.com
 127.0.0.1 2.chipde.damoh.schneevonmorgen.com
 127.0.0.1 2oceansvibe.com
 127.0.0.1 3276817.fls.doubleclick.net
@@ -187,6 +188,7 @@
 127.0.0.1 ads.flurry.com
 127.0.0.1 ads.golem.de
 127.0.0.1 ads.google.com
+127.0.0.1 ads.immobilienscout24.de
 127.0.0.1 ads.indeed.com
 127.0.0.1 ads.lfstmedia.com
 127.0.0.1 ads.mopub.com
@@ -235,6 +237,7 @@
 127.0.0.1 adx-winners-eu-west-1-rtb.adroll.com
 127.0.0.1 ad.yieldlab.net
 127.0.0.1 ad.yieldmanager.com
+127.0.0.1 adyoulike.omnitagjs.com
 127.0.0.1 ad.zanox.com
 127.0.0.1 aexp.demdex.net
 127.0.0.1 a.farlex.com
@@ -423,6 +426,7 @@
 127.0.0.1 appnexus.com
 127.0.0.1 app.pendo.io
 127.0.0.1 app-sj02.marketo.com
+127.0.0.1 app-sj03.marketo.com
 127.0.0.1 app-sj05.marketo.com
 127.0.0.1 app-sj09.marketo.com
 127.0.0.1 app-sj13.marketo.com
@@ -539,6 +543,7 @@
 127.0.0.1 bnc.lt
 127.0.0.1 boards.greenhouse.io
 127.0.0.1 bonfire.spklw.com
+127.0.0.1 bootstrap.livefyre.com
 127.0.0.1 boss.berlinonline.de
 127.0.0.1 browser.pipe.aria.microsoft.com
 127.0.0.1 browser-update.org
@@ -1171,6 +1176,7 @@
 127.0.0.1 fra1-ib.adnxs.com
 127.0.0.1 fra1.mobile.adnxs.com
 127.0.0.1 franecki.net
+127.0.0.1 freegeoip.app
 127.0.0.1 freegeoip.io
 127.0.0.1 fresh8.co
 127.0.0.1 frog.wix.com
@@ -1422,6 +1428,7 @@
 127.0.0.1 js.hscta.net
 127.0.0.1 js.hsleadflows.net
 127.0.0.1 js.hs-scripts.com
+127.0.0.1 js.hubspot.com
 127.0.0.1 js.idio.co
 127.0.0.1 js.matheranalytics.com
 127.0.0.1 js.maxmind.com
@@ -2354,6 +2361,7 @@
 127.0.0.1 tags.expo9.exponential.com
 127.0.0.1 tags.h12-media.com
 127.0.0.1 tags.mathtag.com
+127.0.0.1 tags.news.com.au
 127.0.0.1 tags.onscroll.com
 127.0.0.1 tags.tiqcdn.com
 127.0.0.1 tags.w55c.net
@@ -2429,6 +2437,7 @@
 127.0.0.1 track.addevent.com
 127.0.0.1 track.adform.net
 127.0.0.1 track.adtrue.com
+127.0.0.1 track.attributionapp.com
 127.0.0.1 trackbar.navigator.web.de
 127.0.0.1 track.celtra.com
 127.0.0.1 trackcmp.net
@@ -2587,6 +2596,7 @@
 127.0.0.1 vg02.met.vgwort.de
 127.0.0.1 vg05.met.vgwort.de
 127.0.0.1 vg06.met.vgwort.de
+127.0.0.1 vg07.met.vgwort.de
 127.0.0.1 vg08.met.vgwort.de
 127.0.0.1 vg09.met.vgwort.de
 127.0.0.1 vidanalytics.taboola.com
