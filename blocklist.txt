@@ -25,6 +25,7 @@
 0.0.0.0 4d.condenastdigital.com
 0.0.0.0 4-edge-chat.facebook.com
 0.0.0.0 5290727.fls.doubleclick.net
+0.0.0.0 538-dcx-400.mktoresp.com
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5d0b6.v.fwmrm.net
 0.0.0.0 5-edge-chat.facebook.com
@@ -824,6 +825,7 @@
 0.0.0.0 content.carambo.la
 0.0.0.0 content.livesportmedia.eu
 0.0.0.0 content.quantcount.com
+0.0.0.0 content.tapjoy.com
 0.0.0.0 contextual.media.net
 0.0.0.0 continuum.dds.microsoft.com
 0.0.0.0 control.kochava.com
@@ -1186,6 +1188,7 @@
 0.0.0.0 franecki.net
 0.0.0.0 freegeoip.app
 0.0.0.0 freegeoip.io
+0.0.0.0 freestar-d.openx.net
 0.0.0.0 fresh8.co
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
@@ -1614,8 +1617,10 @@
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile-service.segment.com
+0.0.0.0 models.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 modes.taboola.com
+0.0.0.0 more.criteo.com
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mpx.mopub.com
@@ -1631,6 +1636,7 @@
 0.0.0.0 myfamilycominc.tt.omtrdc.net
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.rtmark.net
+0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 nan.netmng.com
 0.0.0.0 nativesdks.mparticle.com
@@ -1819,6 +1825,7 @@
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid-match.dotomi.com
+0.0.0.0 prf.hn
 0.0.0.0 p.rfihub.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 privymktg.com
@@ -2051,6 +2058,7 @@
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdk.streamrail.com
+0.0.0.0 sdo.oewabox.at
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 sears.demdex.net
@@ -2259,9 +2267,11 @@
 0.0.0.0 static.woopra.com
 0.0.0.0 staticxx.facebook.com
 0.0.0.0 static.yieldmo.com
+0.0.0.0 static.zanox.com
 0.0.0.0 static.ziffdavis.com
 0.0.0.0 static.zotabox.com
 0.0.0.0 statistics.11880.com
+0.0.0.0 statistics.aldi-international.com
 0.0.0.0 stat.pladform.ru
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stats3.unrulymedia.com
@@ -2661,6 +2671,7 @@
 0.0.0.0 w.cnzz.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 web-analytics.engagio.com
+0.0.0.0 web.industrybrains.com
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 web-t.9gag.com
@@ -2712,6 +2723,7 @@
 0.0.0.0 www1.belboon.de
 0.0.0.0 www1.mpnrs.com
 0.0.0.0 www.265.com
+0.0.0.0 www2.criteo.com
 0.0.0.0 www2.mpnrs.com
 0.0.0.0 www3.macys.com
 0.0.0.0 www3.mpnrs.com
@@ -2728,6 +2740,7 @@
 0.0.0.0 www.adobetag.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 www.alexa.com
+0.0.0.0 www.alrincon.com
 0.0.0.0 www.andyhoppe.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.a.shifen.com
@@ -2804,6 +2817,7 @@
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.search.com
 0.0.0.0 www.semrush.com
+0.0.0.0 www.smartadserver.com
 0.0.0.0 www.smartredirect.de
 0.0.0.0 www.snapengage.com
 0.0.0.0 www.statcounter.com
