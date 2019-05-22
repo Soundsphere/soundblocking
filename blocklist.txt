@@ -2354,6 +2354,7 @@
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.tubemogul.com
 0.0.0.0 sync.upravel.com
+0.0.0.0 sync.users-api.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.twitter.com
