@@ -216,6 +216,7 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.viber.com
 0.0.0.0 ads.videoadex.com
 0.0.0.0 ads.w55c.net
 0.0.0.0 ad.sxp.smartclip.net
