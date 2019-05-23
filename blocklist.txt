@@ -53,6 +53,7 @@
 0.0.0.0 a2200.casalemedia.com
 0.0.0.0 a2201.casalemedia.com
 0.0.0.0 a2220.casalemedia.com
+0.0.0.0 a2221.casalemedia.com
 0.0.0.0 a2231.casalemedia.com
 0.0.0.0 a2240.casalemedia.com
 0.0.0.0 a3270.casalemedia.com
@@ -162,6 +163,7 @@
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.avocet.io
+0.0.0.0 ads.aws.viber.com
 0.0.0.0 ads.ayads.co
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads-bid.l.doubleclick.net
@@ -754,6 +756,7 @@
 0.0.0.0 cj.com
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.madeleine.de
+0.0.0.0 c.jsrdn.com
 0.0.0.0 ckm-m.xp1.ru4.com
 0.0.0.0 ck.solocpm.com
 0.0.0.0 clarium.global.ssl.fastly.net
@@ -870,6 +873,7 @@
 0.0.0.0 cs.gssprt.jp
 0.0.0.0 csi.gstatic.com
 0.0.0.0 cs.media.net
+0.0.0.0 c.snnd.co
 0.0.0.0 c.spiegel.de
 0.0.0.0 csr.onet.pl
 0.0.0.0 c.statcounter.com
@@ -991,6 +995,7 @@
 0.0.0.0 deployads.com
 0.0.0.0 deref-gmx.net
 0.0.0.0 des.smartclip.net
+0.0.0.0 detect.rayjump.com
 0.0.0.0 de.tynt.com
 0.0.0.0 deutschepostag1.d3.sc.omtrdc.net
 0.0.0.0 dev.appboy.com
@@ -1778,6 +1783,7 @@
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel-geo.prfct.co
+0.0.0.0 pixel.industrybrains.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.mathtag.com
@@ -2575,6 +2581,7 @@
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 t.wayfair.com
 0.0.0.0 tw.netcore.co.in
+0.0.0.0 u.acuityplatform.com
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 ubisoftinternational.demdex.net
 0.0.0.0 ubm.tt.omtrdc.net
@@ -2655,6 +2662,7 @@
 0.0.0.0 vg07.met.vgwort.de
 0.0.0.0 vg08.met.vgwort.de
 0.0.0.0 vg09.met.vgwort.de
+0.0.0.0 vht.tradedoubler.com
 0.0.0.0 vidanalytics.taboola.com
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 video-ads-apex.rubiconproject.com
