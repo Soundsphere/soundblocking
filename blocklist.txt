@@ -397,6 +397,7 @@
 0.0.0.0 api.similarweb.com
 0.0.0.0 api.skyhookwireless.com
 0.0.0.0 api.taboola.com
+0.0.0.0 api.trackuity.com
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.usersnap.com
@@ -1583,6 +1584,7 @@
 0.0.0.0 match.taboola.com
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 mathid-origin.mathtag.com
+0.0.0.0 mazu.3g.qq.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mb.moatads.com
 0.0.0.0 mboxedge26.tt.omtrdc.net
@@ -1597,6 +1599,7 @@
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 med.heyzap.com
 0.0.0.0 media.admob.com
+0.0.0.0 media.adrcdn.com
 0.0.0.0 media.carambo.la
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediafire-d.openx.net
@@ -1883,6 +1886,7 @@
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 pulsepoint-cm.p.veruta.com
 0.0.0.0 p.univide.com
+0.0.0.0 purch-match.dotomi.com
 0.0.0.0 push-notifications.top
 0.0.0.0 p.vtracy.de
 0.0.0.0 pv.tubemogul.com
@@ -2036,6 +2040,7 @@
 0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 sales.liveperson.net
 0.0.0.0 salesviewer.org
+0.0.0.0 samcm.ksmobile.com
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
 0.0.0.0 samsung-germany.demdex.net
