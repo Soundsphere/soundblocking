@@ -97,6 +97,7 @@
 0.0.0.0 action.media6degrees.com
 0.0.0.0 action.metaffiliation.com
 0.0.0.0 actions-am.taboola.com
+0.0.0.0 actions-latb.taboola.com
 0.0.0.0 activities.alibaba.com
 0.0.0.0 activity.windows.com
 0.0.0.0 act.webmasterplan.com
@@ -743,6 +744,7 @@
 0.0.0.0 chimpstatic.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
+0.0.0.0 ci37.actonsoftware.com
 0.0.0.0 cj.com
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.madeleine.de
@@ -832,6 +834,7 @@
 0.0.0.0 convammp.taboola.com
 0.0.0.0 conversionfly.com
 0.0.0.0 conversions.adaptv.advertising.com
+0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 conv.tubemogul.com
 0.0.0.0 cookie.brealtime.com
 0.0.0.0 cookie-matching.mediarithmics.com
@@ -932,6 +935,7 @@
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
+0.0.0.0 data24.adlooxtracking.com
 0.0.0.0 data27.adlooxtracking.com
 0.0.0.0 data28.adlooxtracking.com
 0.0.0.0 data29.adlooxtracking.com
@@ -1204,6 +1208,7 @@
 0.0.0.0 g7.m.fwmrm.net
 0.0.0.0 gabe.hit.gemius.pl
 0.0.0.0 ga.clearbit.com
+0.0.0.0 g.adspeed.net
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gallery.mailchimp.com
 0.0.0.0 gate.datacaciques.com
@@ -1307,6 +1312,7 @@
 0.0.0.0 hubt.pornhub.com
 0.0.0.0 hurra.com
 0.0.0.0 hw-cdn.trafficjunky.net
+0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 i2.createsend1.com
 0.0.0.0 ia601507.us.archive.org
@@ -1373,6 +1379,7 @@
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
+0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 impr.taboola.com
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 in-automate.sendinblue.com
@@ -1597,6 +1604,7 @@
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 mediav3.inq.com
 0.0.0.0 megdexchange.com
+0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.brightcove.com
@@ -1644,10 +1652,12 @@
 0.0.0.0 navdmp.com
 0.0.0.0 nba.demdex.net
 0.0.0.0 nbcu.demdex.net
+0.0.0.0 nbcume.sc.omtrdc.net
 0.0.0.0 nervoussummer.com
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 netzwelt-gmbh-d.openx.net
 0.0.0.0 newrelic.com
+0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nht-3.extreme-dm.com
@@ -1732,6 +1742,7 @@
 0.0.0.0 philips.112.2o7.net
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 p.imgur.com
+0.0.0.0 pingback.issuu.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping.getadblock.com
 0.0.0.0 pingma.qq.com
@@ -2187,6 +2198,7 @@
 0.0.0.0 springer02.webtrekk.net
 0.0.0.0 s.pubmine.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 squirrelhands.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srv.de.ebayrtm.com
@@ -2521,6 +2533,7 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trgde.adocean.pl
+0.0.0.0 tribl.io
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 tri.privy.com
 0.0.0.0 trk.connatix.com
@@ -2551,6 +2564,7 @@
 0.0.0.0 tw.netcore.co.in
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 ubisoftinternational.demdex.net
+0.0.0.0 ubm.tt.omtrdc.net
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
@@ -2879,4 +2893,3 @@
 0.0.0.0 z-p42.graph.instagram.com
 0.0.0.0 z-p4.graph.instagram.com
 0.0.0.0 z.webengage.co
-127.0.0.1 mepodownload.mediatek.com
