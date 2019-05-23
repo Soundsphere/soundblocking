@@ -24,6 +24,7 @@
 0.0.0.0 4.bp.blogspot.com
 0.0.0.0 4d.condenastdigital.com
 0.0.0.0 4-edge-chat.facebook.com
+0.0.0.0 5060110.fls.doubleclick.net
 0.0.0.0 5290727.fls.doubleclick.net
 0.0.0.0 538-dcx-400.mktoresp.com
 0.0.0.0 5994599.fls.doubleclick.net
@@ -273,6 +274,7 @@
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazon.ca
 0.0.0.0 amazon.co.jp
+0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 amcglobal.sc.omtrdc.net
 0.0.0.0 a.mobify.com
@@ -346,6 +348,7 @@
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 aol-match.dotomi.com
 0.0.0.0 a.optinmonster.com
+0.0.0.0 a.optnmnstr.com
 0.0.0.0 a.optnmstr.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 apex.go.sonobi.com
@@ -400,6 +403,7 @@
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.viglink.com
+0.0.0.0 api.vuukle.com
 0.0.0.0 api.zanox.com
 0.0.0.0 api.zanox.ws
 0.0.0.0 ap.lijit.com
@@ -501,6 +505,7 @@
 0.0.0.0 bannertrack.net
 0.0.0.0 b.aol.com
 0.0.0.0 b-api.facebook.com
+0.0.0.0 barclaysbankplc.tt.omtrdc.net
 0.0.0.0 basepush.com
 0.0.0.0 bat.bing.com
 0.0.0.0 bat.r.msn.com
@@ -1298,6 +1303,7 @@
 0.0.0.0 heartbeats.hb.omtrdc.net
 0.0.0.0 heartbeats.omtrdc.net
 0.0.0.0 h-ebay.online-metrix.net
+0.0.0.0 heise02.webtrekk.net
 0.0.0.0 hello.myfonts.net
 0.0.0.0 help.bingads.microsoft.com
 0.0.0.0 hexagon-analytics.com
@@ -2106,6 +2112,7 @@
 0.0.0.0 seed.bitnodes.io
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 segment-data.zqtk.net
+0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 segments.company-target.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 self.events.data.microsoft.com
@@ -2404,6 +2411,7 @@
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags.w55c.net
+0.0.0.0 tag.userreport.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 tapfiliate.com
