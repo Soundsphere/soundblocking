@@ -1384,6 +1384,7 @@
 0.0.0.0 img.3lift.com
 0.0.0.0 img.alibaba.com
 0.0.0.0 img.applovin.com
+0.0.0.0 img.bet-at-home.com
 0.0.0.0 img.en25.com
 0.0.0.0 imggprx.mgid.com
 0.0.0.0 img.mediaplex.com
@@ -1748,6 +1749,7 @@
 0.0.0.0 pb.adriver.ru
 0.0.0.0 p.bm23.com
 0.0.0.0 p.cpx.to
+0.0.0.0 pde.lp4.io
 0.0.0.0 p.dlx.addthis.com
 0.0.0.0 pentos-cdn.polarmobile.com
 0.0.0.0 perf.logsss.com
