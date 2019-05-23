@@ -897,6 +897,7 @@
 0.0.0.0 d12ulf131zb0yj.cloudfront.net
 0.0.0.0 d1447tq2m68ekg.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
+0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d-1.co
 0.0.0.0 d1eoo1tco6rr5e.cloudfront.net
@@ -971,6 +972,7 @@
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 data.pokkinw.com
+0.0.0.0 data.queryly.com
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
@@ -1575,6 +1577,7 @@
 0.0.0.0 mandrillapp.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
+0.0.0.0 mansueto-d.openx.net
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 map.media6degrees.com
 0.0.0.0 marketing.alibaba.com
