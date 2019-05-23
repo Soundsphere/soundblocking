@@ -2526,6 +2526,7 @@
 0.0.0.0 tracking.hotel.check24.de
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.m6r.eu
 0.0.0.0 tracking.metalyzer.com
