@@ -113,6 +113,7 @@
 0.0.0.0 ad4mat.net
 0.0.0.0 ad.71i.de
 0.0.0.0 adac02.webtrekk.net
+0.0.0.0 ad.adnet.de
 0.0.0.0 ad.ad-srv.net
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 adadvisor.net
@@ -232,6 +233,7 @@
 0.0.0.0 advertiser.wbtrk.net
 0.0.0.0 advertising.amazon.co.uk
 0.0.0.0 advertising.bbcworldwide.com
+0.0.0.0 advice-ads-cdn.vice.com
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adwords.google.com
@@ -789,6 +791,7 @@
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cm.steepto.com
 0.0.0.0 cms-xch.33across.com
+0.0.0.0 cnn.bounceexchange.com
 0.0.0.0 cnt2.stroeerdp.de
 0.0.0.0 code.bildstatic.de
 0.0.0.0 code.etracker.com
@@ -796,6 +799,7 @@
 0.0.0.0 code.ionicframework.com
 0.0.0.0 codeload.github.com
 0.0.0.0 code.visitor-track.com
+0.0.0.0 codicebusiness.shinystat.com
 0.0.0.0 coinbase.com
 0.0.0.0 coinmarketcap.com
 0.0.0.0 coinmarketcap-d.openx.net
@@ -1308,6 +1312,7 @@
 0.0.0.0 heapanalytics.com
 0.0.0.0 heartbeats.hb.omtrdc.net
 0.0.0.0 heartbeats.omtrdc.net
+0.0.0.0 heatmap.services
 0.0.0.0 h-ebay.online-metrix.net
 0.0.0.0 heise02.webtrekk.net
 0.0.0.0 hello.myfonts.net
@@ -1731,6 +1736,7 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 park.above.com
 0.0.0.0 parkingcrew.net
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
@@ -2035,6 +2041,7 @@
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
+0.0.0.0 s3.shinystat.com
 0.0.0.0 s4.histats.com
 0.0.0.0 s7.addthis.com
 0.0.0.0 s8.addthis.com
@@ -2210,6 +2217,7 @@
 0.0.0.0 spgo.io
 0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 spiegel.met.vgwort.de
+0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.zeotap.com
 0.0.0.0 s.po.st
 0.0.0.0 spot-im-d.openx.net
@@ -2481,6 +2489,7 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 topofblogs.com
 0.0.0.0 touch.myntra.com
 0.0.0.0 t.paypal.com
 0.0.0.0 tpc.googlesyndication.com
