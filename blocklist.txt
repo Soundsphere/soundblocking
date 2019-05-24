@@ -13,6 +13,7 @@
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
 0.0.0.0 2oceansvibe.com
 0.0.0.0 3276817.fls.doubleclick.net
+0.0.0.0 33across-d.openx.net
 0.0.0.0 3573281.fls.doubleclick.net
 0.0.0.0 35ax3z5b4g.kameleoon.eu
 0.0.0.0 3p.ampproject.net
@@ -2628,6 +2629,7 @@
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 t.wayfair.com
 0.0.0.0 tw.netcore.co.in
+0.0.0.0 u3s.mathtag.com
 0.0.0.0 u.acuityplatform.com
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 ubisoftinternational.demdex.net
@@ -2841,6 +2843,7 @@
 0.0.0.0 www.bloglines.com
 0.0.0.0 www.bs.serving-sys.com
 0.0.0.0 www.buysellads.com
+0.0.0.0 www.camscanner.com
 0.0.0.0 www.cbox.ws
 0.0.0.0 www.cj.com
 0.0.0.0 www.clicktripz.com
