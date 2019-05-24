@@ -89,6 +89,7 @@
 0.0.0.0 abrtp1.marketo.com
 0.0.0.0 abs.proxistore.com
 0.0.0.0 accounts.doubleclick.net
+0.0.0.0 accounts.eu1.gigya.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 acds-b.prod.eu-west-1.vidible.tv
@@ -169,6 +170,7 @@
 0.0.0.0 ads.ayads.co
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads-bid.l.doubleclick.net
+0.0.0.0 ads.cc
 0.0.0.0 ads.celtra.com
 0.0.0.0 ads.contextweb.com
 0.0.0.0 adscpm.site
@@ -328,6 +330,7 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.freespee.com
+0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -374,6 +377,7 @@
 0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.company-target.com
 0.0.0.0 api.demandbase.com
+0.0.0.0 api.flocktory.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.getdrip.com
 0.0.0.0 api.getvero.com
@@ -436,6 +440,7 @@
 0.0.0.0 app.launchdarkly.com
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 app.link
+0.0.0.0 applog.musical.ly
 0.0.0.0 app-lon04.marketo.com
 0.0.0.0 app-lon05.marketo.com
 0.0.0.0 app-measurement.com
@@ -820,6 +825,7 @@
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 combine.urbanairship.com
+0.0.0.0 comcluster.cxense.com
 0.0.0.0 completion.amazon.com
 0.0.0.0 completion.amazon.co.uk
 0.0.0.0 condenast.demdex.net
@@ -880,6 +886,7 @@
 0.0.0.0 csc.beap.bc.yahoo.com
 0.0.0.0 cs.gssprt.jp
 0.0.0.0 csi.gstatic.com
+0.0.0.0 c.singular.net
 0.0.0.0 cs.media.net
 0.0.0.0 c.snnd.co
 0.0.0.0 c.spiegel.de
@@ -1073,6 +1080,7 @@
 0.0.0.0 dtlilztwypawv.cloudfront.net
 0.0.0.0 dtm.advertising.com
 0.0.0.0 dts.innovid.com
+0.0.0.0 dts.startappservice.com
 0.0.0.0 d.turn.com
 0.0.0.0 dtxtngytz5im1.cloudfront.net
 0.0.0.0 dumontnet.d3.sc.omtrdc.net
@@ -1398,6 +1406,7 @@
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.metaffiliation.com
 0.0.0.0 img.mplx.akadns.net
+0.0.0.0 img.revcontent.com
 0.0.0.0 img.sedoparking.com
 0.0.0.0 img.tradedoubler.com
 0.0.0.0 imguplo.com
@@ -1536,6 +1545,8 @@
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 log.fc.yahoo.com
+0.0.0.0 logger-06.vty.dailymotion.com
+0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logging.carambo.la
 0.0.0.0 logg.kiwi.com
 0.0.0.0 log-ird.outbrain.com
@@ -1689,6 +1700,7 @@
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nfscars.net
 0.0.0.0 nht-3.extreme-dm.com
 0.0.0.0 nike.demdex.net
 0.0.0.0 normour.com
@@ -1873,6 +1885,7 @@
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
+0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prof.estat.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
@@ -1919,6 +1932,7 @@
 0.0.0.0 pxc.otto.de
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px-eu.adhigh.net
+0.0.0.0 px.gfycat.com
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxl.jivox.com
 0.0.0.0 px.marchex.io
@@ -2183,6 +2197,7 @@
 0.0.0.0 silktide.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simage4.pubmatic.com
+0.0.0.0 simonsignal.com
 0.0.0.0 sinfb.adsrvr.org
 0.0.0.0 s.innovid.com
 0.0.0.0 si.nuggad.net
@@ -2276,6 +2291,7 @@
 0.0.0.0 star.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
 0.0.0.0 startrekk.flaconi.de
+0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stas.outbrain.com
 0.0.0.0 stat.alibaba.com
 0.0.0.0 statcounter.com
@@ -2402,6 +2418,7 @@
 0.0.0.0 sync.monarchads.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
 0.0.0.0 sync.teads.tv
 0.0.0.0 sync.tidaltv.com
@@ -2496,6 +2513,7 @@
 0.0.0.0 tmk-eqx-geoloc.smartadserver.com
 0.0.0.0 tmk-secure.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
+0.0.0.0 t.mobitrk.com
 0.0.0.0 t.mookie1.com
 0.0.0.0 t.mplxtms.com
 0.0.0.0 tmscdn.coremetrics.com
@@ -2543,6 +2561,7 @@
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.gaug.es
 0.0.0.0 track.hubspot.com
+0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.adalliance.io
 0.0.0.0 tracking.content-recommendation.net
@@ -2580,6 +2599,7 @@
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trgde.adocean.pl
 0.0.0.0 tribl.io
+0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 tri.privy.com
 0.0.0.0 trk.connatix.com
