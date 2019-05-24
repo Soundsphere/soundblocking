@@ -998,6 +998,7 @@
 0.0.0.0 deezer.com
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
+0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 delivery-europe-west-1.openx.net
 0.0.0.0 delivery.g.switchadhub.com
@@ -1965,6 +1966,7 @@
 0.0.0.0 recreativ.ru
 0.0.0.0 recs.richrelevance.com
 0.0.0.0 recs.shareaholic.com
+0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 redirect.viglink.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 relap.io
@@ -2356,6 +2358,7 @@
 0.0.0.0 st-n.ads3-adnow.com
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 storage.googleapis.com
+0.0.0.0 storage.outbrain.com
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 streamamp-d.openx.net
 0.0.0.0 s.tribalfusion.com
