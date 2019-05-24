@@ -160,6 +160,7 @@
 0.0.0.0 ads.ad-center.com
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.admized.com
+0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.adtiger.de
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.api.vungle.com
