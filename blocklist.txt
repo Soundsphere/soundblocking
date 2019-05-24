@@ -2920,7 +2920,6 @@
 0.0.0.0 www.refersion.com
 0.0.0.0 www.res-x.com
 0.0.0.0 www.roosterfirework.com
-0.0.0.0 www.salesforce.com
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.search.com
 0.0.0.0 www.semrush.com
