@@ -628,6 +628,7 @@
 0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.admixer.net
+0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.adpushup.com
 0.0.0.0 cdn.adrta.com
 0.0.0.0 cdn.adrtx.net
@@ -790,6 +791,7 @@
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 cm.send.microad.jp
+0.0.0.0 c.msn.com
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cm.steepto.com
 0.0.0.0 cms-xch.33across.com
@@ -1070,6 +1072,7 @@
 0.0.0.0 dtlilztwypawv.cloudfront.net
 0.0.0.0 dtm.advertising.com
 0.0.0.0 dts.innovid.com
+0.0.0.0 d.turn.com
 0.0.0.0 dtxtngytz5im1.cloudfront.net
 0.0.0.0 dumontnet.d3.sc.omtrdc.net
 0.0.0.0 dust.ipfingerprint.com
@@ -2060,6 +2063,7 @@
 0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 sales.liveperson.net
 0.0.0.0 salesviewer.org
+0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 samcm.ksmobile.com
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
@@ -2207,6 +2211,7 @@
 0.0.0.0 smetrics.mcafee.com
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.tesco.com
+0.0.0.0 s.mopub.com
 0.0.0.0 snapsort-d.openx.net
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snip.ly
@@ -2234,6 +2239,7 @@
 0.0.0.0 squirrelhands.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
+0.0.0.0 srv.clickfuse.com
 0.0.0.0 srv.de.ebayrtm.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv.stackadapt.com
@@ -2427,6 +2433,7 @@
 0.0.0.0 tag.researchnow.com
 0.0.0.0 tags.api.umbel.com
 0.0.0.0 tags.bkrtx.com
+0.0.0.0 tags.bluekai.com
 0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags-eu.tiqcdn.com
