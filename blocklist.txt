@@ -1204,6 +1204,7 @@
 0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
 0.0.0.0 feed.mikle.com
 0.0.0.0 fei.pro-market.net
+0.0.0.0 femaledom.com
 0.0.0.0 fe.sitedataprocessing.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 firefox.settings.services.mozilla.com
@@ -1407,6 +1408,7 @@
 0.0.0.0 img.bet-at-home.com
 0.0.0.0 img.en25.com
 0.0.0.0 imggprx.mgid.com
+0.0.0.0 img.macromill.com
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.metaffiliation.com
 0.0.0.0 img.mplx.akadns.net
@@ -1688,8 +1690,10 @@
 0.0.0.0 mydmp.exelator.com
 0.0.0.0 myfamilycominc.tt.omtrdc.net
 0.0.0.0 my.hellobar.com
+0.0.0.0 my.mobfox.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 n01d05.cumulus-cloud.com
+0.0.0.0 naakte-beroemdheden.startkabel.nl
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 nan.netmng.com
 0.0.0.0 nativesdks.mparticle.com
@@ -1753,6 +1757,7 @@
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
 0.0.0.0 ow-gateway.supersonicads.com
+0.0.0.0 p3.pstatp.com
 0.0.0.0 p.ad.gt
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 pagead1.googlesyndication.com
@@ -1875,6 +1880,7 @@
 0.0.0.0 pool.admedo.com
 0.0.0.0 popup.taboola.com
 0.0.0.0 popup.wisepops.com
+0.0.0.0 pornzio.com
 0.0.0.0 port.sec.intl.miui.com
 0.0.0.0 po.st
 0.0.0.0 powr-counter.herokuapp.com
@@ -1922,6 +1928,7 @@
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 pubmatic2waycm-atl.netmng.com
 0.0.0.0 pubmatic-match.dotomi.com
+0.0.0.0 pubmatic-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 pubmatic-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 pubmatic-winners-us-east-1-rtb.adroll.com
 0.0.0.0 pubpress.net
@@ -2253,6 +2260,7 @@
 0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 spiegel.met.vgwort.de
 0.0.0.0 spixel.adsafeprotected.com
+0.0.0.0 splius.lt
 0.0.0.0 spl.zeotap.com
 0.0.0.0 s.po.st
 0.0.0.0 spot-im-d.openx.net
@@ -2347,6 +2355,7 @@
 0.0.0.0 static.zotabox.com
 0.0.0.0 statistics.11880.com
 0.0.0.0 statistics.aldi-international.com
+0.0.0.0 stat.media
 0.0.0.0 stat.pladform.ru
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stats3.unrulymedia.com
@@ -2744,6 +2753,7 @@
 0.0.0.0 vmp.boldchat.com
 0.0.0.0 vms.boldchat.com
 0.0.0.0 vmss.boldchat.com
+0.0.0.0 voffka.com
 0.0.0.0 volvelle-ads-cdn.azureedge.net
 0.0.0.0 vop.sundaysky.com
 0.0.0.0 vpaid.adsafeprotected.com
@@ -2834,6 +2844,7 @@
 0.0.0.0 www.alexa.com
 0.0.0.0 www.alrincon.com
 0.0.0.0 www.andyhoppe.com
+0.0.0.0 www.angelfire.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.a.shifen.com
 0.0.0.0 www.assoc-amazon.com
@@ -2893,9 +2904,12 @@
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.mathtag.com
+0.0.0.0 www.med1.de
 0.0.0.0 www.movable-ink-2183.com
+0.0.0.0 www.movier.tv
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
+0.0.0.0 www.orsm.net
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.phun.org
 0.0.0.0 www.pinterest.com
