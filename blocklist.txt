@@ -426,6 +426,7 @@
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab25.marketo.com
 0.0.0.0 app-ab27.marketo.com
+0.0.0.0 app-abb.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adroll.com
 0.0.0.0 app-analytics.snapchat.com
@@ -627,6 +628,7 @@
 0.0.0.0 cdn25.vizury.com
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 cdn2.teads.tv
+0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn5.userzoom.com
@@ -1044,6 +1046,7 @@
 0.0.0.0 d.liadm.com
 0.0.0.0 d.ligatus.com
 0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 dmdrogerie01.webtrekk.net
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dmp.adform.net
@@ -1544,6 +1547,7 @@
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockerdome.com
 0.0.0.0 log.adaptv.advertising.com
+0.0.0.0 logc279.xiti.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 logger-06.vty.dailymotion.com
@@ -1788,6 +1792,7 @@
 0.0.0.0 p.imgur.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 ping.chartbeat.net
+0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping.getadblock.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pings.vidpulse.com
@@ -2449,6 +2454,7 @@
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tag.marinsm.com
 0.0.0.0 tag.mtrcs.samba.tv
+0.0.0.0 tag.navdmp.com
 0.0.0.0 tagon.co
 0.0.0.0 tag.perfectaudience.com
 0.0.0.0 tag.researchnow.com
@@ -2474,6 +2480,7 @@
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 targeting.washpost.nile.works
+0.0.0.0 target.smi2.ru
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 t.contentsquare.net
 0.0.0.0 tcr.tynt.com
