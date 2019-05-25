@@ -1049,6 +1049,7 @@
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 d.liadm.com
 0.0.0.0 d.ligatus.com
+0.0.0.0 dlvr.it
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dmdrogerie01.webtrekk.net
 0.0.0.0 dmg.digitaltarget.ru
@@ -1717,6 +1718,7 @@
 0.0.0.0 nfscars.net
 0.0.0.0 nht-3.extreme-dm.com
 0.0.0.0 nike.demdex.net
+0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 normour.com
 0.0.0.0 notebooksbilliger02.webtrekk.net
 0.0.0.0 nova.collect.igodigital.com
@@ -2024,6 +2026,7 @@
 0.0.0.0 rotumal.com
 0.0.0.0 route.carambo.la
 0.0.0.0 router.infolinks.com
+0.0.0.0 router.utorrent.com
 0.0.0.0 rover.ebay.com
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpt.cedexis.com
@@ -2497,6 +2500,7 @@
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 target.smi2.ru
 0.0.0.0 tcheck.outbrainimg.com
+0.0.0.0 t.co
 0.0.0.0 t.contentsquare.net
 0.0.0.0 tcr.tynt.com
 0.0.0.0 t.cwkuki.com
