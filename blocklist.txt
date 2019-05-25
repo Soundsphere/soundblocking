@@ -686,6 +686,7 @@
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.intergi.com
+0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cdn.krxd.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.livechatinc.com
@@ -783,6 +784,9 @@
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client.perimeterx.net
+0.0.0.0 clients1.google.com
+0.0.0.0 clients2.google.com
+0.0.0.0 clients6.google.com
 0.0.0.0 c.live.com
 0.0.0.0 clkde.tradedoubler.com
 0.0.0.0 clk.solocpm.com
@@ -1661,6 +1665,7 @@
 0.0.0.0 metrics.responsetap.com
 0.0.0.0 metrics.ryanair.com
 0.0.0.0 m.exactag.com
+0.0.0.0 mgepodownload.mediatek.com
 0.0.0.0 mg.mgid.com
 0.0.0.0 microsoftwindows.112.2o7.net
 0.0.0.0 ml314.com
@@ -2311,6 +2316,7 @@
 0.0.0.0 statcounter.com
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.flashtalking.com
+0.0.0.0 static1.squarespace.com
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adfarm1.adition.com
 0.0.0.0 static.adman.gr
