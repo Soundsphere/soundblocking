@@ -1238,6 +1238,7 @@
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
 0.0.0.0 fs.microsoft.com
+0.0.0.0 ftb.cursecdn.com
 0.0.0.0 fusionads.net
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwapi.adsafeprotected.com
@@ -1376,6 +1377,7 @@
 0.0.0.0 i.ctnsnet.com
 0.0.0.0 ic.tynt.com
 0.0.0.0 id5-sync.com
+0.0.0.0 id.google.com
 0.0.0.0 id.google.comm
 0.0.0.0 id.l.google.com
 0.0.0.0 idpix.media6degrees.com
@@ -1524,6 +1526,7 @@
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 l96jc26jvj.kameleoon.eu
 0.0.0.0 laas.americanexpress.com
+0.0.0.0 launcher.mojang.com
 0.0.0.0 l.betrad.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.naver.com
@@ -2254,6 +2257,7 @@
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snip.ly
 0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 snoop.minecraft.net
 0.0.0.0 s.ntv.io
 0.0.0.0 socialize.us1.gigya.com
 0.0.0.0 sofia.trustx.org
