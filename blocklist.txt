@@ -125,6 +125,7 @@
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adbutler-fermion.com
+0.0.0.0 adclear.baur.de
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 adc.xxxlutz.de
@@ -1791,6 +1792,7 @@
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 origin-tracking.trulia.com
+0.0.0.0 osd.oxygem.it
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
 0.0.0.0 ow-gateway.supersonicads.com
@@ -2900,9 +2902,11 @@
 0.0.0.0 www.adtilt.com
 0.0.0.0 www.alexa.com
 0.0.0.0 www.alrincon.com
+0.0.0.0 www.amobee.com
 0.0.0.0 www.andyhoppe.com
 0.0.0.0 www.angelfire.com
 0.0.0.0 www.anrdoezrs.net
+0.0.0.0 www.appnexus.com
 0.0.0.0 www.a.shifen.com
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.assoc-amazon.de
@@ -2928,6 +2932,7 @@
 0.0.0.0 www.criteo.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.disclaimer.de
+0.0.0.0 www.doubleverify.com
 0.0.0.0 www.dwin1.com
 0.0.0.0 www.dwin2.com
 0.0.0.0 www.econda-monitor.de
@@ -2947,6 +2952,7 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.grab.com
+0.0.0.0 www.groupm.com
 0.0.0.0 www.hashing.win
 0.0.0.0 www.histats.com
 0.0.0.0 www.hitwebcounter.com
@@ -2999,6 +3005,7 @@
 0.0.0.0 www.usemax.de
 0.0.0.0 www.vungle.com
 0.0.0.0 www.website-hit-counters.com
+0.0.0.0 www.widespace.com
 0.0.0.0 www.yourtango.com
 0.0.0.0 www.za-ads.de
 0.0.0.0 www.zanox-affiliate.de
