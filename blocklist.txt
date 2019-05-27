@@ -260,6 +260,7 @@
 0.0.0.0 afs.googleusercontent.com
 0.0.0.0 agentanalytics.com
 0.0.0.0 ag.innovid.com
+0.0.0.0 ag.yieldoptimizer.com
 0.0.0.0 a.hstrck.com
 0.0.0.0 a.idio.co
 0.0.0.0 a.impactradius-go.com
@@ -314,6 +315,7 @@
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ams1.mobile.adnxs.com
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
+0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-login.dotomi.com
 0.0.0.0 ams-usadmm.dotomi.com
 0.0.0.0 amzn.to
@@ -359,6 +361,7 @@
 0.0.0.0 anycast.fw.adsafeprotected.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 aol-match.dotomi.com
+0.0.0.0 aol-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 a.optinmonster.com
 0.0.0.0 a.optnmnstr.com
 0.0.0.0 a.optnmstr.com
@@ -780,6 +783,7 @@
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 click-de.plista.com
 0.0.0.0 click.linksynergy.com
+0.0.0.0 click.oneplus.com
 0.0.0.0 click.plista.com
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 click.virt.exacttarget.com
@@ -856,6 +860,7 @@
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.truste.com
 0.0.0.0 containertags.belboon.de
+0.0.0.0 content.adriver.ru
 0.0.0.0 content.aimatch.com
 0.0.0.0 content.carambo.la
 0.0.0.0 content.livesportmedia.eu
@@ -1077,6 +1082,7 @@
 0.0.0.0 dpndczlul8yjf.cloudfront.net
 0.0.0.0 dp-sync.dotomi.com
 0.0.0.0 d.pub.network
+0.0.0.0 d.refinedads.com
 0.0.0.0 drs2.veinteractive.com
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 ds-b.prod.vidible.tv
@@ -1301,6 +1307,7 @@
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
 0.0.0.0 googleads.g.doubleclick.net
+0.0.0.0 google-analytics.bi.owox.com
 0.0.0.0 google-analytics.com
 0.0.0.0 googleapis.l.google.com
 0.0.0.0 googlesyndication.com
@@ -2507,6 +2514,7 @@
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 targeting.washpost.nile.works
 0.0.0.0 target.smi2.ru
+0.0.0.0 tc.airfrance.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 t.co
 0.0.0.0 t.contentsquare.net
