@@ -589,6 +589,7 @@
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bttrack.com
+0.0.0.0 buffer-media-uploads.s3.amazonaws.com
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 builfico.de
 0.0.0.0 bullseye.backbeatmedia.com
@@ -1265,6 +1266,7 @@
 0.0.0.0 g.adspeed.net
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gallery.mailchimp.com
+0.0.0.0 gapl.hit.gemius.pl
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gaua.hit.gemius.pl
@@ -1872,6 +1874,7 @@
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pix.impdesk.com
+0.0.0.0 pix.telekom.de
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 plarium.com
 0.0.0.0 platformiq-del.aquaplatform.com
@@ -2159,6 +2162,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 sdo.oewabox.at
+0.0.0.0 s.dpmsrv.com
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 sears.demdex.net
@@ -2407,6 +2411,7 @@
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.tubemogul.com
+0.0.0.0 stats.warenform.de
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.zotabox.com
