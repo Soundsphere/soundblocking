@@ -455,6 +455,7 @@
 0.0.0.0 app-lon04.marketo.com
 0.0.0.0 app-lon05.marketo.com
 0.0.0.0 app-measurement.com
+0.0.0.0 app.medyanetads.com
 0.0.0.0 app.miui.com
 0.0.0.0 appnexus.com
 0.0.0.0 app.pendo.io
@@ -643,6 +644,7 @@
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn5.userzoom.com
+0.0.0.0 cdn6.admatic.com.tr
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 cdn.adikteev.com
@@ -3027,6 +3029,7 @@
 0.0.0.0 zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com
 0.0.0.0 zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
 0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 z-na.amazon-adsystems.com
 0.0.0.0 znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
 0.0.0.0 zoover.adtrackers.net
 0.0.0.0 z-p42.graph.instagram.com
