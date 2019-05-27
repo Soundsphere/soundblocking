@@ -2,6 +2,7 @@
 0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 1364.tm.zedo.com
 0.0.0.0 15.taboola.com
+0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
 0.0.0.0 1-edge-chat.facebook.com
@@ -1007,6 +1008,7 @@
 0.0.0.0 db5.settings.data.microsoft.com.akadns.net
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 dbt.adition.com
+0.0.0.0 d.btttag.com
 0.0.0.0 dc43.s290.meetrics.net
 0.0.0.0 dc56.s290.meetrics.net
 0.0.0.0 dc61.s290.meetrics.net
@@ -1546,6 +1548,7 @@
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.naver.com
 0.0.0.0 leadintel.io
+0.0.0.0 lenovo.demdex.net
 0.0.0.0 lg3.media.net
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 libs.de.coremetrics.com
@@ -2038,6 +2041,7 @@
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 revee.outbrain.com
+0.0.0.0 rlog.9gag.com
 0.0.0.0 r.mail.ru
 0.0.0.0 rmsi.nuggad.net
 0.0.0.0 r.my.com
@@ -2675,6 +2679,7 @@
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.skimresources.com
 0.0.0.0 t.svtrd.com
+0.0.0.0 tt3.zedo.com
 0.0.0.0 t.teads.tv
 0.0.0.0 tt.onthe.io
 0.0.0.0 t.trafmag.com
@@ -2868,8 +2873,10 @@
 0.0.0.0 www3.mpnrs.com
 0.0.0.0 www3.smartadserver.com
 0.0.0.0 www4.smartadserver.com
+0.0.0.0 www5.smartadserver.com
 0.0.0.0 www6.smartadserver.com
 0.0.0.0 www8.smartadserver.com
+0.0.0.0 www9.smartadserver.com
 0.0.0.0 www.accountkit.com
 0.0.0.0 www.ad4mat.de
 0.0.0.0 www.adcell.de
@@ -2972,6 +2979,7 @@
 0.0.0.0 www.tumblr.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.unbounce.com
+0.0.0.0 www.upsellit.com
 0.0.0.0 www.urbandictionary.com
 0.0.0.0 www.usefomo.com
 0.0.0.0 www.usemax.de
