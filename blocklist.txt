@@ -46,6 +46,7 @@
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a1.adform.net
+0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2150.casalemedia.com
 0.0.0.0 a2170.casalemedia.com
