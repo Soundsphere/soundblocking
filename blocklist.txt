@@ -1597,6 +1597,7 @@
 0.0.0.0 logs1125.xiti.com
 0.0.0.0 logs1241.xiti.com
 0.0.0.0 logs1242.xiti.com
+0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1406.xiti.com
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs6.xiti.com
@@ -2261,6 +2262,7 @@
 0.0.0.0 sjrtp6-cdn.marketo.com
 0.0.0.0 sjrtp6.marketo.com
 0.0.0.0 sjrtp8-cdn.marketo.com
+0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 s.ktxtr.com
 0.0.0.0 skyde.inq.com
@@ -2653,6 +2655,7 @@
 0.0.0.0 track.webgains.com
 0.0.0.0 tradeassurance.alibaba.com
 0.0.0.0 traffective-d.openx.net
+0.0.0.0 traffic.alexa.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 trck.bdi-services.de
