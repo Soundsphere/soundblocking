@@ -1616,6 +1616,7 @@
 0.0.0.0 look.kfiopkln.com
 0.0.0.0 loopme.me
 0.0.0.0 l.ooyala.com
+0.0.0.0 lpm-lagardere.nuggad.net
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 l.sharethis.com
 0.0.0.0 ls.hit.gemius.pl
@@ -1822,6 +1823,7 @@
 0.0.0.0 p.cpx.to
 0.0.0.0 pde.lp4.io
 0.0.0.0 p.dlx.addthis.com
+0.0.0.0 pebed.dm.gg
 0.0.0.0 pentos-cdn.polarmobile.com
 0.0.0.0 perf.logsss.com
 0.0.0.0 perf.mmstat.com
