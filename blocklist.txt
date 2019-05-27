@@ -488,6 +488,7 @@
 0.0.0.0 assets.pinterest.com
 0.0.0.0 assets.privy.com
 0.0.0.0 assets.purch.com
+0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assets.tapad.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 a.teads.tv
@@ -1602,6 +1603,7 @@
 0.0.0.0 lptag.liveperson.net
 0.0.0.0 l.sharethis.com
 0.0.0.0 ls.hit.gemius.pl
+0.0.0.0 lynxbroker.de
 0.0.0.0 lyr122000c.pubmatic.com
 0.0.0.0 m1.nsimg.net
 0.0.0.0 mab.chartbeat.com
@@ -2180,6 +2182,7 @@
 0.0.0.0 secure.insightexpressai.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.leadforensics.com
+0.0.0.0 secure.livechatinc.com
 0.0.0.0 secure.media6degrees.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securepubads.g.doubleclick.net
@@ -2198,6 +2201,7 @@
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 semantiqo.com
 0.0.0.0 se.monetate.net
+0.0.0.0 sendgrid.net
 0.0.0.0 sentry.hotjar.com
 0.0.0.0 sentry.io
 0.0.0.0 serve.adtrackers.net
@@ -2246,6 +2250,7 @@
 0.0.0.0 sjrtp8-cdn.marketo.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 s.ktxtr.com
+0.0.0.0 skyde.inq.com
 0.0.0.0 skydeutschland.demdex.net
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 s.logsss.com
