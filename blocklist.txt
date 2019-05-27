@@ -187,6 +187,7 @@
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-qcamt.adtech.de
+0.0.0.0 adserver-qcmtc.adtechus.com
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adservex.media.net
@@ -336,6 +337,7 @@
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.localytics.com
+0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.ooyala.com
@@ -396,6 +398,7 @@
 0.0.0.0 api.nextgen.guardianapps.co.uk
 0.0.0.0 api.parsely.com
 0.0.0.0 api.permutive.com
+0.0.0.0 api.picsart.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
 0.0.0.0 api-public.addthis.com
@@ -1130,6 +1133,7 @@
 0.0.0.0 embed.tawk.to
 0.0.0.0 e.nexac.com
 0.0.0.0 engage.commander1.com
+0.0.0.0 engine.4dsply.com
 0.0.0.0 engine.addroplet.com
 0.0.0.0 engine.adzerk.net
 0.0.0.0 engine.widespace.com
