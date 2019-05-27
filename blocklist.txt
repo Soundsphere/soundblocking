@@ -4,6 +4,7 @@
 0.0.0.0 15.taboola.com
 0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 194792.engine.mobileapptracking.com
+0.0.0.0 194-vvc-221.mktoresp.com
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 1f2e7.v.fwmrm.net
@@ -1595,6 +1596,7 @@
 0.0.0.0 logs1241.xiti.com
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs1406.xiti.com
+0.0.0.0 logs4.xiti.com
 0.0.0.0 logs6.xiti.com
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.supersonic.com
@@ -2829,6 +2831,7 @@
 0.0.0.0 whos.amung.us
 0.0.0.0 widget.as.criteo.com
 0.0.0.0 widget.cloud.opta.net
+0.0.0.0 widget.criteo.com
 0.0.0.0 widget.eu.criteo.com
 0.0.0.0 widgetmonitor.outbrain.com
 0.0.0.0 widget.perfectmarket.com
