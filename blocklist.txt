@@ -297,6 +297,7 @@
 0.0.0.0 amcglobal.sc.omtrdc.net
 0.0.0.0 a.mobify.com
 0.0.0.0 amp.casalemedia.com
+0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
@@ -785,6 +786,7 @@
 0.0.0.0 c.gumgum.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chimpstatic.com
+0.0.0.0 chng.it
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
 0.0.0.0 ci37.actonsoftware.com
@@ -1620,6 +1622,7 @@
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1406.xiti.com
+0.0.0.0 logs3.xiti.com
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs6.xiti.com
 0.0.0.0 logs.dashlane.com
@@ -2047,6 +2050,7 @@
 0.0.0.0 rbp.mxptint.net
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.chip.de
+0.0.0.0 rcm-de.amazon.de
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcp.c.appier.net
@@ -2384,6 +2388,7 @@
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stas.outbrain.com
+0.0.0.0 st.astraone.io
 0.0.0.0 stat.alibaba.com
 0.0.0.0 statcounter.com
 0.0.0.0 stat.dealtime.com
@@ -2687,6 +2692,7 @@
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.omguk.com
 0.0.0.0 track.securedvisit.com
+0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.webgains.com
 0.0.0.0 tradeassurance.alibaba.com
