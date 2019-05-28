@@ -582,6 +582,7 @@
 0.0.0.0 bloggerei.de
 0.0.0.0 blog.naver.com
 0.0.0.0 bm.adentifi.com
+0.0.0.0 bms.adjarabet.com
 0.0.0.0 bnc.lt
 0.0.0.0 boards.greenhouse.io
 0.0.0.0 bonfire.spklw.com
@@ -785,6 +786,7 @@
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
 0.0.0.0 ci37.actonsoftware.com
+0.0.0.0 ci95.actonsoftware.com
 0.0.0.0 cj.com
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.madeleine.de
@@ -793,6 +795,7 @@
 0.0.0.0 ck.solocpm.com
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clc.stackoverflow.com
+0.0.0.0 clevernt.com
 0.0.0.0 click-de.plista.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 click.oneplus.com
@@ -1083,6 +1086,7 @@
 0.0.0.0 dmpsync.3lift.com
 0.0.0.0 dmp.theadex.com
 0.0.0.0 dmp.v.fwmrm.net
+0.0.0.0 dmp.vihub.ru
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dn3y71tq7jf07.cloudfront.net
@@ -2059,6 +2063,7 @@
 0.0.0.0 resources.infolinks.com
 0.0.0.0 resources.taboola.com
 0.0.0.0 responder.wt-safetag.com
+0.0.0.0 restapi.amap.com
 0.0.0.0 retracker.com
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 reveal.clearbit.com
