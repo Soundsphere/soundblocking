@@ -423,6 +423,7 @@
 0.0.0.0 api.similarweb.com
 0.0.0.0 api.skyhookwireless.com
 0.0.0.0 api.taboola.com
+0.0.0.0 api.taplytics.com
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.usebutton.com
@@ -1157,6 +1158,7 @@
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.hit.gemius.pl
 0.0.0.0 eiv.baidu.com
+0.0.0.0 ekladata.com
 0.0.0.0 eldamar01-loadbalanced.kameleoon.com
 0.0.0.0 eldamar02-loadbalanced.kameleoon.com
 0.0.0.0 eldamar03-loadbalanced.kameleoon.com
@@ -1866,6 +1868,7 @@
 0.0.0.0 ping.getadblock.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pings.vidpulse.com
+0.0.0.0 ping.taplytics.com
 0.0.0.0 pi.pardot.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pipe.skype.com
@@ -2600,6 +2603,7 @@
 0.0.0.0 thaliade02.webtrekk.net
 0.0.0.0 theadex.com
 0.0.0.0 thechive-d.openx.net
+0.0.0.0 think.unbounce.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thor.rtk.io
 0.0.0.0 thrtle.com
@@ -2794,6 +2798,7 @@
 0.0.0.0 v4.moatads.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v.adsrvr.org
+0.0.0.0 vap2sfo1.lijit.com
 0.0.0.0 vap4ewr1.lijit.com
 0.0.0.0 vap.lijit.com
 0.0.0.0 vars.hotjar.com
