@@ -69,6 +69,7 @@
 0.0.0.0 a3341.casalemedia.com
 0.0.0.0 a3360.casalemedia.com
 0.0.0.0 a3361.casalemedia.com
+0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3371.casalemedia.com
 0.0.0.0 a3381.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
@@ -905,6 +906,7 @@
 0.0.0.0 c.pub.network
 0.0.0.0 cpx.golem.de
 0.0.0.0 cpxl.golem.de
+0.0.0.0 crashdump.spotify.com
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
@@ -990,6 +992,7 @@
 0.0.0.0 data09.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
 0.0.0.0 data24.adlooxtracking.com
+0.0.0.0 data26.adlooxtracking.com
 0.0.0.0 data27.adlooxtracking.com
 0.0.0.0 data28.adlooxtracking.com
 0.0.0.0 data29.adlooxtracking.com
@@ -1633,6 +1636,7 @@
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 magnetic.t.domdex.com
+0.0.0.0 mahimeta.com
 0.0.0.0 mailderef.web.de
 0.0.0.0 mailfoogae.appspot.com
 0.0.0.0 mail.radar.imgsmail.ru
@@ -1891,7 +1895,9 @@
 0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
+0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pix.impdesk.com
+0.0.0.0 pix.spot.im
 0.0.0.0 pix.telekom.de
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 plarium.com
@@ -2309,6 +2315,7 @@
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 sp.adbrn.com
 0.0.0.0 sp.analytics.yahoo.com
+0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spgo.io
 0.0.0.0 spiegel-de.spiegel.de
@@ -2965,6 +2972,7 @@
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.inskinad.com
+0.0.0.0 www.istripper.com
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.lduhtrp.net
