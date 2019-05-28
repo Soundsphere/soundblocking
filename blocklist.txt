@@ -1419,6 +1419,7 @@
 0.0.0.0 idt.id-news.net
 0.0.0.0 ie8eamus.com
 0.0.0.0 ih.adscale.de
+0.0.0.0 ikea.122.2o7.net
 0.0.0.0 ikea.com
 0.0.0.0 ikea.de
 0.0.0.0 i.kissmetrics.com
@@ -1604,6 +1605,7 @@
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
+0.0.0.0 logp2.xiti.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.rutube.ru
@@ -1724,6 +1726,7 @@
 0.0.0.0 models.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 modes.taboola.com
+0.0.0.0 monu.delivery
 0.0.0.0 more.criteo.com
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mpsnare.iesnare.com
@@ -1809,6 +1812,7 @@
 0.0.0.0 otf.msn.com
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 p3.pstatp.com
+0.0.0.0 p.adbrn.com
 0.0.0.0 p.ad.gt
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 pagead1.googlesyndication.com
@@ -2245,6 +2249,7 @@
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 server.adformdsp.net
 0.0.0.0 server.adform.net
+0.0.0.0 server.cpmstar.com
 0.0.0.0 serve.tercept.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.maxymiser.net
@@ -3015,6 +3020,7 @@
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tag4arm.com
 0.0.0.0 www.tns-counter.ru
+0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tumblr.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.unbounce.com
@@ -3058,6 +3064,7 @@
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 z-eu.amazon-adsystem.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 zm232.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
