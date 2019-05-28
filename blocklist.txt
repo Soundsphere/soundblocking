@@ -747,6 +747,7 @@
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.simility.com
 0.0.0.0 cdn.speedcurve.com
+0.0.0.0 cdn.springserve.com
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdn-static.optimonk.com
 0.0.0.0 cdn.static.zdbb.net
@@ -1377,6 +1378,7 @@
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hb.sekindo.com
 0.0.0.0 hb.vntsm.com
+0.0.0.0 hdredirect-lb5-1afb6e2973825a56.elb.us-east-1.amazonaws.com
 0.0.0.0 healte.de
 0.0.0.0 healthline-d.openx.net
 0.0.0.0 heapanalytics.com
@@ -2034,6 +2036,7 @@
 0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
 0.0.0.0 q.quora.com
+0.0.0.0 qs.ioam.de
 0.0.0.0 quantcast584928381.s.moatpixel.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantserve.com
@@ -2570,6 +2573,7 @@
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tags.tiqcdn.com
+0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 tags.w55c.net
 0.0.0.0 tag.userreport.com
 0.0.0.0 tag.yieldoptimizer.com
