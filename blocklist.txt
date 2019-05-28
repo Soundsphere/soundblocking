@@ -60,6 +60,7 @@
 0.0.0.0 a2221.casalemedia.com
 0.0.0.0 a2231.casalemedia.com
 0.0.0.0 a2240.casalemedia.com
+0.0.0.0 a2.adform.net
 0.0.0.0 a3270.casalemedia.com
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3290.casalemedia.com
@@ -792,6 +793,7 @@
 0.0.0.0 choices.truste.com
 0.0.0.0 ci37.actonsoftware.com
 0.0.0.0 ci95.actonsoftware.com
+0.0.0.0 c.imedia.cz
 0.0.0.0 cj.com
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.madeleine.de
