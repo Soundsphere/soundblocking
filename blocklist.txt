@@ -1247,6 +1247,7 @@
 0.0.0.0 flaconi02.webtrekk.net
 0.0.0.0 flapi1.rubiconproject.com
 0.0.0.0 flash.sec.miui.com
+0.0.0.0 flatex-de01.webtrekk.net
 0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon.com
