@@ -563,6 +563,7 @@
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
+0.0.0.0 beam.hlserve.com
 0.0.0.0 beap1.cb.g01.yahoodns.net
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 behacdn.ksmobile.net
@@ -973,6 +974,7 @@
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2xxq4ijfwetlm.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
+0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
