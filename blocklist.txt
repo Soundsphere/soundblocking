@@ -1209,6 +1209,7 @@
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.ocdn.eu
 0.0.0.0 events.privy.com
+0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.co
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.streamrail.net
