@@ -2119,6 +2119,7 @@
 0.0.0.0 rtb.adgrx.com
 0.0.0.0 rtbcdn.doubleverify.com
 0.0.0.0 rtb.connatix.com
+0.0.0.0 rtb-csync-blackhole.smartadserver.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rtb.geodns.tubemogul.com
 0.0.0.0 rtb.gumgum.com
@@ -2225,6 +2226,7 @@
 0.0.0.0 sec.umeng.com
 0.0.0.0 secure.33across.com
 0.0.0.0 secure.adnxs.com
+0.0.0.0 secure-ads.pictela.net
 0.0.0.0 secure-assets.rubiconproject.com
 0.0.0.0 secureaud.solocpm.com
 0.0.0.0 secure-au.imrworldwide.com
