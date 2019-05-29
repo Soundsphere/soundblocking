@@ -959,6 +959,7 @@
 0.0.0.0 ct.sddan.com
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
+0.0.0.0 c.wort-suche.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 cyberport.d3.sc.omtrdc.net
@@ -2335,6 +2336,7 @@
 0.0.0.0 sgqcvfjvr.onet.pl
 0.0.0.0 s.gravatar.com
 0.0.0.0 shared.iad.appboy.com
+0.0.0.0 share.pluso.ru
 0.0.0.0 share.yandex.ru
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 shield.sitelock.com
@@ -3058,6 +3060,7 @@
 0.0.0.0 www.friendlyduck.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.fyber.com
+0.0.0.0 www.gaymenring.com
 0.0.0.0 www.getnow.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
@@ -3073,6 +3076,7 @@
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.hugedomains.com
+0.0.0.0 www.icegay.tv
 0.0.0.0 www.inmobi.com
 0.0.0.0 www.inskinad.com
 0.0.0.0 www.ironsrc.com
