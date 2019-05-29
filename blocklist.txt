@@ -103,6 +103,7 @@
 0.0.0.0 acds.prod.eu-west-1.vidible.tv
 0.0.0.0 acds.prod.vidible.tv
 0.0.0.0 acl.stayfriends.de
+0.0.0.0 a.cnzz.com
 0.0.0.0 a.company-target.com
 0.0.0.0 acookie.alibaba.com
 0.0.0.0 action.media6degrees.com
@@ -149,6 +150,7 @@
 0.0.0.0 ad.lkqd.net
 0.0.0.0 adlmerge.com
 0.0.0.0 adlog.flurry.com
+0.0.0.0 adloox.com
 0.0.0.0 adl.windows.com
 0.0.0.0 ad.mail.ru
 0.0.0.0 ad.mediaplex.com
@@ -266,6 +268,7 @@
 0.0.0.0 a.farlex.com
 0.0.0.0 aff.bstatic.com
 0.0.0.0 affiliate.immobilienscout24.de
+0.0.0.0 afs.adjust-net.jp
 0.0.0.0 afs.googleusercontent.com
 0.0.0.0 agentanalytics.com
 0.0.0.0 ag.innovid.com
@@ -406,6 +409,7 @@
 0.0.0.0 api.iris.tv
 0.0.0.0 api.keen.io
 0.0.0.0 api.leanplum.com
+0.0.0.0 api.lever.co
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api.monetizer101.com
 0.0.0.0 api.nanigans.com
@@ -989,6 +993,7 @@
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
@@ -1013,6 +1018,7 @@
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
+0.0.0.0 data21.adlooxtracking.com
 0.0.0.0 data24.adlooxtracking.com
 0.0.0.0 data26.adlooxtracking.com
 0.0.0.0 data27.adlooxtracking.com
@@ -1132,6 +1138,7 @@
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.adkernel.com
 0.0.0.0 dspcluster.adfarm1.adition.com
+0.0.0.0 ds.prod.vidible.tv
 0.0.0.0 dsum.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dsy5wmnntou9c.cloudfront.net
@@ -1368,6 +1375,7 @@
 0.0.0.0 go.toutapp.com
 0.0.0.0 go.urbanairship.com
 0.0.0.0 gpul.org
+0.0.0.0 grace.shareaholic.com
 0.0.0.0 grammarly.go2cloud.org
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
@@ -1651,6 +1659,7 @@
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs6.xiti.com
 0.0.0.0 logs.dashlane.com
+0.0.0.0 logs.juspay.in
 0.0.0.0 logs.supersonic.com
 0.0.0.0 log.streamagent.sensic.net
 0.0.0.0 logs.xiti.com
@@ -1878,6 +1887,7 @@
 0.0.0.0 p.cpx.to
 0.0.0.0 pde.lp4.io
 0.0.0.0 p.dlx.addthis.com
+0.0.0.0 pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pentos-cdn.polarmobile.com
 0.0.0.0 perf.logsss.com
@@ -2103,6 +2113,7 @@
 0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 redirect.viglink.com
 0.0.0.0 referrer.disqus.com
+0.0.0.0 register.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 rem-track.bild.de
 0.0.0.0 report.appmetrica.webvisor.com
@@ -3116,6 +3127,7 @@
 0.0.0.0 www.urbandictionary.com
 0.0.0.0 www.usefomo.com
 0.0.0.0 www.usemax.de
+0.0.0.0 www.vibrantmedia.com
 0.0.0.0 www.vungle.com
 0.0.0.0 www.website-hit-counters.com
 0.0.0.0 www.widespace.com
