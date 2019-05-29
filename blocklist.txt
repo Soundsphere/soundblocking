@@ -507,6 +507,7 @@
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assets.tapad.com
 0.0.0.0 a-ssl.ligatus.com
+0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 a.teads.tv
 0.0.0.0 atemda.com
 0.0.0.0 a.tfag.de
@@ -1260,6 +1261,7 @@
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fc.yahoo.com
 0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+0.0.0.0 feedjit.com
 0.0.0.0 feed.mikle.com
 0.0.0.0 fei.pro-market.net
 0.0.0.0 femaledom.com
@@ -1413,6 +1415,7 @@
 0.0.0.0 hosts-file.net
 0.0.0.0 hp.myway.com
 0.0.0.0 hrum.hotelsapi.io
+0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 hubt.pornhub.com
 0.0.0.0 hurra.com
 0.0.0.0 hw-cdn.trafficjunky.net
