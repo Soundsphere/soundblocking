@@ -368,6 +368,7 @@
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 animate.adobe.com
+0.0.0.0 answers.chartboost.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 anycast.fw.adsafeprotected.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
@@ -517,6 +518,7 @@
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authentication.taboola.com
+0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 a.volvelle.tech
 0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 axel-springer-d.openx.net
@@ -1067,6 +1069,8 @@
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 dev.tapjoy.com
+0.0.0.0 dev.umeng.com
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dff7tx5c2qbxc.cloudfront.net
 0.0.0.0 dh.serving-sys.com
@@ -1582,6 +1586,7 @@
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.naver.com
 0.0.0.0 leadintel.io
+0.0.0.0 legacydocs.fyber.com
 0.0.0.0 lenovo.demdex.net
 0.0.0.0 lg3.media.net
 0.0.0.0 libs.coremetrics.com
@@ -2002,6 +2007,7 @@
 0.0.0.0 p.travelsmarter.net
 0.0.0.0 p.twitter.com
 0.0.0.0 p.typekit.net
+0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 public2.bravenet.com
 0.0.0.0 public.vilynx.com
 0.0.0.0 publisher-config.unityads.unity3d.com
@@ -2010,6 +2016,7 @@
 0.0.0.0 pubmatic-winners-ap-northeast-1-rtb.adroll.com
 0.0.0.0 pubmatic-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 pubmatic-winners-us-east-1-rtb.adroll.com
+0.0.0.0 pubnative.net
 0.0.0.0 pubpress.net
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 pulsepoint-cm.p.veruta.com
@@ -2048,6 +2055,7 @@
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 r1.computerbild.de
 0.0.0.0 r1---sn-4g5e6nz7.gvt1.com
+0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 r.254a.com
 0.0.0.0 r2---sn-4g5e6n76.gvt1.com
 0.0.0.0 r2---sn-4g5ednsk.gvt1.com
@@ -2183,6 +2191,7 @@
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
 0.0.0.0 samsung-germany.demdex.net
+0.0.0.0 sam.zoy.org
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 sb.l.google.com
@@ -2264,6 +2273,7 @@
 0.0.0.0 segments.company-target.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 selfservice.appnext.com
 0.0.0.0 semantiqo.com
 0.0.0.0 se.monetate.net
 0.0.0.0 sendgrid.net
@@ -2622,6 +2632,7 @@
 0.0.0.0 thrtle.com
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 time.izatcloud.net
+0.0.0.0 timetravel.mementoweb.org
 0.0.0.0 tisoomi-services.com
 0.0.0.0 ti.tradetracker.net
 0.0.0.0 t.kctag.net
@@ -2907,6 +2918,7 @@
 0.0.0.0 widgets.stackcommerce.com
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 wikia-d.openx.net
+0.0.0.0 wiki.smaato.com
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 wla.vivaldi.com
@@ -2961,6 +2973,8 @@
 0.0.0.0 www.andyhoppe.com
 0.0.0.0 www.angelfire.com
 0.0.0.0 www.anrdoezrs.net
+0.0.0.0 www.applovin.com
+0.0.0.0 www.appnext.com
 0.0.0.0 www.appnexus.com
 0.0.0.0 www.a.shifen.com
 0.0.0.0 www.assoc-amazon.com
@@ -2999,6 +3013,7 @@
 0.0.0.0 www.fitforfun.de
 0.0.0.0 www.friendlyduck.com
 0.0.0.0 www.fullstory.com
+0.0.0.0 www.fyber.com
 0.0.0.0 www.getnow.com
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
@@ -3014,6 +3029,7 @@
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.inskinad.com
+0.0.0.0 www.ironsrc.com
 0.0.0.0 www.istripper.com
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.kqzyfj.com
@@ -3021,9 +3037,11 @@
 0.0.0.0 www.ligatus.com
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liveinternet.ru
+0.0.0.0 www.localytics.com
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.mathtag.com
 0.0.0.0 www.med1.de
+0.0.0.0 www.mobfox.com
 0.0.0.0 www.movable-ink-2183.com
 0.0.0.0 www.movier.tv
 0.0.0.0 www.nexus.ensighten.com
@@ -3039,6 +3057,7 @@
 0.0.0.0 www.refersion.com
 0.0.0.0 www.res-x.com
 0.0.0.0 www.roosterfirework.com
+0.0.0.0 www.safedk.com
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.search.com
 0.0.0.0 www.semrush.com
