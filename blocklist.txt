@@ -661,6 +661,7 @@
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.stickyadstv.com
 0.0.0.0 cdn25.vizury.com
+0.0.0.0 cdn.2app.lk
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn-3.convertexperiments.com
@@ -2204,6 +2205,7 @@
 0.0.0.0 s1.adform.net
 0.0.0.0 s248.meetrics.net
 0.0.0.0 s290.mxcdn.net
+0.0.0.0 s.2app.lk
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
@@ -2549,6 +2551,7 @@
 0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 s-usc1c-nss-218.firebaseio.com
 0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 svastx.moatads.com
 0.0.0.0 s.webtrends.com
