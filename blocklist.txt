@@ -1294,6 +1294,7 @@
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
 0.0.0.0 fs.microsoft.com
+0.0.0.0 fstrk.net
 0.0.0.0 ftb.cursecdn.com
 0.0.0.0 fusionads.net
 0.0.0.0 fw.adsafeprotected.com
