@@ -485,6 +485,7 @@
 0.0.0.0 apx.moatads.com
 0.0.0.0 arc.msn.com
 0.0.0.0 a.rfihub.com
+0.0.0.0 arquivo.pt
 0.0.0.0 as.casalemedia.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 as.gettyservices.com
@@ -815,12 +816,14 @@
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 client.a.pxi.pub
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 client.perimeterx.net
 0.0.0.0 clients1.google.com
 0.0.0.0 clients2.google.com
 0.0.0.0 clients6.google.com
+0.0.0.0 cliqz.com
 0.0.0.0 c.live.com
 0.0.0.0 clkde.tradedoubler.com
 0.0.0.0 clk.solocpm.com
@@ -878,6 +881,7 @@
 0.0.0.0 config.safedk.com
 0.0.0.0 config.samqaicongen.com
 0.0.0.0 config.uca.cloud.unity3d.com
+0.0.0.0 connectbot.org
 0.0.0.0 connect.ekomi.de
 0.0.0.0 connect.facebook.com
 0.0.0.0 connect.facebook.net
@@ -1305,6 +1309,7 @@
 0.0.0.0 gapl.hit.gemius.pl
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
+0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gdc.indeed.com
@@ -3005,6 +3010,7 @@
 0.0.0.0 www.cj.com
 0.0.0.0 www.clicktripz.com
 0.0.0.0 www.coinbase.com
+0.0.0.0 www.computec.ch
 0.0.0.0 www.condenast.com
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.crazyegg.com
@@ -3064,6 +3070,7 @@
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.okcupid.com
+0.0.0.0 www.openwall.com
 0.0.0.0 www.orsm.net
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.phun.org
