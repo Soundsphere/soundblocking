@@ -87,6 +87,7 @@
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 abandonment.saas.seewhy.com
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 a.bf-ad.net
 0.0.0.0 a.bf-tools.net
@@ -1739,6 +1740,7 @@
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile-service.segment.com
+0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 models.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 modes.taboola.com
@@ -2623,6 +2625,7 @@
 0.0.0.0 tisoomi-services.com
 0.0.0.0 ti.tradetracker.net
 0.0.0.0 t.kctag.net
+0.0.0.0 tknet.rayjump.com
 0.0.0.0 t.ktxtr.com
 0.0.0.0 t.leady.com
 0.0.0.0 tlp-01.kameleoon.com
