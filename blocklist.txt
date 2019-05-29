@@ -264,6 +264,7 @@
 0.0.0.0 ad.yieldmanager.com
 0.0.0.0 adyoulike.omnitagjs.com
 0.0.0.0 ad.zanox.com
+0.0.0.0 aem.playstation.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 aexp.demdex.net
 0.0.0.0 a.farlex.com
 0.0.0.0 aff.bstatic.com
@@ -636,6 +637,7 @@
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 capture.trackjs.com
 0.0.0.0 carambola-d.openx.net
+0.0.0.0 careers.hotjar.com
 0.0.0.0 casale-match.dotomi.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 cat.fr.eu.criteo.com
@@ -1018,6 +1020,7 @@
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
+0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
 0.0.0.0 data24.adlooxtracking.com
 0.0.0.0 data26.adlooxtracking.com
@@ -1027,6 +1030,7 @@
 0.0.0.0 data2.gosquared.com
 0.0.0.0 data35.adlooxtracking.com
 0.0.0.0 data37.adlooxtracking.com
+0.0.0.0 data60.adlooxtracking.com
 0.0.0.0 data62.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
@@ -3034,6 +3038,7 @@
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
+0.0.0.0 www.da-ads.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.disclaimer.de
 0.0.0.0 www.doubleclickbygoogle.com
