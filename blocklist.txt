@@ -1777,6 +1777,7 @@
 0.0.0.0 nba.demdex.net
 0.0.0.0 nbcu.demdex.net
 0.0.0.0 nbcume.sc.omtrdc.net
+0.0.0.0 neads.delivery
 0.0.0.0 nervoussummer.com
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 netzwelt-gmbh-d.openx.net
@@ -1787,8 +1788,10 @@
 0.0.0.0 nfscars.net
 0.0.0.0 nht-3.extreme-dm.com
 0.0.0.0 nike.demdex.net
+0.0.0.0 nofile.io
 0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 normour.com
+0.0.0.0 noscript.net
 0.0.0.0 notebooksbilliger02.webtrekk.net
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 now.eloqua.com
@@ -1834,6 +1837,7 @@
 0.0.0.0 osd.oxygem.it
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
+0.0.0.0 outdatedbrowser.com
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 p3.pstatp.com
 0.0.0.0 p.adbrn.com
@@ -1856,6 +1860,7 @@
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 partners.webmasterplan.com
+0.0.0.0 pastie.org
 0.0.0.0 pb.adriver.ru
 0.0.0.0 p.bm23.com
 0.0.0.0 p.cpx.to
@@ -1886,6 +1891,7 @@
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pipe.skype.com
 0.0.0.0 pippio.com
+0.0.0.0 piwik.org
 0.0.0.0 piwik.up.welt.de
 0.0.0.0 pix.btrll.com
 0.0.0.0 pixel.33across.com
@@ -2482,6 +2488,7 @@
 0.0.0.0 stats.mezzobit.com
 0.0.0.0 stats.monohost.com
 0.0.0.0 stats.mos.ru
+0.0.0.0 stats.nextcloud.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stats.smartclip.net
@@ -2729,6 +2736,7 @@
 0.0.0.0 traffective-d.openx.net
 0.0.0.0 traffic.alexa.com
 0.0.0.0 traffic.outbrain.com
+0.0.0.0 transfer.sh
 0.0.0.0 tr.blismedia.com
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.spoteffects.net
@@ -2976,6 +2984,7 @@
 0.0.0.0 www.applovin.com
 0.0.0.0 www.appnext.com
 0.0.0.0 www.appnexus.com
+0.0.0.0 www.appsflyer.com
 0.0.0.0 www.a.shifen.com
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.assoc-amazon.de
@@ -2996,11 +3005,13 @@
 0.0.0.0 www.cj.com
 0.0.0.0 www.clicktripz.com
 0.0.0.0 www.coinbase.com
+0.0.0.0 www.condenast.com
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.disclaimer.de
+0.0.0.0 www.doubleclickbygoogle.com
 0.0.0.0 www.doubleverify.com
 0.0.0.0 www.dwin1.com
 0.0.0.0 www.dwin2.com
@@ -3028,12 +3039,16 @@
 0.0.0.0 www.hitwebcounter.com
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hotjar.com
+0.0.0.0 www.hugedomains.com
+0.0.0.0 www.inmobi.com
 0.0.0.0 www.inskinad.com
 0.0.0.0 www.ironsrc.com
 0.0.0.0 www.istripper.com
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.lduhtrp.net
+0.0.0.0 www.leadbolt.com
+0.0.0.0 www.leanplum.com
 0.0.0.0 www.ligatus.com
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liveinternet.ru
@@ -3042,10 +3057,13 @@
 0.0.0.0 www.mathtag.com
 0.0.0.0 www.med1.de
 0.0.0.0 www.mobfox.com
+0.0.0.0 www.mopub.com
 0.0.0.0 www.movable-ink-2183.com
 0.0.0.0 www.movier.tv
+0.0.0.0 www.mywot.com
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
+0.0.0.0 www.okcupid.com
 0.0.0.0 www.orsm.net
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.phun.org
@@ -3058,9 +3076,11 @@
 0.0.0.0 www.res-x.com
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 www.safedk.com
+0.0.0.0 www.scorecardresearch.com
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.search.com
 0.0.0.0 www.semrush.com
+0.0.0.0 www.smaato.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.smartredirect.de
 0.0.0.0 www.snapengage.com
@@ -3086,6 +3106,7 @@
 0.0.0.0 www.za-ads.de
 0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 www.zergnet.com
+0.0.0.0 wywy.com
 0.0.0.0 wzrkt.com
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x.cnt.my
