@@ -913,6 +913,7 @@
 0.0.0.0 cookiesync.vertamedia.com
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 counter.cyberschnuffi.de
+0.0.0.0 counter.pax.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.snackly.co
 0.0.0.0 counter.theconversation.edu.au
@@ -1363,6 +1364,7 @@
 0.0.0.0 go.strpjmp.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 go.urbanairship.com
+0.0.0.0 gpul.org
 0.0.0.0 grammarly.go2cloud.org
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
@@ -1836,6 +1838,7 @@
 0.0.0.0 optimized-by.rubiconproject.net.akadns.net
 0.0.0.0 optimize.innity.com
 0.0.0.0 optimize-stats.voxmedia.com
+0.0.0.0 optout.aboutads.info
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 origin-tracking.trulia.com
@@ -3010,6 +3013,7 @@
 0.0.0.0 www.cj.com
 0.0.0.0 www.clicktripz.com
 0.0.0.0 www.coinbase.com
+0.0.0.0 www.colorware.com
 0.0.0.0 www.computec.ch
 0.0.0.0 www.condenast.com
 0.0.0.0 www.counter-gratis.com
@@ -3067,6 +3071,8 @@
 0.0.0.0 www.movable-ink-2183.com
 0.0.0.0 www.movier.tv
 0.0.0.0 www.mywot.com
+0.0.0.0 www.netagent.cz
+0.0.0.0 www.networkadvertising.org
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.okcupid.com
