@@ -934,6 +934,7 @@
 0.0.0.0 c.pub.network
 0.0.0.0 cpx.golem.de
 0.0.0.0 cpxl.golem.de
+0.0.0.0 cracked.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
@@ -1098,6 +1099,7 @@
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 di.rlcdn.com
 0.0.0.0 dis.as.criteo.com
+0.0.0.0 discord.gg
 0.0.0.0 dis.criteo.com
 0.0.0.0 dis.eu.criteo.com
 0.0.0.0 dispatcher.oewabox.at
@@ -1367,6 +1369,7 @@
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 go.ezoic.net
 0.0.0.0 goldbach-de-d.openx.net
+0.0.0.0 goo.gl
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleadservices.com
@@ -1428,6 +1431,7 @@
 0.0.0.0 hm.baidu.com
 0.0.0.0 h.nexac.com
 0.0.0.0 hn.inspectlet.com
+0.0.0.0 home.earthlink.net
 0.0.0.0 h.online-metrix.net
 0.0.0.0 hosts-file.net
 0.0.0.0 hp.myway.com
@@ -1505,6 +1509,7 @@
 0.0.0.0 img.tradedoubler.com
 0.0.0.0 imguplo.com
 0.0.0.0 img.web.de
+0.0.0.0 impactwrestling.com
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
@@ -1609,6 +1614,7 @@
 0.0.0.0 l96jc26jvj.kameleoon.eu
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 launcher.mojang.com
+0.0.0.0 launchpadlibrarian.net
 0.0.0.0 l.betrad.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.naver.com
@@ -2358,6 +2364,8 @@
 0.0.0.0 site.adform.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 sites.google.com
+0.0.0.0 sixcooler.de
 0.0.0.0 sjrtp3-cdn.marketo.com
 0.0.0.0 sjrtp5.marketo.com
 0.0.0.0 sjrtp6-cdn.marketo.com
@@ -2675,6 +2683,7 @@
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 time.izatcloud.net
 0.0.0.0 timetravel.mementoweb.org
+0.0.0.0 tinyurl.com
 0.0.0.0 tisoomi-services.com
 0.0.0.0 ti.tradetracker.net
 0.0.0.0 t.kctag.net
@@ -2939,6 +2948,7 @@
 0.0.0.0 w.cnzz.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 web-analytics.engagio.com
+0.0.0.0 web.archive.org
 0.0.0.0 web.industrybrains.com
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
@@ -3040,6 +3050,7 @@
 0.0.0.0 www.cbox.ws
 0.0.0.0 www.cj.com
 0.0.0.0 www.clicktripz.com
+0.0.0.0 www.coasttocoastam.com
 0.0.0.0 www.coinbase.com
 0.0.0.0 www.colorware.com
 0.0.0.0 www.computec.ch
@@ -3132,6 +3143,7 @@
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.steepto.com
 0.0.0.0 www.storygize.net
+0.0.0.0 www.stumbleupon.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tag4arm.com
@@ -3175,6 +3187,7 @@
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 ynuf.alipay.com
+0.0.0.0 youtu.be
 0.0.0.0 z11.cnzz.com
 0.0.0.0 z15ba20a04.webengage.co
 0.0.0.0 z9q9kj37oy.kameleoon.eu
