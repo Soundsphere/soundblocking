@@ -16,6 +16,7 @@
 0.0.0.0 2oceansvibe.com
 0.0.0.0 3276817.fls.doubleclick.net
 0.0.0.0 33across-d.openx.net
+0.0.0.0 341800575.log.optimizely.com
 0.0.0.0 3573281.fls.doubleclick.net
 0.0.0.0 35ax3z5b4g.kameleoon.eu
 0.0.0.0 3p.ampproject.net
@@ -48,6 +49,7 @@
 0.0.0.0 998766.fls.doubleclick.net
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0003.a-msedge.net
+0.0.0.0 a0.smi2.ru
 0.0.0.0 a1.adform.net
 0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
@@ -478,6 +480,7 @@
 0.0.0.0 applog.musical.ly
 0.0.0.0 app-lon04.marketo.com
 0.0.0.0 app-lon05.marketo.com
+0.0.0.0 app-lon08.marketo.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.medyanetads.com
 0.0.0.0 app.miui.com
@@ -1105,6 +1108,7 @@
 0.0.0.0 deutschepostag1.d3.sc.omtrdc.net
 0.0.0.0 dev.appboy.com
 0.0.0.0 developers.facebook.com
+0.0.0.0 device.4seeresults.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
@@ -1172,8 +1176,10 @@
 0.0.0.0 dsy5wmnntou9c.cloudfront.net
 0.0.0.0 dt.admission.net
 0.0.0.0 dt.adsafeprotected.com
+0.0.0.0 d.tailtarget.com
 0.0.0.0 dtlilztwypawv.cloudfront.net
 0.0.0.0 dtm.advertising.com
+0.0.0.0 dt.scanscout.com
 0.0.0.0 dts.innovid.com
 0.0.0.0 dts.startappservice.com
 0.0.0.0 d.turn.com
@@ -1618,6 +1624,7 @@
 0.0.0.0 js.pusher.com
 0.0.0.0 js.recurly.com
 0.0.0.0 js.revsci.net
+0.0.0.0 js.sddan.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.smartredirect.de
 0.0.0.0 js.spotx.tv
@@ -2073,6 +2080,7 @@
 0.0.0.0 p.skimresources.com
 0.0.0.0 p.smartertravel.com
 0.0.0.0 ps.ns-cdn.com
+0.0.0.0 psp.brewology.com
 0.0.0.0 p.teads.tv
 0.0.0.0 pt.ispot.tv
 0.0.0.0 p.t-online.de
@@ -2357,6 +2365,7 @@
 0.0.0.0 sentry.io
 0.0.0.0 serve.adtrackers.net
 0.0.0.0 serve.bannertrack.net
+0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 server.adformdsp.net
 0.0.0.0 server.adform.net
