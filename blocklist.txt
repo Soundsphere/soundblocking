@@ -54,6 +54,7 @@
 0.0.0.0 a2170.casalemedia.com
 0.0.0.0 a2181.casalemedia.com
 0.0.0.0 a2190.casalemedia.com
+0.0.0.0 a2191.casalemedia.com
 0.0.0.0 a2200.casalemedia.com
 0.0.0.0 a2201.casalemedia.com
 0.0.0.0 a2220.casalemedia.com
@@ -78,6 +79,7 @@
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 aa.agkn.com
 0.0.0.0 a.ad.gt
+0.0.0.0 a.adsrvr.org
 0.0.0.0 a-ams.1rx.io
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
@@ -194,6 +196,7 @@
 0.0.0.0 adserver.71i.de
 0.0.0.0 adserver.adtech.advertising.com
 0.0.0.0 adserver.adtech.de
+0.0.0.0 adserver.adtechjp.com
 0.0.0.0 adserver.adtechus.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver-qcamt.adtech.de
@@ -239,6 +242,7 @@
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
 0.0.0.0 ads.yieldmo.com
+0.0.0.0 ads.youtube.com
 0.0.0.0 adtm.chip.de
 0.0.0.0 adtrack.adleadevent.com
 0.0.0.0 adtrackers.net
@@ -398,6 +402,7 @@
 0.0.0.0 api-cf.affirm.com
 0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.company-target.com
+0.0.0.0 api.cortana.ai
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.gameanalytics.com
@@ -948,6 +953,7 @@
 0.0.0.0 c.singular.net
 0.0.0.0 cs.media.net
 0.0.0.0 c.snnd.co
+0.0.0.0 cs.ns1p.net
 0.0.0.0 c.spiegel.de
 0.0.0.0 csr.onet.pl
 0.0.0.0 c.statcounter.com
@@ -1783,6 +1789,7 @@
 0.0.0.0 models.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 modes.taboola.com
+0.0.0.0 mondrian.twyn.com
 0.0.0.0 monu.delivery
 0.0.0.0 more.criteo.com
 0.0.0.0 mpp.vindicosuite.com
@@ -2454,6 +2461,7 @@
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 stag.mdotlabs.com
 0.0.0.0 stags.bluekai.com
+0.0.0.0 stan.xing.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
@@ -2849,6 +2857,7 @@
 0.0.0.0 ups.demdex.net
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 urbanmedia-d.openx.net
+0.0.0.0 urs.cnet.com
 0.0.0.0 us-ads.openx.net
 0.0.0.0 usage.trackjs.com
 0.0.0.0 usasync01.admantx.com
@@ -3180,6 +3189,7 @@
 0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xtr.carambo.la
 0.0.0.0 yagiay.com
+0.0.0.0 yandex.st
 0.0.0.0 yasni.bannertrack.net
 0.0.0.0 yastatic.net
 0.0.0.0 yast.rutube.ru
@@ -3198,6 +3208,7 @@
 0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 zm232.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 0.0.0.0 zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com
 0.0.0.0 zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
