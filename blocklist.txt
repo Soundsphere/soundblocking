@@ -392,6 +392,7 @@
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.adsnative.com
+0.0.0.0 api.airbrake.io
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
@@ -453,6 +454,7 @@
 0.0.0.0 apn-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 apnx-match.dotomi.com
 0.0.0.0 a.postrelease.com
+0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab25.marketo.com
@@ -491,6 +493,7 @@
 0.0.0.0 app-sji.marketo.com
 0.0.0.0 app-sjp.marketo.com
 0.0.0.0 app-sjqe.marketo.com
+0.0.0.0 app.unbounce.com
 0.0.0.0 app.yieldify.com
 0.0.0.0 a.pub.network
 0.0.0.0 apvdr.com
@@ -529,6 +532,7 @@
 0.0.0.0 a.twiago.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audible.tt.omtrdc.net
+0.0.0.0 aufeminin-e-d.openx.net
 0.0.0.0 aufeminin-g-d.openx.net
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 auth.be.sec.miui.com
@@ -703,6 +707,7 @@
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.buysellads.com
+0.0.0.0 cdn.callrail.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.connatix.com
@@ -969,6 +974,8 @@
 0.0.0.0 c.t-online.de
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ct.sddan.com
+0.0.0.0 cue.v.fwmrm.net
+0.0.0.0 customer.cludo.com
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c.wort-suche.com
@@ -1868,6 +1875,7 @@
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 oms.nuggad.net
 0.0.0.0 oneadvertising-d.openx.net
+0.0.0.0 one-and-one-d.openx.net
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 onesignal.com
@@ -1886,6 +1894,7 @@
 0.0.0.0 optimize.innity.com
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optout.aboutads.info
+0.0.0.0 optout.addthis.com
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 origin-tracking.trulia.com
@@ -2013,6 +2022,7 @@
 0.0.0.0 pm.w55c.net
 0.0.0.0 pnytimes.chartbeat.net
 0.0.0.0 polarcdn-pentos.com
+0.0.0.0 polarcdn-terrax.com
 0.0.0.0 polldaddy.com
 0.0.0.0 pool1.moatads.com
 0.0.0.0 pool2.moatads.com
@@ -2300,6 +2310,7 @@
 0.0.0.0 seal.verisign.com
 0.0.0.0 sears.demdex.net
 0.0.0.0 seccdn-gl.imrworldwide.com
+0.0.0.0 sec.levexis.com
 0.0.0.0 secserv.adtech.de
 0.0.0.0 sec.umeng.com
 0.0.0.0 secure.33across.com
@@ -2350,6 +2361,7 @@
 0.0.0.0 server.adformdsp.net
 0.0.0.0 server.adform.net
 0.0.0.0 server.cpmstar.com
+0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 serve.tercept.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.maxymiser.net
@@ -2628,6 +2640,7 @@
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 s.youtube.com
+0.0.0.0 system.casalemedia.com
 0.0.0.0 system.picreel.com
 0.0.0.0 t13.intelliad.de
 0.0.0.0 t1.extreme-dm.com
@@ -2890,6 +2903,7 @@
 0.0.0.0 us.smsapi.micloud.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 us-u.openx.net
+0.0.0.0 us.wa.ui-portal.com
 0.0.0.0 u.videoamp.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
@@ -2978,6 +2992,7 @@
 0.0.0.0 web-t.9gag.com
 0.0.0.0 webts.adac.de
 0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 wellsfargobankna.demdex.net
 0.0.0.0 weltonline01.webtrekk.net
 0.0.0.0 w.estat.com
 0.0.0.0 wetransfer-d.openx.net
@@ -3083,6 +3098,7 @@
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
 0.0.0.0 www.da-ads.com
+0.0.0.0 www.demdex.net
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.disclaimer.de
 0.0.0.0 www.doubleclickbygoogle.com
@@ -3129,6 +3145,7 @@
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.localytics.com
+0.0.0.0 www.lotame.com
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.mathtag.com
 0.0.0.0 www.med1.de
