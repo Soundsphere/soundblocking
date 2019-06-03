@@ -308,6 +308,7 @@
 0.0.0.0 amazon.co.jp
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
+0.0.0.0 amazonwebstore.122.2o7.net
 0.0.0.0 amcglobal.sc.omtrdc.net
 0.0.0.0 a.mobify.com
 0.0.0.0 amp.casalemedia.com
@@ -507,6 +508,7 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 as.gettyservices.com
+0.0.0.0 ash.creativecdn.com
 0.0.0.0 asimov-win.settings.data.microsoft.com.akadns.net
 0.0.0.0 as.innity.com
 0.0.0.0 ask-d.openx.net
@@ -1856,6 +1858,7 @@
 0.0.0.0 nfscars.net
 0.0.0.0 nht-3.extreme-dm.com
 0.0.0.0 nike.demdex.net
+0.0.0.0 n.mplxtms.com
 0.0.0.0 nofile.io
 0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 normour.com
@@ -2727,6 +2730,7 @@
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 time.izatcloud.net
 0.0.0.0 timetravel.mementoweb.org
+0.0.0.0 t.indeed.com
 0.0.0.0 tinyurl.com
 0.0.0.0 tisoomi-services.com
 0.0.0.0 ti.tradetracker.net
@@ -2752,6 +2756,7 @@
 0.0.0.0 t.nativendo.de
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 top100-images.rambler.ru
+0.0.0.0 top100.rambler.ru
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 topofblogs.com
 0.0.0.0 touch.myntra.com
