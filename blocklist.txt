@@ -457,6 +457,7 @@
 0.0.0.0 apn-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 apnx-match.dotomi.com
 0.0.0.0 a.postrelease.com
+0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab23.marketo.com
@@ -623,6 +624,7 @@
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 browser-update.org
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 b.smartnews.be
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 b.stats.paypal.com
@@ -1007,6 +1009,7 @@
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d24v0qfgxmmkdg.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
+0.0.0.0 d27jt7xr4fq3e8.cloudfront.net
 0.0.0.0 d29usylhdk1xyu.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
@@ -1153,8 +1156,10 @@
 0.0.0.0 dn3y71tq7jf07.cloudfront.net
 0.0.0.0 d.nativendo.de
 0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 dnssec-nd.gexperiments1.com
 0.0.0.0 dnsseed.bluematt.me
 0.0.0.0 docs.wixstatic.com
+0.0.0.0 dolohen.com
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 download.gamestar.de
@@ -1192,6 +1197,7 @@
 0.0.0.0 dx.steelhousemedia.com
 0.0.0.0 dy.adserve.io
 0.0.0.0 dyn.emetriq.de
+0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
 0.0.0.0 e1.extreme-dm.com
 0.0.0.0 e5019.e2.akamaiedge.net
@@ -1202,6 +1208,7 @@
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ebaydeb-d.openx.net
 0.0.0.0 ebayinc.demdex.net
+0.0.0.0 ebayus-d.openx.net
 0.0.0.0 ebdr3.com
 0.0.0.0 ebs.criteo.com
 0.0.0.0 eb.trbas.com
@@ -1216,6 +1223,7 @@
 0.0.0.0 e.dlx.addthis.com
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.hit.gemius.pl
+0.0.0.0 eepurl.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ekladata.com
 0.0.0.0 eldamar01-loadbalanced.kameleoon.com
@@ -1306,6 +1314,7 @@
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fc.yahoo.com
 0.0.0.0 fe3.delivery.dsp.mp.microsoft.com.nsatc.net
+0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedjit.com
 0.0.0.0 feed.mikle.com
 0.0.0.0 fei.pro-market.net
@@ -1588,6 +1597,7 @@
 0.0.0.0 irqs.ioam.de
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 i.skimresources.com
+0.0.0.0 iterable.com
 0.0.0.0 itx4-secure.smartadserver.com
 0.0.0.0 itx4.smartadserver.com
 0.0.0.0 itx5-secure.smartadserver.com
@@ -1644,6 +1654,7 @@
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 krk.kargo.com
 0.0.0.0 k.streamrail.com
+0.0.0.0 kurzelinks.de
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 l96jc26jvj.kameleoon.eu
 0.0.0.0 laas.americanexpress.com
@@ -1665,6 +1676,7 @@
 0.0.0.0 linicom.co.uk
 0.0.0.0 links.services.disqus.com
 0.0.0.0 live.chartboost.com
+0.0.0.0 liveramp.com
 0.0.0.0 live.rezync.com
 0.0.0.0 live.sekindo.com
 0.0.0.0 l.m.naver.com
@@ -1696,6 +1708,7 @@
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 logp2.xiti.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 log.prezi.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.rutube.ru
 0.0.0.0 logs-01.loggly.com
@@ -1720,6 +1733,7 @@
 0.0.0.0 l.ooyala.com
 0.0.0.0 lpm-lagardere.nuggad.net
 0.0.0.0 lptag.liveperson.net
+0.0.0.0 l.qq.com
 0.0.0.0 l.sharethis.com
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 lynxbroker.de
@@ -1732,6 +1746,7 @@
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads-eu.amazon.com
+0.0.0.0 magiskmanager.com
 0.0.0.0 magnetic.t.domdex.com
 0.0.0.0 mahimeta.com
 0.0.0.0 mailderef.web.de
@@ -1754,6 +1769,7 @@
 0.0.0.0 mastertag.effiliation.com
 0.0.0.0 mastertag.kpcustomer.de
 0.0.0.0 mastertag.q-sis.de
+0.0.0.0 mat1.gtimg.com
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.basebanner.com
@@ -1843,6 +1859,7 @@
 0.0.0.0 nan.netmng.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
+0.0.0.0 nativespot.com
 0.0.0.0 navdmp.com
 0.0.0.0 nba.demdex.net
 0.0.0.0 nbcu.demdex.net
@@ -1869,6 +1886,7 @@
 0.0.0.0 nqs.nice264.com
 0.0.0.0 nqs-nl12-c2.youboranqs01.com
 0.0.0.0 nr.taboola.com
+0.0.0.0 ns.zdbb.net
 0.0.0.0 ntvcld-a.akamaihd.net
 0.0.0.0 nxtck.com
 0.0.0.0 nzz.d3.sc.omtrdc.net
@@ -2798,6 +2816,7 @@
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.adalliance.io
+0.0.0.0 tracking.bdi-services.de
 0.0.0.0 tracking.content-recommendation.net
 0.0.0.0 tracking.cp.ligatus.com
 0.0.0.0 tracking.g2crowd.com
@@ -2821,6 +2840,7 @@
 0.0.0.0 trackla.stackla.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.omguk.com
+0.0.0.0 track.pricespider.com
 0.0.0.0 track.securedvisit.com
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.thesaurus.com
@@ -2855,6 +2875,7 @@
 0.0.0.0 trs.webprospector.de
 0.0.0.0 tru.am
 0.0.0.0 try.abtasty.com
+0.0.0.0 t.sf14g.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.skimresources.com
@@ -2896,6 +2917,7 @@
 0.0.0.0 uop.umeng.com
 0.0.0.0 up.cm.ksmobile.com
 0.0.0.0 ups.demdex.net
+0.0.0.0 ups.inq.com
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 urbanmedia-d.openx.net
 0.0.0.0 urs.cnet.com
@@ -3067,6 +3089,7 @@
 0.0.0.0 www8.smartadserver.com
 0.0.0.0 www9.smartadserver.com
 0.0.0.0 www.accountkit.com
+0.0.0.0 www.acxiom.com
 0.0.0.0 www.ad4mat.de
 0.0.0.0 www.adcell.de
 0.0.0.0 www.addthis.com
@@ -3097,6 +3120,7 @@
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.blogcounter.de
 0.0.0.0 www.bloglines.com
+0.0.0.0 www.browser-statistik.de
 0.0.0.0 www.bs.serving-sys.com
 0.0.0.0 www.buysellads.com
 0.0.0.0 www.camscanner.com
@@ -3140,6 +3164,7 @@
 0.0.0.0 www.grab.com
 0.0.0.0 www.groupm.com
 0.0.0.0 www.hashing.win
+0.0.0.0 www.hidemyass.com
 0.0.0.0 www.histats.com
 0.0.0.0 www.hitwebcounter.com
 0.0.0.0 www.hlserve.com
@@ -3199,6 +3224,7 @@
 0.0.0.0 www.steepto.com
 0.0.0.0 www.storygize.net
 0.0.0.0 www.stumbleupon.com
+0.0.0.0 www.sugarsync.com
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tag4arm.com
@@ -3215,6 +3241,7 @@
 0.0.0.0 www.vungle.com
 0.0.0.0 www.website-hit-counters.com
 0.0.0.0 www.widespace.com
+0.0.0.0 www.xiti.com
 0.0.0.0 www.yourtango.com
 0.0.0.0 www.za-ads.de
 0.0.0.0 www.zanox-affiliate.de
