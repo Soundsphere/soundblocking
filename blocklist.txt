@@ -232,6 +232,7 @@
 0.0.0.0 ads.scorecardresearch.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.s-i-r.de
+0.0.0.0 ads.smartshoppingads.de
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adstax-match.adrtx.net
@@ -1350,6 +1351,7 @@
 0.0.0.0 fresh8.co
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
+0.0.0.0 froo.com
 0.0.0.0 fs.microsoft.com
 0.0.0.0 fstrk.net
 0.0.0.0 ftb.cursecdn.com
@@ -2855,6 +2857,7 @@
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 transfer.sh
 0.0.0.0 tr.blismedia.com
+0.0.0.0 trbna.com
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 trc.taboola.com
@@ -3056,6 +3059,7 @@
 0.0.0.0 wla.vivaldi.com
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
+0.0.0.0 wm.wiredminds.de
 0.0.0.0 wolve.pro
 0.0.0.0 w.online-verlag-freiburg.de
 0.0.0.0 ws1.hotjar.com
