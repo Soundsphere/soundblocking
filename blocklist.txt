@@ -69,6 +69,7 @@
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3290.casalemedia.com
 0.0.0.0 a3291.casalemedia.com
+0.0.0.0 a3310.casalemedia.com
 0.0.0.0 a3330.casalemedia.com
 0.0.0.0 a3340.casalemedia.com
 0.0.0.0 a3341.casalemedia.com
@@ -461,6 +462,7 @@
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab14.marketo.com
+0.0.0.0 app-ab16.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab25.marketo.com
 0.0.0.0 app-ab27.marketo.com
@@ -684,6 +686,7 @@
 0.0.0.0 cdn25.vizury.com
 0.0.0.0 cdn.2app.lk
 0.0.0.0 cdn2.hubspot.net
+0.0.0.0 cdn2.inner-active.mobi
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
@@ -1873,6 +1876,7 @@
 0.0.0.0 nervoussummer.com
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 netzwelt-gmbh-d.openx.net
+0.0.0.0 newopenx.simplethings.de
 0.0.0.0 newrelic.com
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 nexus.ensighten.com
@@ -3029,6 +3033,7 @@
 0.0.0.0 wd.adcolony.com
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 web.archive.org
+0.0.0.0 webed.dm.gg
 0.0.0.0 web.industrybrains.com
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
@@ -3184,6 +3189,7 @@
 0.0.0.0 www.ironsrc.com
 0.0.0.0 www.istripper.com
 0.0.0.0 www.ist-track.com
+0.0.0.0 www.kliktrek.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.leadbolt.com
