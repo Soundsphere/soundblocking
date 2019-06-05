@@ -379,6 +379,7 @@
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics-udg.netdna-ssl.com
+0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 android.bugly.qq.com
@@ -604,6 +605,7 @@
 0.0.0.0 b-graph.facebook.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bia.brightinfo.com
+0.0.0.0 bidagent.xad.com
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bid.g.doubleclick.net
@@ -1113,6 +1115,7 @@
 0.0.0.0 deref-gmx.net
 0.0.0.0 de.sitestat.com
 0.0.0.0 des.smartclip.net
+0.0.0.0 desv383oqqc0.cloudfront.net
 0.0.0.0 detect.rayjump.com
 0.0.0.0 de.tynt.com
 0.0.0.0 deutschepostag1.d3.sc.omtrdc.net
@@ -1326,6 +1329,7 @@
 0.0.0.0 femaledom.com
 0.0.0.0 fe.sitedataprocessing.com
 0.0.0.0 file.market.xiaomi.com
+0.0.0.0 filetrip.net
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 flaconi02.webtrekk.net
@@ -1560,6 +1564,7 @@
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
+0.0.0.0 impressiondesk.com
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 impr.taboola.com
 0.0.0.0 imstore.bet365affiliates.com
@@ -1578,6 +1583,7 @@
 0.0.0.0 in.ml314.com
 0.0.0.0 inputs.alooma.com
 0.0.0.0 insight.adsrvr.org
+0.0.0.0 insight.fonecta.fi
 0.0.0.0 insights.blogfoster.com
 0.0.0.0 insights.hotjar.com
 0.0.0.0 insights.plista.com
@@ -1615,6 +1621,7 @@
 0.0.0.0 j93557g.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 jadserve.postrelease.com
+0.0.0.0 jita.rtk.io
 0.0.0.0 jmp.sh
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 jp-u.openx.net
@@ -1828,6 +1835,7 @@
 0.0.0.0 m.exactag.com
 0.0.0.0 mgepodownload.mediatek.com
 0.0.0.0 mg.mgid.com
+0.0.0.0 micro.marketo.com
 0.0.0.0 microsoftwindows.112.2o7.net
 0.0.0.0 ml314.com
 0.0.0.0 mmtro.com
@@ -1860,6 +1868,7 @@
 0.0.0.0 myfamilycominc.tt.omtrdc.net
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.mobfox.com
+0.0.0.0 myntelligence.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 naakte-beroemdheden.startkabel.nl
@@ -1932,6 +1941,7 @@
 0.0.0.0 optimize-stats.voxmedia.com
 0.0.0.0 optout.aboutads.info
 0.0.0.0 optout.addthis.com
+0.0.0.0 optout.taboola.com
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 origin-tracking.trulia.com
@@ -2827,10 +2837,12 @@
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.adalliance.io
 0.0.0.0 tracking.bdi-services.de
+0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.content-recommendation.net
 0.0.0.0 tracking.cp.ligatus.com
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.gj-mobile-services.de
+0.0.0.0 tracking.groupon.com
 0.0.0.0 tracking.hotel.check24.de
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.intl.miui.com
@@ -2886,6 +2898,7 @@
 0.0.0.0 trs.webprospector.de
 0.0.0.0 tru.am
 0.0.0.0 try.abtasty.com
+0.0.0.0 ts.crwdcntrl.net
 0.0.0.0 t.sf14g.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 t.sharethis.com
@@ -2949,6 +2962,7 @@
 0.0.0.0 us.pixel.newscgp.com
 0.0.0.0 us.smsapi.micloud.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
+0.0.0.0 usucmweb.dotomi.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.wa.ui-portal.com
 0.0.0.0 u.videoamp.com
@@ -3006,6 +3020,7 @@
 0.0.0.0 view.atdmt.com
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
+0.0.0.0 visualdna.com
 0.0.0.0 vjs.zencdn.net
 0.0.0.0 vk.com
 0.0.0.0 v.lkqd.net
@@ -3110,6 +3125,7 @@
 0.0.0.0 www.adition.com
 0.0.0.0 www.adobetag.com
 0.0.0.0 www.adtilt.com
+0.0.0.0 www.affili.net
 0.0.0.0 www.alexa.com
 0.0.0.0 www.alrincon.com
 0.0.0.0 www.amobee.com
@@ -3202,6 +3218,7 @@
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.mathtag.com
 0.0.0.0 www.med1.de
+0.0.0.0 www.mediamath.com
 0.0.0.0 www.mobfox.com
 0.0.0.0 www.mopub.com
 0.0.0.0 www.movable-ink-2183.com
@@ -3284,6 +3301,7 @@
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 ynuf.alipay.com
+0.0.0.0 yoc.optout.skimresources.com
 0.0.0.0 youtu.be
 0.0.0.0 z11.cnzz.com
 0.0.0.0 z15ba20a04.webengage.co
