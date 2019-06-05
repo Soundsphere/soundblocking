@@ -567,6 +567,7 @@
 0.0.0.0 banner.boostbox.com.br
 0.0.0.0 banner.congstar.de
 0.0.0.0 banners.adfox.ru
+0.0.0.0 banners.affilimatch.de
 0.0.0.0 banners.contentfeed.net
 0.0.0.0 banners.webmasterplan.com
 0.0.0.0 bannertrack.net
@@ -602,6 +603,7 @@
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 bei.nuggad.net
 0.0.0.0 betathome.glb.adtech.de
+0.0.0.0 b-eu.simility.com
 0.0.0.0 b-graph.facebook.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bia.brightinfo.com
@@ -737,6 +739,7 @@
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exelator.com
+0.0.0.0 cdn.fancybar.net
 0.0.0.0 cdn.feeds.videosz.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com
@@ -1014,6 +1017,7 @@
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zgderxoe1a.cloudfront.net
 0.0.0.0 d20duyjzb7cuoc.cloudfront.net
+0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d24v0qfgxmmkdg.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
@@ -1033,6 +1037,7 @@
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
@@ -1140,6 +1145,7 @@
 0.0.0.0 dis.criteo.com
 0.0.0.0 dis.eu.criteo.com
 0.0.0.0 dispatcher.oewabox.at
+0.0.0.0 displayad.layer-ad.org
 0.0.0.0 display.apester.com
 0.0.0.0 displayf.tubemogul.com
 0.0.0.0 disqusads.com
@@ -1638,6 +1644,7 @@
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js.gumgum.com
+0.0.0.0 js.himediads.com
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hscta.net
@@ -1862,6 +1869,7 @@
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mrb.upapi.net
+0.0.0.0 ms.cmcm.com
 0.0.0.0 mscom.demdex.net
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 msntrademarketing.112.2o7.net
@@ -2333,6 +2341,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 s.btstatic.com
 0.0.0.0 sb.voicefive.com
+0.0.0.0 sc01.alicdn.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scdn.cxense.com
 0.0.0.0 sc.iasds01.com
@@ -2595,6 +2604,7 @@
 0.0.0.0 statics.streamable.com
 0.0.0.0 static.tradetracker.net
 0.0.0.0 static.vertamedia.com
+0.0.0.0 static.vinsight.de
 0.0.0.0 static.virgul.com
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 static.woopra.com
@@ -2759,6 +2769,7 @@
 0.0.0.0 td.crwdcntrl.net
 0.0.0.0 tdn.r42tag.com
 0.0.0.0 technical-service.net
+0.0.0.0 technorati.com
 0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telegraphmedia.bootstrap.fyre.co
@@ -2823,6 +2834,7 @@
 0.0.0.0 track2.trbo.com
 0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
+0.0.0.0 track.adtraction.com
 0.0.0.0 track.adtrue.com
 0.0.0.0 track.attributionapp.com
 0.0.0.0 trackbar.navigator.web.de
@@ -3187,6 +3199,7 @@
 0.0.0.0 www.dwin2.com
 0.0.0.0 www.econda-monitor.de
 0.0.0.0 www.emjcd.com
+0.0.0.0 www.etoro.com
 0.0.0.0 www.etracker.com
 0.0.0.0 www.etracker.de
 0.0.0.0 www.everestjs.net
