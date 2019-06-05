@@ -1765,6 +1765,7 @@
 0.0.0.0 lynxbroker.de
 0.0.0.0 lyr122000c.pubmatic.com
 0.0.0.0 m1.nsimg.net
+0.0.0.0 m2d.m2.ai
 0.0.0.0 mab.chartbeat.com
 0.0.0.0 mabping.chartbeat.net
 0.0.0.0 m.addthis.com
@@ -2644,6 +2645,7 @@
 0.0.0.0 stats.zotabox.com
 0.0.0.0 st.districtm.ca
 0.0.0.0 st.dynamicyield.com
+0.0.0.0 steadfastsystem.com
 0.0.0.0 stepan-fe.go.mail.ru
 0.0.0.0 stepstone.d1.sc.omtrdc.net
 0.0.0.0 stetic.com
@@ -2970,6 +2972,7 @@
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 urbanmedia-d.openx.net
 0.0.0.0 urs.cnet.com
+0.0.0.0 urtracker.q-sis.de
 0.0.0.0 us-ads.openx.net
 0.0.0.0 usage.trackjs.com
 0.0.0.0 usasync01.admantx.com
