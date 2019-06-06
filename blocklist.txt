@@ -494,6 +494,7 @@
 0.0.0.0 app.miui.com
 0.0.0.0 appnexus.com
 0.0.0.0 app.pendo.io
+0.0.0.0 app.salecycle.com
 0.0.0.0 app-sj02.marketo.com
 0.0.0.0 app-sj03.marketo.com
 0.0.0.0 app-sj05.marketo.com
@@ -507,6 +508,7 @@
 0.0.0.0 apps.pubmatic.com
 0.0.0.0 app.unbounce.com
 0.0.0.0 app.yieldify.com
+0.0.0.0 aps.hearstnp.com
 0.0.0.0 a.pub.network
 0.0.0.0 apvdr.com
 0.0.0.0 apx.moatads.com
@@ -631,11 +633,13 @@
 0.0.0.0 bnc.lt
 0.0.0.0 boards.greenhouse.io
 0.0.0.0 bonfire.spklw.com
+0.0.0.0 bongacams.com
 0.0.0.0 bootstrap.livefyre.com
 0.0.0.0 boss.berlinonline.de
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 browser-update.org
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 b.sli-spark.com
 0.0.0.0 b.smartnews.be
 0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bs.serving-sys.com
@@ -1229,6 +1233,7 @@
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
 0.0.0.0 e1.extreme-dm.com
+0.0.0.0 e2ertt.com
 0.0.0.0 e5019.e2.akamaiedge.net
 0.0.0.0 e5413.g.akamaiedge.net
 0.0.0.0 e5460.g.akamaiedge.net
@@ -1260,6 +1265,7 @@
 0.0.0.0 eldamar02-loadbalanced.kameleoon.com
 0.0.0.0 eldamar03-loadbalanced.kameleoon.com
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
+0.0.0.0 e.mail.ru
 0.0.0.0 embed.tawk.to
 0.0.0.0 e.nexac.com
 0.0.0.0 engage.commander1.com
@@ -1307,6 +1313,7 @@
 0.0.0.0 events.browsiprod.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.kaloo.ga
+0.0.0.0 events.kiosked.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.ocdn.eu
@@ -1357,6 +1364,7 @@
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 filetrip.net
 0.0.0.0 find.api.micloud.xiaomi.net
+0.0.0.0 fingahvf.top
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 flaconi02.webtrekk.net
 0.0.0.0 flapi1.rubiconproject.com
@@ -1892,6 +1900,7 @@
 0.0.0.0 monu.delivery
 0.0.0.0 more.criteo.com
 0.0.0.0 mpc.nicequest.com
+0.0.0.0 mpn-analytics.mokonocdn.com
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mpx.mopub.com
@@ -2861,6 +2870,7 @@
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top-fwz1.mail.ru
+0.0.0.0 toplist.cz
 0.0.0.0 topofblogs.com
 0.0.0.0 touch.myntra.com
 0.0.0.0 t.paypal.com
@@ -3115,6 +3125,7 @@
 0.0.0.0 waust.at
 0.0.0.0 waves.retentionscience.com
 0.0.0.0 w.cnzz.com
+0.0.0.0 wcs.naver.com
 0.0.0.0 wct.link
 0.0.0.0 wd.adcolony.com
 0.0.0.0 web-analytics.engagio.com
@@ -3384,6 +3395,7 @@
 0.0.0.0 youtu.be
 0.0.0.0 z11.cnzz.com
 0.0.0.0 z15ba20a04.webengage.co
+0.0.0.0 z7.cnzz.com
 0.0.0.0 z9q9kj37oy.kameleoon.eu
 0.0.0.0 z.cnzz.com
 0.0.0.0 zeit01.webtrekk.net
