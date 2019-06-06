@@ -763,6 +763,7 @@
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn.livefyre.com
+0.0.0.0 cdn.loginradius.com
 0.0.0.0 cdn.mediavoice.com
 0.0.0.0 cdn.mgid.com
 0.0.0.0 cdn.moengage.com
@@ -883,6 +884,7 @@
 0.0.0.0 cmi.netseer.com
 0.0.0.0 cm.mgid.com
 0.0.0.0 cmp.advertising.com
+0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 cm.send.microad.jp
 0.0.0.0 c.msn.com
@@ -1404,6 +1406,7 @@
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gdc.indeed.com
+0.0.0.0 generaltracking.de
 0.0.0.0 geo2.adobe.com
 0.0.0.0 geoced.smartadserver.com
 0.0.0.0 geoip.boredpanda.com
@@ -2654,6 +2657,7 @@
 0.0.0.0 stats.berkman.harvard.edu
 0.0.0.0 stats.buysellads.com
 0.0.0.0 stats.computecmedia.de
+0.0.0.0 statse.webtrendslive.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
