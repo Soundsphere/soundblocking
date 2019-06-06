@@ -959,6 +959,7 @@
 0.0.0.0 cookie-script.com
 0.0.0.0 cookiesync.vertamedia.com
 0.0.0.0 cookiex.ngd.yahoo.com
+0.0.0.0 core.adunity.com
 0.0.0.0 counter.cyberschnuffi.de
 0.0.0.0 counter.pax.com
 0.0.0.0 counter.rambler.ru
@@ -1011,6 +1012,7 @@
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d12ulf131zb0yj.cloudfront.net
 0.0.0.0 d1447tq2m68ekg.cloudfront.net
+0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
@@ -1031,6 +1033,7 @@
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 d27jt7xr4fq3e8.cloudfront.net
 0.0.0.0 d29usylhdk1xyu.cloudfront.net
+0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
@@ -1267,6 +1270,7 @@
 0.0.0.0 ens.nzz.ch
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ep3.performfeeds.com
+0.0.0.0 epiv.cardlytics.com
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 epnt.ebay.com
 0.0.0.0 eqx-secure.smartadserver.com
@@ -1377,6 +1381,7 @@
 0.0.0.0 freegeoip.app
 0.0.0.0 freegeoip.io
 0.0.0.0 freegeoip.net
+0.0.0.0 freehost.pl
 0.0.0.0 freestar-d.openx.net
 0.0.0.0 fresh8.co
 0.0.0.0 frog.wix.com
@@ -2402,6 +2407,7 @@
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 s.dynad.net
 0.0.0.0 seal.verisign.com
+0.0.0.0 search-internet.net
 0.0.0.0 sears.demdex.net
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 sec.levexis.com
@@ -3318,6 +3324,7 @@
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.search.com
 0.0.0.0 www.semrush.com
+0.0.0.0 www.sichtbarkeitsindex.de
 0.0.0.0 www.smaato.com
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.smartredirect.de
