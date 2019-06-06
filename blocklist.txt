@@ -2579,6 +2579,7 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 ssl.geoplugin.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.luckyorange.com
