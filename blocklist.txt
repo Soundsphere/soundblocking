@@ -56,6 +56,7 @@
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2150.casalemedia.com
 0.0.0.0 a2170.casalemedia.com
+0.0.0.0 a2171.casalemedia.com
 0.0.0.0 a2181.casalemedia.com
 0.0.0.0 a2190.casalemedia.com
 0.0.0.0 a2191.casalemedia.com
@@ -94,6 +95,7 @@
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 abandonment.saas.seewhy.com
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 a.bf-ad.net
@@ -194,6 +196,7 @@
 0.0.0.0 adscpm.site
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 ads.deliverimp.com
+0.0.0.0 ads.dotomi.com
 0.0.0.0 adsearch.adkontekst.pl
 0.0.0.0 ads.ebay.com
 0.0.0.0 adselect.nuggad.net
@@ -264,6 +267,7 @@
 0.0.0.0 advertising.bbcworldwide.com
 0.0.0.0 advice-ads-cdn.vice.com
 0.0.0.0 advideo.uimserv.net
+0.0.0.0 adv.imadrep.co.kr
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adwords.google.com
 0.0.0.0 ad.wsod.com
@@ -369,6 +373,7 @@
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mobile.walmart.com
+0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.pinpoll.com
 0.0.0.0 analytics.pokki.com
@@ -506,6 +511,7 @@
 0.0.0.0 app-sjp.marketo.com
 0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 apps.pubmatic.com
+0.0.0.0 apps.shareaholic.com
 0.0.0.0 app.unbounce.com
 0.0.0.0 app.yieldify.com
 0.0.0.0 aps.hearstnp.com
@@ -526,6 +532,7 @@
 0.0.0.0 asoscomltd.tt.omtrdc.net
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 asset.pagefair.com
+0.0.0.0 asset.pagefair.net
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adstage.io
 0.0.0.0 assets.customer.io
@@ -607,6 +614,7 @@
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 bei.nuggad.net
+0.0.0.0 beliebtestewebseite.de
 0.0.0.0 betathome.glb.adtech.de
 0.0.0.0 b-eu.simility.com
 0.0.0.0 b-graph.facebook.com
@@ -849,6 +857,7 @@
 0.0.0.0 ci37.actonsoftware.com
 0.0.0.0 ci95.actonsoftware.com
 0.0.0.0 c.imedia.cz
+0.0.0.0 ci.nuggad.net
 0.0.0.0 cj.com
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.madeleine.de
@@ -923,6 +932,7 @@
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 comcluster.cxense.com
+0.0.0.0 compass.adop.cc
 0.0.0.0 completion.amazon.com
 0.0.0.0 completion.amazon.co.uk
 0.0.0.0 condenast.demdex.net
@@ -1797,6 +1807,7 @@
 0.0.0.0 l.qq.com
 0.0.0.0 l.sharethis.com
 0.0.0.0 ls.hit.gemius.pl
+0.0.0.0 lv.adocean.pl
 0.0.0.0 lynxbroker.de
 0.0.0.0 lyr122000c.pubmatic.com
 0.0.0.0 m1.nsimg.net
@@ -1832,6 +1843,7 @@
 0.0.0.0 mastertag.kpcustomer.de
 0.0.0.0 mastertag.q-sis.de
 0.0.0.0 mat1.gtimg.com
+0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.basebanner.com
@@ -1894,6 +1906,7 @@
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 mobile-service.segment.com
+0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 models.com
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
@@ -2244,6 +2257,7 @@
 0.0.0.0 r.ad6media.fr
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radar.imgsmail.ru
+0.0.0.0 r.adc-serv.net
 0.0.0.0 r.adserver01.de
 0.0.0.0 ramp.purch.com
 0.0.0.0 rb.adnxs.com
@@ -2412,7 +2426,9 @@
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
+0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdk.streamrail.com
+0.0.0.0 sdktm.w.inmobi.com
 0.0.0.0 sdo.oewabox.at
 0.0.0.0 s.dpmsrv.com
 0.0.0.0 sdrive.skoda-auto.com
@@ -3141,6 +3157,7 @@
 0.0.0.0 web.industrybrains.com
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
+0.0.0.0 websearch.net
 0.0.0.0 web-t.9gag.com
 0.0.0.0 webts.adac.de
 0.0.0.0 webview.unityads.unity3d.com
@@ -3292,6 +3309,7 @@
 0.0.0.0 www.hitwebcounter.com
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hotjar.com
+0.0.0.0 www.huanqiu.com
 0.0.0.0 www.hugedomains.com
 0.0.0.0 www.icegay.tv
 0.0.0.0 www.inmobi.com
