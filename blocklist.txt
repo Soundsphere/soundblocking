@@ -486,6 +486,7 @@
 0.0.0.0 app.crazyegg.com
 0.0.0.0 app.crossengage.io
 0.0.0.0 app-e.marketo.com
+0.0.0.0 app.getresponse.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 app.launchdarkly.com
@@ -1428,6 +1429,7 @@
 0.0.0.0 g3.s.fwmrm.net
 0.0.0.0 g7.m.fwmrm.net
 0.0.0.0 gabe.hit.gemius.pl
+0.0.0.0 gaby.hit.gemius.pl
 0.0.0.0 ga.clearbit.com
 0.0.0.0 g.adspeed.net
 0.0.0.0 gads.pubmatic.com
