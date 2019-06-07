@@ -138,6 +138,7 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.atdmt.com
+0.0.0.0 adbetnet.advertserve.com
 0.0.0.0 adbutler-fermion.com
 0.0.0.0 adclear.baur.de
 0.0.0.0 adclick.g.doubleclick.net
@@ -668,6 +669,7 @@
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.rfihub.net
+0.0.0.0 c212.net
 0.0.0.0 c2.taboola.com
 0.0.0.0 c3.adalyser.com
 0.0.0.0 ca1.qualtrics.com
@@ -1017,6 +1019,7 @@
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ct.sddan.com
 0.0.0.0 cue.v.fwmrm.net
+0.0.0.0 cunda.d3.sc.omtrdc.net
 0.0.0.0 customer.cludo.com
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
@@ -1093,6 +1096,7 @@
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
 0.0.0.0 data24.adlooxtracking.com
+0.0.0.0 data25.adlooxtracking.com
 0.0.0.0 data26.adlooxtracking.com
 0.0.0.0 data27.adlooxtracking.com
 0.0.0.0 data28.adlooxtracking.com
@@ -1698,6 +1702,7 @@
 0.0.0.0 js.maxmind.com
 0.0.0.0 js.moatads.com
 0.0.0.0 js.mobileoffers-bn-download.com
+0.0.0.0 js.nrcdn.com
 0.0.0.0 json.bild.de
 0.0.0.0 jsonip.com
 0.0.0.0 js.pusher.com
@@ -2215,6 +2220,7 @@
 0.0.0.0 push-notifications.top
 0.0.0.0 p.vtracy.de
 0.0.0.0 pv.tubemogul.com
+0.0.0.0 px1.vtrtl.de
 0.0.0.0 px2.moatads.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
@@ -2915,6 +2921,7 @@
 0.0.0.0 track.cordial.io
 0.0.0.0 track.customer.io
 0.0.0.0 track.custora.com
+0.0.0.0 track.dictionary.com
 0.0.0.0 track.effiliation.com
 0.0.0.0 tracker.adotmob.com
 0.0.0.0 tracker.affirm.com
@@ -2965,6 +2972,7 @@
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.thesaurus.com
+0.0.0.0 track.tiara.daum.net
 0.0.0.0 track.webgains.com
 0.0.0.0 tradeassurance.alibaba.com
 0.0.0.0 traffective-d.openx.net
@@ -3067,6 +3075,7 @@
 0.0.0.0 usucmweb.dotomi.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.wa.ui-portal.com
+0.0.0.0 utarget.pro
 0.0.0.0 u.videoamp.com
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v10.vortex-win.data.microsoft.com
@@ -3352,6 +3361,7 @@
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
+0.0.0.0 www.ranking-charts.de
 0.0.0.0 www.ranking-hits.de
 0.0.0.0 www.refersion.com
 0.0.0.0 www.res-x.com
