@@ -509,6 +509,7 @@
 0.0.0.0 app-sj16.marketo.com
 0.0.0.0 app-sj19.marketo.com
 0.0.0.0 app-sji.marketo.com
+0.0.0.0 app-sjo.marketo.com
 0.0.0.0 app-sjp.marketo.com
 0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 apps.pubmatic.com
@@ -965,6 +966,7 @@
 0.0.0.0 content.tapjoy.com
 0.0.0.0 contextual.media.net
 0.0.0.0 continuum.dds.microsoft.com
+0.0.0.0 control.adap.tv
 0.0.0.0 control.kochava.com
 0.0.0.0 convammp.taboola.com
 0.0.0.0 conversionfly.com
@@ -1144,6 +1146,7 @@
 0.0.0.0 deezer.com
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
+0.0.0.0 del.icio.us
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 delivery-europe-west-1.openx.net
