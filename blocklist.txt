@@ -773,6 +773,7 @@
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.intergi.com
+0.0.0.0 cdn.izooto.com
 0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cdn.krxd.com
 0.0.0.0 cdn.krxd.net
@@ -2165,6 +2166,7 @@
 0.0.0.0 powr-counter.herokuapp.com
 0.0.0.0 ppchero.com
 0.0.0.0 pp.lp4.io
+0.0.0.0 p.po.st
 0.0.0.0 pp.userapi.com
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 prd-collector-anon.playbuzz.com
@@ -3002,6 +3004,7 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.prod.vidible.tv
 0.0.0.0 trk.vidible.tv
+0.0.0.0 trl.upperbooking.com
 0.0.0.0 trmads.eu
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.snapchat.com
