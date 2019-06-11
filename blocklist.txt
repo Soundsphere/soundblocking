@@ -32,6 +32,7 @@
 0.0.0.0 5060110.fls.doubleclick.net
 0.0.0.0 5290727.fls.doubleclick.net
 0.0.0.0 538-dcx-400.mktoresp.com
+0.0.0.0 561-hyg-937.mktoresp.com
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5d0b6.v.fwmrm.net
 0.0.0.0 5-edge-chat.facebook.com
@@ -400,6 +401,7 @@
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 aol-match.dotomi.com
 0.0.0.0 aol-winners-eu-west-1-rtb.adroll.com
+0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optinmonster.com
 0.0.0.0 a.optnmnstr.com
 0.0.0.0 a.optnmstr.com
@@ -2153,11 +2155,13 @@
 0.0.0.0 player.performgroup.com
 0.0.0.0 player.spoods.io
 0.0.0.0 playtime.tubemogul.com
+0.0.0.0 plbslog.umeng.com
 0.0.0.0 pls.webtype.com
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 pluralsight.hb.omtrdc.net
 0.0.0.0 pluralsight.tt.omtrdc.net
 0.0.0.0 pmc-d.openx.net
+0.0.0.0 pmetrics.getclicky.com
 0.0.0.0 pmetrics.performancing.com
 0.0.0.0 pm.w55c.net
 0.0.0.0 pnytimes.chartbeat.net
@@ -2740,6 +2744,7 @@
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 statuscake.com
+0.0.0.0 stc.za.zaloapp.com
 0.0.0.0 st.districtm.ca
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 steadfastsystem.com
@@ -3247,6 +3252,7 @@
 0.0.0.0 ww1003.smartadserver.com
 0.0.0.0 ww1097.smartadserver.com
 0.0.0.0 ww1.smartadserver.com
+0.0.0.0 ww2060.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww50.smartadserver.com
 0.0.0.0 www14.smartadserver.com
