@@ -1909,6 +1909,7 @@
 0.0.0.0 mediator.mail.ru
 0.0.0.0 media.trafficjunky.net
 0.0.0.0 mediav3.inq.com
+0.0.0.0 mediavine-d.openx.net
 0.0.0.0 megdexchange.com
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 me-ssl.effectivemeasure.net
@@ -2293,6 +2294,7 @@
 0.0.0.0 radar.cedexis.com
 0.0.0.0 radar.imgsmail.ru
 0.0.0.0 r.adc-serv.net
+0.0.0.0 r.adrolays.de
 0.0.0.0 r.adserver01.de
 0.0.0.0 ramp.purch.com
 0.0.0.0 rb.adnxs.com
@@ -2316,6 +2318,7 @@
 0.0.0.0 register.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 rem-track.bild.de
+0.0.0.0 report-ads-to.pubnation.com
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 reporting.aatkit.com
@@ -2426,6 +2429,7 @@
 0.0.0.0 sam.msn.com
 0.0.0.0 samsung-germany.demdex.net
 0.0.0.0 sam.zoy.org
+0.0.0.0 sap.d1.sc.omtrdc.net
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sat.sanoma.fi
 0.0.0.0 sb.l.google.com
@@ -2641,6 +2645,7 @@
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 ssl-munchkin.marketo.net
 0.0.0.0 ssl.siteimprove.com
+0.0.0.0 ssl-static.vinsight.de
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssl.widgets.webengage.com
