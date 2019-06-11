@@ -231,6 +231,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.oomz.de
+0.0.0.0 ads.perfectaudience.com
 0.0.0.0 ads.pictela.net
 0.0.0.0 ads.programattik.com
 0.0.0.0 ads.pro-market.net
@@ -449,6 +450,7 @@
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
 0.0.0.0 api-public.addthis.com
+0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rollbar.com
 0.0.0.0 api-s2s.taboola.com
 0.0.0.0 api.sec.intl.miui.com
@@ -1952,6 +1954,7 @@
 0.0.0.0 mrb.upapi.net
 0.0.0.0 ms.cmcm.com
 0.0.0.0 mscom.demdex.net
+0.0.0.0 mse2v5oglm.com
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 msntrademarketing.112.2o7.net
 0.0.0.0 mssl.fwmrm.net
@@ -2675,6 +2678,8 @@
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.flashtalking.com
 0.0.0.0 static1.squarespace.com
+0.0.0.0 static2.smi2.net
+0.0.0.0 static4.smi2.net
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adfarm1.adition.com
 0.0.0.0 static.adman.gr
@@ -2871,6 +2876,7 @@
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 targeting.washpost.nile.works
+0.0.0.0 target.smi2.net
 0.0.0.0 target.smi2.ru
 0.0.0.0 tc.airfrance.com
 0.0.0.0 tcheck.outbrainimg.com
