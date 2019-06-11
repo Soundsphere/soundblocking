@@ -598,6 +598,7 @@
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bdg-analytics.appspot.com
+0.0.0.0 be6b.v.fwmrm.net
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon-eu2.rubiconproject.com
@@ -648,6 +649,7 @@
 0.0.0.0 bootstrap.livefyre.com
 0.0.0.0 boss.berlinonline.de
 0.0.0.0 browser.pipe.aria.microsoft.com
+0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browser-update.org
 0.0.0.0 b.scorecardresearch.com
 0.0.0.0 b.sli-spark.com
@@ -702,6 +704,7 @@
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 c.cnzz.com
 0.0.0.0 cc.swiftype.com
+0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.zeit.de
 0.0.0.0 cdata.carambo.la
 0.0.0.0 cdn11.contentabc.com
@@ -731,6 +734,7 @@
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn-akamai.mookie1.com
+0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.at.atwola.com
@@ -2231,6 +2235,7 @@
 0.0.0.0 px2.moatads.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
+0.0.0.0 pxc-coding.com
 0.0.0.0 pxc.otto.de
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px-eu.adhigh.net
@@ -2250,6 +2255,7 @@
 0.0.0.0 p.yotpo.com
 0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
+0.0.0.0 qip.ru
 0.0.0.0 q.quora.com
 0.0.0.0 qs.ioam.de
 0.0.0.0 quantcast584928381.s.moatpixel.com
@@ -3153,6 +3159,7 @@
 0.0.0.0 vpaid.adsafeprotected.com
 0.0.0.0 vpaid.pubmatic.com
 0.0.0.0 vra.outbrain.com
+0.0.0.0 vrp.outbrain.com
 0.0.0.0 vt.adition.com
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
@@ -3251,7 +3258,9 @@
 0.0.0.0 www.adobetag.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 www.affili.net
+0.0.0.0 www.agkn.com
 0.0.0.0 www.alexa.com
+0.0.0.0 www.aloaha.com
 0.0.0.0 www.alrincon.com
 0.0.0.0 www.amobee.com
 0.0.0.0 www.andyhoppe.com
@@ -3346,6 +3355,7 @@
 0.0.0.0 www.localytics.com
 0.0.0.0 www.lotame.com
 0.0.0.0 www.mainadv.com
+0.0.0.0 www.marketo.com
 0.0.0.0 www.mathtag.com
 0.0.0.0 www.med1.de
 0.0.0.0 www.mediamath.com
@@ -3366,6 +3376,7 @@
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.phun.org
 0.0.0.0 www.pinterest.com
+0.0.0.0 www.placelocal.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
@@ -3392,6 +3403,7 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tag4arm.com
+0.0.0.0 www.terrapinn.com
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tumblr.com
@@ -3403,6 +3415,7 @@
 0.0.0.0 www.usemax.de
 0.0.0.0 www.vibrantmedia.com
 0.0.0.0 www.vungle.com
+0.0.0.0 www.webshoprecht.de
 0.0.0.0 www.website-hit-counters.com
 0.0.0.0 www.widespace.com
 0.0.0.0 www.xiti.com
