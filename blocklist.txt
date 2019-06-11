@@ -71,6 +71,7 @@
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3290.casalemedia.com
 0.0.0.0 a3291.casalemedia.com
+0.0.0.0 a3301.casalemedia.com
 0.0.0.0 a3310.casalemedia.com
 0.0.0.0 a3330.casalemedia.com
 0.0.0.0 a3340.casalemedia.com
@@ -564,6 +565,7 @@
 0.0.0.0 authentication.taboola.com
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 a.volvelle.tech
+0.0.0.0 awaps.yandex.ru
 0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 ayads.co
@@ -1387,6 +1389,7 @@
 0.0.0.0 femaledom.com
 0.0.0.0 fe.sitedataprocessing.com
 0.0.0.0 file.market.xiaomi.com
+0.0.0.0 filestore72.info
 0.0.0.0 filetrip.net
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fingahvf.top
@@ -3182,6 +3185,7 @@
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 websearch.net
+0.0.0.0 webstats.thesoul-publishing.com
 0.0.0.0 web-t.9gag.com
 0.0.0.0 webts.adac.de
 0.0.0.0 webview.unityads.unity3d.com
@@ -3214,6 +3218,7 @@
 0.0.0.0 wm.wiredminds.de
 0.0.0.0 wolve.pro
 0.0.0.0 w.online-verlag-freiburg.de
+0.0.0.0 writer.smartlook.com
 0.0.0.0 ws1.hotjar.com
 0.0.0.0 ws2.hotjar.com
 0.0.0.0 ws3.hotjar.com
