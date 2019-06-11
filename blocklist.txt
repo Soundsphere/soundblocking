@@ -242,6 +242,7 @@
 0.0.0.0 ads.scorecardresearch.com
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.s-i-r.de
+0.0.0.0 ads.smaato.com
 0.0.0.0 ads.smartshoppingads.de
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 ads.stickyadstv.com
@@ -1107,6 +1108,7 @@
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
+0.0.0.0 data19.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
 0.0.0.0 data24.adlooxtracking.com
@@ -2638,6 +2640,7 @@
 0.0.0.0 ssl.luckyorange.com
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 ssl-munchkin.marketo.net
+0.0.0.0 ssl.siteimprove.com
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssl.widgets.webengage.com
