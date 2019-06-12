@@ -9,6 +9,7 @@
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
 0.0.0.0 1-edge-chat.facebook.com
 0.0.0.0 1f2e7.v.fwmrm.net
+0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 2-01-2a40-0017.cdx.cdxcn.net
 0.0.0.0 2507573.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
@@ -226,6 +227,7 @@
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.google.com
+0.0.0.0 ads.heias.com
 0.0.0.0 ads.immobilienscout24.de
 0.0.0.0 ads.indeed.com
 0.0.0.0 ads.lfstmedia.com
@@ -306,6 +308,7 @@
 0.0.0.0 aka-cdn.adtech.de
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka-cdn-ns.adtech.de
+0.0.0.0 aka-cdn-ns.adtechus.com
 0.0.0.0 akamai.mathtag.com
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 ak.imgfarm.com
@@ -470,6 +473,7 @@
 0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.viglink.com
 0.0.0.0 api.vuukle.com
+0.0.0.0 api.whatsapp.com
 0.0.0.0 api.zanox.com
 0.0.0.0 api.zanox.ws
 0.0.0.0 ap.lijit.com
@@ -547,6 +551,7 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adstage.io
 0.0.0.0 assets.customer.io
+0.0.0.0 assets.jetlore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.micpn.com
 0.0.0.0 assets.pinterest.com
@@ -662,6 +667,7 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browser-update.org
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 b.siftscience.com
 0.0.0.0 b.sli-spark.com
 0.0.0.0 b.smartnews.be
 0.0.0.0 bsnj.eyeblaster.akadns.net
@@ -1028,6 +1034,7 @@
 0.0.0.0 cs.ns1p.net
 0.0.0.0 c.spiegel.de
 0.0.0.0 cs.prd.msys.playstation.net
+0.0.0.0 csr.inspsearchapi.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 c.statcounter.com
 0.0.0.0 cstatic.weborama.fr
@@ -1269,6 +1276,7 @@
 0.0.0.0 dx.steelhousemedia.com
 0.0.0.0 dy.adserve.io
 0.0.0.0 dyn.emetriq.de
+0.0.0.0 dzwonsemrish7.cloudfront.net
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
 0.0.0.0 e1.extreme-dm.com
@@ -1483,6 +1491,7 @@
 0.0.0.0 getrockerbox.com
 0.0.0.0 g.ezoic.net
 0.0.0.0 gg.google.com
+0.0.0.0 g.ign.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 glb-ads.atwola.adtech.de
@@ -1533,6 +1542,7 @@
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 gurgle.zdbb.net
+0.0.0.0 gwd.lphbs.com
 0.0.0.0 ha-api.pushwoosh.com
 0.0.0.0 hajoopteg.com
 0.0.0.0 hal9000.redintelligence.net
@@ -1656,6 +1666,7 @@
 0.0.0.0 index-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 info.evidon.com
+0.0.0.0 informer.yandex.ru
 0.0.0.0 info.web.de
 0.0.0.0 ing-district.clicktale.net
 0.0.0.0 in.getclicky.com
@@ -1748,6 +1759,7 @@
 0.0.0.0 jwpltx.com
 0.0.0.0 kaspersky.d3.sc.omtrdc.net
 0.0.0.0 katie.runtnc.net
+0.0.0.0 keytiles.com
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kiosked-d.openx.net
@@ -1934,6 +1946,7 @@
 0.0.0.0 micro.marketo.com
 0.0.0.0 microsoftwindows.112.2o7.net
 0.0.0.0 mid.rkdms.com
+0.0.0.0 milesandmore.d1.sc.omtrdc.net
 0.0.0.0 ml314.com
 0.0.0.0 mmtro.com
 0.0.0.0 mobile.adfarm1.adition.com
@@ -2359,6 +2372,7 @@
 0.0.0.0 rpxnow.com
 0.0.0.0 r.refinedads.com
 0.0.0.0 r.remarketingpixel.com
+0.0.0.0 rscdn.cxense.com
 0.0.0.0 r.scoota.co
 0.0.0.0 rs.epoq.de
 0.0.0.0 rs.fullstory.com
@@ -2441,6 +2455,7 @@
 0.0.0.0 sap.d1.sc.omtrdc.net
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sat.sanoma.fi
+0.0.0.0 saxp.zedo.com
 0.0.0.0 sb.l.google.com
 0.0.0.0 sb.monetate.net
 0.0.0.0 sbnationbidder-d.openx.net
@@ -2531,6 +2546,7 @@
 0.0.0.0 semantiqo.com
 0.0.0.0 se.monetate.net
 0.0.0.0 sendgrid.net
+0.0.0.0 sentifi.com
 0.0.0.0 sentry.hotjar.com
 0.0.0.0 sentry.io
 0.0.0.0 serve.adtrackers.net
@@ -2553,6 +2569,7 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 s.getsmartcontent.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 sgqcvfjvr.onet.pl
 0.0.0.0 s.gravatar.com
@@ -2638,6 +2655,7 @@
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 srv.de.ebayrtm.com
+0.0.0.0 srv.imonomy.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 srv-us.znaptag.com
@@ -2785,6 +2803,7 @@
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 stun.services.mozilla.com
 0.0.0.0 su.addthis.com
+0.0.0.0 subpixel.4players.de
 0.0.0.0 sumo.com
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 s.update.indexww.com
@@ -2798,6 +2817,7 @@
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 svastx.moatads.com
 0.0.0.0 s.webtrends.com
+0.0.0.0 swisscom.demdex.net
 0.0.0.0 swrap.tradedoubler.com
 0.0.0.0 s.xp1.ru4.com
 0.0.0.0 sy.eu.angsrvr.com
@@ -2947,6 +2967,7 @@
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 toplist.cz
+0.0.0.0 top.mail.ru
 0.0.0.0 topofblogs.com
 0.0.0.0 touch.myntra.com
 0.0.0.0 t.paypal.com
@@ -3372,6 +3393,7 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.grab.com
+0.0.0.0 www.grmtech.net
 0.0.0.0 www.groupm.com
 0.0.0.0 www.hashing.win
 0.0.0.0 www.hidemyass.com
@@ -3421,6 +3443,7 @@
 0.0.0.0 www.phun.org
 0.0.0.0 www.pinterest.com
 0.0.0.0 www.placelocal.com
+0.0.0.0 www.plista.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
@@ -3463,6 +3486,7 @@
 0.0.0.0 www.website-hit-counters.com
 0.0.0.0 www.widespace.com
 0.0.0.0 www.xiti.com
+0.0.0.0 www.yceml.net
 0.0.0.0 www.yourtango.com
 0.0.0.0 www.za-ads.de
 0.0.0.0 www.zanox-affiliate.de
@@ -3505,6 +3529,7 @@
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 z-eu.amazon-adsystem.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 z.gds.cnzz.com
 0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 zm232.com
 0.0.0.0 z.moatads.com
