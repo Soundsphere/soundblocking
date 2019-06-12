@@ -878,6 +878,7 @@
 0.0.0.0 c.fqtag.com
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.gumgum.com
+0.0.0.0 chango.com
 0.0.0.0 chartbeat.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 chng.it
@@ -2493,6 +2494,7 @@
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
+0.0.0.0 scripts.attributionapp.com
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 scripts.kiosked.com
@@ -3112,6 +3114,7 @@
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 t.wayfair.com
+0.0.0.0 twitter-badges.s3.amazonaws.com
 0.0.0.0 tw.netcore.co.in
 0.0.0.0 u3s.mathtag.com
 0.0.0.0 u.acuityplatform.com
