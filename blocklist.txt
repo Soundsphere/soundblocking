@@ -16,6 +16,7 @@
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 299-kii-331.mktoresp.com
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
+0.0.0.0 2link.be
 0.0.0.0 2oceansvibe.com
 0.0.0.0 3276817.fls.doubleclick.net
 0.0.0.0 33across-d.openx.net
@@ -138,6 +139,7 @@
 0.0.0.0 ad.71i.de
 0.0.0.0 adac02.webtrekk.net
 0.0.0.0 ad.adnet.de
+0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.ad-srv.net
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 adadvisor.net
@@ -221,6 +223,7 @@
 0.0.0.0 adserver.snapads.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adservex.media.net
+0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
 0.0.0.0 adservice.google.com.au
 0.0.0.0 adservice.google.de
@@ -578,6 +581,7 @@
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authentication.taboola.com
+0.0.0.0 autocontext.begun.ru
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 a.volvelle.tech
 0.0.0.0 awaps.yandex.ru
@@ -1347,6 +1351,7 @@
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 es-sunicontent.videoplaza.tv
 0.0.0.0 etahub.com
+0.0.0.0 etarget.hu
 0.0.0.0 et-cod.com
 0.0.0.0 ethn.io
 0.0.0.0 etl.tindersparks.com
@@ -1874,10 +1879,12 @@
 0.0.0.0 m1.nsimg.net
 0.0.0.0 m2d.m2.ai
 0.0.0.0 m32.media
+0.0.0.0 m4n.nl
 0.0.0.0 mab.chartbeat.com
 0.0.0.0 mabping.chartbeat.net
 0.0.0.0 m.addthis.com
 0.0.0.0 m.addthisedge.com
+0.0.0.0 madmanmovies.net
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads-eu.amazon.com
@@ -2653,6 +2660,7 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 socialize.us1.gigya.com
 0.0.0.0 sofia.trustx.org
+0.0.0.0 softonic.com
 0.0.0.0 solutions.nitro.bunchball.net
 0.0.0.0 soma.smaato.net
 0.0.0.0 sonyglobal.d1.sc.omtrdc.net
@@ -2719,6 +2727,7 @@
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
 0.0.0.0 star-mini.c10r.facebook.com
+0.0.0.0 startje.be
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stas.outbrain.com
@@ -2800,6 +2809,7 @@
 0.0.0.0 stats.nextcloud.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pusher.com
+0.0.0.0 stats.seedr.com
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.warenform.de
@@ -2837,6 +2847,7 @@
 0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 support.coinjar.com
+0.0.0.0 survey.122.2o7.net
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 s-usc1c-nss-218.firebaseio.com
 0.0.0.0 s-usweb.dotomi.com
@@ -2917,6 +2928,7 @@
 0.0.0.0 tags.mathtag.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.onscroll.com
+0.0.0.0 tagsrvcs.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 tags.w55c.net
