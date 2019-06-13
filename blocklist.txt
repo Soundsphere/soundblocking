@@ -11,6 +11,7 @@
 0.0.0.0 1f2e7.v.fwmrm.net
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 2-01-2a40-0017.cdx.cdxcn.net
+0.0.0.0 243-mrr-459.mktoresp.com
 0.0.0.0 2507573.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 299-kii-331.mktoresp.com
@@ -892,6 +893,7 @@
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.madeleine.de
 0.0.0.0 c.jsrdn.com
+0.0.0.0 ck.connatix.com
 0.0.0.0 ckm-m.xp1.ru4.com
 0.0.0.0 ck.solocpm.com
 0.0.0.0 clarium.global.ssl.fastly.net
@@ -1341,6 +1343,7 @@
 0.0.0.0 e.reddit.com
 0.0.0.0 ergoag.d3.sc.omtrdc.net
 0.0.0.0 errors.client.optimizely.com
+0.0.0.0 esimedia-d.openx.net
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 es-sunicontent.videoplaza.tv
 0.0.0.0 etahub.com
@@ -1747,6 +1750,7 @@
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.hubspot.com
 0.0.0.0 js.idio.co
+0.0.0.0 js.leadin.com
 0.0.0.0 js.matheranalytics.com
 0.0.0.0 js.maxmind.com
 0.0.0.0 js.moatads.com
@@ -1773,6 +1777,7 @@
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kiosked-d.openx.net
+0.0.0.0 kitbit.net
 0.0.0.0 kleinanzeigen-d.openx.net
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 krk.kargo.com
@@ -2893,6 +2898,7 @@
 0.0.0.0 tag.demandbase.com
 0.0.0.0 tag.digitaltarget.ru
 0.0.0.0 tagger.opecloud.com
+0.0.0.0 tag.imonomy.com
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tag.marinsm.com
 0.0.0.0 tag.mtrcs.samba.tv
@@ -3135,11 +3141,13 @@
 0.0.0.0 uir.uimserv.net
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.at.atwola.com
+0.0.0.0 uktc.ijento.com
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 um2.eqads.com
 0.0.0.0 ums.adtech.de
 0.0.0.0 um.simpli.fi
+0.0.0.0 unconf.adkmob.com
 0.0.0.0 undefined.fls.doubleclick.net
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 uobsoe.com
