@@ -58,6 +58,7 @@
 0.0.0.0 a1.adform.net
 0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
+0.0.0.0 a2140.casalemedia.com
 0.0.0.0 a2150.casalemedia.com
 0.0.0.0 a2170.casalemedia.com
 0.0.0.0 a2171.casalemedia.com
@@ -138,6 +139,7 @@
 0.0.0.0 ad4.adfarm1.adition.com
 0.0.0.0 ad4mat.net
 0.0.0.0 ad.71i.de
+0.0.0.0 ad8.adfarm1.adition.com
 0.0.0.0 adac02.webtrekk.net
 0.0.0.0 ad.adnet.de
 0.0.0.0 ad.adriver.ru
@@ -202,6 +204,7 @@
 0.0.0.0 ads.ayads.co
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads-bid.l.doubleclick.net
+0.0.0.0 ads.blogherads.com
 0.0.0.0 ads.cc
 0.0.0.0 ads.celtra.com
 0.0.0.0 ads.contextweb.com
@@ -304,6 +307,7 @@
 0.0.0.0 affiliate.immobilienscout24.de
 0.0.0.0 afs.adjust-net.jp
 0.0.0.0 afs.googleusercontent.com
+0.0.0.0 afterview.ru
 0.0.0.0 agentanalytics.com
 0.0.0.0 ag.innovid.com
 0.0.0.0 ag.yieldoptimizer.com
@@ -490,6 +494,7 @@
 0.0.0.0 apnx-match.dotomi.com
 0.0.0.0 a.postrelease.com
 0.0.0.0 app2.salesmanago.pl
+0.0.0.0 app-ab01.marketo.com
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab16.marketo.com
@@ -524,6 +529,7 @@
 0.0.0.0 appnexus.com
 0.0.0.0 app.pendo.io
 0.0.0.0 app.salecycle.com
+0.0.0.0 app-sj01.marketo.com
 0.0.0.0 app-sj02.marketo.com
 0.0.0.0 app-sj03.marketo.com
 0.0.0.0 app-sj05.marketo.com
@@ -787,9 +793,11 @@
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.cquotient.com
 0.0.0.0 cdn.cxense.com
+0.0.0.0 cdn.districtm.ca
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.dynamicyield.com
+0.0.0.0 cdneast2-xch.media.net
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
@@ -799,6 +807,7 @@
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.flurry.com
+0.0.0.0 cdn.funnel.naturaltracking.com
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.geodns.tubemogul.com
 0.0.0.0 cdn.gigya.com
@@ -918,6 +927,7 @@
 0.0.0.0 click.linksynergy.com
 0.0.0.0 click.oneplus.com
 0.0.0.0 click.plista.com
+0.0.0.0 click.revue.email
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 client-analytics.braintreegateway.com
@@ -1025,6 +1035,7 @@
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 conv.tubemogul.com
 0.0.0.0 cookie.brealtime.com
+0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookie-matching.mediarithmics.com
 0.0.0.0 cookie-script.com
 0.0.0.0 cookiesync.vertamedia.com
@@ -1053,6 +1064,7 @@
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
+0.0.0.0 creative.prf.hn
 0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.adingo.jp
@@ -1098,6 +1110,7 @@
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1.openx.org
+0.0.0.0 d1rkf0bq85yx06.cloudfront.net
 0.0.0.0 d1v9u0bgi1uimx.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
@@ -1213,6 +1226,7 @@
 0.0.0.0 delivery-europe-west-1.openx.net
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.h.switchadhub.com
+0.0.0.0 deloplen.com
 0.0.0.0 deployads.com
 0.0.0.0 deref-gmx.net
 0.0.0.0 de.sitestat.com
@@ -1275,6 +1289,7 @@
 0.0.0.0 dolohen.com
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 doug1izaerwt3.cloudfront.net
+0.0.0.0 dove.saymedia.com
 0.0.0.0 download.gamestar.de
 0.0.0.0 downloads.intercomcdn.com
 0.0.0.0 dp2.33across.com
@@ -1609,6 +1624,7 @@
 0.0.0.0 heise02.webtrekk.net
 0.0.0.0 hello.myfonts.net
 0.0.0.0 help.bingads.microsoft.com
+0.0.0.0 heredeutschlandgmbh.d1.sc.omtrdc.net
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 history.google.com
@@ -1663,6 +1679,7 @@
 0.0.0.0 i.kissmetrics.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 i.liadm.com
+0.0.0.0 i.l.inmobicdn.net
 0.0.0.0 ima3vpaid.appspot.com
 0.0.0.0 image2.pubmatic.com
 0.0.0.0 image4.pubmatic.com
@@ -1731,6 +1748,7 @@
 0.0.0.0 inskinmedia.com
 0.0.0.0 inspection.alibaba.com
 0.0.0.0 insticator-d.openx.net
+0.0.0.0 inter1ads.com
 0.0.0.0 internalredirect.site
 0.0.0.0 intljs.rmtag.com
 0.0.0.0 inv-nets.admixer.net
@@ -1844,6 +1862,7 @@
 0.0.0.0 liveramp.com
 0.0.0.0 live.rezync.com
 0.0.0.0 live.sekindo.com
+0.0.0.0 livetv.ru
 0.0.0.0 l.m.naver.com
 0.0.0.0 lmyd3iz3qn.kameleoon.eu
 0.0.0.0 lnkd.demdex.net
@@ -1861,6 +1880,7 @@
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockerdome.com
 0.0.0.0 log.adaptv.advertising.com
+0.0.0.0 log.aimtell.com
 0.0.0.0 logc279.xiti.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 log.fc.yahoo.com
@@ -1993,6 +2013,7 @@
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.brightcove.com
+0.0.0.0 metrics.corus.ca
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
@@ -2059,6 +2080,7 @@
 0.0.0.0 nbcume.sc.omtrdc.net
 0.0.0.0 neads.delivery
 0.0.0.0 nervoussummer.com
+0.0.0.0 netweather.accuweather.com
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 netzwelt-gmbh-d.openx.net
 0.0.0.0 newopenx.simplethings.de
@@ -2141,6 +2163,7 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 paid.outbrain.com
 0.0.0.0 park.above.com
 0.0.0.0 parkingcrew.net
 0.0.0.0 partnerad.l.doubleclick.net
@@ -2407,6 +2430,7 @@
 0.0.0.0 register.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 remote-data.urbanairship.com
+0.0.0.0 remtoaku.net
 0.0.0.0 rem-track.bild.de
 0.0.0.0 report-ads-to.pubnation.com
 0.0.0.0 report.appmetrica.webvisor.com
@@ -2587,6 +2611,7 @@
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 secure.eloqua.com
 0.0.0.0 secure-eu.imrworldwide.com
+0.0.0.0 secure.flashtalking.com
 0.0.0.0 secure.footprint.net
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure-gl.imrworldwide.com
@@ -2612,6 +2637,7 @@
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 segments.company-target.com
 0.0.0.0 sejs.moatads.com
+0.0.0.0 selectivesummer.com
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 selfservice.appnext.com
 0.0.0.0 semantiqo.com
@@ -2813,6 +2839,7 @@
 0.0.0.0 static.hotjar.com
 0.0.0.0 static.hubspot.com
 0.0.0.0 static.imrworldwide.com
+0.0.0.0 static.inq.com
 0.0.0.0 static.kameleoon.com
 0.0.0.0 static.licdn.com
 0.0.0.0 static.plista.com
@@ -3019,6 +3046,7 @@
 0.0.0.0 tenor.com
 0.0.0.0 tg.socdm.com
 0.0.0.0 thaliade02.webtrekk.net
+0.0.0.0 tharbadir.com
 0.0.0.0 theadex.com
 0.0.0.0 thechive-d.openx.net
 0.0.0.0 think.unbounce.com
@@ -3652,6 +3680,7 @@
 0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 0.0.0.0 zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com
+0.0.0.0 zn9m5ff20weoqlslp-samsungeurope.siteintercept.qualtrics.com
 0.0.0.0 zn_aah4vz47v491vlf-cbs.siteintercept.qualtrics.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystems.com
