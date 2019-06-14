@@ -3449,7 +3449,6 @@
 0.0.0.0 www.barilliance.net
 0.0.0.0 www.beeswax.com
 0.0.0.0 www.bet365.com
-0.0.0.0 www.bildschirmarbeiter.com
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.blogcounter.de
 0.0.0.0 www.bloglines.com
