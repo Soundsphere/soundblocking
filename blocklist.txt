@@ -741,6 +741,7 @@
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 c.cnzz.com
+0.0.0.0 c.compete.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.zeit.de
@@ -1043,6 +1044,7 @@
 0.0.0.0 cookie-matching.mediarithmics.com
 0.0.0.0 cookie-script.com
 0.0.0.0 cookiesync.vertamedia.com
+0.0.0.0 cookie.vrtzads.com
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 core.adunity.com
 0.0.0.0 cosmos01ssl.webtrekk.net
@@ -1070,6 +1072,8 @@
 0.0.0.0 creative.metalyzer.com
 0.0.0.0 creative.prf.hn
 0.0.0.0 criteo-sync.teads.tv
+0.0.0.0 cs1137.wpc.gammacdn.net
+0.0.0.0 cs11.wpc.v0cdn.net
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.adingo.jp
 0.0.0.0 csc.beap.bc.yahoo.com
@@ -1791,6 +1795,7 @@
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jita.rtk.io
 0.0.0.0 jmp.sh
+0.0.0.0 johnlewis.com.102.112.2o7.net
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 jp-u.openx.net
 0.0.0.0 js.adscale.de
