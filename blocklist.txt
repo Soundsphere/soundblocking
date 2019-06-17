@@ -36,6 +36,7 @@
 0.0.0.0 5290727.fls.doubleclick.net
 0.0.0.0 538-dcx-400.mktoresp.com
 0.0.0.0 561-hyg-937.mktoresp.com
+0.0.0.0 5977010.fls.doubleclick.net
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5d0b6.v.fwmrm.net
 0.0.0.0 5-edge-chat.facebook.com
@@ -305,6 +306,7 @@
 0.0.0.0 a.farlex.com
 0.0.0.0 aff.bstatic.com
 0.0.0.0 affiliate.immobilienscout24.de
+0.0.0.0 affiliates.cdkeys.com
 0.0.0.0 afs.adjust-net.jp
 0.0.0.0 afs.googleusercontent.com
 0.0.0.0 afterview.ru
@@ -499,6 +501,7 @@
 0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab16.marketo.com
 0.0.0.0 app-ab23.marketo.com
+0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-ab25.marketo.com
 0.0.0.0 app-ab27.marketo.com
 0.0.0.0 app-abb.marketo.com
@@ -942,6 +945,7 @@
 0.0.0.0 clients6.google.com
 0.0.0.0 cliqz.com
 0.0.0.0 c.live.com
+0.0.0.0 clix.superclix.de
 0.0.0.0 clkde.tradedoubler.com
 0.0.0.0 clk.solocpm.com
 0.0.0.0 clk.taptica.com
@@ -1138,6 +1142,7 @@
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
+0.0.0.0 d3avqv6zaxegeu.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
@@ -1433,6 +1438,7 @@
 0.0.0.0 ex.banner.t-online.de
 0.0.0.0 exch.quantcount.com
 0.0.0.0 exch.quantserve.com
+0.0.0.0 exelate.com
 0.0.0.0 expedia.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 exponea.com
 0.0.0.0 extremetracking.com
@@ -1833,6 +1839,7 @@
 0.0.0.0 kiosked-d.openx.net
 0.0.0.0 kitbit.net
 0.0.0.0 kleinanzeigen-d.openx.net
+0.0.0.0 komputerswiat.pl
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 krk.kargo.com
 0.0.0.0 k.streamrail.com
@@ -1932,6 +1939,7 @@
 0.0.0.0 m2d.m2.ai
 0.0.0.0 m32.media
 0.0.0.0 m4n.nl
+0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 mab.chartbeat.com
 0.0.0.0 mabping.chartbeat.net
 0.0.0.0 m.addthis.com
@@ -2321,6 +2329,7 @@
 0.0.0.0 pro.hit.gemius.pl
 0.0.0.0 pro.ip-api.com
 0.0.0.0 projectagora.net
+0.0.0.0 promoted.soundcloud.com
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 prophet.heise.de
 0.0.0.0 prosieben01.webtrekk.net
@@ -2453,6 +2462,7 @@
 0.0.0.0 rmsi.nuggad.net
 0.0.0.0 r.my.com
 0.0.0.0 r.nexac.com
+0.0.0.0 rocketfuel.com
 0.0.0.0 rollbar.com
 0.0.0.0 rotumal.com
 0.0.0.0 route.carambo.la
@@ -2634,6 +2644,7 @@
 0.0.0.0 seed.bitnodes.io
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 segment-data.zqtk.net
+0.0.0.0 segment.hotstar.com
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 segments.company-target.com
 0.0.0.0 sejs.moatads.com
@@ -2740,6 +2751,7 @@
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
+0.0.0.0 spbvoditel.ru
 0.0.0.0 spgo.io
 0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 spiegel.met.vgwort.de
@@ -3052,6 +3064,7 @@
 0.0.0.0 think.unbounce.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thor.rtk.io
+0.0.0.0 threedrive.su
 0.0.0.0 thrtle.com
 0.0.0.0 tiles.services.mozilla.com
 0.0.0.0 time.izatcloud.net
@@ -3177,6 +3190,7 @@
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trgde.adocean.pl
 0.0.0.0 tribl.io
+0.0.0.0 trigami.com
 0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 triggers.wfxtriggers.com
 0.0.0.0 tri.privy.com
@@ -3572,6 +3586,7 @@
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.okcupid.com
+0.0.0.0 www.omniture.com
 0.0.0.0 www.openwall.com
 0.0.0.0 www.opinionstage.com
 0.0.0.0 www.orion.de
@@ -3585,6 +3600,7 @@
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
+0.0.0.0 www.radionik.info
 0.0.0.0 www.ranking-charts.de
 0.0.0.0 www.ranking-hits.de
 0.0.0.0 www.refersion.com
@@ -3620,6 +3636,7 @@
 0.0.0.0 www.urbandictionary.com
 0.0.0.0 www.usefomo.com
 0.0.0.0 www.usemax.de
+0.0.0.0 www.vagdashcom.de
 0.0.0.0 www.vibrantmedia.com
 0.0.0.0 www.vungle.com
 0.0.0.0 www.webshoprecht.de
