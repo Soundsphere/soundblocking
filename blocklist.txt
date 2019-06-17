@@ -307,6 +307,7 @@
 0.0.0.0 aff.bstatic.com
 0.0.0.0 affiliate.immobilienscout24.de
 0.0.0.0 affiliates.cdkeys.com
+0.0.0.0 afiles.webengage.com
 0.0.0.0 afs.adjust-net.jp
 0.0.0.0 afs.googleusercontent.com
 0.0.0.0 afterview.ru
@@ -1145,6 +1146,7 @@
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
+0.0.0.0 d38hmgjgf0kofx.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
 0.0.0.0 d3avqv6zaxegeu.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
@@ -1194,6 +1196,7 @@
 0.0.0.0 data.alexa.com
 0.0.0.0 data.appexnw.com
 0.0.0.0 datacloud.tealiumiq.com
+0.0.0.0 data.cmcore.com
 0.0.0.0 data.cnn.com
 0.0.0.0 datacollect6.abtasty.com
 0.0.0.0 data.coremetrics.com
@@ -1392,6 +1395,7 @@
 0.0.0.0 e.reddit.com
 0.0.0.0 ergoag.d3.sc.omtrdc.net
 0.0.0.0 errors.client.optimizely.com
+0.0.0.0 e.serverbid.com
 0.0.0.0 esimedia-d.openx.net
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 es-sunicontent.videoplaza.tv
@@ -1410,6 +1414,7 @@
 0.0.0.0 eu-sonar.sociomantic.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eu-tlx.3lift.com
+0.0.0.0 eu.track.digitaladsystems.com
 0.0.0.0 eu-u.openx.net
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 eu-west.load.exelator.com
@@ -1445,6 +1450,7 @@
 0.0.0.0 exelate.com
 0.0.0.0 expedia.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 exponea.com
+0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 extremetracking.com
 0.0.0.0 eyeota-sync.dotomi.com
 0.0.0.0 f5.market.mi-img.com
@@ -1697,6 +1703,7 @@
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 image.providesupport.com
 0.0.0.0 images.bizrate.com
+0.0.0.0 images.dmca.com
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.mxpnl.com
 0.0.0.0 images.outbrainimg.com
@@ -1736,6 +1743,7 @@
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 includemodal.com
+0.0.0.0 include.reinvigorate.net
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 index-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 infinityid.condenastdigital.com
@@ -1894,6 +1902,7 @@
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 logc279.xiti.com
+0.0.0.0 log.cizion.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 logger-06.vty.dailymotion.com
@@ -2081,6 +2090,7 @@
 0.0.0.0 myntelligence.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 n01d05.cumulus-cloud.com
+0.0.0.0 n161adserv.com
 0.0.0.0 naakte-beroemdheden.startkabel.nl
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 nan.netmng.com
@@ -2189,6 +2199,7 @@
 0.0.0.0 partners.webmasterplan.com
 0.0.0.0 pastie.org
 0.0.0.0 pa.tns-ua.com
+0.0.0.0 p.ato.mx
 0.0.0.0 pb.adriver.ru
 0.0.0.0 p.bm23.com
 0.0.0.0 p.cpx.to
@@ -2804,6 +2815,7 @@
 0.0.0.0 s.spoutable.com
 0.0.0.0 ssp.streamrail.net
 0.0.0.0 ssp.videoplaza.tv
+0.0.0.0 sstatic1.histats.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 sstats.arstechnica.com
@@ -3072,6 +3084,7 @@
 0.0.0.0 threedrive.su
 0.0.0.0 thrtle.com
 0.0.0.0 tiles.services.mozilla.com
+0.0.0.0 timeanddate-d.openx.net
 0.0.0.0 time.izatcloud.net
 0.0.0.0 timetravel.mementoweb.org
 0.0.0.0 t.indeed.com
@@ -3134,6 +3147,7 @@
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.departapp.com
+0.0.0.0 tracker.divvit.com
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.samplicio.us
@@ -3461,6 +3475,7 @@
 0.0.0.0 www91.intel.com
 0.0.0.0 www9.smartadserver.com
 0.0.0.0 www.accountkit.com
+0.0.0.0 www.acint.net
 0.0.0.0 www.acxiom.com
 0.0.0.0 www.ad4mat.de
 0.0.0.0 www.adbutler.com
@@ -3494,6 +3509,7 @@
 0.0.0.0 www.awin.com
 0.0.0.0 www.bannedsextapes.com
 0.0.0.0 www.barilliance.net
+0.0.0.0 www.bcloudhost.com
 0.0.0.0 www.beeswax.com
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bizographics.com
