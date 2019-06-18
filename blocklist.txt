@@ -62,6 +62,7 @@
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2140.casalemedia.com
 0.0.0.0 a2150.casalemedia.com
+0.0.0.0 a2160.casalemedia.com
 0.0.0.0 a2170.casalemedia.com
 0.0.0.0 a2171.casalemedia.com
 0.0.0.0 a2181.casalemedia.com
@@ -510,6 +511,7 @@
 0.0.0.0 app-ab25.marketo.com
 0.0.0.0 app-ab27.marketo.com
 0.0.0.0 app-abb.marketo.com
+0.0.0.0 app-abj.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adroll.com
 0.0.0.0 app-analytics.snapchat.com
@@ -570,6 +572,7 @@
 0.0.0.0 ask-d.openx.net
 0.0.0.0 asn.advolution.de
 0.0.0.0 asoscomltd.tt.omtrdc.net
+0.0.0.0 asqnext.nuggad.net
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
@@ -1103,6 +1106,7 @@
 0.0.0.0 ct.sddan.com
 0.0.0.0 cue.v.fwmrm.net
 0.0.0.0 cunda.d3.sc.omtrdc.net
+0.0.0.0 curse-d.openx.net
 0.0.0.0 customer.cludo.com
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
@@ -1166,6 +1170,7 @@
 0.0.0.0 d3v27wwd40f0xu.cloudfront.net
 0.0.0.0 d5p.de17a.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9hhrg4mnvzow.cloudfront.net
 0.0.0.0 d.adroll.com
@@ -1355,6 +1360,7 @@
 0.0.0.0 e5460.g.akamaiedge.net
 0.0.0.0 e6603.g.akamaiedge.net
 0.0.0.0 e8960.e2.akamaiedge.net
+0.0.0.0 e.admob.com
 0.0.0.0 easylist.club
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ebaydeb-d.openx.net
@@ -1471,6 +1477,7 @@
 0.0.0.0 fast.forbes.com
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 fast.nba.demdex.net
 0.0.0.0 fast-nc.appcues.com
 0.0.0.0 fast.skydeutschland.demdex.net
 0.0.0.0 fast.wistia.com
@@ -1667,6 +1674,7 @@
 0.0.0.0 hubt.pornhub.com
 0.0.0.0 hurra.com
 0.0.0.0 hw-cdn.trafficjunky.net
+0.0.0.0 hzs22.cnzz.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 i2.createsend1.com
@@ -1697,6 +1705,7 @@
 0.0.0.0 idt.id-news.net
 0.0.0.0 ie8eamus.com
 0.0.0.0 ih.adscale.de
+0.0.0.0 iias.eu
 0.0.0.0 ikea.122.2o7.net
 0.0.0.0 ikea.com
 0.0.0.0 ikea.de
@@ -1714,6 +1723,7 @@
 0.0.0.0 images.dmca.com
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.mxpnl.com
+0.0.0.0 images.outbrain.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.outbrain.org
 0.0.0.0 images.performgroup.com
@@ -1794,6 +1804,7 @@
 0.0.0.0 irl1.demdex.net
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 irqs.ioam.de
+0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 i.skimresources.com
 0.0.0.0 iterable.com
@@ -1855,6 +1866,7 @@
 0.0.0.0 kaspersky.d3.sc.omtrdc.net
 0.0.0.0 katie.runtnc.net
 0.0.0.0 keytiles.com
+0.0.0.0 kfw04.webtrekk.net
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kiosked-d.openx.net
@@ -2530,6 +2542,7 @@
 0.0.0.0 rtr.innovid.com
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
+0.0.0.0 rubick.gameanalytics.com
 0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rub-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 rudy.adsnative.com
@@ -2640,6 +2653,7 @@
 0.0.0.0 secureaud.solocpm.com
 0.0.0.0 secure-au.imrworldwide.com
 0.0.0.0 secure-cdn.mplxtms.com
+0.0.0.0 securecloud-dl.com
 0.0.0.0 secure-dcr-cert.imrworldwide.com
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 secure-ds.serving-sys.com
@@ -2791,6 +2805,7 @@
 0.0.0.0 s.pubmine.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 squirrelhands.com
+0.0.0.0 srec7.m-pathy.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srv.clickfuse.com
@@ -3078,6 +3093,7 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 telemetry.remoteapp.windowsazure.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 templates.marketo.net
@@ -3458,6 +3474,7 @@
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 w.sharethis.com
+0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws-na.amazon.adsystem.com
 0.0.0.0 ws.pusherapp.com
 0.0.0.0 ws.sharethis.com
@@ -3692,6 +3709,7 @@
 0.0.0.0 xcp.go.sonobi.com
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 x.fidelity-media.com
+0.0.0.0 xghfi97mk6.com
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xl-trk.com
 0.0.0.0 xml.adbetnet.com
