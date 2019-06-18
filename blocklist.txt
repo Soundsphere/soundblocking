@@ -171,6 +171,7 @@
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adipolo.tagcombiner.com
 0.0.0.0 ad-js.chip.de
+0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.lkqd.net
 0.0.0.0 adlmerge.com
 0.0.0.0 adlog.flurry.com
@@ -641,6 +642,7 @@
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
+0.0.0.0 bcbb.rubiconproject.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bdg-analytics.appspot.com
 0.0.0.0 be6b.v.fwmrm.net
@@ -678,6 +680,7 @@
 0.0.0.0 bild01.webtrekk.net
 0.0.0.0 bilder.bild.de
 0.0.0.0 b.imonomy.com
+0.0.0.0 bit.do
 0.0.0.0 bit.ly
 0.0.0.0 bitrix.info
 0.0.0.0 blocklists.settings.services.mozilla.com
@@ -862,6 +865,7 @@
 0.0.0.0 cdn.rawgit.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn.scarabresearch.com
+0.0.0.0 cdns.connatix.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn-settings.segment.com
@@ -1185,8 +1189,10 @@
 0.0.0.0 data01.adlooxtracking.com
 0.0.0.0 data02.adlooxtracking.com
 0.0.0.0 data03.adlooxtracking.com
+0.0.0.0 data06.adlooxtracking.com
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
+0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
 0.0.0.0 data19.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
@@ -1213,6 +1219,7 @@
 0.0.0.0 data.de.coremetrics.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.gosquared.com
+0.0.0.0 data.livefyre.com
 0.0.0.0 data.logentries.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
@@ -1529,6 +1536,7 @@
 0.0.0.0 freehost.pl
 0.0.0.0 freestar-d.openx.net
 0.0.0.0 fresh8.co
+0.0.0.0 fr-groupe01.videoplaza.tv
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
 0.0.0.0 froo.com
@@ -1577,6 +1585,7 @@
 0.0.0.0 get.mirando.de
 0.0.0.0 getrockerbox.com
 0.0.0.0 g.ezoic.net
+0.0.0.0 gft2.de
 0.0.0.0 gg.google.com
 0.0.0.0 g.ign.com
 0.0.0.0 gj.mmstat.com
@@ -1758,6 +1767,7 @@
 0.0.0.0 impressiondesk.com
 0.0.0.0 imprlatbmp.taboola.com
 0.0.0.0 impr.taboola.com
+0.0.0.0 impulse.forkcdn.com
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 includemodal.com
@@ -1884,6 +1894,7 @@
 0.0.0.0 launcher.mojang.com
 0.0.0.0 launchpadlibrarian.net
 0.0.0.0 l.betrad.com
+0.0.0.0 lc.livefyre.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.naver.com
 0.0.0.0 leadintel.io
@@ -1893,6 +1904,7 @@
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 libs.de.coremetrics.com
+0.0.0.0 libs.lavanetwork.net
 0.0.0.0 libs.outbrain.com
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 likemore-fe.go.mail.ru
@@ -1966,6 +1978,7 @@
 0.0.0.0 l.qq.com
 0.0.0.0 l.sharethis.com
 0.0.0.0 ls.hit.gemius.pl
+0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lv.adocean.pl
 0.0.0.0 lynxbroker.de
 0.0.0.0 lyr122000c.pubmatic.com
@@ -2591,6 +2604,7 @@
 0.0.0.0 samcm.ksmobile.com
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
+0.0.0.0 samsung.demdex.net
 0.0.0.0 samsung-germany.demdex.net
 0.0.0.0 sam.zoy.org
 0.0.0.0 sap.d1.sc.omtrdc.net
@@ -2746,11 +2760,13 @@
 0.0.0.0 sixcooler.de
 0.0.0.0 sjrtp1.marketo.com
 0.0.0.0 sjrtp3-cdn.marketo.com
+0.0.0.0 sjrtp5-cdn.marketo.com
 0.0.0.0 sjrtp5.marketo.com
 0.0.0.0 sjrtp6-cdn.marketo.com
 0.0.0.0 sjrtp6.marketo.com
 0.0.0.0 sjrtp8-cdn.marketo.com
 0.0.0.0 sjrtp8.marketo.com
+0.0.0.0 sjrtp-cdn.marketo.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 s.ktxtr.com
 0.0.0.0 skyde.inq.com
@@ -2967,6 +2983,7 @@
 0.0.0.0 st.targetix.net
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 stun.services.mozilla.com
+0.0.0.0 s.tyxo.com
 0.0.0.0 su.addthis.com
 0.0.0.0 subpixel.4players.de
 0.0.0.0 sumo.com
@@ -3342,6 +3359,7 @@
 0.0.0.0 v4.moatads.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v.adsrvr.org
+0.0.0.0 vap2ewr1.lijit.com
 0.0.0.0 vap2sfo1.lijit.com
 0.0.0.0 vap4ewr1.lijit.com
 0.0.0.0 vap.lijit.com
