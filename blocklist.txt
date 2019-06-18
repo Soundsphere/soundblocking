@@ -1,5 +1,6 @@
 0.0.0.0 0.gravatar.com
 0.0.0.0 101domain.com
+0.0.0.0 107-fms-070.mktoresp.com
 0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 1364.tm.zedo.com
 0.0.0.0 15.taboola.com
@@ -167,6 +168,7 @@
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 adgebra.co.in
 0.0.0.0 adimg.uimserv.net
+0.0.0.0 adipolo.tagcombiner.com
 0.0.0.0 ad-js.chip.de
 0.0.0.0 ad.lkqd.net
 0.0.0.0 adlmerge.com
@@ -383,6 +385,7 @@
 0.0.0.0 analytics.businessinsider.com
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccs.mcafee.com
+0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics-eu.clickdimensions.com
@@ -450,6 +453,7 @@
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.getdrip.com
 0.0.0.0 api.getvero.com
+0.0.0.0 api.hostip.info
 0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api.instabug.com
@@ -524,6 +528,7 @@
 0.0.0.0 app.link
 0.0.0.0 applog.musical.ly
 0.0.0.0 app-lon02.marketo.com
+0.0.0.0 app-lon03.marketo.com
 0.0.0.0 app-lon04.marketo.com
 0.0.0.0 app-lon05.marketo.com
 0.0.0.0 app-lon08.marketo.com
@@ -1298,6 +1303,7 @@
 0.0.0.0 dnsseed.bluematt.me
 0.0.0.0 docj27ko03fnu.cloudfront.net
 0.0.0.0 docs.wixstatic.com
+0.0.0.0 dogus-ads-cdn.dygdigital.com
 0.0.0.0 dolohen.com
 0.0.0.0 domains.googlesyndication.com
 0.0.0.0 doug1izaerwt3.cloudfront.net
@@ -1313,6 +1319,7 @@
 0.0.0.0 drs2.veinteractive.com
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 ds-b.prod.vidible.tv
+0.0.0.0 dsh7ky7308k4b.cloudfront.net
 0.0.0.0 dsms0mj1bbhn4.cloudfront.net
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.adkernel.com
@@ -1408,6 +1415,7 @@
 0.0.0.0 et.twyn.com
 0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 eu.a.volvelle.tech
+0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu.qualtrics.com
 0.0.0.0 eur-ukp.adsrvr.org
@@ -2722,6 +2730,7 @@
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 sites.google.com
 0.0.0.0 sixcooler.de
+0.0.0.0 sjrtp1.marketo.com
 0.0.0.0 sjrtp3-cdn.marketo.com
 0.0.0.0 sjrtp5.marketo.com
 0.0.0.0 sjrtp6-cdn.marketo.com
@@ -2900,6 +2909,7 @@
 0.0.0.0 stats.bannersnack.com
 0.0.0.0 stats.berkman.harvard.edu
 0.0.0.0 stats.blogoscoop.net
+0.0.0.0 stats.bluebillywig.com
 0.0.0.0 stats.buysellads.com
 0.0.0.0 stats.computecmedia.de
 0.0.0.0 statse.webtrendslive.com
@@ -3180,6 +3190,7 @@
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.oe24.at
 0.0.0.0 tracking.omnitagjs.com
+0.0.0.0 tracking.propelmedia.com
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.searchmarketing.com
@@ -3393,6 +3404,7 @@
 0.0.0.0 wct.link
 0.0.0.0 wd.adcolony.com
 0.0.0.0 web-analytics.engagio.com
+0.0.0.0 webanalytics.localytics.com
 0.0.0.0 web.archive.org
 0.0.0.0 webed.dm.gg
 0.0.0.0 web.industrybrains.com
@@ -3431,6 +3443,7 @@
 0.0.0.0 willhaben-286480-hdb.adomik.com
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 wla.vivaldi.com
+0.0.0.0 wms.assoc-amazon.de
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 wm.wiredminds.de
@@ -3630,6 +3643,7 @@
 0.0.0.0 www.rubiconproject.com
 0.0.0.0 www.safedk.com
 0.0.0.0 www.scorecardresearch.com
+0.0.0.0 www.sc.pages03.net
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.search.com
 0.0.0.0 www.semrush.com
@@ -3687,6 +3701,7 @@
 0.0.0.0 xtrapath2.izatcloud.net
 0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xtr.carambo.la
+0.0.0.0 x.vindicosuite.com
 0.0.0.0 yagiay.com
 0.0.0.0 yahoomail.com
 0.0.0.0 yandex.st
