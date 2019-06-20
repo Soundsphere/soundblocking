@@ -697,6 +697,7 @@
 0.0.0.0 blog.experts-exchange.com
 0.0.0.0 bloggerei.de
 0.0.0.0 blog.naver.com
+0.0.0.0 blog-webkatalog.de
 0.0.0.0 bm.adentifi.com
 0.0.0.0 bms.adjarabet.com
 0.0.0.0 bnc.lt
@@ -1155,6 +1156,7 @@
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d24v0qfgxmmkdg.cloudfront.net
+0.0.0.0 d.254a.com
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 d27jt7xr4fq3e8.cloudfront.net
 0.0.0.0 d29usylhdk1xyu.cloudfront.net
@@ -2484,6 +2486,7 @@
 0.0.0.0 r2---sn-4g5e6n76.gvt1.com
 0.0.0.0 r2---sn-4g5ednsk.gvt1.com
 0.0.0.0 r2---sn-4g5ednsy.gvt1.com
+0.0.0.0 r3---sn-4g5ednee.gvt1.com
 0.0.0.0 r6---sn-4g5e6nes.gvt1.com
 0.0.0.0 r6---sn-4g5edne7.gvt1.com
 0.0.0.0 r.ad6media.fr
@@ -3235,6 +3238,7 @@
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.adalliance.io
+0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 tracking.bdi-services.de
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.content-recommendation.net
@@ -3752,6 +3756,7 @@
 0.0.0.0 www.xiti.com
 0.0.0.0 www.yceml.net
 0.0.0.0 www.yotpo.com
+0.0.0.0 www.youjizz.com
 0.0.0.0 www.youporn.com
 0.0.0.0 www.yourtango.com
 0.0.0.0 www.za-ads.de
@@ -3768,6 +3773,7 @@
 0.0.0.0 xlog-va.byteoversea.com
 0.0.0.0 xl-trk.com
 0.0.0.0 xml.adbetnet.com
+0.0.0.0 xnxx.com
 0.0.0.0 xpl.theadex.com
 0.0.0.0 xray.mail.ru
 0.0.0.0 x.skimresources.com
