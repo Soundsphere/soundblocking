@@ -199,6 +199,7 @@
 0.0.0.0 adquality.ch
 0.0.0.0 ads18.vertamedia.com
 0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads5.admatic.com.tr
 0.0.0.0 ads.ad4game.com
 0.0.0.0 ads.adadapted.com
 0.0.0.0 ads.adaptv.advertising.com
@@ -1076,6 +1077,7 @@
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 core.adunity.com
 0.0.0.0 cosmos01ssl.webtrekk.net
+0.0.0.0 count24.de
 0.0.0.0 counter.cyberschnuffi.de
 0.0.0.0 counter.pax.com
 0.0.0.0 counter.rambler.ru
@@ -1660,6 +1662,7 @@
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gs.statcounter.com
 0.0.0.0 gstaticadssl.l.google.com
+0.0.0.0 gttr.hit.gemius.pl
 0.0.0.0 gum.criteo.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gwd.lphbs.com
@@ -1890,6 +1893,7 @@
 0.0.0.0 js.sddan.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.smartredirect.de
+0.0.0.0 jssocdn.indiatimes.com
 0.0.0.0 js.spotx.tv
 0.0.0.0 js.stroeermediabrands.de
 0.0.0.0 js.users.51.la
@@ -2018,6 +2022,7 @@
 0.0.0.0 m.addthis.com
 0.0.0.0 m.addthisedge.com
 0.0.0.0 madmanmovies.net
+0.0.0.0 madmimi.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads-eu.amazon.com
@@ -3016,8 +3021,10 @@
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 strips.vidible.tv
 0.0.0.0 st.targetix.net
+0.0.0.0 st.tmgrup.com.tr
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 stun.services.mozilla.com
+0.0.0.0 style2.ad6.fr
 0.0.0.0 s.tyxo.com
 0.0.0.0 su.addthis.com
 0.0.0.0 subpixel.4players.de
@@ -3480,6 +3487,7 @@
 0.0.0.0 web.archive.org
 0.0.0.0 webed.dm.gg
 0.0.0.0 web.industrybrains.com
+0.0.0.0 webredir.vip.gandi.net
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 websearch.net
@@ -3639,6 +3647,7 @@
 0.0.0.0 www.fitforfun.de
 0.0.0.0 www.fqtag.com
 0.0.0.0 www.friendlyduck.com
+0.0.0.0 www.fuck.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.fyber.com
 0.0.0.0 www.gaymaletube.com
@@ -3707,6 +3716,7 @@
 0.0.0.0 www.pinterest.com
 0.0.0.0 www.placelocal.com
 0.0.0.0 www.plista.com
+0.0.0.0 www.poppen.de
 0.0.0.0 www.powerlinks.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
@@ -3717,6 +3727,7 @@
 0.0.0.0 www.ranking-hits.de
 0.0.0.0 www.refersion.com
 0.0.0.0 www.res-x.com
+0.0.0.0 www.rollbar.com
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 www.rubiconproject.com
 0.0.0.0 www.safedk.com
@@ -3780,6 +3791,7 @@
 0.0.0.0 xpl.theadex.com
 0.0.0.0 xray.mail.ru
 0.0.0.0 x.skimresources.com
+0.0.0.0 xslt.alexa.com
 0.0.0.0 xtrapath2.izatcloud.net
 0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xtr.carambo.la
