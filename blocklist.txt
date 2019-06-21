@@ -1210,6 +1210,7 @@
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
 0.0.0.0 data134.adlooxtracking.com
+0.0.0.0 data13.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
 0.0.0.0 data19.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
@@ -2004,6 +2005,7 @@
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lv.adocean.pl
+0.0.0.0 l.yimg.com
 0.0.0.0 lynxbroker.de
 0.0.0.0 lyr122000c.pubmatic.com
 0.0.0.0 m1.nsimg.net
@@ -2608,6 +2610,7 @@
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s0.wp.com
 0.0.0.0 s10.histats.com
+0.0.0.0 s1184.t.eloqua.com
 0.0.0.0 s11.flagcounter.com
 0.0.0.0 s1.adform.net
 0.0.0.0 s.206ads.com
