@@ -51,6 +51,7 @@
 0.0.0.0 79423.analytics.edgekey.net
 0.0.0.0 7b935.v.fwmrm.net
 0.0.0.0 813-mam-392.mktoresp.com
+0.0.0.0 831974702.keywordblocks.com
 0.0.0.0 8468614.fls.doubleclick.net
 0.0.0.0 882-nzg-493.mktoresp.com
 0.0.0.0 883205.fls.doubleclick.net
@@ -67,6 +68,7 @@
 0.0.0.0 a2160.casalemedia.com
 0.0.0.0 a2170.casalemedia.com
 0.0.0.0 a2171.casalemedia.com
+0.0.0.0 a2180.casalemedia.com
 0.0.0.0 a2181.casalemedia.com
 0.0.0.0 a2190.casalemedia.com
 0.0.0.0 a2191.casalemedia.com
@@ -210,6 +212,7 @@
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.adtiger.de
 0.0.0.0 ads.altitude-arena.com
+0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads.aws.viber.com
@@ -915,6 +918,7 @@
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.w55c.net
 0.0.0.0 cdn.wbtrk.net
+0.0.0.0 cdnx.tribalfusion.com
 0.0.0.0 cdn.zarget.com
 0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 cdn.zopim.com
@@ -1210,6 +1214,7 @@
 0.0.0.0 data04.adlooxtracking.com
 0.0.0.0 data06.adlooxtracking.com
 0.0.0.0 data07.adlooxtracking.com
+0.0.0.0 data08.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data13.adlooxtracking.com
@@ -1224,10 +1229,13 @@
 0.0.0.0 data28.adlooxtracking.com
 0.0.0.0 data29.adlooxtracking.com
 0.0.0.0 data2.gosquared.com
+0.0.0.0 data30.adlooxtracking.com
 0.0.0.0 data35.adlooxtracking.com
 0.0.0.0 data37.adlooxtracking.com
+0.0.0.0 data53.adlooxtracking.com
 0.0.0.0 data60.adlooxtracking.com
 0.0.0.0 data62.adlooxtracking.com
+0.0.0.0 data63.adlooxtracking.com
 0.0.0.0 data67.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
@@ -1267,6 +1275,7 @@
 0.0.0.0 de.ads.justpremium.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 deezer.com
+0.0.0.0 defshop01.webtrekk.net
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
 0.0.0.0 del.icio.us
@@ -1401,6 +1410,7 @@
 0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 e.crashlytics.com
+0.0.0.0 ec-track.com
 0.0.0.0 edatasales.com
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edge.quantserve.com
@@ -1482,6 +1492,7 @@
 0.0.0.0 events.reddit.com
 0.0.0.0 events.redditmedia.co
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.secureserver.net
 0.0.0.0 events.streamrail.net
 0.0.0.0 events.whisk.com
 0.0.0.0 event.yoochoose.net
@@ -1643,6 +1654,7 @@
 0.0.0.0 go.pardot.com
 0.0.0.0 go.redirectingat.com
 0.0.0.0 go.shareaholic.com
+0.0.0.0 go.skimresources.com
 0.0.0.0 go.strpjmp.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 go.urbanairship.com
@@ -1705,9 +1717,11 @@
 0.0.0.0 hosts-file.net
 0.0.0.0 hp.myway.com
 0.0.0.0 hrum.hotelsapi.io
+0.0.0.0 hrumpoc.hotels.com
 0.0.0.0 h-sdk.online-metrix.net
 0.0.0.0 ht.youporn.com
 0.0.0.0 hubt.pornhub.com
+0.0.0.0 hubtraffic.com
 0.0.0.0 hurra.com
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 hzs22.cnzz.com
@@ -1968,6 +1982,7 @@
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 logger-06.vty.dailymotion.com
 0.0.0.0 logger.cloudmobi.net
+0.0.0.0 logger.dailymotion.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 logg.kiwi.com
 0.0.0.0 log-ird.outbrain.com
@@ -2207,6 +2222,7 @@
 0.0.0.0 ol.uk.at.atwola.com
 0.0.0.0 om.cbsi.com
 0.0.0.0 omns.americanexpress.com
+0.0.0.0 oms.expedia.com
 0.0.0.0 oms.nuggad.net
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 one-and-one-d.openx.net
@@ -2542,6 +2558,7 @@
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 revee.outbrain.com
+0.0.0.0 rh.adscale.de
 0.0.0.0 rlog.9gag.com
 0.0.0.0 r.mail.ru
 0.0.0.0 rmsi.nuggad.net
@@ -2567,6 +2584,7 @@
 0.0.0.0 r.skimresources.com
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.applovin.com
+0.0.0.0 rt.applvn.com
 0.0.0.0 rtax.criteo.com
 0.0.0.0 rtb7.adscience.nl
 0.0.0.0 rtb.adentifi.com
@@ -2804,6 +2822,7 @@
 0.0.0.0 sjrtp5.marketo.com
 0.0.0.0 sjrtp6-cdn.marketo.com
 0.0.0.0 sjrtp6.marketo.com
+0.0.0.0 sjrtp7-cdn.marketo.com
 0.0.0.0 sjrtp8-cdn.marketo.com
 0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 sjrtp-cdn.marketo.com
@@ -2928,6 +2947,7 @@
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adzerk.net
+0.0.0.0 static.affilae.com
 0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.apester.com
 0.0.0.0 static.atgsvcs.com
@@ -3034,6 +3054,7 @@
 0.0.0.0 s.update.rubiconproject.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 supersonicads-a.akamaihd.net
+0.0.0.0 supply.upjers.com
 0.0.0.0 support.coinjar.com
 0.0.0.0 survey.122.2o7.net
 0.0.0.0 survey.g.doubleclick.net
@@ -3253,6 +3274,7 @@
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.content-recommendation.net
 0.0.0.0 tracking.cp.ligatus.com
+0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.gj-mobile-services.de
 0.0.0.0 tracking.groupon.com
@@ -3324,6 +3346,7 @@
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.skimresources.com
+0.0.0.0 t.smile.eu
 0.0.0.0 t.svtrd.com
 0.0.0.0 tt3.zedo.com
 0.0.0.0 t.teads.tv
@@ -3391,6 +3414,7 @@
 0.0.0.0 us.pixel.newscgp.com
 0.0.0.0 us.smsapi.micloud.xiaomi.net
 0.0.0.0 us.statusapi.micloud.xiaomi.net
+0.0.0.0 u.startup.mobile.webvisor.com
 0.0.0.0 usucmweb.dotomi.com
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.wa.ui-portal.com
@@ -3751,6 +3775,7 @@
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tag4arm.com
 0.0.0.0 www.terrapinn.com
+0.0.0.0 www.theplace2.ru
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tumblr.com
