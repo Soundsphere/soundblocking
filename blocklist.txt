@@ -1235,9 +1235,11 @@
 0.0.0.0 data35.adlooxtracking.com
 0.0.0.0 data37.adlooxtracking.com
 0.0.0.0 data53.adlooxtracking.com
+0.0.0.0 data55.adlooxtracking.com
 0.0.0.0 data60.adlooxtracking.com
 0.0.0.0 data62.adlooxtracking.com
 0.0.0.0 data63.adlooxtracking.com
+0.0.0.0 data66.adlooxtracking.com
 0.0.0.0 data67.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
@@ -1464,6 +1466,7 @@
 0.0.0.0 eu.a.volvelle.tech
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
+0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 eu.qualtrics.com
 0.0.0.0 eur-ukp.adsrvr.org
 0.0.0.0 eu-sonar.sociomantic.com
@@ -1842,6 +1845,7 @@
 0.0.0.0 inter1ads.com
 0.0.0.0 internalredirect.site
 0.0.0.0 intljs.rmtag.com
+0.0.0.0 in.treasuredata.com
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 ioam.de
 0.0.0.0 io.narrative.io
@@ -1911,6 +1915,7 @@
 0.0.0.0 js.sddan.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.smartredirect.de
+0.0.0.0 js.smi2.ru
 0.0.0.0 jssocdn.indiatimes.com
 0.0.0.0 js.spotx.tv
 0.0.0.0 js.stroeermediabrands.de
@@ -2646,6 +2651,7 @@
 0.0.0.0 s248.meetrics.net
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s.2app.lk
+0.0.0.0 s2.nend.net
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
@@ -2705,6 +2711,7 @@
 0.0.0.0 s-cs.send.microad.jp
 0.0.0.0 sc-static.net
 0.0.0.0 sc.tynt.com
+0.0.0.0 s.cxt.ms
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -2829,6 +2836,7 @@
 0.0.0.0 sjrtp6-cdn.marketo.com
 0.0.0.0 sjrtp6.marketo.com
 0.0.0.0 sjrtp7-cdn.marketo.com
+0.0.0.0 sjrtp7.marketo.com
 0.0.0.0 sjrtp8-cdn.marketo.com
 0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 sjrtp-cdn.marketo.com
@@ -2954,6 +2962,7 @@
 0.0.0.0 static.adsnative.com
 0.0.0.0 static.ads-twitter.com
 0.0.0.0 static.adzerk.net
+0.0.0.0 static.adziff.com
 0.0.0.0 static.affilae.com
 0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.apester.com
@@ -3658,9 +3667,11 @@
 0.0.0.0 www.computec.ch
 0.0.0.0 www.comscore.com
 0.0.0.0 www.condenast.com
+0.0.0.0 www.contaxe.com
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
+0.0.0.0 www.cydots.com
 0.0.0.0 www.da-ads.com
 0.0.0.0 www.demdex.net
 0.0.0.0 www.dianomi.com
@@ -3844,6 +3855,7 @@
 0.0.0.0 ynuf.alipay.com
 0.0.0.0 yoc.optout.skimresources.com
 0.0.0.0 youporn.com
+0.0.0.0 yourservice.live
 0.0.0.0 youtu.be
 0.0.0.0 z11.cnzz.com
 0.0.0.0 z15ba20a04.webengage.co
