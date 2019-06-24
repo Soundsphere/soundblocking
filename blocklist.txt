@@ -601,6 +601,7 @@
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assets.tapad.com
+0.0.0.0 assistjs.skimresources.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 a.teads.tv
@@ -934,6 +935,7 @@
 0.0.0.0 cewecolor.d3.sc.omtrdc.net
 0.0.0.0 cf.cdn.inmobi.com
 0.0.0.0 c.fqtag.com
+0.0.0.0 cgi.connect.qq.com
 0.0.0.0 cgicounter.onlinehome.de
 0.0.0.0 c.go-mpulse.net
 0.0.0.0 c.gumgum.com
@@ -1499,6 +1501,7 @@
 0.0.0.0 ev.kck.st
 0.0.0.0 evt.klarna.com
 0.0.0.0 ew1.dms-gld.bigdata.ssp.samsung.com
+0.0.0.0 ew3.io
 0.0.0.0 exapxl.de
 0.0.0.0 ex.banner.t-online.de
 0.0.0.0 exch.quantcount.com
@@ -1610,6 +1613,7 @@
 0.0.0.0 geoip-lookup.vice.com
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geoloc.arte.tv
+0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.qualaroo.com
@@ -1936,6 +1940,7 @@
 0.0.0.0 launcher.mojang.com
 0.0.0.0 launchpadlibrarian.net
 0.0.0.0 l.betrad.com
+0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 lc.livefyre.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.naver.com
@@ -2704,6 +2709,7 @@
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 sdktm.w.inmobi.com
 0.0.0.0 sdo.oewabox.at
@@ -2910,6 +2916,7 @@
 0.0.0.0 ssl.xplosion.de
 0.0.0.0 ss.musthird.com
 0.0.0.0 ssp.adriver.ru
+0.0.0.0 ssp-csync.smartadserver.com
 0.0.0.0 ssp.lkqd.net
 0.0.0.0 s.spoutable.com
 0.0.0.0 ssp.streamrail.net
@@ -3003,6 +3010,7 @@
 0.0.0.0 stats.bluebillywig.com
 0.0.0.0 stats.buysellads.com
 0.0.0.0 stats.computecmedia.de
+0.0.0.0 statsd.zmags.com
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stats.g.doubleclick.net
@@ -3281,6 +3289,7 @@
 0.0.0.0 tracking.hotel.check24.de
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.m6r.eu
@@ -3316,6 +3325,7 @@
 0.0.0.0 trbna.com
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.spoteffects.net
+0.0.0.0 tr.cloud-media.fr
 0.0.0.0 trc.taboola.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trgde.adocean.pl
