@@ -27,6 +27,7 @@
 0.0.0.0 3p.ampproject.net
 0.0.0.0 403-agf-920.mktoresp.com
 0.0.0.0 4228414.fls.doubleclick.net
+0.0.0.0 4235921.fls.doubleclick.net
 0.0.0.0 4345210.fls.doubleclick.net
 0.0.0.0 4704202.fls.doubleclick.net
 0.0.0.0 4898337.fls.doubleclick.net
@@ -38,6 +39,7 @@
 0.0.0.0 538-dcx-400.mktoresp.com
 0.0.0.0 561-hyg-937.mktoresp.com
 0.0.0.0 5779200.fls.doubleclick.net
+0.0.0.0 5779616.fls.doubleclick.net
 0.0.0.0 5977010.fls.doubleclick.net
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5d0b6.v.fwmrm.net
@@ -331,6 +333,7 @@
 0.0.0.0 ag.yieldoptimizer.com
 0.0.0.0 a.hstrck.com
 0.0.0.0 a.idio.co
+0.0.0.0 aimfar.solution.weborama.fr
 0.0.0.0 a.impactradius-go.com
 0.0.0.0 a.intentmedia.net
 0.0.0.0 airbrake.io
@@ -854,6 +857,7 @@
 0.0.0.0 cdn.intergi.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdnjs.cloudflare.com
+0.0.0.0 cdnjs.tvpage.com
 0.0.0.0 cdn.krxd.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.livechatinc.com
@@ -1173,6 +1177,7 @@
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 d2k03kvdk5cku0.cloudfront.net
+0.0.0.0 d2na2p72vtqyok.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
@@ -1424,6 +1429,7 @@
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.hit.gemius.pl
 0.0.0.0 eepurl.com
+0.0.0.0 ei.rlcdn.com
 0.0.0.0 eiv.baidu.com
 0.0.0.0 ekladata.com
 0.0.0.0 eldamar01-loadbalanced.kameleoon.com
@@ -1565,6 +1571,7 @@
 0.0.0.0 form-cdn.pardot.com
 0.0.0.0 forms.gle
 0.0.0.0 fotocommunity.digidip.net
+0.0.0.0 foxnet.demdex.net
 0.0.0.0 foxnews.demdex.net
 0.0.0.0 fp.msedge.net
 0.0.0.0 fptadtrue-d.openx.net
@@ -3461,6 +3468,7 @@
 0.0.0.0 vast-test.mathtag.com
 0.0.0.0 va.tawk.to
 0.0.0.0 vcdn.adnxs.com
+0.0.0.0 vcm-match.dotomi.com
 0.0.0.0 vdna.exelator.com
 0.0.0.0 venatusmedia-d.openx.net
 0.0.0.0 vendorlist.consensu.org
@@ -3514,6 +3522,7 @@
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
 0.0.0.0 vz-cdn.contentabc.com
+0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 walker.zdbb.net
 0.0.0.0 washingtonpost.com.102.112.2o7.net
 0.0.0.0 watson.microsoft.com
@@ -3544,6 +3553,7 @@
 0.0.0.0 wellsfargobankna.demdex.net
 0.0.0.0 weltonline01.webtrekk.net
 0.0.0.0 w.estat.com
+0.0.0.0 westernunion.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 wetlook.com
 0.0.0.0 wetransfer-d.openx.net
 0.0.0.0 wf.taboola.com
@@ -3559,6 +3569,7 @@
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.privy.com
 0.0.0.0 widgets.amung.us
+0.0.0.0 widget.siteheart.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
 0.0.0.0 widget.us.criteo.com
