@@ -57,6 +57,7 @@
 0.0.0.0 8468614.fls.doubleclick.net
 0.0.0.0 882-nzg-493.mktoresp.com
 0.0.0.0 883205.fls.doubleclick.net
+0.0.0.0 959-tqv-890.mktoresp.com
 0.0.0.0 998766.fls.doubleclick.net
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0003.a-msedge.net
@@ -303,6 +304,7 @@
 0.0.0.0 advertiser.wbtrk.net
 0.0.0.0 advertising.amazon.co.uk
 0.0.0.0 advertising.bbcworldwide.com
+0.0.0.0 advertising.ingame.de
 0.0.0.0 advice-ads-cdn.vice.com
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adv.imadrep.co.kr
@@ -598,6 +600,7 @@
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.jetlore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 assets.kromtech.net
 0.0.0.0 assets.micpn.com
 0.0.0.0 assets.pinterest.com
 0.0.0.0 assets.privy.com
@@ -624,6 +627,8 @@
 0.0.0.0 autoappassionati.it
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 autolinkmaker.itunes.apple.com
+0.0.0.0 aux-log1-sh.vertamedia.com
+0.0.0.0 aux-log2-sh.vertamedia.com
 0.0.0.0 a.volvelle.tech
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awseukpi.whisbi.com
@@ -769,6 +774,7 @@
 0.0.0.0 cbm02.webtrekk.net
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
+0.0.0.0 cbs.wondershare.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 c.cnzz.com
@@ -1091,6 +1097,7 @@
 0.0.0.0 counter.cyberschnuffi.de
 0.0.0.0 counter.pax.com
 0.0.0.0 counter.rambler.ru
+0.0.0.0 counter.scribblelive.com
 0.0.0.0 counter.snackly.co
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.top.ge
@@ -1538,6 +1545,7 @@
 0.0.0.0 faz.met.vgwort.de
 0.0.0.0 fbc.wcfbc.net
 0.0.0.0 fc03.deviantart.net
+0.0.0.0 fcaemea.demdex.net
 0.0.0.0 fc.vodafone.de
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fc.yahoo.com
@@ -1716,6 +1724,7 @@
 0.0.0.0 heise02.webtrekk.net
 0.0.0.0 hello.myfonts.net
 0.0.0.0 help.bingads.microsoft.com
+0.0.0.0 helper-stats.wondershare.com
 0.0.0.0 heredeutschlandgmbh.d1.sc.omtrdc.net
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hifi-forum.de.intellitxt.com
@@ -1969,6 +1978,7 @@
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 likemore-fe.go.mail.ru
 0.0.0.0 linicom.co.uk
+0.0.0.0 linkconnector.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 liveramp.com
@@ -2115,6 +2125,7 @@
 0.0.0.0 media.carambo.la
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediafire-d.openx.net
+0.0.0.0 media.flixfacts.com
 0.0.0.0 media.gameduell.de
 0.0.0.0 media-lax1.inq.com
 0.0.0.0 media.licdn.com
@@ -2187,6 +2198,7 @@
 0.0.0.0 my.rtmark.net
 0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n161adserv.com
+0.0.0.0 n4p.ru.redtram.com
 0.0.0.0 naakte-beroemdheden.startkabel.nl
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 nan.netmng.com
@@ -2197,6 +2209,7 @@
 0.0.0.0 nba.demdex.net
 0.0.0.0 nbcu.demdex.net
 0.0.0.0 nbcume.sc.omtrdc.net
+0.0.0.0 nc.ru.redtram.com
 0.0.0.0 neads.delivery
 0.0.0.0 nervoussummer.com
 0.0.0.0 netweather.accuweather.com
@@ -2296,6 +2309,7 @@
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 partners.webmasterplan.com
+0.0.0.0 pa.rxthdr.com
 0.0.0.0 pastie.org
 0.0.0.0 pa.tns-ua.com
 0.0.0.0 p.ato.mx
@@ -2658,6 +2672,7 @@
 0.0.0.0 s248.meetrics.net
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s.2app.lk
+0.0.0.0 s2k7tnzlhrpw.statuspage.io
 0.0.0.0 s2.nend.net
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3.eu-central-1.amazonaws.com
@@ -2874,6 +2889,7 @@
 0.0.0.0 snippets.cdn.mozilla.net
 0.0.0.0 snoop.minecraft.net
 0.0.0.0 s.ntv.io
+0.0.0.0 socialize.eu1.gigya.com
 0.0.0.0 socialize.us1.gigya.com
 0.0.0.0 sofia.trustx.org
 0.0.0.0 softonic.com
@@ -3061,6 +3077,7 @@
 0.0.0.0 storage.outbrain.com
 0.0.0.0 storecatalogrevocation.storequality.microsoft.com
 0.0.0.0 s.tradingview.com
+0.0.0.0 stream1.livefyre.com
 0.0.0.0 streamamp-d.openx.net
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 strips.vidible.tv
@@ -3429,6 +3446,7 @@
 0.0.0.0 usemaxserver.de
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
+0.0.0.0 user-sync.adhese.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use.typekit.net
 0.0.0.0 us.find.api.micloud.xiaomi.net
@@ -3868,6 +3886,7 @@
 0.0.0.0 youporn.com
 0.0.0.0 yourservice.live
 0.0.0.0 youtu.be
+0.0.0.0 yui.yahooapis.com
 0.0.0.0 z11.cnzz.com
 0.0.0.0 z15ba20a04.webengage.co
 0.0.0.0 z7.cnzz.com
