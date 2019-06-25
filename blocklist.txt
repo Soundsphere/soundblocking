@@ -3582,6 +3582,7 @@
 0.0.0.0 weltonline01.webtrekk.net
 0.0.0.0 w.estat.com
 0.0.0.0 westernunion.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 westernunion.tt.omtrdc.net
 0.0.0.0 wetlook.com
 0.0.0.0 wetransfer-d.openx.net
 0.0.0.0 wf.taboola.com
