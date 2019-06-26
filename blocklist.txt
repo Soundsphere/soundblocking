@@ -63,6 +63,7 @@
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a0.smi2.ru
 0.0.0.0 a1.adform.net
+0.0.0.0 a1talk.de.intellitxt.com
 0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2140.casalemedia.com
@@ -162,6 +163,7 @@
 0.0.0.0 adbutler-fermion.com
 0.0.0.0 adc3-assets.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 ad.caprofitx.adtdp.com
 0.0.0.0 adclear.baur.de
 0.0.0.0 adclick.g.doubleclick.net
 0.0.0.0 ad.crwdcntrl.net
@@ -242,6 +244,7 @@
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver.eyeonx.ch
 0.0.0.0 adserver.idg.de
+0.0.0.0 adserver.iprom.net
 0.0.0.0 adserver-qcamt.adtech.de
 0.0.0.0 adserver-qcmtc.adtechus.com
 0.0.0.0 adserver.snapads.com
@@ -278,6 +281,7 @@
 0.0.0.0 ads.shorte.st
 0.0.0.0 ads.s-i-r.de
 0.0.0.0 ads.smaato.com
+0.0.0.0 ads.smartfeedads.com
 0.0.0.0 ads.smartshoppingads.de
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 ads.stickyadstv.com
@@ -423,6 +427,7 @@
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mobile.walmart.com
+0.0.0.0 analytics.moviepilot.de
 0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.pinpoll.com
@@ -900,6 +905,7 @@
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdn.rawgit.com
 0.0.0.0 cdn.revcontent.com
+0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdns.connatix.com
 0.0.0.0 cdn.segment.com
@@ -1292,6 +1298,7 @@
 0.0.0.0 dc56.s290.meetrics.net
 0.0.0.0 dc61.s290.meetrics.net
 0.0.0.0 dc84.s290.meetrics.net
+0.0.0.0 d-cache.microad.jp
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 dc.banggood.com
 0.0.0.0 dcinfos.abtasty.com
@@ -1678,6 +1685,7 @@
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 go.ezoic.net
 0.0.0.0 goldbach-de-d.openx.net
+0.0.0.0 goldbach.hit.gemius.pl
 0.0.0.0 goo.gl
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads4.g.doubleclick.net
@@ -2260,6 +2268,7 @@
 0.0.0.0 ns.zdbb.net
 0.0.0.0 ntvcld-a.akamaihd.net
 0.0.0.0 nxtck.com
+0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 nzz.d3.sc.omtrdc.net
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 oasc-eu1.247realmedia.com
@@ -2507,6 +2516,7 @@
 0.0.0.0 public2.bravenet.com
 0.0.0.0 public.vilynx.com
 0.0.0.0 publisher-config.unityads.unity3d.com
+0.0.0.0 publishing.kalooga.com
 0.0.0.0 pubmatic2waycm-atl.netmng.com
 0.0.0.0 pubmatic-match.dotomi.com
 0.0.0.0 pubmatic-winners-ap-northeast-1-rtb.adroll.com
@@ -2685,6 +2695,7 @@
 0.0.0.0 s01.flagcounter.com
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s05.flagcounter.com
+0.0.0.0 s07.flagcounter.com
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s0.wp.com
 0.0.0.0 s10.histats.com
@@ -2832,6 +2843,7 @@
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedby.flashtalking.com
 0.0.0.0 server03new.dot.at
+0.0.0.0 server1.affiz.net
 0.0.0.0 server.adformdsp.net
 0.0.0.0 server.adform.net
 0.0.0.0 serverbid-sync.nyc3.cdn.digitaloceanspaces.com
@@ -2930,6 +2942,7 @@
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spbvoditel.ru
+0.0.0.0 sp.gmossp-sp.jp
 0.0.0.0 spgo.io
 0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 spiegel.met.vgwort.de
@@ -3379,6 +3392,7 @@
 0.0.0.0 track.omguk.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.securedvisit.com
+0.0.0.0 track.spots.im
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.thesaurus.com
@@ -3471,6 +3485,7 @@
 0.0.0.0 ups.inq.com
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 urbanmedia-d.openx.net
+0.0.0.0 urlaubspiraten.digidip.net
 0.0.0.0 urs.cnet.com
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 us-ads.openx.net
@@ -3796,6 +3811,7 @@
 0.0.0.0 www.ligatus.com
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liveinternet.ru
+0.0.0.0 www.liveperson.com
 0.0.0.0 www.localytics.com
 0.0.0.0 www.lotame.com
 0.0.0.0 www.mainadv.com
