@@ -403,6 +403,7 @@
 0.0.0.0 analytics.audioeye.com
 0.0.0.0 analytics.aweber.com
 0.0.0.0 analytics.blogspot.com
+0.0.0.0 analytics.brandcrumb.com
 0.0.0.0 analytics.businessinsider.com
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccs.mcafee.com
@@ -528,6 +529,7 @@
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab16.marketo.com
+0.0.0.0 app-ab17.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-ab25.marketo.com
@@ -758,6 +760,7 @@
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cache-ssl.celtra.com
+0.0.0.0 c.ad6media.fr
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 cafemedia-d.openx.net
 0.0.0.0 c.amazon-adsystem.com
@@ -2569,6 +2572,7 @@
 0.0.0.0 r.adrolays.de
 0.0.0.0 r.adserver01.de
 0.0.0.0 ramp.purch.com
+0.0.0.0 rating.openstat.ru
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbp.mxptint.net
 0.0.0.0 r.casalemedia.com
@@ -2756,6 +2760,7 @@
 0.0.0.0 sc.tynt.com
 0.0.0.0 s.cxt.ms
 0.0.0.0 sdk.accountkit.com
+0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
