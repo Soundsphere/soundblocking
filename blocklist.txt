@@ -1334,6 +1334,7 @@
 0.0.0.0 discord.gg
 0.0.0.0 dis.criteo.com
 0.0.0.0 dis.eu.criteo.com
+0.0.0.0 dispatcher.mng-ads.com
 0.0.0.0 dispatcher.oewabox.at
 0.0.0.0 displayad.layer-ad.org
 0.0.0.0 display.apester.com
@@ -2576,6 +2577,7 @@
 0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 redirect.viglink.com
 0.0.0.0 referrer.disqus.com
+0.0.0.0 reflethenfortoft.info
 0.0.0.0 register.appsflyer.com
 0.0.0.0 relap.io
 0.0.0.0 remote-data.urbanairship.com
@@ -2729,6 +2731,7 @@
 0.0.0.0 scout24-d.openx.net
 0.0.0.0 s.cpx.to
 0.0.0.0 script.crazyegg.com
+0.0.0.0 script.dotmetrics.net
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
 0.0.0.0 scripts.attributionapp.com
@@ -3205,6 +3208,7 @@
 0.0.0.0 target.smi2.net
 0.0.0.0 target.smi2.ru
 0.0.0.0 tc.airfrance.com
+0.0.0.0 t.channeladvisor.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 t.co
 0.0.0.0 t.contentsquare.net
