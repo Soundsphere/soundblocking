@@ -354,6 +354,7 @@
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 a.ligatus.com
+0.0.0.0 alocdn.com
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alog.umeng.com
@@ -488,6 +489,7 @@
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
 0.0.0.0 api.nextgen.guardianapps.co.uk
+0.0.0.0 api.optmnstr.com
 0.0.0.0 api.parsely.com
 0.0.0.0 api.permutive.com
 0.0.0.0 api.picsart.com
@@ -979,6 +981,7 @@
 0.0.0.0 click.plista.com
 0.0.0.0 click.revue.email
 0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 clickserv.sitescout.com
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client.a.pxi.pub
@@ -1020,6 +1023,7 @@
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 cnn.bounceexchange.com
 0.0.0.0 cnt2.stroeerdp.de
+0.0.0.0 cnzz.mmstat.com
 0.0.0.0 code.bildstatic.de
 0.0.0.0 code.etracker.com
 0.0.0.0 codefund.app
@@ -1404,6 +1408,7 @@
 0.0.0.0 dtxngr.com
 0.0.0.0 dtxtngytz5im1.cloudfront.net
 0.0.0.0 dumontnet.d3.sc.omtrdc.net
+0.0.0.0 dup.baidustatic.com
 0.0.0.0 dust.ipfingerprint.com
 0.0.0.0 d.xp1.ru4.com
 0.0.0.0 dx.steelhousemedia.com
@@ -1429,6 +1434,8 @@
 0.0.0.0 ebs.criteo.com
 0.0.0.0 eb.trbas.com
 0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 eclick.baidu.com
+0.0.0.0 ecomcbjs.jomodns.com
 0.0.0.0 ecommerce.iap.unity3d.com
 0.0.0.0 e.crashlytics.com
 0.0.0.0 ec-track.com
@@ -1743,6 +1750,7 @@
 0.0.0.0 home.earthlink.net
 0.0.0.0 h.online-metrix.net
 0.0.0.0 horizon.sailthru.com
+0.0.0.0 hos1.cnzz.com
 0.0.0.0 hosts-file.net
 0.0.0.0 hp.myway.com
 0.0.0.0 hrum.hotelsapi.io
@@ -1889,6 +1897,7 @@
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 i.skimresources.com
 0.0.0.0 iterable.com
+0.0.0.0 iteye.com
 0.0.0.0 itx4-secure.smartadserver.com
 0.0.0.0 itx4.smartadserver.com
 0.0.0.0 itx5-secure.smartadserver.com
@@ -2136,6 +2145,7 @@
 0.0.0.0 media.gameduell.de
 0.0.0.0 media-lax1.inq.com
 0.0.0.0 media.licdn.com
+0.0.0.0 mediametrics.ru
 0.0.0.0 medianet-match.dotomi.com
 0.0.0.0 media.richrelevance.com
 0.0.0.0 mediation.adnxs.com
@@ -3002,6 +3012,7 @@
 0.0.0.0 static.ak.fbcdn.net
 0.0.0.0 static.apester.com
 0.0.0.0 static.atgsvcs.com
+0.0.0.0 static.audienceinsights.net
 0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clicktripz.com
@@ -3025,6 +3036,7 @@
 0.0.0.0 static.plista.com
 0.0.0.0 static.showheroes.com
 0.0.0.0 static.site24x7rum.com
+0.0.0.0 static.smi2.net
 0.0.0.0 static.ssacdn.com
 0.0.0.0 statics.streamable.com
 0.0.0.0 static.trackedweb.net
@@ -3095,6 +3107,7 @@
 0.0.0.0 strips.vidible.tv
 0.0.0.0 st.targetix.net
 0.0.0.0 st.tmgrup.com.tr
+0.0.0.0 st.top100.ru
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 stun.services.mozilla.com
 0.0.0.0 style2.ad6.fr
@@ -3115,6 +3128,7 @@
 0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 svastx.moatads.com
+0.0.0.0 s.vertamedia.com
 0.0.0.0 s.webtrends.com
 0.0.0.0 swisscom.demdex.net
 0.0.0.0 swrap.tradedoubler.com
@@ -3274,10 +3288,12 @@
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.nativendo.de
 0.0.0.0 token.rubiconproject.com
+0.0.0.0 tools.spylog.ru
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 toplist.cz
+0.0.0.0 top.list.ru
 0.0.0.0 top.mail.ru
 0.0.0.0 topofblogs.com
 0.0.0.0 touch.myntra.com
