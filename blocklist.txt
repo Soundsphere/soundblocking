@@ -897,6 +897,7 @@
 0.0.0.0 cdn.onenote.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
+0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.optmd.com
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
@@ -1131,6 +1132,7 @@
 0.0.0.0 cpxl.golem.de
 0.0.0.0 cracked.com
 0.0.0.0 crashdump.spotify.com
+0.0.0.0 crash.steampowered.com
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
