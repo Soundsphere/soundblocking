@@ -2488,6 +2488,7 @@
 0.0.0.0 p.rfihub.com
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 prisacom.sc.omtrdc.net
+0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
