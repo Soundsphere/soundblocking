@@ -1983,6 +1983,7 @@
 0.0.0.0 kiosked-d.openx.net
 0.0.0.0 kitbit.net
 0.0.0.0 kleinanzeigen-d.openx.net
+0.0.0.0 kohls.com
 0.0.0.0 komputerswiat.pl
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 krk.kargo.com
@@ -3890,11 +3891,9 @@
 0.0.0.0 www.theplace2.ru
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.tqlkg.com
-0.0.0.0 www.tumblr.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.unbounce.com
 0.0.0.0 www.upsellit.com
-0.0.0.0 www.urbandictionary.com
 0.0.0.0 www.usefomo.com
 0.0.0.0 www.usemax.de
 0.0.0.0 www.vagdashcom.de
