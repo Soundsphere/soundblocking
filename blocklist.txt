@@ -3334,6 +3334,7 @@
 0.0.0.0 t.pubmatic.com
 0.0.0.0 track1.aniview.com
 0.0.0.0 track1.viewdeos.com
+0.0.0.0 track2.selfcampaign.com
 0.0.0.0 track2.trbo.com
 0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
