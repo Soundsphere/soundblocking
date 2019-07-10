@@ -1997,6 +1997,9 @@
 0.0.0.0 launcher.mojang.com
 0.0.0.0 launchpadlibrarian.net
 0.0.0.0 lb100.s400.meetrics.net
+0.0.0.0 lb10.s400.meetrics.net
+0.0.0.0 lb17.s400.meetrics.net
+0.0.0.0 lb18.s400.meetrics.net
 0.0.0.0 lb23.s400.meetrics.net
 0.0.0.0 lb27.s400.meetrics.net
 0.0.0.0 lb30.s400.meetrics.net
@@ -2004,6 +2007,9 @@
 0.0.0.0 lb51.s400.meetrics.net
 0.0.0.0 lb56.s400.meetrics.net
 0.0.0.0 lb57.s400.meetrics.net
+0.0.0.0 lb64.s400.meetrics.net
+0.0.0.0 lb68.s400.meetrics.net
+0.0.0.0 lb97.s400.meetrics.net
 0.0.0.0 l.betrad.com
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 lc.livefyre.com
