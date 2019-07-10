@@ -780,6 +780,7 @@
 0.0.0.0 cat.fr.eu.criteo.com
 0.0.0.0 cat.nl.eu.criteo.com
 0.0.0.0 ca.video-cdn.net
+0.0.0.0 c.bacontent.de
 0.0.0.0 cbcca.demdex.net
 0.0.0.0 c.betrad.com
 0.0.0.0 c.bigmir.net
@@ -1998,6 +1999,8 @@
 0.0.0.0 lb100.s400.meetrics.net
 0.0.0.0 lb23.s400.meetrics.net
 0.0.0.0 lb27.s400.meetrics.net
+0.0.0.0 lb41.s400.meetrics.net
+0.0.0.0 lb56.s400.meetrics.net
 0.0.0.0 lb57.s400.meetrics.net
 0.0.0.0 l.betrad.com
 0.0.0.0 lciapi.ninthdecimal.com
@@ -3501,7 +3504,6 @@
 0.0.0.0 ups.inq.com
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 ups.xplosion.de
-0.0.0.0 urbandictionary.com
 0.0.0.0 urbanmedia-d.openx.net
 0.0.0.0 urlaubspiraten.digidip.net
 0.0.0.0 urs.cnet.com
