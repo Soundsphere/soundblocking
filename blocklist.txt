@@ -2008,6 +2008,7 @@
 0.0.0.0 librato-collector.genius.com
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 libs.de.coremetrics.com
+0.0.0.0 lib.selfcampaign.com
 0.0.0.0 libs.lavanetwork.net
 0.0.0.0 libs.outbrain.com
 0.0.0.0 licensing.bitmovin.com
