@@ -104,6 +104,7 @@
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 aa.agkn.com
 0.0.0.0 a.ad.gt
+0.0.0.0 a.adroll.com
 0.0.0.0 a.adsrvr.org
 0.0.0.0 a-ams.1rx.io
 0.0.0.0 a.applovin.com
@@ -216,6 +217,7 @@
 0.0.0.0 ads.admized.com
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.adtiger.de
+0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads-ap.adaptv.advertising.com
 0.0.0.0 ads.api.vungle.com
@@ -611,6 +613,7 @@
 0.0.0.0 asset.pagefair.net
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adstage.io
+0.0.0.0 assets.applovin.com
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.jetlore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
@@ -643,6 +646,7 @@
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 aux-log1-sh.vertamedia.com
 0.0.0.0 aux-log2-sh.vertamedia.com
+0.0.0.0 a.visualrevenue.com
 0.0.0.0 a.volvelle.tech
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awseukpi.whisbi.com
@@ -956,6 +960,7 @@
 0.0.0.0 cds.j3z9t3p6.hwcdn.net
 0.0.0.0 cds.s5x3j6q5.hwcdn.net
 0.0.0.0 ced.sascdn.com
+0.0.0.0 celeritascdn.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 cenome.nanovisor.io
 0.0.0.0 centro.pixel.ad
@@ -970,6 +975,7 @@
 0.0.0.0 c.gumgum.com
 0.0.0.0 chango.com
 0.0.0.0 chartbeat.com
+0.0.0.0 chaturbate.com
 0.0.0.0 chauvi-seite.de
 0.0.0.0 chimpstatic.com
 0.0.0.0 chng.it
@@ -1126,6 +1132,7 @@
 0.0.0.0 counter.top.ge
 0.0.0.0 counter.yadro.ru
 0.0.0.0 countess.twitch.tv
+0.0.0.0 count.rtl.de
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 count.spiegel.de
 0.0.0.0 count.xhit.com
@@ -1681,6 +1688,7 @@
 0.0.0.0 gg.google.com
 0.0.0.0 g.ign.com
 0.0.0.0 gj.mmstat.com
+0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 glb-ads.atwola.adtech.de
 0.0.0.0 glb-ads.atwola.adtechus.com
@@ -2244,6 +2252,7 @@
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mrb.upapi.net
+0.0.0.0 ms.applovin.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 mscom.demdex.net
 0.0.0.0 mse2v5oglm.com
@@ -2320,6 +2329,8 @@
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 oms.expedia.com
 0.0.0.0 oms.nuggad.net
+0.0.0.0 onclickmega.com
+0.0.0.0 onclicksuper.com
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 one-and-one-d.openx.net
 0.0.0.0 oneclient.sfx.ms
@@ -3160,6 +3171,7 @@
 0.0.0.0 stream1.livefyre.com
 0.0.0.0 streamamp-d.openx.net
 0.0.0.0 s.tribalfusion.com
+0.0.0.0 stripchat.com
 0.0.0.0 strips.vidible.tv
 0.0.0.0 st.targetix.net
 0.0.0.0 st.tmgrup.com.tr
@@ -3399,6 +3411,7 @@
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.adalliance.io
 0.0.0.0 trackingapi.kaufda.de
+0.0.0.0 trackingapi.meinprospekt.de
 0.0.0.0 tracking.bdi-services.de
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.content-recommendation.net
@@ -3484,6 +3497,7 @@
 0.0.0.0 t.teads.tv
 0.0.0.0 tt.onthe.io
 0.0.0.0 t.trafmag.com
+0.0.0.0 t.unbounce.com
 0.0.0.0 tunnl.com
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 twa.netcoresmartech.com
@@ -3637,6 +3651,7 @@
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 walker.zdbb.net
 0.0.0.0 washingtonpost.com.102.112.2o7.net
+0.0.0.0 watch-this.live
 0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wa.ui-portal.de
@@ -3772,6 +3787,7 @@
 0.0.0.0 www.autopilothq.com
 0.0.0.0 www.avantlink.com
 0.0.0.0 www.awin.com
+0.0.0.0 www.awltovhc.com
 0.0.0.0 www.bannedsextapes.com
 0.0.0.0 www.barilliance.net
 0.0.0.0 www.bcloudhost.com
@@ -3978,6 +3994,7 @@
 0.0.0.0 yasni.bannertrack.net
 0.0.0.0 yastatic.net
 0.0.0.0 yast.rutube.ru
+0.0.0.0 yieldbird-d.openx.net
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 yjtag.yahoo.co.jp
