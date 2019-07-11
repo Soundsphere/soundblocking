@@ -1446,6 +1446,7 @@
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
 0.0.0.0 e1.extreme-dm.com
+0.0.0.0 e2e.mashable.com
 0.0.0.0 e2ertt.com
 0.0.0.0 e5019.e2.akamaiedge.net
 0.0.0.0 e5413.g.akamaiedge.net
@@ -1799,6 +1800,8 @@
 0.0.0.0 i1.ytimg.com
 0.0.0.0 i2.createsend1.com
 0.0.0.0 ia601507.us.archive.org
+0.0.0.0 iad02-usadmm-ds.dotomi.com
+0.0.0.0 iad06-login.dotomi.com
 0.0.0.0 iad-2-apex.go.sonobi.com
 0.0.0.0 iad-2-sync.go.sonobi.com
 0.0.0.0 iadsdk.apple.com
@@ -2157,6 +2160,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marriott.btttag.com
+0.0.0.0 mashable-d.openx.net
 0.0.0.0 masterh5.adriver.ru
 0.0.0.0 mastertag.effiliation.com
 0.0.0.0 mastertag.kpcustomer.de
@@ -2263,6 +2267,7 @@
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
+0.0.0.0 myconst.net
 0.0.0.0 mydmp.exelator.com
 0.0.0.0 myfamilycominc.tt.omtrdc.net
 0.0.0.0 my.hellobar.com
@@ -3907,6 +3912,7 @@
 0.0.0.0 www.placelocal.com
 0.0.0.0 www.plista.com
 0.0.0.0 www.poppen.de
+0.0.0.0 www.pornhub.com
 0.0.0.0 www.powerlinks.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
