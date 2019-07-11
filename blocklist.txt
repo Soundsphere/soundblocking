@@ -1214,6 +1214,7 @@
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2c8v52ll5s99u.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
+0.0.0.0 d2gatte9o95jao.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 d2k03kvdk5cku0.cloudfront.net
 0.0.0.0 d2na2p72vtqyok.cloudfront.net
@@ -2310,6 +2311,7 @@
 0.0.0.0 normour.com
 0.0.0.0 noscript.net
 0.0.0.0 notebooksbilliger02.webtrekk.net
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 now.eloqua.com
 0.0.0.0 nqs.nice264.com
