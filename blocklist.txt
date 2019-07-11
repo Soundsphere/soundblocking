@@ -326,6 +326,7 @@
 0.0.0.0 adyoulike.omnitagjs.com
 0.0.0.0 ad.zanox.com
 0.0.0.0 aem.playstation.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 ae.pubmatic.com
 0.0.0.0 aexp.demdex.net
 0.0.0.0 a.farlex.com
 0.0.0.0 aff.bstatic.com
@@ -428,6 +429,7 @@
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.moviepilot.de
+0.0.0.0 analytics.moz.com
 0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.pinpoll.com
@@ -1056,6 +1058,7 @@
 0.0.0.0 collector.bunchbox.co
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector.sspinc.io
@@ -1111,6 +1114,7 @@
 0.0.0.0 cookie.vrtzads.com
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 core.adunity.com
+0.0.0.0 core.connatix.com
 0.0.0.0 cosmos01ssl.webtrekk.net
 0.0.0.0 count24.de
 0.0.0.0 counter.cyberschnuffi.de
@@ -1124,6 +1128,7 @@
 0.0.0.0 countess.twitch.tv
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 count.spiegel.de
+0.0.0.0 count.xhit.com
 0.0.0.0 c.parkingcrew.net
 0.0.0.0 c.paypal.com
 0.0.0.0 cpex.cz
@@ -1221,6 +1226,7 @@
 0.0.0.0 d3avqv6zaxegeu.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
+0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
@@ -1736,6 +1742,7 @@
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 halc.iadvize.com
 0.0.0.0 handelsblatt01.webtrekk.net
+0.0.0.0 hannoverboard.com
 0.0.0.0 happyunicorns.gutefrage.net
 0.0.0.0 hb.adx.adform.net
 0.0.0.0 hb-api.omnitagjs.com
@@ -1796,6 +1803,7 @@
 0.0.0.0 i.cdnpark.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 i.clean.gg
+0.0.0.0 i.connatix.com
 0.0.0.0 i.connectad.io
 0.0.0.0 ic.ph.affinity.com
 0.0.0.0 i.ctnsnet.com
@@ -1940,8 +1948,10 @@
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
 0.0.0.0 js.bizographics.com
+0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 jsc.mgid.com
+0.0.0.0 js.gleam.io
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.himediads.com
 0.0.0.0 js.hs-analytics.net
@@ -2190,6 +2200,7 @@
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 megdexchange.com
 0.0.0.0 mepodownload.mediatek.com
+0.0.0.0 meraxes-cdn.polarmobile.com
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metrics.api.drift.com
@@ -3077,6 +3088,7 @@
 0.0.0.0 static.inq.com
 0.0.0.0 static.kameleoon.com
 0.0.0.0 static.licdn.com
+0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
 0.0.0.0 static.showheroes.com
 0.0.0.0 static.site24x7rum.com
@@ -3298,6 +3310,7 @@
 0.0.0.0 tharbadir.com
 0.0.0.0 theadex.com
 0.0.0.0 thechive-d.openx.net
+0.0.0.0 theonecdn.com
 0.0.0.0 think.unbounce.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 thor.rtk.io
@@ -3487,6 +3500,7 @@
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
 0.0.0.0 ue.flipboard.com
+0.0.0.0 ufpcdn.com
 0.0.0.0 ugdturner.com
 0.0.0.0 u.heatmap.it
 0.0.0.0 uidbox.uimserv.net
@@ -3512,6 +3526,7 @@
 0.0.0.0 ups.inq.com
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 ups.xplosion.de
+0.0.0.0 uptimecdn.com
 0.0.0.0 urbanmedia-d.openx.net
 0.0.0.0 urlaubspiraten.digidip.net
 0.0.0.0 urs.cnet.com
@@ -3601,6 +3616,7 @@
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visualdna.com
+0.0.0.0 viumbe-d.openx.net
 0.0.0.0 vjs.zencdn.net
 0.0.0.0 vk.com
 0.0.0.0 v.lkqd.net
@@ -3635,6 +3651,7 @@
 0.0.0.0 web.archive.org
 0.0.0.0 webed.dm.gg
 0.0.0.0 web.industrybrains.com
+0.0.0.0 web.polarmobile.com
 0.0.0.0 webredir.vip.gandi.net
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
@@ -3766,6 +3783,7 @@
 0.0.0.0 www.browser-statistik.de
 0.0.0.0 www.bs.serving-sys.com
 0.0.0.0 www.buysellads.com
+0.0.0.0 www.campaignmonitor.com
 0.0.0.0 www.camscanner.com
 0.0.0.0 www.cbox.ws
 0.0.0.0 www.cj.com
@@ -3855,6 +3873,7 @@
 0.0.0.0 www.movable-ink-2183.com
 0.0.0.0 www.movier.tv
 0.0.0.0 www.multcloud.com
+0.0.0.0 www.my-dirty-hobby.com
 0.0.0.0 www.mywot.com
 0.0.0.0 www.netagent.cz
 0.0.0.0 www.networkadvertising.org
@@ -3877,6 +3896,7 @@
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
 0.0.0.0 www.quantserve.com
+0.0.0.0 www.querverweis.net
 0.0.0.0 www.radionik.info
 0.0.0.0 www.ranking-charts.de
 0.0.0.0 www.ranking-hits.de
@@ -3930,6 +3950,7 @@
 0.0.0.0 www.za-ads.de
 0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 www.zergnet.com
+0.0.0.0 wysara.pw
 0.0.0.0 wywy.com
 0.0.0.0 wzrkt.com
 0.0.0.0 x.bidswitch.net
@@ -3950,6 +3971,7 @@
 0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xtr.carambo.la
 0.0.0.0 x.vindicosuite.com
+0.0.0.0 xxvids.net
 0.0.0.0 yagiay.com
 0.0.0.0 yahoomail.com
 0.0.0.0 yandex.st
