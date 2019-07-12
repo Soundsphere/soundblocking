@@ -28,6 +28,7 @@
 0.0.0.0 403-agf-920.mktoresp.com
 0.0.0.0 4228414.fls.doubleclick.net
 0.0.0.0 4235921.fls.doubleclick.net
+0.0.0.0 426-qvd-114.mktoresp.com
 0.0.0.0 4345210.fls.doubleclick.net
 0.0.0.0 4704202.fls.doubleclick.net
 0.0.0.0 4898337.fls.doubleclick.net
@@ -2152,6 +2153,7 @@
 0.0.0.0 madmimi.com
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 mads.at.atwola.com
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 magiskmanager.com
 0.0.0.0 magnetic.t.domdex.com
