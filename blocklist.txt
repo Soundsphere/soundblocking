@@ -173,6 +173,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 addshoppers.com
 0.0.0.0 addthis.com
+0.0.0.0 ad.dyntracker.de
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
@@ -464,6 +465,7 @@
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api.ad.intl.xiaomi.com
+0.0.0.0 api.adquality.ch
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.airbrake.io
@@ -998,6 +1000,7 @@
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clevernt.com
+0.0.0.0 clickcease.com
 0.0.0.0 click-de.plista.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 click.oneplus.com
@@ -1046,6 +1049,7 @@
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 cnn.bounceexchange.com
 0.0.0.0 cnt2.stroeerdp.de
+0.0.0.0 cnt.fout.jp
 0.0.0.0 cnzz.mmstat.com
 0.0.0.0 code.bildstatic.de
 0.0.0.0 code.etracker.com
@@ -1796,6 +1800,7 @@
 0.0.0.0 hrum.hotelsapi.io
 0.0.0.0 hrumpoc.hotels.com
 0.0.0.0 h-sdk.online-metrix.net
+0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 ht.youporn.com
 0.0.0.0 hubt.pornhub.com
 0.0.0.0 hubtraffic.com
@@ -2039,6 +2044,7 @@
 0.0.0.0 lb68.s400.meetrics.net
 0.0.0.0 lb97.s400.meetrics.net
 0.0.0.0 l.betrad.com
+0.0.0.0 lc.iadvize.com
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 lc.livefyre.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
@@ -2254,6 +2260,7 @@
 0.0.0.0 modern.watson.data.microsoft.com.akadns.net
 0.0.0.0 modes.taboola.com
 0.0.0.0 mondrian.twyn.com
+0.0.0.0 m.one.impact-ad.jp
 0.0.0.0 monu.delivery
 0.0.0.0 more.criteo.com
 0.0.0.0 mormont.gamer-network.net
@@ -2688,6 +2695,7 @@
 0.0.0.0 rh.adscale.de
 0.0.0.0 riafinancial.d2.sc.omtrdc.net
 0.0.0.0 rlog.9gag.com
+0.0.0.0 r.logrocket.io
 0.0.0.0 r.mail.ru
 0.0.0.0 rmsi.nuggad.net
 0.0.0.0 r.my.com
@@ -2744,6 +2752,7 @@
 0.0.0.0 rudy.adsnative.com
 0.0.0.0 rules.atgsvcs.com
 0.0.0.0 rules.quantcount.com
+0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rumcollector.teslamotors.com
 0.0.0.0 rum.logsss.com
 0.0.0.0 rum.monitis.com
@@ -3256,6 +3265,7 @@
 0.0.0.0 s.youtube.com
 0.0.0.0 system.casalemedia.com
 0.0.0.0 system.picreel.com
+0.0.0.0 t0.extreme-dm.com
 0.0.0.0 t13.intelliad.de
 0.0.0.0 t1.extreme-dm.com
 0.0.0.0 t23.intelliad.de
@@ -3413,6 +3423,7 @@
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.divvit.com
 0.0.0.0 tracker.euroweb.net
+0.0.0.0 tracker.icerocket.com
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.mtrtb.com
 0.0.0.0 tracker.samplicio.us
@@ -3963,6 +3974,7 @@
 0.0.0.0 www.terrapinn.com
 0.0.0.0 www.theplace2.ru
 0.0.0.0 www.tns-counter.ru
+0.0.0.0 www.topsites24.de
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.unbounce.com
