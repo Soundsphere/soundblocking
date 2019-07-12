@@ -521,6 +521,7 @@
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.tr.blismedia.com
+0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.usersnap.com
 0.0.0.0 apiv2.moengage.com
@@ -819,6 +820,7 @@
 0.0.0.0 cdn6.admatic.com.tr
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn.accelerator.arsdev.net
+0.0.0.0 cdn.adhigh.net
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.admixer.net
 0.0.0.0 cdn.adnxs.com
@@ -1523,6 +1525,7 @@
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
+0.0.0.0 eu-pulsepoint-rtb.quantserve.com
 0.0.0.0 eu.qualtrics.com
 0.0.0.0 eur-ukp.adsrvr.org
 0.0.0.0 eu-sonar.sociomantic.com
@@ -1844,6 +1847,7 @@
 0.0.0.0 image4.pubmatic.com
 0.0.0.0 image5.pubmatic.com
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 image.moengage.com
 0.0.0.0 image.providesupport.com
 0.0.0.0 images.bizrate.com
 0.0.0.0 images.dmca.com
@@ -2276,6 +2280,7 @@
 0.0.0.0 my.mobfox.com
 0.0.0.0 myntelligence.com
 0.0.0.0 my.rtmark.net
+0.0.0.0 mytopf.com
 0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n161adserv.com
 0.0.0.0 n4p.ru.redtram.com
@@ -2989,6 +2994,7 @@
 0.0.0.0 sofia.trustx.org
 0.0.0.0 softonic.com
 0.0.0.0 solutions.nitro.bunchball.net
+0.0.0.0 solutions.tradedoubler.com
 0.0.0.0 soma.smaato.net
 0.0.0.0 sonyglobal.d1.sc.omtrdc.net
 0.0.0.0 sp1cluster.cxense.com
@@ -3447,6 +3453,7 @@
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.srv2.de
 0.0.0.0 tracking.vcommission.com
+0.0.0.0 tracking.wisepops.com
 0.0.0.0 trackla.stackla.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mopo.de
@@ -3635,6 +3642,7 @@
 0.0.0.0 vidutils.taboola.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 view.autoscout24.de
+0.0.0.0 viral782.com
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visualdna.com
