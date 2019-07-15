@@ -1140,6 +1140,7 @@
 0.0.0.0 core.connatix.com
 0.0.0.0 cosmos01ssl.webtrekk.net
 0.0.0.0 count24.de
+0.0.0.0 count.carrierzone.com
 0.0.0.0 counter.cyberschnuffi.de
 0.0.0.0 counter.pax.com
 0.0.0.0 counter.rambler.ru
@@ -2188,6 +2189,7 @@
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marriott.btttag.com
 0.0.0.0 mashable-d.openx.net
+0.0.0.0 mastercard.demdex.net
 0.0.0.0 masterh5.adriver.ru
 0.0.0.0 mastertag.effiliation.com
 0.0.0.0 mastertag.kpcustomer.de
@@ -2293,6 +2295,7 @@
 0.0.0.0 msntrademarketing.112.2o7.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 mvconf.cloud.360safe.com
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 m.yap.yahoo.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
@@ -2651,6 +2654,7 @@
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 quantserve.com
 0.0.0.0 quartermedia.de
+0.0.0.0 query.network
 0.0.0.0 query.petametrics.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 que-videos.org
