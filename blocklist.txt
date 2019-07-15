@@ -2969,6 +2969,7 @@
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 simonsignal.com
+0.0.0.0 sin.creativecdn.com
 0.0.0.0 sinfb.adsrvr.org
 0.0.0.0 s.innovid.com
 0.0.0.0 si.nuggad.net
@@ -4004,12 +4005,14 @@
 0.0.0.0 www.usemax.de
 0.0.0.0 www.vagdashcom.de
 0.0.0.0 www.vibrantmedia.com
+0.0.0.0 www.virtumundo.com
 0.0.0.0 www.vungle.com
 0.0.0.0 www.webshoprecht.de
 0.0.0.0 www.website-hit-counters.com
 0.0.0.0 www.widespace.com
 0.0.0.0 www.wysistat.com
 0.0.0.0 www.xiti.com
+0.0.0.0 www.xnxx.com
 0.0.0.0 www.yceml.net
 0.0.0.0 www.yotpo.com
 0.0.0.0 www.youjizz.com
