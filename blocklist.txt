@@ -2,6 +2,7 @@
 0.0.0.0 101domain.com
 0.0.0.0 107-fms-070.mktoresp.com
 0.0.0.0 112-tzm-766.mktoresp.com
+0.0.0.0 118-oew-181.mktoresp.com
 0.0.0.0 1364.tm.zedo.com
 0.0.0.0 15.taboola.com
 0.0.0.0 1681.engine.mobileapptracking.com
@@ -99,6 +100,7 @@
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3371.casalemedia.com
 0.0.0.0 a3381.casalemedia.com
+0.0.0.0 a3391.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
 0.0.0.0 a4391.casalemedia.com
 0.0.0.0 a4550.casalemedia.com
@@ -123,6 +125,7 @@
 0.0.0.0 a.bf-tools.net
 0.0.0.0 abload.de
 0.0.0.0 abp.smartadcheck.de
+0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 abrtp1.marketo.com
 0.0.0.0 abs.proxistore.com
 0.0.0.0 accounts.doubleclick.net
@@ -212,6 +215,7 @@
 0.0.0.0 ads5.admatic.com.tr
 0.0.0.0 ads.ad4game.com
 0.0.0.0 ads.adadapted.com
+0.0.0.0 ads.adap.tv
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads-adaptv.vidible.tv
 0.0.0.0 ads.ad-center.com
@@ -630,10 +634,12 @@
 0.0.0.0 assets.tapad.com
 0.0.0.0 assistjs.skimresources.com
 0.0.0.0 a-ssl.ligatus.com
+0.0.0.0 astat.bugly.qq.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 a.teads.tv
 0.0.0.0 atemda.com
 0.0.0.0 a.tfag.de
+0.0.0.0 atonato.de
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
 0.0.0.0 ats.otto.de
@@ -844,6 +850,7 @@
 0.0.0.0 cdn.avocet.io
 0.0.0.0 cdnaws.mobidea.com
 0.0.0.0 cdn-a.yieldlove.com
+0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.bestcheck.de
 0.0.0.0 cdn.betrad.com
 0.0.0.0 cdn.bizible.com
@@ -1698,6 +1705,7 @@
 0.0.0.0 g.ezoic.net
 0.0.0.0 gft2.de
 0.0.0.0 gg.google.com
+0.0.0.0 gift-connect-d.openx.net
 0.0.0.0 g.ign.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
@@ -2277,6 +2285,7 @@
 0.0.0.0 mscom.demdex.net
 0.0.0.0 mse2v5oglm.com
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 msg.71.am
 0.0.0.0 msntrademarketing.112.2o7.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 mtrx.go.sonobi.com
@@ -2385,6 +2394,7 @@
 0.0.0.0 osiaffiliate.com
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
+0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outdatedbrowser.com
 0.0.0.0 ow-gateway.supersonicads.com
 0.0.0.0 p3.pstatp.com
@@ -2399,6 +2409,7 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.googlesyndication.com
 0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 park.above.com
 0.0.0.0 parkingcrew.net
@@ -2419,6 +2430,7 @@
 0.0.0.0 p.cpx.to
 0.0.0.0 pde.lp4.io
 0.0.0.0 p.dlx.addthis.com
+0.0.0.0 pdn.applovin.com
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pentos-cdn.polarmobile.com
@@ -2624,6 +2636,7 @@
 0.0.0.0 px.wa.ui-portal.de
 0.0.0.0 px.wayfair.com
 0.0.0.0 p.yotpo.com
+0.0.0.0 q3.webtrekk.net
 0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
 0.0.0.0 qip.ru
@@ -2947,6 +2960,7 @@
 0.0.0.0 shopify.privy.com
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 shutterstock.inq.com
+0.0.0.0 sh.wagbridge.taobao.com.gds.alibabadns.com
 0.0.0.0 sickipedia.org
 0.0.0.0 sicksmash.com
 0.0.0.0 s.idio.co
@@ -3560,6 +3574,7 @@
 0.0.0.0 um2.eqads.com
 0.0.0.0 ums.adtech.de
 0.0.0.0 um.simpli.fi
+0.0.0.0 uncoached-d.openx.net
 0.0.0.0 unconf.adkmob.com
 0.0.0.0 undefined.fls.doubleclick.net
 0.0.0.0 universal.iperceptions.com
@@ -3589,6 +3604,7 @@
 0.0.0.0 us.find.api.micloud.xiaomi.net
 0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us-gmtdmp.mookie1.com
+0.0.0.0 us.i1.yimg.com
 0.0.0.0 us.micardapi.micloud.xiaomi.net
 0.0.0.0 us.pdc.micloud.xiaomi.net
 0.0.0.0 us.phonecallapi.micloud.xiaomi.net
@@ -3669,12 +3685,14 @@
 0.0.0.0 vms.boldchat.com
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 voffka.com
+0.0.0.0 vogelservices.122.2o7.net
 0.0.0.0 volvelle-ads-cdn.azureedge.net
 0.0.0.0 vop.sundaysky.com
 0.0.0.0 vpaid.adsafeprotected.com
 0.0.0.0 vpaid.pubmatic.com
 0.0.0.0 vra.outbrain.com
 0.0.0.0 vrp.outbrain.com
+0.0.0.0 v.ssacdn.com
 0.0.0.0 vt.adition.com
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
@@ -3844,6 +3862,7 @@
 0.0.0.0 www.contaxe.com
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.crazyegg.com
+0.0.0.0 www.createsend.com
 0.0.0.0 www.criteo.com
 0.0.0.0 www.cydots.com
 0.0.0.0 www.da-ads.com
