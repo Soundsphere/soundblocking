@@ -69,6 +69,7 @@
 0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2140.casalemedia.com
+0.0.0.0 a2141.casalemedia.com
 0.0.0.0 a2150.casalemedia.com
 0.0.0.0 a2151.casalemedia.com
 0.0.0.0 a2160.casalemedia.com
@@ -185,6 +186,7 @@
 0.0.0.0 adespresso.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfarm.mediaplex.com
+0.0.0.0 adf.tubemogul.com
 0.0.0.0 adgebra.co.in
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 adipolo.tagcombiner.com
@@ -643,6 +645,7 @@
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
 0.0.0.0 ats.otto.de
+0.0.0.0 attr.appsflyer.com
 0.0.0.0 a.twiago.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audible.tt.omtrdc.net
@@ -1708,6 +1711,7 @@
 0.0.0.0 gift-connect-d.openx.net
 0.0.0.0 g.ign.com
 0.0.0.0 gj.mmstat.com
+0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 glassmoni.researchgate.net
 0.0.0.0 glb-ads.atwola.adtech.de
@@ -2302,6 +2306,7 @@
 0.0.0.0 mytopf.com
 0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n161adserv.com
+0.0.0.0 n2.mouseflow.com
 0.0.0.0 n4p.ru.redtram.com
 0.0.0.0 naakte-beroemdheden.startkabel.nl
 0.0.0.0 n.ads3-adnow.com
@@ -2941,6 +2946,7 @@
 0.0.0.0 service.maxymiser.net
 0.0.0.0 servicer.mgid.com
 0.0.0.0 services.serving-sys.com
+0.0.0.0 servik.com
 0.0.0.0 serving.bepolite.eu
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 session.timecommerce.net
@@ -3452,6 +3458,7 @@
 0.0.0.0 track.gaug.es
 0.0.0.0 track.hubspot.com
 0.0.0.0 tracking2.channeladvisor.com
+0.0.0.0 tracking.4v4jfe79erfxfu8z8.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 tracking.adalliance.io
 0.0.0.0 trackingapi.kaufda.de
@@ -3953,6 +3960,7 @@
 0.0.0.0 www.orion.de
 0.0.0.0 www.orsm.net
 0.0.0.0 www.outbrain.com
+0.0.0.0 www.pantyhoseminx.com
 0.0.0.0 www.phun.org
 0.0.0.0 www.pinterest.com
 0.0.0.0 www.placelocal.com
