@@ -46,6 +46,7 @@
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5d0b6.v.fwmrm.net
 0.0.0.0 5-edge-chat.facebook.com
+0.0.0.0 5nlvgyf91g.kameleoon.eu
 0.0.0.0 6124109.fls.doubleclick.net
 0.0.0.0 6144643.fls.doubleclick.net
 0.0.0.0 6.adsco.re
@@ -1084,6 +1085,7 @@
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector.prod.expedia.com
+0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.tealiumiq.com
@@ -1444,6 +1446,7 @@
 0.0.0.0 dsum.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dsy5wmnntou9c.cloudfront.net
+0.0.0.0 dt1pxsve3tgas.cloudfront.net
 0.0.0.0 dt.admission.net
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 d.tailtarget.com
@@ -1642,6 +1645,7 @@
 0.0.0.0 forbes.media.net
 0.0.0.0 form-cdn.pardot.com
 0.0.0.0 forms.gle
+0.0.0.0 forms.ontraport.com
 0.0.0.0 fotocommunity.digidip.net
 0.0.0.0 foxnet.demdex.net
 0.0.0.0 foxnews.demdex.net
@@ -2043,6 +2047,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 launcher.mojang.com
 0.0.0.0 launchpadlibrarian.net
+0.0.0.0 lax1-ib.adnxs.com
 0.0.0.0 lb100.s400.meetrics.net
 0.0.0.0 lb10.s400.meetrics.net
 0.0.0.0 lb17.s400.meetrics.net
@@ -2696,6 +2701,7 @@
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 register.appsflyer.com
+0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 relap.io
 0.0.0.0 remote-data.urbanairship.com
 0.0.0.0 remtoaku.net
@@ -3275,6 +3281,7 @@
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.monarchads.com
 0.0.0.0 sync.outbrain.com
+0.0.0.0 sync.rtk.io
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
@@ -3705,6 +3712,7 @@
 0.0.0.0 vra.outbrain.com
 0.0.0.0 vrp.outbrain.com
 0.0.0.0 v.ssacdn.com
+0.0.0.0 vstats.digitaltrends.com
 0.0.0.0 vt.adition.com
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
@@ -3727,6 +3735,7 @@
 0.0.0.0 web.archive.org
 0.0.0.0 webed.dm.gg
 0.0.0.0 web.industrybrains.com
+0.0.0.0 webmd.demdex.net
 0.0.0.0 web.polarmobile.com
 0.0.0.0 webredir.vip.gandi.net
 0.0.0.0 websdk.moengage.com
@@ -3933,6 +3942,7 @@
 0.0.0.0 www.leadbolt.com
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.ligatus.com
+0.0.0.0 www.linkconnector.com
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.liveperson.com
