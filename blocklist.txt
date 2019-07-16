@@ -1533,6 +1533,7 @@
 0.0.0.0 eqx-tmk-geoloc.smartadserver.com
 0.0.0.0 e.reddit.com
 0.0.0.0 ergoag.d3.sc.omtrdc.net
+0.0.0.0 error-collector.ted.com
 0.0.0.0 errors.client.optimizely.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 esimedia-d.openx.net
