@@ -215,6 +215,7 @@
 0.0.0.0 adquality.ch
 0.0.0.0 ads18.vertamedia.com
 0.0.0.0 ads2.contentabc.com
+0.0.0.0 ads3.mthsense.com
 0.0.0.0 ads5.admatic.com.tr
 0.0.0.0 ads.ad4game.com
 0.0.0.0 ads.adadapted.com
@@ -1239,6 +1240,7 @@
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 d2k03kvdk5cku0.cloudfront.net
 0.0.0.0 d2na2p72vtqyok.cloudfront.net
+0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
@@ -1305,6 +1307,7 @@
 0.0.0.0 data37.adlooxtracking.com
 0.0.0.0 data53.adlooxtracking.com
 0.0.0.0 data55.adlooxtracking.com
+0.0.0.0 data58.adlooxtracking.com
 0.0.0.0 data60.adlooxtracking.com
 0.0.0.0 data62.adlooxtracking.com
 0.0.0.0 data63.adlooxtracking.com
@@ -1732,6 +1735,7 @@
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.affec.tv
 0.0.0.0 gocm.c.appier.net
+0.0.0.0 go.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 go.ezoic.net
 0.0.0.0 goldbach-de-d.openx.net
@@ -1851,6 +1855,7 @@
 0.0.0.0 id5-sync.com
 0.0.0.0 id.google.com
 0.0.0.0 id.google.comm
+0.0.0.0 idguk1-d.openx.net
 0.0.0.0 id.l.google.com
 0.0.0.0 idpix.media6degrees.com
 0.0.0.0 id.rlcdn.com
@@ -2043,6 +2048,7 @@
 0.0.0.0 kurulum.xyz
 0.0.0.0 kurzelinks.de
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 l2.visiblemeasures.com
 0.0.0.0 l96jc26jvj.kameleoon.eu
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 launcher.mojang.com
@@ -2689,6 +2695,7 @@
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcp.c.appier.net
+0.0.0.0 rc.rlcdn.com
 0.0.0.0 rdi.eu.criteo.com
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 realtime.services.disqus.com
