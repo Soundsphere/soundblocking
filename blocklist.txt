@@ -1,4 +1,5 @@
 0.0.0.0 0.gravatar.com
+0.0.0.0 1016557.fls.doubleclick.net
 0.0.0.0 101domain.com
 0.0.0.0 107-fms-070.mktoresp.com
 0.0.0.0 112-tzm-766.mktoresp.com
@@ -82,6 +83,7 @@
 0.0.0.0 a2191.casalemedia.com
 0.0.0.0 a2200.casalemedia.com
 0.0.0.0 a2201.casalemedia.com
+0.0.0.0 a2211.casalemedia.com
 0.0.0.0 a2220.casalemedia.com
 0.0.0.0 a2221.casalemedia.com
 0.0.0.0 a2231.casalemedia.com
@@ -111,6 +113,7 @@
 0.0.0.0 a.ad.gt
 0.0.0.0 a.adroll.com
 0.0.0.0 a.adsrvr.org
+0.0.0.0 a.adtech.de
 0.0.0.0 a-ams.1rx.io
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
@@ -179,6 +182,7 @@
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 addshoppers.com
 0.0.0.0 addthis.com
+0.0.0.0 ad.dyntracker.com
 0.0.0.0 ad.dyntracker.de
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 ade.clmbtech.com
@@ -797,6 +801,7 @@
 0.0.0.0 careers.hotjar.com
 0.0.0.0 carts.guru
 0.0.0.0 casale-match.dotomi.com
+0.0.0.0 cascade.madmimi.com
 0.0.0.0 cas.criteo.com
 0.0.0.0 cat.fr.eu.criteo.com
 0.0.0.0 cat.nl.eu.criteo.com
@@ -810,6 +815,7 @@
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cbs.wondershare.com
+0.0.0.0 cc.chango.com
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 c.cnzz.com
@@ -943,6 +949,7 @@
 0.0.0.0 cdn-sic.33across.com
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.simility.com
+0.0.0.0 cdn-social.janrain.com
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.springserve.com
 0.0.0.0 cdnssl.clicktale.net
@@ -1164,6 +1171,7 @@
 0.0.0.0 c.paypal.com
 0.0.0.0 cpex.cz
 0.0.0.0 cp.pushwoosh.com
+0.0.0.0 cpro.baidustatic.com
 0.0.0.0 c.pub.network
 0.0.0.0 cpx.golem.de
 0.0.0.0 cpxl.golem.de
@@ -1215,6 +1223,7 @@
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
+0.0.0.0 d1.btttag.com
 0.0.0.0 d-1.co
 0.0.0.0 d1eoo1tco6rr5e.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
@@ -1251,6 +1260,7 @@
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
+0.0.0.0 d31vxm9ubutrmw.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
 0.0.0.0 d38hmgjgf0kofx.cloudfront.net
@@ -1294,6 +1304,7 @@
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data13.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
+0.0.0.0 data17.adlooxtracking.com
 0.0.0.0 data19.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
@@ -1563,6 +1574,7 @@
 0.0.0.0 eu-west.load.exelator.com
 0.0.0.0 evanzo-server.de
 0.0.0.0 event.api.drift.com
+0.0.0.0 event-collector.udsrv.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 eventlogger.soundcloud.com
@@ -1641,6 +1653,7 @@
 0.0.0.0 flash.sec.miui.com
 0.0.0.0 flatex-de01.webtrekk.net
 0.0.0.0 f-log-extension.grammarly.io
+0.0.0.0 floodprincipal.com
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls-eu.amazon.de
@@ -1728,11 +1741,13 @@
 0.0.0.0 glb-ads.atwola.adtech.de
 0.0.0.0 glb-ads.atwola.adtechus.com
 0.0.0.0 glb-ads.eyeonx.adtech.de
+0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 gleam.io
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 global.ib-ibi.com
 0.0.0.0 global.ymtracking.com
+0.0.0.0 gmads.net
 0.0.0.0 gm.mmstat.com
 0.0.0.0 g.msn.com
 0.0.0.0 gnar.grammarly.com
@@ -1883,6 +1898,7 @@
 0.0.0.0 image6.pubmatic.com
 0.0.0.0 image.moengage.com
 0.0.0.0 image.providesupport.com
+0.0.0.0 images.3lift.com
 0.0.0.0 images.bizrate.com
 0.0.0.0 images.dmca.com
 0.0.0.0 images.intellitxt.com
@@ -2375,6 +2391,7 @@
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 nzz.d3.sc.omtrdc.net
 0.0.0.0 o2.mouseflow.com
+0.0.0.0 oasc10.247realmedia.com
 0.0.0.0 oasc-eu1.247realmedia.com
 0.0.0.0 ocsp.godaddy.com.akadns.net
 0.0.0.0 ocsp.sca1b.amazontrust.com
@@ -2542,6 +2559,7 @@
 0.0.0.0 platform.tumblr.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 player.adtelligent.com
+0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.performgroup.com
 0.0.0.0 player.spoods.io
 0.0.0.0 playground.xyz
@@ -2972,6 +2990,7 @@
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.maxymiser.net
 0.0.0.0 servicer.mgid.com
+0.0.0.0 service.sponsorpay.com
 0.0.0.0 services.serving-sys.com
 0.0.0.0 servik.com
 0.0.0.0 serving.bepolite.eu
@@ -3323,6 +3342,7 @@
 0.0.0.0 t.a3cloud.net
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 tag.1rx.io
+0.0.0.0 tagan.adlightning.com
 0.0.0.0 tag.aticdn.net
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.brandcdn.com
@@ -3432,6 +3452,7 @@
 0.0.0.0 tmscdn.de.coremetrics.com
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 t.myvisualiq.net
+0.0.0.0 tn.alphonso.tv
 0.0.0.0 t.nativendo.de
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 tools.spylog.ru
@@ -3619,6 +3640,7 @@
 0.0.0.0 up.cm.ksmobile.com
 0.0.0.0 ups.demdex.net
 0.0.0.0 ups.inq.com
+0.0.0.0 ups.ksmobile.net
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 ups.xplosion.de
 0.0.0.0 uptimecdn.com
@@ -3772,6 +3794,7 @@
 0.0.0.0 westernunion.tt.omtrdc.net
 0.0.0.0 wetlook.com
 0.0.0.0 wetransfer-d.openx.net
+0.0.0.0 wfpscripts.webspectator.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 whatuseek.com
 0.0.0.0 whitelabel.media.net
@@ -3949,6 +3972,7 @@
 0.0.0.0 www.huanqiu.com
 0.0.0.0 www.hugedomains.com
 0.0.0.0 www.icegay.tv
+0.0.0.0 www.i.matheranalytics.com
 0.0.0.0 www.inmobi.com
 0.0.0.0 www.inskinad.com
 0.0.0.0 www.ipage.com
@@ -3985,6 +4009,7 @@
 0.0.0.0 www.netagent.cz
 0.0.0.0 www.networkadvertising.org
 0.0.0.0 www.nexus.ensighten.com
+0.0.0.0 www.oemepc.com
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.omniture.com
