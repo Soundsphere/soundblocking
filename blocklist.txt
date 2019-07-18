@@ -166,6 +166,7 @@
 0.0.0.0 ad.adriver.ru
 0.0.0.0 ad.ad-srv.net
 0.0.0.0 ad.adsrvr.org
+0.0.0.0 ad.adverticum.net
 0.0.0.0 adadvisor.net
 0.0.0.0 ad.afy11.net
 0.0.0.0 ad.atdmt.com
@@ -306,6 +307,7 @@
 0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.up-value.de
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.videoadex.com
 0.0.0.0 ads.w55c.net
@@ -933,6 +935,7 @@
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.polyfill.io
+0.0.0.0 cdn.pulpix.com
 0.0.0.0 cdn.pushassist.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.ravenjs.com
@@ -1513,6 +1516,7 @@
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edigitalsurvey.com
+0.0.0.0 ed.koeln.de
 0.0.0.0 e.dlx.addthis.com
 0.0.0.0 ee.adocean.pl
 0.0.0.0 ee.hit.gemius.pl
@@ -1558,6 +1562,7 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 et.twyn.com
 0.0.0.0 eu-aa.online-metrix.net
+0.0.0.0 euasync01.admantx.com
 0.0.0.0 eu.a.volvelle.tech
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
@@ -1618,6 +1623,7 @@
 0.0.0.0 farm-de.plista.com
 0.0.0.0 farm.plista.com
 0.0.0.0 fast.adobe.demdex.net
+0.0.0.0 fast.cbsi.demdex.net
 0.0.0.0 fast.fonts.net
 0.0.0.0 fast.forbes.com
 0.0.0.0 fastlane-adv.rubiconproject.com
@@ -1928,6 +1934,7 @@
 0.0.0.0 img.mplx.akadns.net
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.sedoparking.com
+0.0.0.0 img.szm.sk
 0.0.0.0 img.tradedoubler.com
 0.0.0.0 imguplo.com
 0.0.0.0 img.web.de
@@ -2465,6 +2472,7 @@
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 partners.webmasterplan.com
+0.0.0.0 partner.worldoftanks.com
 0.0.0.0 pa.rxthdr.com
 0.0.0.0 pastie.org
 0.0.0.0 pa.tns-ua.com
@@ -3527,6 +3535,7 @@
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.m6r.eu
+0.0.0.0 tracking.melty.fr
 0.0.0.0 tracking.metalyzer.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.mlsat02.de
@@ -3605,6 +3614,7 @@
 0.0.0.0 t.wayfair.com
 0.0.0.0 twitter-badges.s3.amazonaws.com
 0.0.0.0 tw.netcore.co.in
+0.0.0.0 txel.snmmd.nl
 0.0.0.0 u3s.mathtag.com
 0.0.0.0 u.acuityplatform.com
 0.0.0.0 uaid-linkage.imrworldwide.com
