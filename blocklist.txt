@@ -95,6 +95,7 @@
 0.0.0.0 a3291.casalemedia.com
 0.0.0.0 a3301.casalemedia.com
 0.0.0.0 a3310.casalemedia.com
+0.0.0.0 a3321.casalemedia.com
 0.0.0.0 a3330.casalemedia.com
 0.0.0.0 a3340.casalemedia.com
 0.0.0.0 a3341.casalemedia.com
@@ -297,6 +298,7 @@
 0.0.0.0 ads.servebom.com
 0.0.0.0 ads.shorte.st
 0.0.0.0 ads.s-i-r.de
+0.0.0.0 adssl-dc2.adtech.de
 0.0.0.0 ads.smaato.com
 0.0.0.0 ads.smartfeedads.com
 0.0.0.0 ads.smartshoppingads.de
@@ -617,6 +619,7 @@
 0.0.0.0 a.rfihub.com
 0.0.0.0 arquivo.pt
 0.0.0.0 as.casalemedia.com
+0.0.0.0 as.ebz.io
 0.0.0.0 ase.clmbtech.com
 0.0.0.0 as.gettyservices.com
 0.0.0.0 ash.creativecdn.com
@@ -629,6 +632,7 @@
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
+0.0.0.0 assets1.adroll.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adstage.io
 0.0.0.0 assets.applovin.com
@@ -702,6 +706,7 @@
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
 0.0.0.0 bbc.gscontxt.net
+0.0.0.0 bbg.sc.omtrdc.net
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
 0.0.0.0 bcbb.rubiconproject.com
 0.0.0.0 bcp.crwdcntrl.net
@@ -815,6 +820,7 @@
 0.0.0.0 c.bing.com
 0.0.0.0 cbm02.webtrekk.net
 0.0.0.0 cbsi.demdex.net
+0.0.0.0 cbsi-d.openx.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 cbs.wondershare.com
 0.0.0.0 cc.chango.com
@@ -911,6 +917,7 @@
 0.0.0.0 cdnjs.tvpage.com
 0.0.0.0 cdn.krxd.com
 0.0.0.0 cdn.krxd.net
+0.0.0.0 cdn-lb.vungle.com
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn.livefyre.com
 0.0.0.0 cdn.loginradius.com
@@ -1186,6 +1193,7 @@
 0.0.0.0 creative.metalyzer.com
 0.0.0.0 creative.prf.hn
 0.0.0.0 criteo-sync.teads.tv
+0.0.0.0 cruxnow.com
 0.0.0.0 cs1137.wpc.gammacdn.net
 0.0.0.0 cs11.wpc.v0cdn.net
 0.0.0.0 cs9.wac.phicdn.net
@@ -1213,6 +1221,7 @@
 0.0.0.0 cunda.d3.sc.omtrdc.net
 0.0.0.0 curse-d.openx.net
 0.0.0.0 customer.cludo.com
+0.0.0.0 custom-wrs.api.responsys.net
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c.wort-suche.com
@@ -1729,6 +1738,7 @@
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.qualaroo.com
 0.0.0.0 geo.query.yahoo.com
+0.0.0.0 geoservice.curse.com
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geo-um.btrll.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
@@ -2081,6 +2091,7 @@
 0.0.0.0 l2.visiblemeasures.com
 0.0.0.0 l96jc26jvj.kameleoon.eu
 0.0.0.0 laas.americanexpress.com
+0.0.0.0 ladies-forum.de
 0.0.0.0 launcher.mojang.com
 0.0.0.0 launchpadlibrarian.net
 0.0.0.0 lax1-ib.adnxs.com
@@ -2372,6 +2383,7 @@
 0.0.0.0 newopenx.simplethings.de
 0.0.0.0 newrelic.com
 0.0.0.0 newsnetw.oewabox.at
+0.0.0.0 nextmillennium.liqwid.net
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nfscars.net
@@ -2462,6 +2474,7 @@
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 paid.outbrain.com
+0.0.0.0 papi.mynativeplatform.com
 0.0.0.0 park.above.com
 0.0.0.0 parkingcrew.net
 0.0.0.0 partnerad.l.doubleclick.net
@@ -3547,11 +3560,13 @@
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.srv2.de
+0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 trackla.stackla.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mopo.de
+0.0.0.0 track.noz.de
 0.0.0.0 track.omguk.com
 0.0.0.0 track.pricespider.com
 0.0.0.0 track.securedvisit.com
@@ -3915,6 +3930,7 @@
 0.0.0.0 www.beeswax.com
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bizographics.com
+0.0.0.0 www.blogads.de
 0.0.0.0 www.blogcounter.de
 0.0.0.0 www.bloglines.com
 0.0.0.0 www.browser-statistik.de
