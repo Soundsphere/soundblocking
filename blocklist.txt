@@ -681,6 +681,7 @@
 0.0.0.0 az1.qualtrics.com
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 b1sync.zemanta.com
+0.0.0.0 b2c-msm.marketo.com
 0.0.0.0 b3.mookie1.com
 0.0.0.0 b.6sc.co
 0.0.0.0 b92.yahoo.co.jp
@@ -702,6 +703,7 @@
 0.0.0.0 barclaysbankplc.tt.omtrdc.net
 0.0.0.0 basepush.com
 0.0.0.0 bat.bing.com
+0.0.0.0 batchlogging4-noneu.truecaller.com
 0.0.0.0 bat.r.msn.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
@@ -819,6 +821,7 @@
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.bing.com
 0.0.0.0 cbm02.webtrekk.net
+0.0.0.0 cbsdigitalmedia.d1.sc.omtrdc.net
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsi-d.openx.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
@@ -965,6 +968,7 @@
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdn-static.optimonk.com
 0.0.0.0 cdn.static.zdbb.net
+0.0.0.0 cdn.stat-rock.com
 0.0.0.0 cdn.steepto.com
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.stroeerdigitalmedia.de
@@ -1549,6 +1553,7 @@
 0.0.0.0 ens.nzz.ch
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 ep3.performfeeds.com
+0.0.0.0 epidm.edgesuite.net
 0.0.0.0 epiv.cardlytics.com
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 epnt.ebay.com
@@ -1576,6 +1581,7 @@
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
+0.0.0.0 eu-lon02.marketo.com
 0.0.0.0 eu-pulsepoint-rtb.quantserve.com
 0.0.0.0 eu.qualtrics.com
 0.0.0.0 eur-ukp.adsrvr.org
@@ -1750,6 +1756,7 @@
 0.0.0.0 gg.google.com
 0.0.0.0 gift-connect-d.openx.net
 0.0.0.0 g.ign.com
+0.0.0.0 giraffepiano.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
@@ -2957,6 +2964,7 @@
 0.0.0.0 securecloud-dl.com
 0.0.0.0 secure-dcr-cert.imrworldwide.com
 0.0.0.0 secure-dcr.imrworldwide.com
+0.0.0.0 secure-drm.imrworldwide.com
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 secure.eloqua.com
 0.0.0.0 secure-eu.imrworldwide.com
@@ -4155,7 +4163,7 @@
 0.0.0.0 z11.cnzz.com
 0.0.0.0 z15ba20a04.webengage.co
 0.0.0.0 z7.cnzz.com
-0.0.0.0 z9q9kj37oy.kameleoon.eu
+0.0.0.0 z9q9kj37oy.kameleoon.euo
 0.0.0.0 z.cnzz.com
 0.0.0.0 zeit01.webtrekk.net
 0.0.0.0 zeit.met.vgwort.de
