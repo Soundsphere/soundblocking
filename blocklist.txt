@@ -216,6 +216,7 @@
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adocean-ee.hit.gemius.pl
 0.0.0.0 ado.pro-market.net
+0.0.0.0 ad.outstream.today
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 ad.prv.pl
 0.0.0.0 adquality.ch
@@ -384,6 +385,7 @@
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alog.umeng.com
 0.0.0.0 altfarm.mediaplex.com
+0.0.0.0 am.adlooxtracking.com
 0.0.0.0 amazon-adsystem.com
 0.0.0.0 amazon.ca
 0.0.0.0 amazon.co.jp
@@ -740,6 +742,7 @@
 0.0.0.0 b-graph.facebook.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bia.brightinfo.com
+0.0.0.0 bi.adview.pl
 0.0.0.0 bidagent.xad.com
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bidder.criteo.com
@@ -3776,6 +3779,7 @@
 0.0.0.0 vidutils.taboola.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 view.autoscout24.de
+0.0.0.0 vip.adstatic.com
 0.0.0.0 viral782.com
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
@@ -3982,6 +3986,7 @@
 0.0.0.0 www.doubleverify.com
 0.0.0.0 www.dwin1.com
 0.0.0.0 www.dwin2.com
+0.0.0.0 www.ebaumsworld.com
 0.0.0.0 www.econda-monitor.de
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.etoro.com
