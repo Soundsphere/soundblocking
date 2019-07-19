@@ -469,6 +469,7 @@
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 animate.adobe.com
+0.0.0.0 anonymousdemographics.com
 0.0.0.0 answers.chartboost.com
 0.0.0.0 an.yandex.ru
 0.0.0.0 anycast.fw.adsafeprotected.com
@@ -843,6 +844,7 @@
 0.0.0.0 cdn.2app.lk
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 cdn2.inner-active.mobi
+0.0.0.0 cdn2.lockerdome.com
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
@@ -1313,6 +1315,7 @@
 0.0.0.0 data02.adlooxtracking.com
 0.0.0.0 data03.adlooxtracking.com
 0.0.0.0 data04.adlooxtracking.com
+0.0.0.0 data05.adlooxtracking.com
 0.0.0.0 data06.adlooxtracking.com
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data08.adlooxtracking.com
@@ -2099,6 +2102,7 @@
 0.0.0.0 l96jc26jvj.kameleoon.eu
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 ladies-forum.de
+0.0.0.0 larazon.d3.sc.omtrdc.net
 0.0.0.0 launcher.mojang.com
 0.0.0.0 launchpadlibrarian.net
 0.0.0.0 lax1-ib.adnxs.com
@@ -2507,6 +2511,7 @@
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pentos-cdn.polarmobile.com
+0.0.0.0 perf.cdnads.com
 0.0.0.0 perf.logsss.com
 0.0.0.0 perf.mmstat.com
 0.0.0.0 performance.typekit.net
@@ -2941,6 +2946,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 sdktm.w.inmobi.com
 0.0.0.0 sdo.oewabox.at
