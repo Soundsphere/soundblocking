@@ -766,6 +766,7 @@
 0.0.0.0 bongacams.com
 0.0.0.0 bootstrap.livefyre.com
 0.0.0.0 boss.berlinonline.de
+0.0.0.0 branding.rs-1117-a.com
 0.0.0.0 browser.pipe.aria.microsoft.com
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browser-update.org
@@ -1685,6 +1686,7 @@
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 f.monetate.net
 0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 fogl1onf.com
 0.0.0.0 forbes.media.net
 0.0.0.0 form-cdn.pardot.com
 0.0.0.0 forms.gle
@@ -1733,6 +1735,7 @@
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gdc.indeed.com
+0.0.0.0 gdetr.hit.gemius.pl
 0.0.0.0 generaltracking.de
 0.0.0.0 geo2.adobe.com
 0.0.0.0 geoced.smartadserver.com
@@ -2620,6 +2623,7 @@
 0.0.0.0 pool8.moatads.com
 0.0.0.0 pool9.moatads.com
 0.0.0.0 pool.admedo.com
+0.0.0.0 pool-roularta.adhese.com
 0.0.0.0 poppen.de
 0.0.0.0 popup.taboola.com
 0.0.0.0 popup.wisepops.com
@@ -2668,6 +2672,7 @@
 0.0.0.0 p.smartertravel.com
 0.0.0.0 ps.ns-cdn.com
 0.0.0.0 psp.brewology.com
+0.0.0.0 p.t.dps-reach.com
 0.0.0.0 p.teads.tv
 0.0.0.0 pt.ispot.tv
 0.0.0.0 p.t-online.de
@@ -3636,6 +3641,7 @@
 0.0.0.0 t.teads.tv
 0.0.0.0 tt.onthe.io
 0.0.0.0 t.trafmag.com
+0.0.0.0 tt.ttarget.ru
 0.0.0.0 t.unbounce.com
 0.0.0.0 tunnl.com
 0.0.0.0 t.update.rubiconproject.com
