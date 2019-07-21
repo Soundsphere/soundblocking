@@ -4203,4 +4203,5 @@
 0.0.0.0 z-p42.graph.instagram.com
 0.0.0.0 z-p4.graph.instagram.com
 0.0.0.0 z.webengage.co
+127.0.0.1 blockchain.info
 127.0.0.1 photos1.blogger.com
