@@ -260,6 +260,7 @@
 0.0.0.0 adserver.adtech.de
 0.0.0.0 adserver.adtechjp.com
 0.0.0.0 adserver.adtechus.com
+0.0.0.0 adserver-as.adtech.advertising.com
 0.0.0.0 adserver-eu.adtech.advertising.com
 0.0.0.0 adserver.eyeonx.ch
 0.0.0.0 adserver.idg.de
@@ -664,6 +665,7 @@
 0.0.0.0 a.twiago.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audible.tt.omtrdc.net
+0.0.0.0 aud.pubmatic.com
 0.0.0.0 aufeminin-e-d.openx.net
 0.0.0.0 aufeminin-g-d.openx.net
 0.0.0.0 authbe.sec.intl.miui.com
@@ -871,6 +873,7 @@
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn-advert.smi2.net
 0.0.0.0 cdn-akamai.mookie1.com
+0.0.0.0 cdn.alooma.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appsflyer.com
@@ -1286,6 +1289,7 @@
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d31vxm9ubutrmw.cloudfront.net
+0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d36wtdrdo22bqa.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
 0.0.0.0 d38hmgjgf0kofx.cloudfront.net
@@ -1421,6 +1425,7 @@
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dff7tx5c2qbxc.cloudfront.net
 0.0.0.0 d.ghostery.com
+0.0.0.0 dha4w82d62smt.cloudfront.net
 0.0.0.0 dh.serving-sys.com
 0.0.0.0 diapi.webgains.com
 0.0.0.0 diff.smartadserver.com
@@ -2350,6 +2355,7 @@
 0.0.0.0 mondrian.twyn.com
 0.0.0.0 m.one.impact-ad.jp
 0.0.0.0 monu.delivery
+0.0.0.0 m.optout.ziffdavis.com
 0.0.0.0 more.criteo.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 mpc.nicequest.com
@@ -2441,6 +2447,7 @@
 0.0.0.0 okt.to
 0.0.0.0 ol.uk.at.atwola.com
 0.0.0.0 om.cbsi.com
+0.0.0.0 omniture.chip.de
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 oms.expedia.com
 0.0.0.0 oms.nuggad.net
@@ -2825,6 +2832,7 @@
 0.0.0.0 rpxnow.com
 0.0.0.0 r.refinedads.com
 0.0.0.0 r.remarketingpixel.com
+0.0.0.0 r.sastts.com
 0.0.0.0 rscdn.cxense.com
 0.0.0.0 r.scoota.co
 0.0.0.0 rs.epoq.de
@@ -3147,6 +3155,7 @@
 0.0.0.0 s.po.st
 0.0.0.0 spotad.co
 0.0.0.0 spot-im-d.openx.net
+0.0.0.0 spr.bild.de
 0.0.0.0 springer02.webtrekk.net
 0.0.0.0 s.pubmine.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
