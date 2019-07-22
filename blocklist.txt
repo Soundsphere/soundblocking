@@ -755,6 +755,7 @@
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
 0.0.0.0 bitrix.info
+0.0.0.0 blockchain.info
 0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 blogcounter.de
 0.0.0.0 blog.experts-exchange.com
@@ -889,6 +890,7 @@
 0.0.0.0 cdn.callrail.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.c-i.as
+0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.connatix.com
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.content.prod.cms.msn.com
@@ -901,6 +903,7 @@
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdneast2-xch.media.net
 0.0.0.0 cdn.elasticad.net
+0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exelator.com
@@ -2381,6 +2384,7 @@
 0.0.0.0 n2.mouseflow.com
 0.0.0.0 n4p.ru.redtram.com
 0.0.0.0 naakte-beroemdheden.startkabel.nl
+0.0.0.0 nab.com.au
 0.0.0.0 n.ads3-adnow.com
 0.0.0.0 nan.netmng.com
 0.0.0.0 nativesdks.mparticle.com
@@ -2472,6 +2476,7 @@
 0.0.0.0 osd.oxygem.it
 0.0.0.0 osiaffiliate.com
 0.0.0.0 o.ss2.us
+0.0.0.0 oss-content.securestudies.com
 0.0.0.0 otf.msn.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 outdatedbrowser.com
@@ -2528,6 +2533,7 @@
 0.0.0.0 phar.gu-web.net
 0.0.0.0 philips.112.2o7.net
 0.0.0.0 phonograph2.voxmedia.com
+0.0.0.0 photos1.blogger.com
 0.0.0.0 p.imgur.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 ping.chartbeat.net
@@ -2626,6 +2632,7 @@
 0.0.0.0 pool9.moatads.com
 0.0.0.0 pool.admedo.com
 0.0.0.0 pool-roularta.adhese.com
+0.0.0.0 popcash.net
 0.0.0.0 poppen.de
 0.0.0.0 popup.taboola.com
 0.0.0.0 popup.wisepops.com
@@ -2674,6 +2681,7 @@
 0.0.0.0 p.smartertravel.com
 0.0.0.0 ps.ns-cdn.com
 0.0.0.0 psp.brewology.com
+0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 p.t.dps-reach.com
 0.0.0.0 p.teads.tv
 0.0.0.0 pt.ispot.tv
@@ -2857,6 +2865,7 @@
 0.0.0.0 rudy.adsnative.com
 0.0.0.0 rules.atgsvcs.com
 0.0.0.0 rules.quantcount.com
+0.0.0.0 rules.securestudies.com
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rumcollector.teslamotors.com
 0.0.0.0 rum.logsss.com
@@ -3021,6 +3030,7 @@
 0.0.0.0 serve.bannertrack.net
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedby.flashtalking.com
+0.0.0.0 serve.popads.net
 0.0.0.0 server03new.dot.at
 0.0.0.0 server1.affiz.net
 0.0.0.0 server.adformdsp.net
@@ -3780,6 +3790,7 @@
 0.0.0.0 view.autoscout24.de
 0.0.0.0 vip.adstatic.com
 0.0.0.0 viral782.com
+0.0.0.0 visit.digidip.net
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visualdna.com
@@ -4031,6 +4042,7 @@
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.kliktrek.com
 0.0.0.0 www.kqzyfj.com
+0.0.0.0 www.krimskrams4you.de
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.leadbolt.com
 0.0.0.0 www.leanplum.com
@@ -4202,5 +4214,3 @@
 0.0.0.0 z-p42.graph.instagram.com
 0.0.0.0 z-p4.graph.instagram.com
 0.0.0.0 z.webengage.co
-127.0.0.1 blockchain.info
-127.0.0.1 photos1.blogger.com
