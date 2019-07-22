@@ -2607,6 +2607,7 @@
 0.0.0.0 plarium.com
 0.0.0.0 platformiq-del.aquaplatform.com
 0.0.0.0 platform.linkedin.com
+0.0.0.0 platform.stumbleupon.com
 0.0.0.0 platform.tumblr.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 player.adtelligent.com
@@ -3303,6 +3304,7 @@
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.tubemogul.com
+0.0.0.0 stats.umsns.com
 0.0.0.0 stats.warenform.de
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
@@ -3748,6 +3750,7 @@
 0.0.0.0 v2.zopim.com
 0.0.0.0 v4.moatads.com
 0.0.0.0 v7event.stats.avast.com
+0.0.0.0 v7.stats.avast.com
 0.0.0.0 v.adsrvr.org
 0.0.0.0 vap2ewr1.lijit.com
 0.0.0.0 vap2sfo1.lijit.com
