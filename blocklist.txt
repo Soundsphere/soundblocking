@@ -4277,6 +4277,7 @@
 0.0.0.0 beepwear.com
 0.0.0.0 begin2search.com
 0.0.0.0 behacdn.ksmobile.net
+0.0.0.0 behance.vo.llnwd.net
 0.0.0.0 behost.biz
 0.0.0.0 bei.nuggad.net
 0.0.0.0 belgiandip.com
@@ -6095,6 +6096,7 @@
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector.richmond.com
+0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collect.rewardstyle.com
 0.0.0.0 collect.tealiumiq.com
@@ -13344,6 +13346,7 @@
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1406.xiti.com
+0.0.0.0 logs2.xiti.com
 0.0.0.0 logs3.xiti.com
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs6.xiti.com
@@ -22378,6 +22381,7 @@
 0.0.0.0 trafficexplorer.com
 0.0.0.0 trafficfactory.biz
 0.0.0.0 trafficfile.com
+0.0.0.0 trafficgateway.research-int.se
 0.0.0.0 trafficg.com
 0.0.0.0 trafficgeneration.biz
 0.0.0.0 trafficgenius.xyz
