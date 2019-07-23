@@ -1,3 +1,4 @@
+0.0.0.0 
 0.0.0.0 000info.com
 0.0.0.0 001y.com
 0.0.0.0 0070.zzux.com
@@ -2397,6 +2398,7 @@
 0.0.0.0 ag.innovid.com
 0.0.0.0 agoga.com
 0.0.0.0 agooddaytoday.com
+0.0.0.0 a-graph.facebook.com
 0.0.0.0 agropecuaria.ws
 0.0.0.0 aguarddog.com
 0.0.0.0 aguardsoftware.com
@@ -2678,6 +2680,7 @@
 0.0.0.0 alocdn.com
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 alogs.umeng.com
+0.0.0.0 alog.umengcloud.com
 0.0.0.0 alog.umeng.com
 0.0.0.0 alphadoll.com
 0.0.0.0 alphaerotica.com
@@ -3362,6 +3365,7 @@
 0.0.0.0 app-sjp.marketo.com
 0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 appsnack.com
+0.0.0.0 appspot-preview.l.google.com
 0.0.0.0 apps.pubmatic.com
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 appswebservice.com
@@ -3505,6 +3509,7 @@
 0.0.0.0 asdafdgfgf.com
 0.0.0.0 asdbiz.biz
 0.0.0.0 asdgate.com
+0.0.0.0 ase.adserver.snapads.com
 0.0.0.0 a-search.biz
 0.0.0.0 asearchfor.com
 0.0.0.0 asearchgate.com
@@ -6547,6 +6552,7 @@
 0.0.0.0 craps.md
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crash.forcefeeds.com
+0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crashprotector.com
 0.0.0.0 crash.steampowered.com
 0.0.0.0 craveandlamb.com
@@ -6576,6 +6582,7 @@
 0.0.0.0 creamedcutties.com
 0.0.0.0 creamedpussy.net
 0.0.0.0 creamlips.com
+0.0.0.0 # Created with:
 0.0.0.0 creatence-groupllc.asia
 0.0.0.0 creatence-groupllc.at
 0.0.0.0 creatence-groupllc.cc
@@ -7305,6 +7312,7 @@
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
+0.0.0.0 device.zhiliaoapp.com
 0.0.0.0 devilsfuck.com
 0.0.0.0 devilsmp3.com
 0.0.0.0 dev-myonedsl.pantheonsite.io
@@ -8523,6 +8531,7 @@
 0.0.0.0 engine.adzerk.net
 0.0.0.0 engine.awaps.net
 0.0.0.0 engine.espace.netavenir.com
+0.0.0.0 engine.fyber.com
 0.0.0.0 enginenetwork.com
 0.0.0.0 engineplay.com
 0.0.0.0 engineporno.com
@@ -8750,6 +8759,7 @@
 0.0.0.0 eu-adcenter.net
 0.0.0.0 euasync01.admantx.com
 0.0.0.0 eu.a.volvelle.tech
+0.0.0.0 euc.adserver.snapads.com
 0.0.0.0 eu-career.org
 0.0.0.0 eucasino.com
 0.0.0.0 eu-cookie-law-enforcement2.xyz
@@ -10165,6 +10175,7 @@
 0.0.0.0 gcirm.thejournalnews.com
 0.0.0.0 gcirm.tucson.com
 0.0.0.0 gcirm.wisinfo.com
+0.0.0.0 gcs.sc-cdn.net
 0.0.0.0 gdc.indeed.com
 0.0.0.0 gdetr.hit.gemius.pl
 0.0.0.0 gdfcnt.info
@@ -11519,6 +11530,7 @@
 0.0.0.0 identid-ad.com
 0.0.0.0 idex.colocall.com
 0.0.0.0 id.google.com
+0.0.0.0 id.google.de
 0.0.0.0 idgsearch.com
 0.0.0.0 idguk1-d.openx.net
 0.0.0.0 idhh.com
@@ -13215,6 +13227,7 @@
 0.0.0.0 livebukkake.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 livecheck.org
+0.0.0.0 live.direct.ly
 0.0.0.0 livedoor1.com
 0.0.0.0 livefinder.net
 0.0.0.0 livefixer.com
@@ -13331,6 +13344,7 @@
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 logirls.net
 0.0.0.0 log.mmstat.com
+0.0.0.0 log.musical.ly
 0.0.0.0 logo.affiliatebot.com
 0.0.0.0 log.olark.com
 0.0.0.0 logon.worldofwarcraft.com
@@ -13356,6 +13370,7 @@
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
 0.0.0.0 logs.juspay.in
+0.0.0.0 logs.locarta.co
 0.0.0.0 logs.media-motor.net
 0.0.0.0 logs.supersonic.com
 0.0.0.0 log.statistici.ro
@@ -14550,6 +14565,7 @@
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mpzone.net
 0.0.0.0 mqbol.com
+0.0.0.0 m.quantcount.com
 0.0.0.0 mr-a1ex90.freehostia.com
 0.0.0.0 mrbloodhound.com
 0.0.0.0 mrbojikobi4.biz
@@ -16983,6 +16999,7 @@
 0.0.0.0 posings.net
 0.0.0.0 pospektr.ru
 0.0.0.0 po.st
+0.0.0.0 postback.pointwise.co
 0.0.0.0 postbank.ssl-zertifikat.mobi
 0.0.0.0 postcard.ru
 0.0.0.0 postcards-2008.com
@@ -18795,6 +18812,7 @@
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com
@@ -19494,6 +19512,7 @@
 0.0.0.0 services.hearstmags.com
 0.0.0.0 service.sponsorpay.com
 0.0.0.0 services.serving-sys.com
+0.0.0.0 servicesupport.hicloud.com
 0.0.0.0 service.urchin.com
 0.0.0.0 servik.com
 0.0.0.0 serving.bepolite.eu
@@ -20829,6 +20848,7 @@
 0.0.0.0 stats.esomniture.com
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.homestead.com
 0.0.0.0 stats.hyperinzerce.cz
@@ -23062,6 +23082,7 @@
 0.0.0.0 utilitiesbargains.com
 0.0.0.0 utilitiesdiscounts.com
 0.0.0.0 utils.mediageneral.net
+0.0.0.0 utraffic.engine.adglare.net
 0.0.0.0 utruuh.globe-finder.cc
 0.0.0.0 uusocialjustice.org
 0.0.0.0 uuwflbmjmi.eu
