@@ -5518,6 +5518,7 @@
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.tradelab.fr
 0.0.0.0 cdntrf.com
+0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cdn.tynt.com
 0.0.0.0 cdn.undertone.com
@@ -6638,6 +6639,7 @@
 0.0.0.0 cserver.mii.instacontent.net
 0.0.0.0 csex.com
 0.0.0.0 cs.gssprt.jp
+0.0.0.0 cshi.ru
 0.0.0.0 cs.hotbar.com
 0.0.0.0 csi.gstatic.com
 0.0.0.0 c.singular.net
@@ -9094,6 +9096,7 @@
 0.0.0.0 fassia.net
 0.0.0.0 fast.adobe.demdex.net
 0.0.0.0 fast-antimalware-scan.com
+0.0.0.0 fast.appcues.com
 0.0.0.0 fast-blocked-stats.com
 0.0.0.0 fast.cbsi.demdex.net
 0.0.0.0 fastclick.com
@@ -14167,6 +14170,7 @@
 0.0.0.0 m.exactag.com
 0.0.0.0 mexcleaner.in
 0.0.0.0 mezzicodec.net
+0.0.0.0 m.facebook.com
 0.0.0.0 m-game.name
 0.0.0.0 mgc.com
 0.0.0.0 mgepodownload.mediatek.com
@@ -24740,6 +24744,7 @@
 0.0.0.0 www.ez-screensavers.com
 0.0.0.0 www.ez-tracks.com
 0.0.0.0 www.ezurl.co.kr
+0.0.0.0 www.facebook.com
 0.0.0.0 www.facebook.com.tyqsazb.org.uk
 0.0.0.0 www.facebook.com.tywqap.org.uk
 0.0.0.0 www.facebook.com.tywqas.co.uk
