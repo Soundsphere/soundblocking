@@ -9425,7 +9425,6 @@
 0.0.0.0 hostly.ru
 0.0.0.0 hostpool.com
 0.0.0.0 hostpool.net
-0.0.0.0 hosts-file.net
 0.0.0.0 hostswiss.com
 0.0.0.0 hot8888.cn
 0.0.0.0 hotadulttube08.com
