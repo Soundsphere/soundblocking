@@ -1370,6 +1370,7 @@
 0.0.0.0 ads2.net-communities.co.uk
 0.0.0.0 ads2.oneplace.com
 0.0.0.0 ads2.rne.com
+0.0.0.0 ads2.servebom.com
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
 0.0.0.0 ads3.gamecity.net
@@ -4304,6 +4305,7 @@
 0.0.0.0 bestadbid.com
 0.0.0.0 bestadore.com
 0.0.0.0 bestadulttube.com
+0.0.0.0 best.aliexpress.com
 0.0.0.0 bestamateurgallery.com
 0.0.0.0 bestanalgallery.com
 0.0.0.0 bestantimalwarescanner.com
@@ -8805,6 +8807,7 @@
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 event-listener.air.tv
 0.0.0.0 eventlogger.soundcloud.com
+0.0.0.0 eventlog.outbrain.com
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
 0.0.0.0 events.air.tv
@@ -13722,6 +13725,7 @@
 0.0.0.0 maplefarmmedia.com
 0.0.0.0 map.media6degrees.com
 0.0.0.0 map-quest.org
+0.0.0.0 map.sddan.com
 0.0.0.0 marablic.com
 0.0.0.0 marblestyle.ru
 0.0.0.0 marchex.com
@@ -14151,6 +14155,7 @@
 0.0.0.0 metrics.performancing.com
 0.0.0.0 metrics.responsetap.com
 0.0.0.0 metrics.ryanair.com
+0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 metrocharter.org
 0.0.0.0 metzgerei-gebhart.de
@@ -20128,6 +20133,7 @@
 0.0.0.0 sodui.com
 0.0.0.0 sofeqadro.ru
 0.0.0.0 sofia.trustx.org
+0.0.0.0 soflopxl.com
 0.0.0.0 sofort-kredit.ru
 0.0.0.0 sofronirydypu.pochta.ru
 0.0.0.0 softbank.cc
