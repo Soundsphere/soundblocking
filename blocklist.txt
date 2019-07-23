@@ -1136,6 +1136,7 @@
 0.0.0.0 ads.heias.com
 0.0.0.0 ads.immobilienscout24.de
 0.0.0.0 ads.indeed.com
+0.0.0.0 ads.kiosked.com
 0.0.0.0 adslconnection.name
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 adslim.com
@@ -1924,6 +1925,7 @@
 0.0.0.0 analytics.businessinsider.com
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccs.mcafee.com
+0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 0.0.0.0 analytics.ecosia.org
@@ -5774,6 +5776,7 @@
 0.0.0.0 delivery3.digitalhealthcare.com
 0.0.0.0 delivery.adnetwork.vn
 0.0.0.0 delivery-cdn-cf.adswizz.com
+0.0.0.0 delivery.clickonometrics.pl
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 delivery-europe-west-1.openx.net
 0.0.0.0 delivery.g.switchadhub.com
@@ -14091,6 +14094,7 @@
 0.0.0.0 piwik.org
 0.0.0.0 piwik.up.welt.de
 0.0.0.0 pix01.revsci.net
+0.0.0.0 pix04.revsci.net
 0.0.0.0 pix4all.net
 0.0.0.0 pix.btrll.com
 0.0.0.0 pixel.33across.com
