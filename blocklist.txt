@@ -333,6 +333,7 @@
 0.0.0.0 513389.com
 0.0.0.0 518ad.com
 0.0.0.0 51edm.net
+0.0.0.0 51friend.anytome.com
 0.0.0.0 51yes.com
 0.0.0.0 51ym.com
 0.0.0.0 51ysc.cn
