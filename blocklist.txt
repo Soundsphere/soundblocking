@@ -16530,6 +16530,7 @@
 0.0.0.0 pixel.monitor1.returnpath.net
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.netster.com
+0.0.0.0 pixel.newscred.com
 0.0.0.0 pixel.nymag.com
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel-origin.mathtag.com
