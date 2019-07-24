@@ -290,6 +290,7 @@
 0.0.0.0 30to50.com
 0.0.0.0 31234.com
 0.0.0.0 313ddd59-592a-44df-90a9-955eb1649d4a.htmlpasta.com
+0.0.0.0 315-ftt-121.mktoresp.com
 0.0.0.0 31fa.com
 0.0.0.0 31joy.com
 0.0.0.0 3276817.fls.doubleclick.net
@@ -777,6 +778,7 @@
 0.0.0.0 a-0001.a-msedge.net
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a01660166.com
+0.0.0.0 a01.korrelate.net
 0.0.0.0 a.0day.kiev.ua
 0.0.0.0 a0e6.ffx23wl.nl
 0.0.0.0 a0.smi2.ru
@@ -3811,10 +3813,12 @@
 0.0.0.0 app2.jkahfmal.com
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app-ab01.marketo.com
+0.0.0.0 app-ab10.marketo.com
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab16.marketo.com
 0.0.0.0 app-ab17.marketo.com
+0.0.0.0 app-ab21.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-ab25.marketo.com
@@ -6566,6 +6570,7 @@
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.cquotient.com
 0.0.0.0 cdn.cxense.com
+0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.doubleverify.com
@@ -13554,6 +13559,7 @@
 0.0.0.0 herramientasegura.com
 0.0.0.0 hert-longoni.pl
 0.0.0.0 hertunjinkdesinl.com
+0.0.0.0 hertz.122.2o7.net
 0.0.0.0 hervam.com
 0.0.0.0 heryerdenoyna.com
 0.0.0.0 hestia.sextrail.com
@@ -13959,11 +13965,13 @@
 0.0.0.0 howvod.com
 0.0.0.0 hoztorg-opt.ru
 0.0.0.0 hpcgi1.nifty.com
+0.0.0.0 hp.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 hpd.com.eg
 0.0.0.0 hpintermedia.tintel.nl
 0.0.0.0 hpm.siteburg.com
 0.0.0.0 hp.myway.com
 0.0.0.0 hpprintersupportpro.com
+0.0.0.0 hpsupport.qualtrics.com
 0.0.0.0 hpxw.com
 0.0.0.0 hqamateurs.com
 0.0.0.0 hqball.com
@@ -26082,6 +26090,7 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
 0.0.0.0 staticq.com
+0.0.0.0 static.segment.com
 0.0.0.0 staticserv.com
 0.0.0.0 static.showheroes.com
 0.0.0.0 static.site24x7rum.com
