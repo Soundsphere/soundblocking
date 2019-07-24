@@ -163,6 +163,7 @@
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
 0.0.0.0 1827a5c1b772cf739.southernweyr.us
+0.0.0.0 190282.xyz
 0.0.0.0 191gm.com
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 194-vvc-221.mktoresp.com
@@ -178,6 +179,7 @@
 0.0.0.0 1f2e7.v.fwmrm.net
 0.0.0.0 1-free-share-buttons.com
 0.0.0.0 1ianhi594d.metequela.party
+0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1obmen.com
 0.0.0.0 1.ooskar.com
 0.0.0.0 1pamm.ru
@@ -2264,6 +2266,7 @@
 0.0.0.0 ads.wikia.nocookie.net
 0.0.0.0 ads.wineenthusiast.com
 0.0.0.0 adswitcher.com
+0.0.0.0 adswrapme.click
 0.0.0.0 ads.wunderground.com
 0.0.0.0 ads.wwe.biz
 0.0.0.0 ads.xhamster.com
@@ -6618,6 +6621,7 @@
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
+0.0.0.0 cdn.pljs.ru
 0.0.0.0 cdn.polyfill.io
 0.0.0.0 cdn.pulpix.com
 0.0.0.0 cdn.pushassist.com
@@ -7176,6 +7180,7 @@
 0.0.0.0 clicktrack.wnu.com
 0.0.0.0 clicktrack.ziyu.net
 0.0.0.0 clicktrade.com
+0.0.0.0 click.udimg.com
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 clickwwwsearch.com
 0.0.0.0 clickxchange.com
@@ -10825,6 +10830,7 @@
 0.0.0.0 events.apester.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.browsiprod.com
+0.0.0.0 events.demoup.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.kaloo.ga
 0.0.0.0 events.kiosked.com
@@ -22173,6 +22179,7 @@
 0.0.0.0 qippi.com
 0.0.0.0 qip.ru
 0.0.0.0 qiqi111.cn
+0.0.0.0 qiralei.xyz
 0.0.0.0 qishiwz.com
 0.0.0.0 qisihuisheng.net
 0.0.0.0 qiwi-mail.ru
@@ -33740,6 +33747,7 @@
 0.0.0.0 xmirror.us
 0.0.0.0 xml.411web.com
 0.0.0.0 xml.adbetnet.com
+0.0.0.0 xml.adservme.com
 0.0.0.0 xmlcash.com
 0.0.0.0 xml.nbcsearch.com
 0.0.0.0 x-moms.biz
