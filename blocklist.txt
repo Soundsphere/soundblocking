@@ -1337,6 +1337,7 @@
 0.0.0.0 adclear.baur.de
 0.0.0.0 adclick.com
 0.0.0.0 adclick.g.doubleclick.net
+0.0.0.0 adclicks.io
 0.0.0.0 adclient.163.com
 0.0.0.0 adclient1.tucows.com
 0.0.0.0 adclient.uimserv.net
@@ -1475,6 +1476,7 @@
 0.0.0.0 adioserrores.com
 0.0.0.0 adipics.com
 0.0.0.0 adipolo.tagcombiner.com
+0.0.0.0 ad.ipredictive.com
 0.0.0.0 adiquatenutrition.com
 0.0.0.0 ad.ireit.com
 0.0.0.0 adireland.com
@@ -5033,6 +5035,7 @@
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon-nf.rubiconproject.com
 0.0.0.0 beacon.riskified.com
+0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.sojern.com
@@ -5890,6 +5893,7 @@
 0.0.0.0 brilliantteens.com
 0.0.0.0 brillianty.info
 0.0.0.0 brindideias.com.br
+0.0.0.0 bristlyapace.com
 0.0.0.0 british-banners.com
 0.0.0.0 britney-spears-pic.com
 0.0.0.0 britney-spears-picture.com
@@ -6520,6 +6524,7 @@
 0.0.0.0 cdn6.admatic.com.tr
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn.accelerator.arsdev.net
+0.0.0.0 cdn.adaptv.advertising.com
 0.0.0.0 cdn.adhigh.net
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.admixer.net
@@ -6539,6 +6544,7 @@
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atwola.com
+0.0.0.0 cdn.avmws.com
 0.0.0.0 cdn.avocet.io
 0.0.0.0 cdnaws.mobidea.com
 0.0.0.0 cdn-a.yieldlove.com
@@ -10511,6 +10517,7 @@
 0.0.0.0 e-open.net
 0.0.0.0 e-orgasm.org
 0.0.0.0 eostechnologies.net
+0.0.0.0 eotech-yoqblou5gqrdrn.netdna-ssl.com
 0.0.0.0 ep3.performfeeds.com
 0.0.0.0 epamateohernandez.com
 0.0.0.0 e-pay.cc
@@ -11707,6 +11714,7 @@
 0.0.0.0 forcedclub.com
 0.0.0.0 forcedlove.com
 0.0.0.0 forced-movs.com
+0.0.0.0 forcedolphin.com
 0.0.0.0 forcedporn.net
 0.0.0.0 forced-schoolgirls.com
 0.0.0.0 forced-sex-movies.net
@@ -14581,6 +14589,7 @@
 0.0.0.0 imperiafilm.ru
 0.0.0.0 imperial-scape.com
 0.0.0.0 impetu.com.ve
+0.0.0.0 impgb.tradedoubler.com
 0.0.0.0 impliedscripting.com
 0.0.0.0 importarmas.com
 0.0.0.0 impotentik.com
@@ -19365,6 +19374,7 @@
 0.0.0.0 npxs.one
 0.0.0.0 nqs.nice264.com
 0.0.0.0 nqs-nl12-c2.youboranqs01.com
+0.0.0.0 nqs-nl1-c10.youboranqs01.com
 0.0.0.0 nrcci.org.np
 0.0.0.0 nrsi.twilightparadox.com
 0.0.0.0 nrssm.in
@@ -24737,6 +24747,7 @@
 0.0.0.0 s-forum.biz
 0.0.0.0 sftp.usin.com
 0.0.0.0 sfux.com
+0.0.0.0 sgali-mcs.byteoversea.com
 0.0.0.0 s.getsmartcontent.com
 0.0.0.0 sggm.org.in
 0.0.0.0 sgirls.net
