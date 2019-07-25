@@ -3387,6 +3387,7 @@
 0.0.0.0 anekantcollege.com
 0.0.0.0 anerrordns.com
 0.0.0.0 anetgate.com
+0.0.0.0 a.netmng.com
 0.0.0.0 a.networkworld.com
 0.0.0.0 angel-archives.org
 0.0.0.0 angelashunt.com
@@ -3899,6 +3900,7 @@
 0.0.0.0 app-lon03.marketo.com
 0.0.0.0 app-lon04.marketo.com
 0.0.0.0 app-lon05.marketo.com
+0.0.0.0 app-lon07.marketo.com
 0.0.0.0 app-lon08.marketo.com
 0.0.0.0 app.marketo.com
 0.0.0.0 app-measurement.com
@@ -7419,6 +7421,7 @@
 0.0.0.0 collect-eu-central-1.tealiumiq.com
 0.0.0.0 collection.no
 0.0.0.0 collector-1054.tvsquared.com
+0.0.0.0 collectorb.tvsquared.com
 0.0.0.0 collector.bunchbox.co
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector.deepmetrix.com
@@ -8389,6 +8392,7 @@
 0.0.0.0 d3.kkkmfdy.com
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
 0.0.0.0 d3m0n.biz
+0.0.0.0 d3nslu0hdya83q.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
@@ -9712,9 +9716,11 @@
 0.0.0.0 dp-host.com
 0.0.0.0 dplog.net
 0.0.0.0 dpm.demdex.net
+0.0.0.0 dpm.zebestof.com
 0.0.0.0 dpndczlul8yjf.cloudfront.net
 0.0.0.0 dpoint.co.kr
 0.0.0.0 dp.otelix.biz
+0.0.0.0 dps.bing.com
 0.0.0.0 dp-sync.dotomi.com
 0.0.0.0 d.pub.network
 0.0.0.0 dqmedia.net
@@ -9852,6 +9858,7 @@
 0.0.0.0 dspcluster.adfarm1.adition.com
 0.0.0.0 ds.prod.vidible.tv
 0.0.0.0 ds.starmedia.com
+0.0.0.0 dstillery.com
 0.0.0.0 dsum.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dswnet.com
@@ -13416,6 +13423,7 @@
 0.0.0.0 hardteenaction.com
 0.0.0.0 harduniform.com
 0.0.0.0 hardwareseek.net
+0.0.0.0 hardwax.com
 0.0.0.0 hardxxxporn.net
 0.0.0.0 hard-xxx-tube.com
 0.0.0.0 hardysex.com
@@ -20020,7 +20028,9 @@
 0.0.0.0 optinrealbig.com
 0.0.0.0 optout.aboutads.info
 0.0.0.0 optout.addthis.com
+0.0.0.0 optout.betrad.com
 0.0.0.0 optout.taboola.com
+0.0.0.0 optout.tt.omtrdc.net
 0.0.0.0 optsnab.com
 0.0.0.0 optsol.ru
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
@@ -22137,6 +22147,7 @@
 0.0.0.0 pvcps.ru
 0.0.0.0 pvmgarage.com
 0.0.0.0 pvo-tut.net
+0.0.0.0 pv.pjtsu.com
 0.0.0.0 p.vtracy.de
 0.0.0.0 pv.tubemogul.com
 0.0.0.0 pwn3d.ch
@@ -22217,6 +22228,7 @@
 0.0.0.0 qooqqle.com
 0.0.0.0 qpack.cn
 0.0.0.0 qpcarlsbadpainters.com
+0.0.0.0 qpdownload.com
 0.0.0.0 qpneu.com.br
 0.0.0.0 q.pni.com
 0.0.0.0 qpoe.com
@@ -23392,6 +23404,7 @@
 0.0.0.0 samcm.ksmobile.com
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 samedayappliancehomeservices.com
+0.0.0.0 samedaypaper.org
 0.0.0.0 samedi.org
 0.0.0.0 sam.msn.com
 0.0.0.0 samochodoweoleje.pl
@@ -24105,6 +24118,7 @@
 0.0.0.0 secure.buybestsoftwareonline.com
 0.0.0.0 secure.buypremiumsubscription.com
 0.0.0.0 secure-cdn.mplxtms.com
+0.0.0.0 secure-cert.imrworldwide.com
 0.0.0.0 secure.certone.com
 0.0.0.0 securecheck.biz
 0.0.0.0 securecloud-dl.com
@@ -24136,6 +24150,7 @@
 0.0.0.0 secure.instacontent.net
 0.0.0.0 secureinstruct.com
 0.0.0.0 secureinvites.com
+0.0.0.0 secure-it.imrworldwide.com
 0.0.0.0 secure.lab17.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.leadforensics.com
@@ -28891,6 +28906,7 @@
 0.0.0.0 v10.xmlsearch.miva.com
 0.0.0.0 v1.cnzz.com
 0.0.0.0 v20.events.data.microsoft.com
+0.0.0.0 v20.vortex-win.data.microsoft.com
 0.0.0.0 v2.inspectorclick.com
 0.0.0.0 v2.pedrojuandigital.com
 0.0.0.0 v2.zopim.com
@@ -29074,6 +29090,7 @@
 0.0.0.0 viasatsystems.ro
 0.0.0.0 viaxgiulio.top
 0.0.0.0 vibromech.com
+0.0.0.0 vice.demdex.net
 0.0.0.0 vicehouse.com
 0.0.0.0 vicp.cc
 0.0.0.0 vicp.net
@@ -31310,6 +31327,7 @@
 0.0.0.0 www.fasthosts.co.uk
 0.0.0.0 www.fastlook.net
 0.0.0.0 www.favicon.com
+0.0.0.0 www.feedblitz.com
 0.0.0.0 www.fesmedic.com.my
 0.0.0.0 www.fetish-pix.com
 0.0.0.0 www.fewatrust.com
@@ -32009,6 +32027,7 @@
 0.0.0.0 www.linkopp.net
 0.0.0.0 www.linkrankings.com
 0.0.0.0 www.links4trade.com
+0.0.0.0 www.linksalpha.com
 0.0.0.0 www.linkshare.com
 0.0.0.0 www.linkstoyou.com
 0.0.0.0 www.linkwithin.com
@@ -32749,6 +32768,7 @@
 0.0.0.0 www.residual.net
 0.0.0.0 www.res-x.com
 0.0.0.0 www.retrostats.com
+0.0.0.0 www.revcontent.com
 0.0.0.0 www.review-software.com
 0.0.0.0 www.revistacanariavenezolana.com
 0.0.0.0 www.rezer.com
@@ -32987,6 +33007,7 @@
 0.0.0.0 www.simenrobertsen.com
 0.0.0.0 www.similarplus.com
 0.0.0.0 www.simonkagyorgy.hu
+0.0.0.0 www.singular.net
 0.0.0.0 www.sinun-valintasi.com
 0.0.0.0 www.sismodular.com
 0.0.0.0 www.siteerror.com
