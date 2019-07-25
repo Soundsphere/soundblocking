@@ -3679,6 +3679,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 anycast.fw.adsafeprotected.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 anyclip-d.openx.net
 0.0.0.0 anycracks.com
 0.0.0.0 anydnserrors.com
 0.0.0.0 any-find.com
@@ -5878,6 +5879,7 @@
 0.0.0.0 brblue.org
 0.0.0.0 br.comclick.com
 0.0.0.0 brdatahost.com
+0.0.0.0 brdmin.com
 0.0.0.0 breadwinnerscafe.net
 0.0.0.0 breakingfreemichigan.com
 0.0.0.0 breakinggoodnews.com
@@ -8602,6 +8604,7 @@
 0.0.0.0 datashreddergold.com
 0.0.0.0 data.skitude.com
 0.0.0.0 data.torntv.net
+0.0.0.0 data.unacademy.com
 0.0.0.0 data-verify.su
 0.0.0.0 dataverityinc.net
 0.0.0.0 dataxu.com
@@ -8849,6 +8852,7 @@
 0.0.0.0 delivery-europe-west-1.openx.net
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.h.switchadhub.com
+0.0.0.0 dell.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 delled.net
 0.0.0.0 dellupdates.net
 0.0.0.0 delme.info
@@ -12879,6 +12883,7 @@
 0.0.0.0 goandgo.org
 0.0.0.0 goassists.online
 0.0.0.0 goatlist.com
+0.0.0.0 go.automatad.com
 0.0.0.0 go-besttravel.com
 0.0.0.0 gobigtits.com
 0.0.0.0 gobikehike.com
@@ -13214,6 +13219,7 @@
 0.0.0.0 growth-hackingan.info
 0.0.0.0 growth-hackingor.info
 0.0.0.0 growth-hackingy.info
+0.0.0.0 grow.urbanairship.com
 0.0.0.0 groznymovies.com
 0.0.0.0 grsoil.hk
 0.0.0.0 gruasplata.com
@@ -15419,6 +15425,7 @@
 0.0.0.0 jokedollars.com
 0.0.0.0 jokerwarez.net
 0.0.0.0 joketrade.com
+0.0.0.0 jokideo.com
 0.0.0.0 jomos.ch
 0.0.0.0 jonasandliz.org
 0.0.0.0 jonckattorneys.co.za
@@ -16621,6 +16628,7 @@
 0.0.0.0 lodgegisborne.org.nz
 0.0.0.0 log1.countomat.com
 0.0.0.0 log3.stats24.net
+0.0.0.0 log.adap.tv
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 log.aimtell.com
 0.0.0.0 logan.jino.ru
@@ -23688,6 +23696,7 @@
 0.0.0.0 sclgntfy.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.clickiocdn.com
+0.0.0.0 s.clicktale.net
 0.0.0.0 scomcluster.cxense.com
 0.0.0.0 scontent-iad3-1.cdninstagram.com
 0.0.0.0 scontent.xx.fbcdn.net
@@ -31571,6 +31580,7 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 www.gopopup.com
 0.0.0.0 www.gorillawalker.com
 0.0.0.0 www.goss.ru
 0.0.0.0 www.gotdy.com
