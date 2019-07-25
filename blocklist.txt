@@ -9138,7 +9138,6 @@
 0.0.0.0 dis.as.criteo.com
 0.0.0.0 disavowed.net
 0.0.0.0 disc0unt.us
-0.0.0.0 discord.gg
 0.0.0.0 discoseguro.com
 0.0.0.0 discountbob.com
 0.0.0.0 discountcarpets.org.uk
