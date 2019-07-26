@@ -543,6 +543,7 @@
 0.0.0.0 6127.nosubid.clickshield.net
 0.0.0.0 6144643.fls.doubleclick.net
 0.0.0.0 6229444.com
+0.0.0.0 6260248.fls.doubleclick.net
 0.0.0.0 63234.cc
 0.0.0.0 638308.com
 0.0.0.0 64.124.186.233.available.above.net
@@ -560,6 +561,7 @@
 0.0.0.0 6658588.cn
 0.0.0.0 666661.cc
 0.0.0.0 666cams.com
+0.0.0.0 6679330.fls.doubleclick.net
 0.0.0.0 669dj.com
 0.0.0.0 66frames.com
 0.0.0.0 67775662.reas.xyz
@@ -876,6 +878,7 @@
 0.0.0.0 a.amg777.com
 0.0.0.0 aams1.aim4media.com
 0.0.0.0 a-ams.1rx.io
+0.0.0.0 aan.amazon.com
 0.0.0.0 aanic.net
 0.0.0.0 aa.oasfile.aftenposten.no
 0.0.0.0 a.applovin.com
@@ -1849,6 +1852,7 @@
 0.0.0.0 ads.economist.com
 0.0.0.0 ads.edbindex.dk
 0.0.0.0 ads.egrana.com.br
+0.0.0.0 ads.ehealthcaresolutions.com
 0.0.0.0 ads.einmedia.com
 0.0.0.0 adselect.nuggad.net
 0.0.0.0 ads.electrocelt.com
@@ -6069,6 +6073,7 @@
 0.0.0.0 buttejazz.org
 0.0.0.0 buttons-for-website.com
 0.0.0.0 buttons-for-your-website.com
+0.0.0.0 buttons.googlesyndication.com
 0.0.0.0 buttonware.net
 0.0.0.0 buxhotel.com
 0.0.0.0 buyaggressive.com
@@ -15148,6 +15153,7 @@
 0.0.0.0 ishsports.com
 0.0.0.0 ishubin.com
 0.0.0.0 isibprivate.com
+0.0.0.0 i.simpli.fi
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 iskalko.ru
 0.0.0.0 iskconkondaveedu.com
@@ -16633,6 +16639,7 @@
 0.0.0.0 logan.jino.ru
 0.0.0.0 loga.vyrobce.cz
 0.0.0.0 log.btopenworld.com
+0.0.0.0 logc187.xiti.com
 0.0.0.0 logc279.xiti.com
 0.0.0.0 log.cizion.com
 0.0.0.0 log.dmtry.com
@@ -18888,6 +18895,7 @@
 0.0.0.0 ncsu.thecallingcenter.com
 0.0.0.0 ndbrinquedos.com.br
 0.0.0.0 ndfordriverz.com
+0.0.0.0 ndirect.ppro.de
 0.0.0.0 ndparking.com
 0.0.0.0 ndsimeon2.org
 0.0.0.0 ndusluge.hr
@@ -22296,6 +22304,7 @@
 0.0.0.0 queens-of-sex.com
 0.0.0.0 query.network
 0.0.0.0 query.petametrics.com
+0.0.0.0 query-us-east1.petametrics.com
 0.0.0.0 questaffiliates.net
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 queue.searchreslt.com
@@ -26872,6 +26881,7 @@
 0.0.0.0 targetspot.com
 0.0.0.0 targettraf.com
 0.0.0.0 targetwords.com
+0.0.0.0 t.arianelab.com
 0.0.0.0 tarog.us
 0.0.0.0 tasche.com.br
 0.0.0.0 tasobga.org
@@ -26934,6 +26944,7 @@
 0.0.0.0 teadis.net
 0.0.0.0 te.adlandpro.com
 0.0.0.0 te.advance.net
+0.0.0.0 tealium.hs.llnwd.net
 0.0.0.0 teamcy.com
 0.0.0.0 teamk.hlfcollege.cn
 0.0.0.0 te.ap.org
@@ -27073,6 +27084,7 @@
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 telegraphmedia.bootstrap.fyre.co
 0.0.0.0 telegraphmediagroup.d3.sc.omtrdc.net
+0.0.0.0 telegraphmediagroupl.tt.omtrdc.net
 0.0.0.0 telekom01.webtrekk.net
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry-in.battle.net
@@ -28926,6 +28938,7 @@
 0.0.0.0 v4.moatads.com
 0.0.0.0 v61.com
 0.0.0.0 v73.us
+0.0.0.0 v7.beemray.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v7.stats.avast.com
 0.0.0.0 v8guincho.com.br
