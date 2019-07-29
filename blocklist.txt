@@ -282,6 +282,7 @@
 0.0.0.0 2xbinance.com
 0.0.0.0 2your.site
 0.0.0.0 2z0o.net
+0.0.0.0 2znp09oa.com
 0.0.0.0 3000.ws
 0.0.0.0 304nottinghamway.com
 0.0.0.0 30k-challenge.com
@@ -734,6 +735,7 @@
 0.0.0.0 91s.com
 0.0.0.0 924329928.com
 0.0.0.0 929oldies.com
+0.0.0.0 935-kke-240.mktoresp.com
 0.0.0.0 9365.org
 0.0.0.0 9438k.com
 0.0.0.0 959-tqv-890.mktoresp.com
@@ -873,6 +875,7 @@
 0.0.0.0 a-ads.com
 0.0.0.0 a.adsrvr.org
 0.0.0.0 a.adtech.de
+0.0.0.0 a.adtechus.com
 0.0.0.0 aahrcpllc.com
 0.0.0.0 aambg.org
 0.0.0.0 a.amg777.com
@@ -1719,6 +1722,7 @@
 0.0.0.0 ads5.admatic.com.tr
 0.0.0.0 ads5.canoe.ca
 0.0.0.0 ads.5ci.lt
+0.0.0.0 ads5-noneu.truecaller.com
 0.0.0.0 ads5.virtual-nights.com
 0.0.0.0 ads6.gamecity.net
 0.0.0.0 ads7.gamecity.net
@@ -1768,6 +1772,7 @@
 0.0.0.0 adsatt.espn.go.com
 0.0.0.0 adsatt.espn.starwave.com
 0.0.0.0 Adsatt.go.starwave.com
+0.0.0.0 ads.avads.net
 0.0.0.0 ads.avazu.net
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads.aws.viber.com
@@ -1923,6 +1928,7 @@
 0.0.0.0 adserver.portalofevil.com
 0.0.0.0 adserver.portugalmail.net
 0.0.0.0 adserver.portugalmail.pt
+0.0.0.0 adserver.pressboard.ca
 0.0.0.0 adserver-qcamt.adtech.de
 0.0.0.0 adserver-qcmtc.adtechus.com
 0.0.0.0 adserver.quizdingo.com
@@ -3748,6 +3754,7 @@
 0.0.0.0 apice-snn.com
 0.0.0.0 api-cf.affirm.com
 0.0.0.0 api.chat.xiaomi.net
+0.0.0.0 api.circularhub.com
 0.0.0.0 api.company-target.com
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.demandbase.com
@@ -4045,6 +4052,7 @@
 0.0.0.0 a.rfihub.com
 0.0.0.0 arheo.com
 0.0.0.0 ariandange.com
+0.0.0.0 ariane.abtasty.com
 0.0.0.0 ariboo.com
 0.0.0.0 ariel.ieupdates.com
 0.0.0.0 arieslogistics.lk
@@ -4249,6 +4257,7 @@
 0.0.0.0 assets.kromtech.net
 0.0.0.0 assets.loomia.com
 0.0.0.0 assets.micpn.com
+0.0.0.0 assets.olark.com
 0.0.0.0 assets.pinterest.com
 0.0.0.0 assets.privy.com
 0.0.0.0 assets.purch.com
@@ -6569,6 +6578,7 @@
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.branch.io
+0.0.0.0 cdn.bttrack.com
 0.0.0.0 cdn.buysellads.com
 0.0.0.0 cdn.callrail.com
 0.0.0.0 cdn.carbonads.com
@@ -6615,6 +6625,7 @@
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cdnjs.tvpage.com
+0.0.0.0 cdn.komoona.com
 0.0.0.0 cdn.krxd.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn-lb.vungle.com
@@ -6850,6 +6861,8 @@
 0.0.0.0 chat.carabayllo.com
 0.0.0.0 chateauvirgile.fr
 0.0.0.0 chatox.in
+0.0.0.0 chatrouter-ups.inq.com
+0.0.0.0 chatrouterv3.inq.com
 0.0.0.0 chat-smiley.com
 0.0.0.0 chat-smileys.com
 0.0.0.0 chatsporno.com
@@ -7634,6 +7647,7 @@
 0.0.0.0 congratulations.travelengine.net
 0.0.0.0 congresoaapresid.org.ar
 0.0.0.0 congruent-park-1671-dirt.com
+0.0.0.0 connatix-d.openx.net
 0.0.0.0 connectbot.org
 0.0.0.0 connectedsoundsites.com
 0.0.0.0 connect.ekomi.de
@@ -9851,6 +9865,7 @@
 0.0.0.0 dsaj2a.com
 0.0.0.0 dsaj2a.org
 0.0.0.0 ds-aksb-a.akamaihd.net
+0.0.0.0 ds-a.prod.vidible.tv
 0.0.0.0 ds-b.prod.vidible.tv
 0.0.0.0 dsc.io
 0.0.0.0 dscsa.org.au
@@ -10710,6 +10725,7 @@
 0.0.0.0 essaim-graphique.com
 0.0.0.0 essaudio.cc
 0.0.0.0 essentialeraser.com
+0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 es-sunicontent.videoplaza.tv
 0.0.0.0 e-statistic.com
 0.0.0.0 estboxes.com
@@ -10849,6 +10865,7 @@
 0.0.0.0 event.api.drift.com
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 event.inner-active.mobi
 0.0.0.0 event-listener.air.tv
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 eventlog.outbrain.com
@@ -10859,6 +10876,7 @@
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.browsiprod.com
 0.0.0.0 events.demoup.com
+0.0.0.0 events.godaddy.com
 0.0.0.0 events.jotform.com
 0.0.0.0 events.kaloo.ga
 0.0.0.0 events.kiosked.com
@@ -11380,6 +11398,7 @@
 0.0.0.0 fhgstr.com
 0.0.0.0 fhhhhhh.com
 0.0.0.0 fh-shockingcash.com
+0.0.0.0 fh.under9.co
 0.0.0.0 fiafii.org
 0.0.0.0 fiaformulae-cvs.com
 0.0.0.0 fiaformulae-files.com
@@ -13095,6 +13114,7 @@
 0.0.0.0 go.toutapp.com
 0.0.0.0 gotraffic.us
 0.0.0.0 go.urbanairship.com
+0.0.0.0 goutee.top
 0.0.0.0 govtcomics.com
 0.0.0.0 gowfo.com
 0.0.0.0 goxtrade.com
@@ -14027,6 +14047,7 @@
 0.0.0.0 h.starware.com
 0.0.0.0 hsx.com
 0.0.0.0 htcf.org
+0.0.0.0 html5.adsrvr.org
 0.0.0.0 html-5.me
 0.0.0.0 htmlhubing.xyz
 0.0.0.0 html.overture.com
@@ -14853,6 +14874,7 @@
 0.0.0.0 inspectagainantivir.com
 0.0.0.0 inspectallrealty.com
 0.0.0.0 inspection.alibaba.com
+0.0.0.0 inspectletws.herokuapp.com
 0.0.0.0 ins.rdxrp.com
 0.0.0.0 instacarrosgp.com
 0.0.0.0 instadia.net
@@ -25265,6 +25287,7 @@
 0.0.0.0 smetrics.mcafee.com
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.tesco.com
+0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 smile.modchipstore.com
 0.0.0.0 smilesaversaustralia.com.au
 0.0.0.0 smiley-4you.com
@@ -25998,6 +26021,7 @@
 0.0.0.0 sta-grand.ru
 0.0.0.0 sta-group.ir
 0.0.0.0 stags.bluekai.com
+0.0.0.0 s.tagsrvcs.com
 0.0.0.0 stalkwars.com
 0.0.0.0 stamp.elite-jobs.net
 0.0.0.0 standardinternet.com
@@ -26152,6 +26176,7 @@
 0.0.0.0 statistics.11880.com
 0.0.0.0 statistics.aldi-international.com
 0.0.0.0 statistics.s5.com
+0.0.0.0 statistik.bundestag.de
 0.0.0.0 statistik-gallup.net
 0.0.0.0 statmarket.com
 0.0.0.0 stat.media
@@ -26212,6 +26237,7 @@
 0.0.0.0 stats.outster.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pusher.com
+0.0.0.0 stats.sa-as.com
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.smartbucks.com
 0.0.0.0 stats.smartclip.net
@@ -27595,6 +27621,7 @@
 0.0.0.0 tlp-02.kameleoon.com
 0.0.0.0 tlp-03.kameleoon.com
 0.0.0.0 tlp-04.kameleoon.com
+0.0.0.0 tl.tradetracker.net
 0.0.0.0 tlvmedia.com
 0.0.0.0 t-machinery.ru
 0.0.0.0 tmgr.ccmbg.com
@@ -30892,6 +30919,7 @@
 0.0.0.0 www.cbtt.hk
 0.0.0.0 www.ccbillcs.com
 0.0.0.0 www.ccbilleu.com
+0.0.0.0 www.ccpalmira.org.co
 0.0.0.0 www.cctv.per.sg
 0.0.0.0 www.cdn-mailnetflion.online
 0.0.0.0 www.ceelo.net
@@ -33007,6 +33035,7 @@
 0.0.0.0 www.shandimm.com
 0.0.0.0 www.shanmukha.com
 0.0.0.0 www.shannonebeling.com
+0.0.0.0 www.shareasale.com
 0.0.0.0 www.shareware4web.com
 0.0.0.0 www.shellychaunceyphotography.com
 0.0.0.0 www.shelrongroup.com
