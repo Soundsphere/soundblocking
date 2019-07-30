@@ -1058,6 +1058,7 @@
 0.0.0.0 acds-b.prod.eu-west-1.vidible.tv
 0.0.0.0 acds.prod.eu-west-1.vidible.tv
 0.0.0.0 acds.prod.vidible.tv
+0.0.0.0 ace.adoftheyear.com
 0.0.0.0 ace-assist.biz
 0.0.0.0 acegates.com
 0.0.0.0 acemedic.com
@@ -2623,6 +2624,7 @@
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wz.cz
 0.0.0.0 adx.adform.net
+0.0.0.0 adx.adnxs.com
 0.0.0.0 adx.adrenaline.cz
 0.0.0.0 adx.allstar.cz
 0.0.0.0 adxanet.net
@@ -3113,6 +3115,7 @@
 0.0.0.0 alogs.umengcloud.com
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alog.umengcloud.com
+0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
 0.0.0.0 alojamientoenobera.com.ar
 0.0.0.0 alopruebas.com.mx
@@ -4811,6 +4814,7 @@
 0.0.0.0 bannergrabber.internet.gr
 0.0.0.0 banner.greatpokerclub.org
 0.0.0.0 bannerhost.com
+0.0.0.0 banner.hpmdnetwork.ru
 0.0.0.0 bannerimage.com
 0.0.0.0 bannerimages.0catch.com
 0.0.0.0 banner.img.co.za
@@ -6207,6 +6211,7 @@
 0.0.0.0 cachebanners.toteme.com
 0.0.0.0 cachebanner.titanpoker.com
 0.0.0.0 cachebanner.vegasred.com
+0.0.0.0 cache.betweendigital.com
 0.0.0.0 cache.datamart.windows.com
 0.0.0.0 cache.directorym.com
 0.0.0.0 cached.licenseacquisition.org
@@ -6633,6 +6638,7 @@
 0.0.0.0 cdn.krxd.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn-lb.vungle.com
+0.0.0.0 cdn.listrakbi.com
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn.livefyre.com
 0.0.0.0 cdn.loginradius.com
@@ -8728,6 +8734,7 @@
 0.0.0.0 dc56.s290.meetrics.net
 0.0.0.0 dc61.s290.meetrics.net
 0.0.0.0 dc84.s290.meetrics.net
+0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dc-9bcb6cae4e96.ashokcpg.com.np
 0.0.0.0 d-cache.microad.jp
 0.0.0.0 dc.ads.linkedin.com
@@ -10873,6 +10880,7 @@
 0.0.0.0 eventapi.libring.com
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 event.getblue.io
 0.0.0.0 event.inner-active.mobi
 0.0.0.0 event-listener.air.tv
 0.0.0.0 eventlogger.soundcloud.com
@@ -11157,6 +11165,7 @@
 0.0.0.0 faddakobbi.t35.com
 0.0.0.0 fadesutiongfedrin.com
 0.0.0.0 fagaaaw.hentaiwonderland.com
+0.0.0.0 faggrim.com
 0.0.0.0 failwowvidnuts.com
 0.0.0.0 fairesplumbing.com
 0.0.0.0 fairnpink.com
@@ -16740,6 +16749,7 @@
 0.0.0.0 log.trafic.ro
 0.0.0.0 logua.com
 0.0.0.0 loguestbook.com
+0.0.0.0 log.umsns.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 loja.brasilliker.com.br
 0.0.0.0 lokhsik.dnsabr.com
@@ -19164,6 +19174,7 @@
 0.0.0.0 news.hugesoft.org
 0.0.0.0 newsit.es
 0.0.0.0 newsletter.com.au
+0.0.0.0 news.mirtesen.ru
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 newsnetwork-bd.org
 0.0.0.0 new-soft.info
@@ -20046,6 +20057,7 @@
 0.0.0.0 opensols.com
 0.0.0.0 opensourcefirewall.com
 0.0.0.0 opensourceug.com
+0.0.0.0 openstat.net
 0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 openx.angelsgroup.org.uk
@@ -22691,6 +22703,7 @@
 0.0.0.0 red.as-eu.falkag.net
 0.0.0.0 red.as-test.falkag.net
 0.0.0.0 red.as-us.falkag.net
+0.0.0.0 redatastore.ru
 0.0.0.0 red.bestdamnserving.com
 0.0.0.0 redcoats2005.com
 0.0.0.0 redcoredesign.com
@@ -23318,6 +23331,7 @@
 0.0.0.0 s1.adform.net
 0.0.0.0 s1.hit.stat.pl
 0.0.0.0 s1k-amazon.com
+0.0.0.0 s1.listrakbi.com
 0.0.0.0 s1.node103.iifab.com
 0.0.0.0 s1.qckads.com
 0.0.0.0 s1s1s1search.com
@@ -25921,6 +25935,7 @@
 0.0.0.0 spywatche.com
 0.0.0.0 spywords.com
 0.0.0.0 sp-zakupki.ru
+0.0.0.0 sp.zalo.me
 0.0.0.0 sqha.hypertension.qc.ca
 0.0.0.0 sqlteam.info
 0.0.0.0 sql.yauu.net
@@ -27995,6 +28010,7 @@
 0.0.0.0 tracker.ign.com
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.mtrtb.com
+0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.netmechanic.com
 0.0.0.0 tracker.pythonvideo.com
@@ -29213,6 +29229,7 @@
 0.0.0.0 video.xx.fbcdn.net
 0.0.0.0 video-youtube.com
 0.0.0.0 video.youtube.com.beizhanliu.com
+0.0.0.0 vid-io-dub.springserve.com
 0.0.0.0 vidi-store.ru
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 vidroll.ru
@@ -34164,6 +34181,7 @@
 0.0.0.0 yeahmny.com
 0.0.0.0 yeak.net
 0.0.0.0 yeasearch.com
+0.0.0.0 yello-de01.webtrekk.net
 0.0.0.0 yellow2.com
 0.0.0.0 yellow500.com
 0.0.0.0 yellowcatstyle.com
