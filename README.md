@@ -5,6 +5,6 @@ If you're looking for blocklists that are updated regularly, then check out thes
 - [Firebog](https://firebog.net/)
 - [StevenBlack](https://github.com/StevenBlack/hosts)
 
-They actually put work and effor in, so this should be your place to start, not my own list that I update based on theirs.
+They actually put work and effort in, so this should be your place to start, not my own list that I automatically update with scripts based on theirs.
 
 Thanks for understanding
