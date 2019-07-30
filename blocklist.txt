@@ -1331,6 +1331,7 @@
 0.0.0.0 ad.caradisiac.com
 0.0.0.0 adcash.com
 0.0.0.0 adcast.deviantart.com
+0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 adcel.vrvm.com
 0.0.0.0 adcenter.in2.com
 0.0.0.0 adcenter.mdf.se
@@ -6560,6 +6561,7 @@
 0.0.0.0 cdn.adskeeper.co.uk
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adtrue.com
+0.0.0.0 cdn.advanseads.com
 0.0.0.0 cdn-advert.smi2.net
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 cdn.alooma.com
@@ -6644,6 +6646,7 @@
 0.0.0.0 cdn.nativendo.de
 0.0.0.0 cdn.niche.videosz.com
 0.0.0.0 cdn.notifyvisitors.com
+0.0.0.0 cdn.oas-c17.adnxs.com
 0.0.0.0 cdn.oas-eu1.adnxs.com
 0.0.0.0 cdn.odoscope.cloud
 0.0.0.0 cdn.onenote.net
@@ -7006,6 +7009,7 @@
 0.0.0.0 church18.org
 0.0.0.0 churchatthegym.org
 0.0.0.0 chuyenphatnhanhlt.com
+0.0.0.0 ci24.actonsoftware.com
 0.0.0.0 ci37.actonsoftware.com
 0.0.0.0 ci95.actonsoftware.com
 0.0.0.0 ciaaju.org
@@ -15030,6 +15034,7 @@
 0.0.0.0 iocloths.xyz
 0.0.0.0 iogcasinos.com
 0.0.0.0 iojik.ru
+0.0.0.0 ioms.bfmio.com
 0.0.0.0 io.narrative.io
 0.0.0.0 ionichost.com
 0.0.0.0 ionomist.com
@@ -15055,6 +15060,7 @@
 0.0.0.0 ipa.edu.kh
 0.0.0.0 ipag63.fr
 0.0.0.0 i.pagetarget.com
+0.0.0.0 ipapi.co
 0.0.0.0 ipbehdeh.ir
 0.0.0.0 ipcons.biz
 0.0.0.0 ipdaez0813mia.innerhost.com
@@ -16723,6 +16729,7 @@
 0.0.0.0 logs.juspay.in
 0.0.0.0 logs.locarta.co
 0.0.0.0 logs.media-motor.net
+0.0.0.0 logs-qos.tf1.fr
 0.0.0.0 logs.supersonic.com
 0.0.0.0 log.statistici.ro
 0.0.0.0 log.streamagent.sensic.net
@@ -16859,6 +16866,7 @@
 0.0.0.0 lphuissier06.com
 0.0.0.0 lp.learntophish0004.com
 0.0.0.0 lpm-lagardere.nuggad.net
+0.0.0.0 lpm-tf1.nuggad.net
 0.0.0.0 lpmxp2015.com
 0.0.0.0 lpmxp2188.com
 0.0.0.0 lptag.liveperson.net
@@ -17402,6 +17410,7 @@
 0.0.0.0 matchservice.com
 0.0.0.0 match.sharethrough.com
 0.0.0.0 match.taboola.com
+0.0.0.0 match.xg4ken.com
 0.0.0.0 materiel-agricole-pellenc.com
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 mathid-origin.mathtag.com
@@ -23128,6 +23137,7 @@
 0.0.0.0 royalwallpapers.com
 0.0.0.0 royalwindsorpub.com
 0.0.0.0 rozoff.ru
+0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpgallerynow.info
 0.0.0.0 rponly.com
@@ -26142,6 +26152,7 @@
 0.0.0.0 static.exdynsrv.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.freecontentbuilder.com
+0.0.0.0 static.freeskreen.com
 0.0.0.0 static.getclicky.com
 0.0.0.0 static.hitfarm.com
 0.0.0.0 static.hotjar.com
@@ -26257,6 +26268,7 @@
 0.0.0.0 stat.su
 0.0.0.0 stats.umsns.com
 0.0.0.0 stats.unwired-i.net
+0.0.0.0 stats.vidyome.com
 0.0.0.0 stats.warenform.de
 0.0.0.0 statswhere.com
 0.0.0.0 stats.wordpress.com
@@ -26717,6 +26729,7 @@
 0.0.0.0 syncyourclock.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
+0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 syndication.voodoo.com
 0.0.0.0 synsynsyn.com
@@ -30174,6 +30187,7 @@
 0.0.0.0 wowtoolbar.co.kr
 0.0.0.0 wowtw.com
 0.0.0.0 wowweb.net
+0.0.0.0 wp11.org
 0.0.0.0 wpvest.hk
 0.0.0.0 wqdfr.salefale.com
 0.0.0.0 wqd.nl
