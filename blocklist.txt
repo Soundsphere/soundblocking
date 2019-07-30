@@ -1708,6 +1708,7 @@
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads2.virtual-nights.com
 0.0.0.0 ads2.xnet.cz
+0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads3.gamecity.net
 0.0.0.0 ads3.mthsense.com
 0.0.0.0 ads3.virtual-nights.com
@@ -6660,6 +6661,7 @@
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdn.rawgit.com
+0.0.0.0 cdn.refersion.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn.runescape.com.sd3.pw
@@ -10863,6 +10865,7 @@
 0.0.0.0 evelyndream.com
 0.0.0.0 evenquest.info
 0.0.0.0 event.api.drift.com
+0.0.0.0 eventapi.libring.com
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 event.inner-active.mobi
@@ -19712,6 +19715,7 @@
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 octaviacentral.org
 0.0.0.0 octemad.com
+0.0.0.0 oc.umeng.com
 0.0.0.0 odaiba777.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odc.starwave.com
@@ -21043,6 +21047,7 @@
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.sojern.com
+0.0.0.0 pixel.spotify.com
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel-us-east.rubiconproject.com
@@ -22202,6 +22207,7 @@
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 px.gfycat.com
 0.0.0.0 pxl.connexity.net
+0.0.0.0 pxlctl.as.com
 0.0.0.0 pxlctl.elpais.com
 0.0.0.0 pxl.jivox.com
 0.0.0.0 px.marchex.io
@@ -33977,6 +33983,7 @@
 0.0.0.0 xspics.com
 0.0.0.0 xsps.net
 0.0.0.0 xspy-shredder.com
+0.0.0.0 x.ss2.us
 0.0.0.0 x-stories.org
 0.0.0.0 x-template.net
 0.0.0.0 xtendmedia.com
