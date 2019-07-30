@@ -26298,6 +26298,7 @@
 0.0.0.0 stattrader.biz
 0.0.0.0 stat.tudou.com
 0.0.0.0 statuscake.com
+0.0.0.0 status.discordapp.com
 0.0.0.0 status.qckads.com
 0.0.0.0 stat.webmedia.pl
 0.0.0.0 statxpress.com
