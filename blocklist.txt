@@ -24966,6 +24966,7 @@
 0.0.0.0 shopknights.com
 0.0.0.0 shop.maxviril.lu
 0.0.0.0 shopnav.com
+0.0.0.0 shop.nuance.com
 0.0.0.0 shop-of-innovations.de
 0.0.0.0 shop.oliviahscott.com
 0.0.0.0 shopontop.com
@@ -28378,6 +28379,7 @@
 0.0.0.0 tsa.vn
 0.0.0.0 tsc-koleso.ru
 0.0.0.0 ts.crwdcntrl.net
+0.0.0.0 t.sellpoints.com
 0.0.0.0 tservidor.com
 0.0.0.0 tsetsuuh.mn
 0.0.0.0 t.sf14g.com
