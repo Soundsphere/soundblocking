@@ -390,6 +390,7 @@
 0.0.0.0 427224.com
 0.0.0.0 43242.com
 0.0.0.0 4345210.fls.doubleclick.net
+0.0.0.0 4382365.fls.doubleclick.net
 0.0.0.0 44466666.com
 0.0.0.0 4466666.com
 0.0.0.0 446d67d8-3cde-47b5-987b-7f6b707d0c54.htmlpasta.com
@@ -3805,6 +3806,7 @@
 0.0.0.0 api.trackuity.com
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.usersnap.com
 0.0.0.0 apiv2.moengage.com
@@ -3832,6 +3834,7 @@
 0.0.0.0 app2.jkahfmal.com
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app-ab01.marketo.com
+0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab10.marketo.com
 0.0.0.0 app-ab12.marketo.com
 0.0.0.0 app-ab14.marketo.com
@@ -4300,6 +4303,7 @@
 0.0.0.0 as.weatherstudio.com
 0.0.0.0 as.webmd.com
 0.0.0.0 aswords.com
+0.0.0.0 aswpapius.com
 0.0.0.0 asy.a8ww.net
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 atabey.k12.tr
@@ -4552,6 +4556,7 @@
 0.0.0.0 avxp-08.com
 0.0.0.0 awaitingpickup.com
 0.0.0.0 awantgarde.com
+0.0.0.0 awaps.yandex.net
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awareremover2009.com
 0.0.0.0 awarninglist.com
@@ -4624,6 +4629,7 @@
 0.0.0.0 b0o.net
 0.0.0.0 b0tfilez.tripod.com
 0.0.0.0 b1.bluetime.com
+0.0.0.0 b1img.com
 0.0.0.0 b-1st.com
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 b2c-msm.marketo.com
@@ -7195,6 +7201,7 @@
 0.0.0.0 click.revue.email
 0.0.0.0 clicks.about.com
 0.0.0.0 clicks.asianamateurpages.com
+0.0.0.0 clicks.aweber.com
 0.0.0.0 clickschool.net
 0.0.0.0 clicksearchclick.com
 0.0.0.0 clicksearch.com
@@ -14447,6 +14454,7 @@
 0.0.0.0 ilabtech.com
 0.0.0.0 ilardo.com
 0.0.0.0 ilbanner.com
+0.0.0.0 il.btttag.com
 0.0.0.0 ilead.itrack.it
 0.0.0.0 i.liadm.com
 0.0.0.0 iliillliO00OO0.321.cn
@@ -14626,6 +14634,7 @@
 0.0.0.0 img.mplx.akadns.net
 0.0.0.0 img.prohardver.hu
 0.0.0.0 imgpromo.easyrencontre.com
+0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.sedoparking.com
 0.0.0.0 imgserv.adbutler.com
@@ -16918,6 +16927,7 @@
 0.0.0.0 lukecloughglobal.cambridgehypnotherapy.co.uk
 0.0.0.0 lukoilcard.ru
 0.0.0.0 luluciana2006.ubbihp.com.br
+0.0.0.0 lululemonathleticacanadainc.demdex.net
 0.0.0.0 lululemonspna.btttag.com
 0.0.0.0 lulumaderrro.kit.net
 0.0.0.0 lumb.co
@@ -16995,6 +17005,7 @@
 0.0.0.0 m5k8.com
 0.0.0.0 m8trixconsultinggroup.com
 0.0.0.0 m.9438k.com
+0.0.0.0 m.9gag.com
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 ma3ca.com
 0.0.0.0 maaalainin.org
@@ -20203,6 +20214,7 @@
 0.0.0.0 out-there-media.com
 0.0.0.0 outwar.com
 0.0.0.0 ovbrl.org
+0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ovencleaningjoy.com
 0.0.0.0 overpeer.com
 0.0.0.0 overpro.com
@@ -20634,6 +20646,7 @@
 0.0.0.0 p.bm23.com
 0.0.0.0 pbnc.ac.in
 0.0.0.0 pbnet.ru
+0.0.0.0 p.brsrvr.com
 0.0.0.0 pc2006.net
 0.0.0.0 pc604.com
 0.0.0.0 pcadprotector.cc
@@ -23323,6 +23336,7 @@
 0.0.0.0 s1184.t.eloqua.com
 0.0.0.0 s11.flagcounter.com
 0.0.0.0 s12ds2.ewizard.cc
+0.0.0.0 s1325.t.eloqua.com
 0.0.0.0 s13.dupx.cc
 0.0.0.0 s13.topx.cc
 0.0.0.0 s13.wlza.ws
@@ -23804,6 +23818,7 @@
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scripts.snowball.com
 0.0.0.0 scripts.sophus3.com
+0.0.0.0 scripttags.justuno.com
 0.0.0.0 scrk.com
 0.0.0.0 scrsaver.com
 0.0.0.0 s-cs.send.microad.jp
@@ -24344,6 +24359,7 @@
 0.0.0.0 secure.yahoo-security.net
 0.0.0.0 securezon.com
 0.0.0.0 securinews.free.fr
+0.0.0.0 securite.01net.com
 0.0.0.0 security2k.net
 0.0.0.0 securitybrochure.com
 0.0.0.0 securitybulletin.com
@@ -26017,6 +26033,7 @@
 0.0.0.0 s-sniffer.se
 0.0.0.0 ssolsoftware.com
 0.0.0.0 sso-mobile-my3services-login-three-co-uk.verify3alert.com
+0.0.0.0 ssor.tribdss.com
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 ssp-csync.smartadserver.com
 0.0.0.0 ssp.lkqd.net
@@ -26911,6 +26928,7 @@
 0.0.0.0 talktomewhileamheree.com
 0.0.0.0 tallerdecalzado.cl
 0.0.0.0 tallyonlinetraining.com
+0.0.0.0 talos.adman.gr
 0.0.0.0 tamada69.com
 0.0.0.0 tamarises.com
 0.0.0.0 tamiamitomorrow.org
@@ -26977,6 +26995,7 @@
 0.0.0.0 tcads.net
 0.0.0.0 tc.airfrance.com
 0.0.0.0 tc.danknugs.be
+0.0.0.0 t.cfjump.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 t.co
@@ -29183,6 +29202,7 @@
 0.0.0.0 vibromech.com
 0.0.0.0 vice.demdex.net
 0.0.0.0 vicehouse.com
+0.0.0.0 vice-publishers-cdn.vice.com
 0.0.0.0 vicp.cc
 0.0.0.0 vicp.net
 0.0.0.0 victimsafetyguide.com
@@ -29249,6 +29269,7 @@
 0.0.0.0 view.autoscout24.de
 0.0.0.0 viewpoint.com
 0.0.0.0 viewrun.co.kr
+0.0.0.0 view.s7.exacttarget.com
 0.0.0.0 viewwonder.com
 0.0.0.0 viftech.viftechuat.com
 0.0.0.0 viktor-art.pl
@@ -29354,6 +29375,7 @@
 0.0.0.0 vrp.outbrain.com
 0.0.0.0 vrsaree.com
 0.0.0.0 vrs.cz
+0.0.0.0 vrt.outbrain.com
 0.0.0.0 vsantivirxp.com
 0.0.0.0 vseigru.one
 0.0.0.0 vsmprot.co.uk
@@ -31535,6 +31557,7 @@
 0.0.0.0 www.frontiertreeservices.com
 0.0.0.0 www.fshac.com
 0.0.0.0 www.fsincometax.com
+0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.ftkbahrain.com
 0.0.0.0 www.fuck.com
 0.0.0.0 www.fuertecondor.com
@@ -34172,6 +34195,7 @@
 0.0.0.0 yast.rutube.ru
 0.0.0.0 yauwvhhzml.biz
 0.0.0.0 yaxmtxhfen.biz
+0.0.0.0 yax-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 yay-grab-block-status.com
 0.0.0.0 yazzle.net
 0.0.0.0 ybg-art.com
