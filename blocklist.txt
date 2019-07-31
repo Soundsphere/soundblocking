@@ -8192,6 +8192,7 @@
 0.0.0.0 csc.beap.bc.yahoo.com
 0.0.0.0 cscstar.in
 0.0.0.0 csebanking.com
+0.0.0.0 cse.google.com
 0.0.0.0 cserver.mii.instacontent.net
 0.0.0.0 csex.com
 0.0.0.0 csgladiatorgym.ro
@@ -12600,6 +12601,7 @@
 0.0.0.0 geomlocatelli.it
 0.0.0.0 geo.moatads.com
 0.0.0.0 geo.precisionclick.com
+0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.qualaroo.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 georcoll.on.ca
@@ -12608,6 +12610,7 @@
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
 0.0.0.0 geotarget.info
 0.0.0.0 geo-um.btrll.com
+0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geovisite.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.yahoo.com
@@ -16894,6 +16897,7 @@
 0.0.0.0 lr103.com
 0.0.0.0 lrassessoriacerimonial.com.br
 0.0.0.0 ls0.net
+0.0.0.0 ls2web.redmond.corp.microsoft.com
 0.0.0.0 lsex.xyz
 0.0.0.0 l.sharethis.com
 0.0.0.0 ls.hit.gemius.pl
