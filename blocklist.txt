@@ -1280,6 +1280,7 @@
 0.0.0.0 ad.anuntis.com
 0.0.0.0 adaproductions.fr
 0.0.0.0 adapt.tv
+0.0.0.0 adara.com
 0.0.0.0 adarmor.com
 0.0.0.0 adasearch.com
 0.0.0.0 adasetandimanamanahmahna.com
@@ -1409,6 +1410,7 @@
 0.0.0.0 ad.e-kolay.net
 0.0.0.0 adelaideengler.com.br
 0.0.0.0 adeleandamysongbook.com.au
+0.0.0.0 adelement.com
 0.0.0.0 ad-eliminator.com
 0.0.0.0 adeliminator.net
 0.0.0.0 ademails.com
@@ -7371,6 +7373,7 @@
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmpstar.com
+0.0.0.0 cm.revcontent.com
 0.0.0.0 cms1.net
 0.0.0.0 cms2.net
 0.0.0.0 cms.analytics.yahoo.com
@@ -16886,6 +16889,7 @@
 0.0.0.0 love--site.space
 0.0.0.0 loveslife.biz
 0.0.0.0 lovetheedit.com
+0.0.0.0 lovetk-d.openx.net
 0.0.0.0 lovetotravels.com
 0.0.0.0 lovetraffic.com
 0.0.0.0 love-up.net
@@ -17574,6 +17578,7 @@
 0.0.0.0 mbc44.com
 0.0.0.0 mbc70.com
 0.0.0.0 mbkwbar.com
+0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mbmarquitectos.com.pe
 0.0.0.0 mb.moatads.com
 0.0.0.0 mbna-com-ssl-bin.us
@@ -30585,6 +30590,7 @@
 0.0.0.0 www.adjuggler.com
 0.0.0.0 www.adlandpro.com
 0.0.0.0 www.adleadbrazil.com
+0.0.0.0 www.adman.gr
 0.0.0.0 www.adminder.com
 0.0.0.0 www.administracionganadera.cl
 0.0.0.0 www.admiraplus.net
