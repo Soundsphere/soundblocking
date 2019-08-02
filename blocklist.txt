@@ -513,6 +513,7 @@
 0.0.0.0 5-edge-chat.facebook.com
 0.0.0.0 5egurancaapp.net
 0.0.0.0 5-extreme.biz
+0.0.0.0 5fd74.v.fwmrm.net
 0.0.0.0 5finder.com
 0.0.0.0 5forex.ru
 0.0.0.0 5hkk.icu
@@ -830,6 +831,7 @@
 0.0.0.0 a32.g.a.yimg.com
 0.0.0.0 a3301.casalemedia.com
 0.0.0.0 a3310.casalemedia.com
+0.0.0.0 a3320.casalemedia.com
 0.0.0.0 a3321.casalemedia.com
 0.0.0.0 a3330.casalemedia.com
 0.0.0.0 a3340.casalemedia.com
@@ -3780,6 +3782,7 @@
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.lever.co
 0.0.0.0 api.mixpanel.com
+0.0.0.0 api-mobi.soundcloud.com
 0.0.0.0 api.monetizer101.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
@@ -10581,6 +10584,7 @@
 0.0.0.0 e-pay.cc
 0.0.0.0 epiccash.com
 0.0.0.0 e--pics.com
+0.0.0.0 epicunitscan.info
 0.0.0.0 epicworkshops.com
 0.0.0.0 epidm.edgesuite.net
 0.0.0.0 epilot.com
@@ -14600,6 +14604,7 @@
 0.0.0.0 imatchup.com
 0.0.0.0 imatmobile.com
 0.0.0.0 imayamnursing.com
+0.0.0.0 im.banner.t-online.de
 0.0.0.0 imbuddy.net
 0.0.0.0 imbum.com
 0.0.0.0 imbum.net
@@ -15275,6 +15280,7 @@
 0.0.0.0 itwebstudio.co.uk
 0.0.0.0 itx4-secure.smartadserver.com
 0.0.0.0 itx4.smartadserver.com
+0.0.0.0 itx5-itx4.smartadserver.com
 0.0.0.0 itx5-secure.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 itx.jo
@@ -16060,6 +16066,7 @@
 0.0.0.0 kristenleone.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 kroklovers.cn
+0.0.0.0 kropka.onet.pl
 0.0.0.0 krovatka.su
 0.0.0.0 kruegerama.de
 0.0.0.0 krumble-adsde.info
@@ -16216,6 +16223,7 @@
 0.0.0.0 laufwerkcleaner.com
 0.0.0.0 launcher.mojang.com
 0.0.0.0 launchpadlibrarian.net
+0.0.0.0 launchpoint.marketo.com
 0.0.0.0 laurahanly.robhanly.com
 0.0.0.0 lauraroebuck.com
 0.0.0.0 laurellakehouse.com
@@ -20468,6 +20476,7 @@
 0.0.0.0 pastibet.asia
 0.0.0.0 pastie.org
 0.0.0.0 pastorale.jpn.org
+0.0.0.0 patagonia.122.2o7.net
 0.0.0.0 patchcrack.net
 0.0.0.0 patchou.com
 0.0.0.0 patchyoursystem.com
@@ -21682,6 +21691,7 @@
 0.0.0.0 preamp.us
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid-a.rubiconproject.com
+0.0.0.0 prebid.districtm.ca
 0.0.0.0 prebid-match.dotomi.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 precenters.com
@@ -23058,6 +23068,7 @@
 0.0.0.0 rle.ru
 0.0.0.0 rljart.com
 0.0.0.0 rlog.9gag.com
+0.0.0.0 rlog-api.under9.co
 0.0.0.0 r.logrocket.io
 0.0.0.0 rl.webtracer.cc
 0.0.0.0 rmads.eu.msn.com
@@ -26295,6 +26306,7 @@
 0.0.0.0 stats.outster.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pusher.com
+0.0.0.0 stat.sputnik.ru
 0.0.0.0 stats.sa-as.com
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.smartbucks.com
@@ -26749,6 +26761,7 @@
 0.0.0.0 sync.extend.tv
 0.0.0.0 syncf.tubemogul.com
 0.0.0.0 sync.go.sonobi.com
+0.0.0.0 sync.graph.bluecava.com
 0.0.0.0 synchrobox.adswizz.com
 0.0.0.0 synchrophasotron.com
 0.0.0.0 synchroscript.deliveryengine.adswizz.com
@@ -27597,6 +27610,7 @@
 0.0.0.0 thunderbolt.adjuggler.com
 0.0.0.0 thutucvisa.vn
 0.0.0.0 thuvienbachmai.vn
+0.0.0.0 tia.timeinc.net
 0.0.0.0 tibalenses.com
 0.0.0.0 tibiagoldbuy.com
 0.0.0.0 tibic.hackarmy.tk
@@ -31621,6 +31635,7 @@
 0.0.0.0 www.gddlinea.com
 0.0.0.0 www.gentlesettle24won.com
 0.0.0.0 www.geomlocatelli.it
+0.0.0.0 www.geoplugin.net
 0.0.0.0 www.georcoll.on.ca
 0.0.0.0 www.geowhere.net
 0.0.0.0 www.gerdosoft.org
@@ -31893,6 +31908,7 @@
 0.0.0.0 www.imxprs.com
 0.0.0.0 www.imzahagents.com
 0.0.0.0 www.incestcash.com
+0.0.0.0 www.increaserev.com
 0.0.0.0 www.incrediseek.com
 0.0.0.0 www.incubadorasavicola.cl
 0.0.0.0 www.indexhotel.ru
