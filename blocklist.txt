@@ -473,6 +473,7 @@
 0.0.0.0 51ysc.cn
 0.0.0.0 520sb.cn
 0.0.0.0 5252.ws
+0.0.0.0 5283813.fls.doubleclick.net
 0.0.0.0 5290727.fls.doubleclick.net
 0.0.0.0 52gxy.cn
 0.0.0.0 52-o.cn
@@ -1969,6 +1970,7 @@
 0.0.0.0 ads.esmas.com
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 ads.eu.msn.com
+0.0.0.0 ads.e-webtrack.net
 0.0.0.0 ads.exactdrive.com
 0.0.0.0 ad.sexcount.de
 0.0.0.0 ads.exdynsrv.com
@@ -3465,6 +3467,7 @@
 0.0.0.0 anowl.com
 0.0.0.0 anrtt.tacoda.net
 0.0.0.0 ansadhost.com
+0.0.0.0 ans.mlb.com
 0.0.0.0 answers.chartboost.com
 0.0.0.0 a.nt002.cn
 0.0.0.0 an.tacoda.net
@@ -3837,6 +3840,7 @@
 0.0.0.0 app2.jkahfmal.com
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app-ab01.marketo.com
+0.0.0.0 app-ab04.marketo.com
 0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab10.marketo.com
 0.0.0.0 app-ab12.marketo.com
@@ -8028,6 +8032,7 @@
 0.0.0.0 c.qckjmp.com
 0.0.0.0 cqcounter.com
 0.0.0.0 cqwudu.cn
+0.0.0.0 crab.baidu.com
 0.0.0.0 crack.cd
 0.0.0.0 crackdb.com
 0.0.0.0 crackdb.org
@@ -10944,6 +10949,7 @@
 0.0.0.0 evker.com
 0.0.0.0 evmacash.com
 0.0.0.0 evmacashcom.nationprotect.net
+0.0.0.0 evolvemedia-d.openx.net
 0.0.0.0 evonsoft.com
 0.0.0.0 evoplus.com
 0.0.0.0 e-vostok.net
@@ -13736,6 +13742,7 @@
 0.0.0.0 hitcents.com
 0.0.0.0 hitcounter01.xspp.com
 0.0.0.0 hit-counter.5u.com
+0.0.0.0 hit.dogannet.tv
 0.0.0.0 hit.elevonsearch.com
 0.0.0.0 hitexchange.net
 0.0.0.0 hit.getyourdatahere.com
@@ -15598,6 +15605,7 @@
 0.0.0.0 js.statistici.ro
 0.0.0.0 js.stroeermediabrands.de
 0.0.0.0 jstdeuwell4.ml
+0.0.0.0 js.trendmd.com
 0.0.0.0 js.users.51.la
 0.0.0.0 js-webt-lol.9cache.com
 0.0.0.0 js.zmedia.com
@@ -16771,6 +16779,7 @@
 0.0.0.0 logua.com
 0.0.0.0 loguestbook.com
 0.0.0.0 log.umsns.com
+0.0.0.0 logv31.xiti.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 loja.brasilliker.com.br
 0.0.0.0 lokhsik.dnsabr.com
@@ -18078,6 +18087,7 @@
 0.0.0.0 mkto-ab330117.com
 0.0.0.0 mkvbay.cc
 0.0.0.0 ml314.com
+0.0.0.0 mlb.demdex.net
 0.0.0.0 mli-connects.com
 0.0.0.0 mlm.de
 0.0.0.0 mm5208.com
@@ -23243,6 +23253,7 @@
 0.0.0.0 rtexport.net
 0.0.0.0 rtmail.co.za
 0.0.0.0 rtr.innovid.com
+0.0.0.0 rts.ssl2.duapps.com
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 ru44.com
@@ -26065,6 +26076,7 @@
 0.0.0.0 s.statistici.ro
 0.0.0.0 sstats.adobe.com
 0.0.0.0 sstats.arstechnica.com
+0.0.0.0 sstats.economist.com
 0.0.0.0 s-store.org
 0.0.0.0 ssukelabaman.com
 0.0.0.0 ssum.casalemedia.com
@@ -28289,6 +28301,7 @@
 0.0.0.0 trendcounter.com
 0.0.0.0 trendingmoneynews.com
 0.0.0.0 trend.landmanagementstore.com
+0.0.0.0 trendmd.s3.amazonaws.com
 0.0.0.0 trendpartimalzemeleri.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 tresriosimoveis.com.br
@@ -29928,6 +29941,7 @@
 0.0.0.0 widget.criteo.com
 0.0.0.0 widgetdata.tradingview.com
 0.0.0.0 widget.eu.criteo.com
+0.0.0.0 widget.marktjagd.de
 0.0.0.0 widgetmonitor.outbrain.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget-porn.com
