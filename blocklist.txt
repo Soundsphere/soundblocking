@@ -1361,6 +1361,7 @@
 0.0.0.0 adclix.org
 0.0.0.0 ad.clix.pt
 0.0.0.0 adcloud.net
+0.0.0.0 adc.nine.com.au
 0.0.0.0 adcode.adengage.com
 0.0.0.0 adcodes.aim4media.com
 0.0.0.0 adcomplete.com
@@ -3356,6 +3357,7 @@
 0.0.0.0 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics-eu.clickdimensions.com
+0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.faw.sky.com
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.foresee.com
@@ -8601,6 +8603,7 @@
 0.0.0.0 data2.activshopper.com
 0.0.0.0 data2.gosquared.com
 0.0.0.0 data30.adlooxtracking.com
+0.0.0.0 data33.adlooxtracking.com
 0.0.0.0 data35.adlooxtracking.com
 0.0.0.0 data37.adlooxtracking.com
 0.0.0.0 data53.adlooxtracking.com
@@ -8898,6 +8901,7 @@
 0.0.0.0 deliver.castads.com
 0.0.0.0 delivery3.digitalhealthcare.com
 0.0.0.0 delivery.adnetwork.vn
+0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery.clickonometrics.pl
 0.0.0.0 delivery.content-recommendation.net
@@ -13112,6 +13116,7 @@
 0.0.0.0 gopopup.com
 0.0.0.0 goporn.us
 0.0.0.0 gopromarketinganddesign.com
+0.0.0.0 go.pub2srv.com
 0.0.0.0 go-rank.de
 0.0.0.0 gorasoft.com
 0.0.0.0 gorecord.com
@@ -15875,6 +15880,7 @@
 0.0.0.0 kight.sk
 0.0.0.0 kihnlawncare.com
 0.0.0.0 k.iinfo.cz
+0.0.0.0 kiks.yandex.ru
 0.0.0.0 killallspyware.com
 0.0.0.0 killandclean.com
 0.0.0.0 killercareer.com
@@ -16753,6 +16759,7 @@
 0.0.0.0 logp2.xiti.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 log-player.arte.tv
+0.0.0.0 logpostback.media.net
 0.0.0.0 log.prezi.com
 0.0.0.0 log.quora.com
 0.0.0.0 log.rutube.ru
@@ -22532,6 +22539,7 @@
 0.0.0.0 ranitidine.org
 0.0.0.0 rankchamp.de
 0.0.0.0 rank-checker.online
+0.0.0.0 ranker.sc.omtrdc.net
 0.0.0.0 rankingchart.de
 0.0.0.0 ranking-id.de
 0.0.0.0 ranking-links.de
@@ -29013,6 +29021,7 @@
 0.0.0.0 usselectricmayhem.com
 0.0.0.0 us.smsapi.micloud.xiaomi.net
 0.0.0.0 us-solar-department.com
+0.0.0.0 us-sonar.sociomantic.com
 0.0.0.0 usspeedsport.com
 0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 u.startup.mobile.webvisor.com
