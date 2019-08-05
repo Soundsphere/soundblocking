@@ -163,6 +163,7 @@
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
 0.0.0.0 1827a5c1b772cf739.southernweyr.us
+0.0.0.0 189474.engine.mobileapptracking.com
 0.0.0.0 190282.xyz
 0.0.0.0 191gm.com
 0.0.0.0 194792.engine.mobileapptracking.com
@@ -6569,6 +6570,7 @@
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn4.mxpnl.com
+0.0.0.0 cdn4.userzoom.com
 0.0.0.0 cdn5.userzoom.com
 0.0.0.0 cdn6.admatic.com.tr
 0.0.0.0 cdn-a.amazon-adsystem.com
@@ -11319,6 +11321,7 @@
 0.0.0.0 fatpickle.com
 0.0.0.0 fattybabe.com
 0.0.0.0 fat.xhosted.com
+0.0.0.0 faultycanvas.com
 0.0.0.0 favorites1.net
 0.0.0.0 favoritetube.net
 0.0.0.0 favoritetubeonline.com
@@ -15679,6 +15682,7 @@
 0.0.0.0 justns.ru
 0.0.0.0 justpaddle.co
 0.0.0.0 justpop.co.in
+0.0.0.0 justpremium-d.openx.net
 0.0.0.0 justprofit.xyz
 0.0.0.0 justrelevant.com
 0.0.0.0 justsayingbro.com
@@ -17672,6 +17676,7 @@
 0.0.0.0 mediacasino.com
 0.0.0.0 mediacharger.com
 0.0.0.0 media-codec.com
+0.0.0.0 media.complex.com
 0.0.0.0 media.ditto.com
 0.0.0.0 mediadvertising.ro
 0.0.0.0 media.exchange-it.com
@@ -17853,6 +17858,7 @@
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 meraxe.com
 0.0.0.0 meraxes-cdn.polarmobile.com
+0.0.0.0 meraxes.polarmobile.com
 0.0.0.0 mercadonet.smtp.ru
 0.0.0.0 mercadotecniaic.com
 0.0.0.0 merchonrs.com
@@ -19709,6 +19715,7 @@
 0.0.0.0 oasc04025.247realmedia.com
 0.0.0.0 oasc04052.247realmedia.com
 0.0.0.0 oasc04.247realmedia.com
+0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oasc10.247realmedia.com
 0.0.0.0 oascentral.abclocal.go.com
 0.0.0.0 oascentral.artistdirect.com
@@ -22406,6 +22413,7 @@
 0.0.0.0 queen-maturies.biz
 0.0.0.0 queenshussars.com
 0.0.0.0 queens-of-sex.com
+0.0.0.0 query1.petametrics.com
 0.0.0.0 query.network
 0.0.0.0 query.petametrics.com
 0.0.0.0 query-us-east1.petametrics.com
@@ -26352,6 +26360,7 @@
 0.0.0.0 stats.vidyome.com
 0.0.0.0 stats.warenform.de
 0.0.0.0 statswhere.com
+0.0.0.0 stats.wired.com
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.x14.eu
@@ -27609,6 +27618,7 @@
 0.0.0.0 thko.com
 0.0.0.0 thomasgunther.com
 0.0.0.0 thong-pics.org
+0.0.0.0 t.hoood.info
 0.0.0.0 thornleygroup.com
 0.0.0.0 thor.rtk.io
 0.0.0.0 thoughtconvergence.com
@@ -30577,6 +30587,7 @@
 0.0.0.0 www.adacuity.com
 0.0.0.0 www.adaproductions.fr
 0.0.0.0 www.adbars.com
+0.0.0.0 www.adblockanalytics.com
 0.0.0.0 www.adbox.com.sg
 0.0.0.0 www.adbutler.com
 0.0.0.0 www.adbutler.de
@@ -32933,6 +32944,7 @@
 0.0.0.0 www.regscan.net
 0.0.0.0 www.regusa.lt
 0.0.0.0 www.reikienergyhealers.com
+0.0.0.0 www.reimageplus.com
 0.0.0.0 www.relevancyrank.com
 0.0.0.0 www.relevantknowledge.com
 0.0.0.0 www.relmaxtop.com
