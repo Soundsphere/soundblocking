@@ -178,6 +178,7 @@
 0.0.0.0 1-extreme.biz
 0.0.0.0 1f2e7.v.fwmrm.net
 0.0.0.0 1-free-share-buttons.com
+0.0.0.0 1.gmxnet.damoh.schneevonmorgen.com
 0.0.0.0 1ianhi594d.metequela.party
 0.0.0.0 1l-hit.mail.ru
 0.0.0.0 1obmen.com
@@ -14371,6 +14372,7 @@
 0.0.0.0 iefjios.net
 0.0.0.0 iehelp.net
 0.0.0.0 ie.marketdart.com
+0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 ieplugin.com
 0.0.0.0 iepmoc.com.br
 0.0.0.0 ieprotections.com
@@ -21079,6 +21081,7 @@
 0.0.0.0 pix04.revsci.net
 0.0.0.0 pix4all.net
 0.0.0.0 pix.btrll.com
+0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.33across.com
 0.0.0.0 pixel3.about.com
 0.0.0.0 pixel-a.basis.net
@@ -29707,6 +29710,7 @@
 0.0.0.0 webseeking.com
 0.0.0.0 webseoanalytics.com
 0.0.0.0 webservicehost.com
+0.0.0.0 webservices.sub2tech.com
 0.0.0.0 websexteen.com
 0.0.0.0 websidestory.com
 0.0.0.0 website-analytics.online
