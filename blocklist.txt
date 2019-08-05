@@ -7038,6 +7038,7 @@
 0.0.0.0 chuyenphatnhanhlt.com
 0.0.0.0 ci24.actonsoftware.com
 0.0.0.0 ci37.actonsoftware.com
+0.0.0.0 ci61.actonsoftware.com
 0.0.0.0 ci95.actonsoftware.com
 0.0.0.0 ciaaju.org
 0.0.0.0 cia-imm.com
@@ -11374,6 +11375,7 @@
 0.0.0.0 feedbackresearch.com
 0.0.0.0 feedbuk.com
 0.0.0.0 feedburner.google.com
+0.0.0.0 feed.engage.im
 0.0.0.0 feedjit.com
 0.0.0.0 feed.mikle.com
 0.0.0.0 feeds.global-intermedia.com
@@ -21650,6 +21652,7 @@
 0.0.0.0 poucao.freecoolsite.com
 0.0.0.0 powaywelding.com
 0.0.0.0 powdersearch.com
+0.0.0.0 powerad.ai
 0.0.0.0 power-antivirus-2009.com
 0.0.0.0 powerantivirus-2009.com
 0.0.0.0 powerantivirus2009.com
@@ -28310,6 +28313,7 @@
 0.0.0.0 tr.blismedia.com
 0.0.0.0 trbna.com
 0.0.0.0 trck.bdi-services.de
+0.0.0.0 trck.cyberport.de
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 tr.cloud-media.fr
 0.0.0.0 trc.runescape.com.sd3.pw
@@ -33045,6 +33049,7 @@
 0.0.0.0 www.scooters-eg.com
 0.0.0.0 www.scorecardresearch.com
 0.0.0.0 www.scottsdalesynchro.org
+0.0.0.0 www.sc.pages02.net
 0.0.0.0 www.sc.pages03.net
 0.0.0.0 www.scratchindian.com
 0.0.0.0 www.screengizmos.com
