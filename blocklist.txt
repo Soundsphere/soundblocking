@@ -21199,6 +21199,7 @@
 0.0.0.0 playanewrpg.com
 0.0.0.0 player.adtelligent.com
 0.0.0.0 player-feedback-v1.glomex.com
+0.0.0.0 player.h-cdn.com
 0.0.0.0 player.performgroup.com
 0.0.0.0 playersclub.reefclubcasino.com
 0.0.0.0 player.spoods.io
@@ -23424,6 +23425,7 @@
 0.0.0.0 s2.tgp15.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3edyhacker.ath.cx
+0.0.0.0 s3-eu-central-1.amazonaws.com
 0.0.0.0 s3.eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
 0.0.0.0 s3.hit.stat.pl
@@ -23438,6 +23440,7 @@
 0.0.0.0 s4.qckads.com
 0.0.0.0 s4.shinystat.it
 0.0.0.0 s5.qckads.com
+0.0.0.0 s62.mxcdn.net
 0.0.0.0 s6.qckads.com
 0.0.0.0 s780085856.websitebuilder.online
 0.0.0.0 s7.addthis.com
