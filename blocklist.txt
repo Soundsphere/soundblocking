@@ -6695,6 +6695,7 @@
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn.runescape.com.sd3.pw
+0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdns.connatix.com
 0.0.0.0 cdn.segment.com
@@ -7374,6 +7375,7 @@
 0.0.0.0 c.mii.instacontent.net
 0.0.0.0 cmi.netseer.com
 0.0.0.0 cmjmachining.com
+0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.mgid.com
 0.0.0.0 cm.need2find.com
 0.0.0.0 cmp.advertising.com
@@ -8428,6 +8430,7 @@
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
+0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2xxq4ijfwetlm.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
@@ -14378,6 +14381,7 @@
 0.0.0.0 iehelp.net
 0.0.0.0 ie.marketdart.com
 0.0.0.0 ieonlinews.microsoft.com
+0.0.0.0 ieonlinews.trafficmanager.net
 0.0.0.0 ieplugin.com
 0.0.0.0 iepmoc.com.br
 0.0.0.0 ieprotections.com
@@ -19350,6 +19354,7 @@
 0.0.0.0 nimble.dealsaver.com
 0.0.0.0 nimp.org
 0.0.0.0 nimrodltd-uk.net
+0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ninoa.com
 0.0.0.0 ninth-gate.org
 0.0.0.0 niprotect.com
@@ -21141,6 +21146,7 @@
 0.0.0.0 pixel.yabidos.com
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pix.impdesk.com
+0.0.0.0 pix.nbcuni.com
 0.0.0.0 pixpox.com
 0.0.0.0 pix.spot.im
 0.0.0.0 pix.telekom.de
@@ -30536,6 +30542,7 @@
 0.0.0.0 www.80ke.com
 0.0.0.0 www83.oportunidadedobrasilchegou.com
 0.0.0.0 www85.cupomdeverao.com
+0.0.0.0 www.888casino.com
 0.0.0.0 www.888.com
 0.0.0.0 www.898965.com
 0.0.0.0 www8.glam.com
