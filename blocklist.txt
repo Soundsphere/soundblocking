@@ -1550,6 +1550,7 @@
 0.0.0.0 admanagement.ch
 0.0.0.0 admanager.btopenworld.com
 0.0.0.0 admanager.carsoup.com
+0.0.0.0 admanager.pushfire.de
 0.0.0.0 adman.in.gr
 0.0.0.0 adman.otenet.gr
 0.0.0.0 admarketplace.com
@@ -5732,6 +5733,8 @@
 0.0.0.0 bns2.net
 0.0.0.0 board.classifieds1000.com
 0.0.0.0 board-online.com
+0.0.0.0 boards.4channel.org
+0.0.0.0 boards.4chan.org
 0.0.0.0 boards.greenhouse.io
 0.0.0.0 board-smiley.com
 0.0.0.0 boardsmiley.com
@@ -30512,6 +30515,7 @@
 0.0.0.0 www.411web.com
 0.0.0.0 www.475100.com
 0.0.0.0 www4.burstnet.com
+0.0.0.0 www.4chan.org
 0.0.0.0 www4.click-fr.com
 0.0.0.0 www4.hooowah.com
 0.0.0.0 www4.hotlog.ru
