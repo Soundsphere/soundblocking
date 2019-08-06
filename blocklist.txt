@@ -7245,6 +7245,7 @@
 0.0.0.0 clicktomakeasearch.com
 0.0.0.0 clicktopass.com
 0.0.0.0 clicktosearch.com
+0.0.0.0 clicktotweet.com
 0.0.0.0 clicktrace.info
 0.0.0.0 clicktracks.com
 0.0.0.0 clicktrack.wnu.com
