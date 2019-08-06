@@ -256,6 +256,7 @@
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 beacon.krxd.net
+0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacon.sojern.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beap-bc.yahoo.com
@@ -913,6 +914,7 @@
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 notebooksbilliger02.webtrekk.net
+0.0.0.0 notify.bugsnag.com
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 nym1-ib.adnxs.com
@@ -1328,6 +1330,7 @@
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.tubemogul.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 s.youtube.com
 0.0.0.0 t13.intelliad.de
 0.0.0.0 t23.intelliad.de
 0.0.0.0 t4ft.de
