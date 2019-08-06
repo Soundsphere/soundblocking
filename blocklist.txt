@@ -804,6 +804,7 @@
 0.0.0.0 kraken.rambler.ru
 0.0.0.0 kropka.onet.pl added to the blocklist
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 launchpoint.marketo.com added to the blocklist
 0.0.0.0 l.betrad.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
@@ -928,6 +929,7 @@
 0.0.0.0 oms.expedia.com
 0.0.0.0 oms.nuggad.net
 0.0.0.0 oneadvertising-d.openx.net
+0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 onesignal.com
 0.0.0.0 onetag-sys.com
