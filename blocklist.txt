@@ -344,6 +344,7 @@
 0.0.0.0 cdn.moengage.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.mxpnl.com
+0.0.0.0 cdn.onenote.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.perfdrive.com
@@ -548,6 +549,7 @@
 0.0.0.0 distillery.wistia.com
 0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 dis.us.criteo.com
+0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dmp.adform.net
@@ -655,6 +657,7 @@
 0.0.0.0 freegeoip.app
 0.0.0.0 freestar-d.openx.net
 0.0.0.0 frog.wix.com
+0.0.0.0 fs.microsoft.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwapi.adsafeprotected.com
 0.0.0.0 g1.v.fwmrm.net
@@ -670,6 +673,7 @@
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geo.moatads.com
+0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.yahoo.com
 0.0.0.0 get.mirando.de
@@ -1576,6 +1580,7 @@
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.okcupid.com
+0.0.0.0 www.pinterest.com
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.sc.pages02.net
