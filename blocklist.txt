@@ -816,6 +816,7 @@
 0.0.0.0 load.sumome.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loadus.tm.ssl.exelator.com
+0.0.0.0 location.services.mozilla.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 log-ird.outbrain.com
