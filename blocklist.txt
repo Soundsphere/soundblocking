@@ -404,6 +404,7 @@
 0.0.0.0 456oxlw7li43o.com
 0.0.0.0 4704202.fls.doubleclick.net
 0.0.0.0 47089ffb-b84d-4f8c-beeb-245caad9ecbf.htmlpasta.com
+0.0.0.0 4798542.fls.doubleclick.net
 0.0.0.0 4898337.fls.doubleclick.net
 0.0.0.0 49f97743-223b-4d84-b337-961a4c632bae.htmlpasta.com
 0.0.0.0 4affiliate.net
@@ -452,6 +453,7 @@
 0.0.0.0 5000giveaway.com
 0.0.0.0 500bb.com
 0.0.0.0 500galleries.net
+0.0.0.0 5029539.fls.doubleclick.net
 0.0.0.0 5060110.fls.doubleclick.net
 0.0.0.0 50atlesters.lk
 0.0.0.0 50blog.cn
@@ -3364,6 +3366,7 @@
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.freespee.com
+0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.htmedia.in
@@ -7181,6 +7184,7 @@
 0.0.0.0 clickcash.webpower.com
 0.0.0.0 clickcease.com
 0.0.0.0 clickclick.ml
+0.0.0.0 click.clktraker.com
 0.0.0.0 clickcompare.co.uk
 0.0.0.0 click-counter.net
 0.0.0.0 click-counter.org
@@ -7769,6 +7773,7 @@
 0.0.0.0 contextplus.net
 0.0.0.0 contextual.media.net
 0.0.0.0 contextualtoolbar.com
+0.0.0.0 contextweb-match.dotomi.com
 0.0.0.0 contexualsearch.com
 0.0.0.0 continuum.dds.microsoft.com
 0.0.0.0 contraviruses.com
@@ -9488,6 +9493,7 @@
 0.0.0.0 dothesearch.com
 0.0.0.0 dotmanimg.com
 0.0.0.0 dotoperator.com
+0.0.0.0 dot.wp.pl
 0.0.0.0 doubleclick.com
 0.0.0.0 doubleclick.de
 0.0.0.0 doubleclick.shockwave.com
@@ -17686,6 +17692,7 @@
 0.0.0.0 media.complex.com
 0.0.0.0 media.ditto.com
 0.0.0.0 mediadvertising.ro
+0.0.0.0 media-eu1.inq.com
 0.0.0.0 media.exchange-it.com
 0.0.0.0 media.fastclick.net
 0.0.0.0 mediafire-d.openx.net
@@ -27059,6 +27066,7 @@
 0.0.0.0 tbdank.net
 0.0.0.0 tbel.net
 0.0.0.0 tbook.top
+0.0.0.0 tbs.tradedoubler.com
 0.0.0.0 tbvg.com
 0.0.0.0 tcads.net
 0.0.0.0 tc.airfrance.com
@@ -27739,6 +27747,7 @@
 0.0.0.0 tjem.com
 0.0.0.0 tjgo.com
 0.0.0.0 tk.234132.info
+0.0.0.0 t.kck.st
 0.0.0.0 t.kctag.net
 0.0.0.0 tking.com.tn
 0.0.0.0 tknet.rayjump.com
@@ -29137,6 +29146,7 @@
 0.0.0.0 vap2ewr1.lijit.com
 0.0.0.0 vap2sfo1.lijit.com
 0.0.0.0 vap4ewr1.lijit.com
+0.0.0.0 vap6ewr1.lijit.com
 0.0.0.0 vap.lijit.com
 0.0.0.0 vaportotal.net
 0.0.0.0 vaquerosmexico.org
@@ -29690,6 +29700,7 @@
 0.0.0.0 webmaster-traffic.com
 0.0.0.0 webmasterz.biz
 0.0.0.0 webmature.com
+0.0.0.0 webmdcom.tt.omtrdc.net
 0.0.0.0 webmd.demdex.net
 0.0.0.0 webmeter.ws
 0.0.0.0 webmobile.ws
@@ -34692,6 +34703,7 @@
 0.0.0.0 zoo.parkingspa.com
 0.0.0.0 zoo-pics.org
 0.0.0.0 zoo-pictures.org
+0.0.0.0 zoopla-d.openx.net
 0.0.0.0 zoopornshop.com
 0.0.0.0 zoosexart.com
 0.0.0.0 zoosexcartoons.com
