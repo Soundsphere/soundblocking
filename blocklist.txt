@@ -76,6 +76,7 @@
 0.0.0.0 adstax-match.adrtx.net
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.viber.com
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yieldmo.com
@@ -90,6 +91,7 @@
 0.0.0.0 adx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.zanox.com
+0.0.0.0 aem.playstation.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 aexp.demdex.net
 0.0.0.0 agentanalytics.com
 0.0.0.0 ag.innovid.com
@@ -109,6 +111,7 @@
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams01-usadmm-ds.dotomi.com
 0.0.0.0 ams02-usadmm-ds.dotomi.com
+0.0.0.0 ams03-bfp01.mediaplex.com
 0.0.0.0 ams03-bfp02.mediaplex.com
 0.0.0.0 ams03-usadmm-ds.dotomi.com
 0.0.0.0 ams1-ib.adnxs.com
@@ -187,6 +190,7 @@
 0.0.0.0 ats.otto.de
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 b92.yahoo.co.jp
@@ -482,6 +486,7 @@
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
 0.0.0.0 e.mail.ru
 0.0.0.0 entitlements.jwplayer.com
+0.0.0.0 epicunitscan.info
 0.0.0.0 eqx-secure.smartadserver.com
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 eqx-tmk-geoloc.smartadserver.com
@@ -538,6 +543,7 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gate.hockeyapp.net
+0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 geo2.adobe.com
 0.0.0.0 geolocation.onetrust.com
@@ -552,6 +558,7 @@
 0.0.0.0 go.affec.tv
 0.0.0.0 gocm.c.appier.net
 0.0.0.0 go.ezoic.net
+0.0.0.0 goldbach-de-d.openx.net
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -572,6 +579,7 @@
 0.0.0.0 h-ebay.online-metrix.net
 0.0.0.0 hello.myfonts.net
 0.0.0.0 hexagon-analytics.com
+0.0.0.0 hit.dogannet.tv
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 h.online-metrix.net
 0.0.0.0 hp.myway.com
@@ -769,6 +777,7 @@
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
 0.0.0.0 piwik.up.welt.de
+0.0.0.0 pix.btrll.com
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.33across.com
 0.0.0.0 pixel.adsafeprotected.com
@@ -919,6 +928,7 @@
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 sb.voicefive.com
 0.0.0.0 sc-analytics.appspot.com
+0.0.0.0 scdn.cxense.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 scomcluster.cxense.com
 0.0.0.0 s.cpx.to
@@ -1011,6 +1021,7 @@
 0.0.0.0 static.adman.gr
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.apester.com
 0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clicktripz.com
@@ -1061,6 +1072,7 @@
 0.0.0.0 sync.extend.tv
 0.0.0.0 syncf.tubemogul.com
 0.0.0.0 sync.go.sonobi.com
+0.0.0.0 synchroscript.deliveryengine.adswizz.com
 0.0.0.0 sync.ipredictive.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.outbrain.com
@@ -1097,6 +1109,7 @@
 0.0.0.0 td2.crwdcntrl.net
 0.0.0.0 td.crwdcntrl.net
 0.0.0.0 technical-service.net
+0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 tg.socdm.com
