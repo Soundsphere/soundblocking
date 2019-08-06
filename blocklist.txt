@@ -398,6 +398,8 @@
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 client.perimeterx.net
+0.0.0.0 clients2.google.com
+0.0.0.0 clients6.google.com
 0.0.0.0 c.live.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cm.adform.net
@@ -709,6 +711,7 @@
 0.0.0.0 horizon.sailthru.com
 0.0.0.0 hp.myway.com
 0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 i1.ytimg.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ib.3lift.com
