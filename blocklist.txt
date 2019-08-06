@@ -40,6 +40,7 @@
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adc.nine.com.au added to the blocklist
 0.0.0.0 adc.xxxlutz.de
+0.0.0.0 ad-delivery.net
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 ade.clmbtech.com
@@ -147,6 +148,7 @@
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.branch.io
+0.0.0.0 api.bufferapp.com
 0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.company-target.com
 0.0.0.0 api.cortana.ai
@@ -290,6 +292,7 @@
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.livechatinc.com
+0.0.0.0 cdn.moengage.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.onesignal.com
@@ -349,6 +352,7 @@
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 c.msn.com
 0.0.0.0 cms.quantserve.com
+0.0.0.0 cms-xch.33across.com
 0.0.0.0 code.etracker.com
 0.0.0.0 code.ionicframework.com
 0.0.0.0 coinmarketcap-d.openx.net
@@ -592,6 +596,7 @@
 0.0.0.0 go.pardot.com
 0.0.0.0 go.pub2srv.com added to the blocklist
 0.0.0.0 graph.accountkit.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 green.erne.co
 0.0.0.0 gslbeacon.lijit.com
@@ -611,6 +616,8 @@
 0.0.0.0 hp.myway.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
+0.0.0.0 ib.3lift.com
+0.0.0.0 i.clean.gg
 0.0.0.0 i.connectad.io
 0.0.0.0 i.ctnsnet.com
 0.0.0.0 ic.tynt.com
@@ -651,6 +658,7 @@
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipinfo.io
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 0.0.0.0 irqs.ioam.de
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 itx4-secure.smartadserver.com
@@ -663,6 +671,7 @@
 0.0.0.0 j.ophan.co.uk
 0.0.0.0 js.adscale.de
 0.0.0.0 js.ad-score.com
+0.0.0.0 js.adsrvr.org
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
@@ -711,6 +720,7 @@
 0.0.0.0 log.prezi.com
 0.0.0.0 log.quora.com
 0.0.0.0 logs-01.loggly.com
+0.0.0.0 logs1242.xiti.com
 0.0.0.0 logv31.xiti.com
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lovetk-d.openx.net added to the blocklist
@@ -771,6 +781,7 @@
 0.0.0.0 mscom.demdex.net
 0.0.0.0 m.servedby-buysellads.com
 0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 mvconf.cloud.360safe.com
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 nab.com.au
@@ -835,6 +846,7 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.mathtag.com
+0.0.0.0 pixel.monitor1.returnpath.net
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel-origin.mathtag.com
@@ -987,6 +999,7 @@
 0.0.0.0 scripttags.justuno.com added to the blocklist
 0.0.0.0 sc-static.net
 0.0.0.0 sc.tynt.com
+0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 secure.adnxs.com
@@ -1015,6 +1028,7 @@
 0.0.0.0 serve.tercept.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.maxymiser.net
+0.0.0.0 services.serving-sys.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settings-win.data.microsoft.com
@@ -1031,6 +1045,7 @@
 0.0.0.0 sjrtp7.marketo.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 s.ktxtr.com
+0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 s.media-imdb.com
 0.0.0.0 smetrics.payback.de
@@ -1087,6 +1102,7 @@
 0.0.0.0 static.inq.com
 0.0.0.0 static.kameleoon.com
 0.0.0.0 static.plista.com
+0.0.0.0 static.site24x7rum.com
 0.0.0.0 static.zanox.com
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stats3.unrulymedia.com
@@ -1154,6 +1170,7 @@
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.mathtag.com
+0.0.0.0 tags.onscroll.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tapestry.tapad.com
