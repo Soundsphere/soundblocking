@@ -143,6 +143,7 @@
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 0.0.0.0 ams-usadmm.dotomi.com
+0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccs.mcafee.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics.fairfax.com.au added to the blocklist
@@ -368,6 +369,7 @@
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
 0.0.0.0 ci61.actonsoftware.com
+0.0.0.0 c.imedia.cz
 0.0.0.0 cj.dotomi.com
 0.0.0.0 c.jsrdn.com
 0.0.0.0 ck.connatix.com
@@ -470,6 +472,8 @@
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
+0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d.adroll.com
 0.0.0.0 d.adtriba.com
 0.0.0.0 d.adup-tech.com
@@ -784,6 +788,7 @@
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loadus.tm.ssl.exelator.com
 0.0.0.0 log.dmtry.com
+0.0.0.0 logging.carambo.la
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrainimg.com
@@ -833,6 +838,7 @@
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
+0.0.0.0 media.carambo.la
 0.0.0.0 media.complex.com added to the blocklist
 0.0.0.0 media-eu1.inq.com
 0.0.0.0 medianet-match.dotomi.com
@@ -890,6 +896,7 @@
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
 0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com added to the blocklist
+0.0.0.0 p.ad.gt
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -1285,6 +1292,7 @@
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
+0.0.0.0 tags-cdn.deployads.com
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.mathtag.com
 0.0.0.0 tags.onscroll.com
@@ -1304,10 +1312,12 @@
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 tempest.services.disqus.com
+0.0.0.0 tendertest.com
 0.0.0.0 tg.socdm.com
 0.0.0.0 t.hoood.info
 0.0.0.0 thrtle.com
 0.0.0.0 tia.timeinc.net added to the blocklist
+0.0.0.0 t.indeed.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.ktxtr.com
 0.0.0.0 tlp-01.kameleoon.com
@@ -1447,6 +1457,7 @@
 0.0.0.0 ws1.hotjar.com
 0.0.0.0 ws2.hotjar.com
 0.0.0.0 ws3.hotjar.com
+0.0.0.0 ws5.hotjar.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.pusherapp.com
@@ -1457,6 +1468,7 @@
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 www1.belboon.de
 0.0.0.0 www1.mpnrs.com
+0.0.0.0 www2.mpnrs.com
 0.0.0.0 www3.mpnrs.com
 0.0.0.0 www3.smartadserver.com
 0.0.0.0 www4.smartadserver.com
