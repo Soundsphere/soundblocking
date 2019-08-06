@@ -4,6 +4,7 @@
 0.0.0.0 2-01-2a40-0017.cdx.cdxcn.net
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
 0.0.0.0 33across-d.openx.net
+0.0.0.0 341800575.log.optimizely.com
 0.0.0.0 4228414.fls.doubleclick.net
 0.0.0.0 4382365.fls.doubleclick.net added to the blocklist
 0.0.0.0 5283813.fls.doubleclick.net added to the blocklist
@@ -24,6 +25,8 @@
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 acds-b.prod.eu-west-1.vidible.tv
+0.0.0.0 acds.prod.eu-west-1.vidible.tv
+0.0.0.0 acds.prod.vidible.tv
 0.0.0.0 actions-am.taboola.com
 0.0.0.0 activity.windows.com
 0.0.0.0 acuityplatform.com
@@ -56,6 +59,7 @@
 0.0.0.0 adobe.demdex.net
 0.0.0.0 adobe-sync.dotomi.com
 0.0.0.0 adquality.ch
+0.0.0.0 ads2.servebom.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads-adaptv.vidible.tv
 0.0.0.0 ads.adfox.ru
@@ -80,6 +84,7 @@
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.samsungads.com
+0.0.0.0 ads.servebom.com
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 adstax-match.adrtx.net
 0.0.0.0 ads.travelaudience.com
@@ -198,12 +203,14 @@
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 assets.purch.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 aswpapius.com added to the blocklist
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a.trkme.net
 0.0.0.0 ats.otto.de
+0.0.0.0 a.twiago.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 axdget-sync.nuggad.net
@@ -246,6 +253,7 @@
 0.0.0.0 c212.net
 0.0.0.0 c2.taboola.com
 0.0.0.0 cache-ssl.celtra.com
+0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 casale-match.dotomi.com
@@ -257,6 +265,7 @@
 0.0.0.0 cbm02.webtrekk.net
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
+0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 cdn3.doubleverify.com
@@ -272,6 +281,7 @@
 0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.bizible.com
+0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.connatix.com
@@ -296,6 +306,7 @@
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.onesignal.com
+0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdns.brsrvr.com
@@ -326,6 +337,7 @@
 0.0.0.0 c.evidon.com
 0.0.0.0 cgi.connect.qq.com
 0.0.0.0 c.go-mpulse.net
+0.0.0.0 c.gumgum.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
@@ -372,6 +384,7 @@
 0.0.0.0 connect.ok.ru
 0.0.0.0 connect.rom.miui.com
 0.0.0.0 consent.cookiebot.com
+0.0.0.0 consent.truste.com
 0.0.0.0 containertags.belboon.de
 0.0.0.0 content.quantcount.com
 0.0.0.0 contextual.media.net
@@ -454,6 +467,7 @@
 0.0.0.0 des.smartclip.net
 0.0.0.0 desv383oqqc0.cloudfront.net
 0.0.0.0 de.tynt.com
+0.0.0.0 deutschepostag1.d3.sc.omtrdc.net
 0.0.0.0 dev.appboy.com
 0.0.0.0 device-api.urbanairship.com
 0.0.0.0 device-metrics-us-2.amazon.com
@@ -477,7 +491,9 @@
 0.0.0.0 dmp.theadex.com
 0.0.0.0 d.nativendo.de
 0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 dot.wp.pl
 0.0.0.0 doug1izaerwt3.cloudfront.net
+0.0.0.0 downloads.intercomcdn.com
 0.0.0.0 dp2.33across.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -489,6 +505,7 @@
 0.0.0.0 dsum.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dt.adsafeprotected.com
+0.0.0.0 dtm.advertising.com
 0.0.0.0 d.turn.com
 0.0.0.0 dumontnet.d3.sc.omtrdc.net
 0.0.0.0 dx.steelhousemedia.com
@@ -581,6 +598,7 @@
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 get.mirando.de
 0.0.0.0 gg.google.com
+0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 global.ib-ibi.com
 0.0.0.0 gnar.grammarly.com
@@ -767,6 +785,7 @@
 0.0.0.0 meraxes.polarmobile.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics.nt.vc
+0.0.0.0 metrics.n-tv.de
 0.0.0.0 m.exactag.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 ml314.com
@@ -795,6 +814,7 @@
 0.0.0.0 notebooksbilliger02.webtrekk.net
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 nr.taboola.com
+0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 odb.outbrain.com
@@ -818,6 +838,7 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 partner.googleadservices.com
 0.0.0.0 patagonia.122.2o7.net added to the blocklist
 0.0.0.0 p.brsrvr.com
 0.0.0.0 p.cpx.to
@@ -871,6 +892,7 @@
 0.0.0.0 polarcdn-terrax.com
 0.0.0.0 pool.admedo.com
 0.0.0.0 popcash.net
+0.0.0.0 popup.taboola.com
 0.0.0.0 powerad.ai
 0.0.0.0 ppchero.com
 0.0.0.0 pp.lp4.io
@@ -897,6 +919,7 @@
 0.0.0.0 pubmatic-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 pubpress.net
 0.0.0.0 pugm22000nf.pubmatic.com
+0.0.0.0 purch-match.dotomi.com
 0.0.0.0 p.vtracy.de
 0.0.0.0 px2.moatads.com
 0.0.0.0 px.adhigh.net
@@ -916,6 +939,7 @@
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 r1.computerbild.de
 0.0.0.0 r1-t.trackedlink.net
+0.0.0.0 radar.cedexis.com
 0.0.0.0 r.adc-serv.net
 0.0.0.0 ranker.sc.omtrdc.net added to the blocklist
 0.0.0.0 rb.adnxs.com
@@ -953,6 +977,7 @@
 0.0.0.0 rs.gwallet.com
 0.0.0.0 r.skimresources.com
 0.0.0.0 rs.mail.ru
+0.0.0.0 rt.applovin.com
 0.0.0.0 rtb7.adscience.nl
 0.0.0.0 rtb.adentifi.com
 0.0.0.0 rtb.adgrx.com
@@ -979,6 +1004,7 @@
 0.0.0.0 s7.addthis.com
 0.0.0.0 s8.addthis.com
 0.0.0.0 s8t.teads.tv
+0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 s.adroll.com
 0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 s.amazon-adsystem.com
@@ -1002,6 +1028,7 @@
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 seal.verisign.com
+0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secureaud.solocpm.com
 0.0.0.0 secure-au.imrworldwide.com
@@ -1137,6 +1164,7 @@
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.ad-stir.com
 0.0.0.0 sync.aralego.com
+0.0.0.0 sync.bfmio.com
 0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync.extend.tv
 0.0.0.0 syncf.tubemogul.com
@@ -1175,6 +1203,8 @@
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 tap.rubiconproject.com
+0.0.0.0 tbs.tradedoubler.com
 0.0.0.0 t.cfjump.com added to the blocklist
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 t.contentsquare.net
@@ -1240,6 +1270,7 @@
 0.0.0.0 t.teads.tv
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 t.wayfair.com
+0.0.0.0 u3s.mathtag.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
 0.0.0.0 uidbox.uimserv.net
@@ -1263,6 +1294,7 @@
 0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 v2.zopim.com
 0.0.0.0 v7event.stats.avast.com
+0.0.0.0 vap6ewr1.lijit.com
 0.0.0.0 vap.lijit.com
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vast-pop-zrh.mathtag.com
@@ -1371,6 +1403,7 @@
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 xpl.theadex.com
 0.0.0.0 xray.mail.ru
+0.0.0.0 x.skimresources.com
 0.0.0.0 xtr.carambo.la
 0.0.0.0 x.vindicosuite.com
 0.0.0.0 yax-winners-eu-west-1-rtb.adroll.com added to the blocklist
