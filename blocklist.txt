@@ -5,12 +5,15 @@
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
 0.0.0.0 33across-d.openx.net
 0.0.0.0 4228414.fls.doubleclick.net
+0.0.0.0 4382365.fls.doubleclick.net added to the blocklist
+0.0.0.0 5283813.fls.doubleclick.net added to the blocklist
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5fd74.v.fwmrm.net
 0.0.0.0 71i.nuggad.net
 0.0.0.0 883205.fls.doubleclick.net
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a3281.casalemedia.com
+0.0.0.0 a3320.casalemedia.com added to the blocklist
 0.0.0.0 aa.agkn.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.audrte.com
@@ -33,12 +36,15 @@
 0.0.0.0 ad.71i.de
 0.0.0.0 ad.ad-srv.net
 0.0.0.0 adadvisor.net
+0.0.0.0 adara.com added to the blocklist
 0.0.0.0 ad.atdmt.com
+0.0.0.0 adc.nine.com.au added to the blocklist
 0.0.0.0 adc.xxxlutz.de
 0.0.0.0 ad.doubleclick.net
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
+0.0.0.0 adelement.com added to the blocklist
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 ad-js.chip.de
 0.0.0.0 ad.lkqd.net
@@ -64,6 +70,7 @@
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.eu.criteo.com
+0.0.0.0 ads.e-webtrack.net added to the blocklist
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.google.com
 0.0.0.0 ads.lfstmedia.com
@@ -85,6 +92,7 @@
 0.0.0.0 ad.turn.com
 0.0.0.0 adventori.com
 0.0.0.0 advertiser.wbtrk.net
+0.0.0.0 advideo.uimserv.net
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 ad.wsod.com
 0.0.0.0 adx.adform.net
@@ -119,6 +127,7 @@
 0.0.0.0 ams-usadmm.dotomi.com
 0.0.0.0 analytics.ccs.mcafee.com
 0.0.0.0 analytics.ecosia.org
+0.0.0.0 analytics.fairfax.com.au added to the blocklist
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.google.com
@@ -127,6 +136,7 @@
 0.0.0.0 analytics.pokki.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics-udg.netdna-ssl.com
+0.0.0.0 ans.mlb.com added to the blocklist
 0.0.0.0 an.yandex.ru
 0.0.0.0 anycast.fw.adsafeprotected.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
@@ -150,6 +160,7 @@
 0.0.0.0 api.iperceptions.com
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.mixpanel.com
+0.0.0.0 api-mobi.soundcloud.com added to the blocklist
 0.0.0.0 api.picsart.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api-public.addthis.com
@@ -164,6 +175,8 @@
 0.0.0.0 api.zanox.com
 0.0.0.0 apn-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 apnx-match.dotomi.com
+0.0.0.0 app-ab04.marketo.com added to the blocklist
+0.0.0.0 app-ab07.marketo.com added to the blocklist
 0.0.0.0 app-abb.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app-analytics.snapchat.com
@@ -184,6 +197,7 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 a-ssl.ligatus.com
+0.0.0.0 aswpapius.com added to the blocklist
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 a.teads.tv
 0.0.0.0 a.trkme.net
@@ -192,6 +206,7 @@
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 axel-springer-d.openx.net
+0.0.0.0 b1img.com added to the blocklist
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
@@ -244,6 +259,7 @@
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn4.mxpnl.com
+0.0.0.0 cdn4.userzoom.com added to the blocklist
 0.0.0.0 cdn.adnxs.com
 0.0.0.0 cdn.adrtx.net
 0.0.0.0 cdn.adspirit.de
@@ -273,6 +289,7 @@
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.krxd.net
+0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.mxpnl.com
 0.0.0.0 cdn.onesignal.com
@@ -314,7 +331,9 @@
 0.0.0.0 c.jsrdn.com
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clc.stackoverflow.com
+0.0.0.0 clicks.aweber.com added to the blocklist
 0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 clicktotweet.com
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 client.perimeterx.net
 0.0.0.0 c.live.com
@@ -326,6 +345,7 @@
 0.0.0.0 cmi.netseer.com
 0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.mgid.com
+0.0.0.0 cm.revcontent.com added to the blocklist
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 c.msn.com
 0.0.0.0 cms.quantserve.com
@@ -363,6 +383,7 @@
 0.0.0.0 counter.yadro.ru
 0.0.0.0 count.spiegel.de
 0.0.0.0 c.paypal.com
+0.0.0.0 crab.baidu.com added to the blocklist
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 criteo-sync.teads.tv
@@ -404,6 +425,7 @@
 0.0.0.0 d.agkn.com
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 data2.gosquared.com
+0.0.0.0 data33.adlooxtracking.com added to the blocklist
 0.0.0.0 data63.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.appexnw.com
@@ -423,6 +445,7 @@
 0.0.0.0 de.ads.justpremium.com
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
+0.0.0.0 delivery.adrecover.com added to the blocklist
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 des.smartclip.net
 0.0.0.0 desv383oqqc0.cloudfront.net
@@ -508,6 +531,7 @@
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.privy.com
+0.0.0.0 evolvemedia-d.openx.net added to the blocklist
 0.0.0.0 evt.klarna.com
 0.0.0.0 exch.quantserve.com
 0.0.0.0 faggrim.com
@@ -517,6 +541,7 @@
 0.0.0.0 fast.fonts.net
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 faultycanvas.com added to the blocklist
 0.0.0.0 fbc.wcfbc.net
 0.0.0.0 feed.engage.im
 0.0.0.0 fei.pro-market.net
@@ -565,6 +590,7 @@
 0.0.0.0 google-analytics.bi.owox.com
 0.0.0.0 go.onelink.me
 0.0.0.0 go.pardot.com
+0.0.0.0 go.pub2srv.com added to the blocklist
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 green.erne.co
@@ -595,6 +621,7 @@
 0.0.0.0 ieonlinews.trafficmanager.net
 0.0.0.0 ih.adscale.de
 0.0.0.0 iias.eu
+0.0.0.0 il.btttag.com added to the blocklist
 0.0.0.0 ilead.itrack.it
 0.0.0.0 i.liadm.com
 0.0.0.0 ima3vpaid.appspot.com
@@ -606,8 +633,10 @@
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 images.taboola.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 im.banner.t-online.de added to the blocklist
 0.0.0.0 img2.zergnet.com
 0.0.0.0 img.en25.com
+0.0.0.0 imgraovat.vnecdn.net added to the blocklist
 0.0.0.0 img.revcontent.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 imstore.bet365affiliates.com
@@ -626,6 +655,7 @@
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 itx4-secure.smartadserver.com
 0.0.0.0 itx4.smartadserver.com
+0.0.0.0 itx5-itx4.smartadserver.com added to the blocklist
 0.0.0.0 itx5-secure.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 i.w55c.net
@@ -644,13 +674,17 @@
 0.0.0.0 js.sddan.com
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.spotx.tv
+0.0.0.0 js.trendmd.com added to the blocklist
 0.0.0.0 js.users.51.la
 0.0.0.0 justpremium-d.openx.net
 0.0.0.0 keymaker.go.sonobi.com
+0.0.0.0 kiks.yandex.ru added to the blocklist
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kleinanzeigen-d.openx.net
 0.0.0.0 kraken.rambler.ru
+0.0.0.0 kropka.onet.pl added to the blocklist
 0.0.0.0 kvinit-prod.api.kochava.com
+0.0.0.0 launchpoint.marketo.com added to the blocklist
 0.0.0.0 l.betrad.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 leadback.advertising.com
@@ -673,14 +707,18 @@
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 logpostback.media.net added to the blocklist
 0.0.0.0 log.prezi.com
 0.0.0.0 log.quora.com
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logv31.xiti.com
 0.0.0.0 logx.optimizely.com
+0.0.0.0 lovetk-d.openx.net added to the blocklist
 0.0.0.0 l.sharethis.com
 0.0.0.0 ls.hit.gemius.pl
+0.0.0.0 lululemonathleticacanadainc.demdex.net added to the blocklist
 0.0.0.0 m2d.m2.ai
+0.0.0.0 m.9gag.com added to the blocklist
 0.0.0.0 mab.chartbeat.com
 0.0.0.0 mabping.chartbeat.net
 0.0.0.0 m.addthis.com
@@ -705,11 +743,13 @@
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 mathid-origin.mathtag.com
 0.0.0.0 mazu.sec.miui.com
+0.0.0.0 mblapi.ssl2.duapps.com added to the blocklist
 0.0.0.0 mb.moatads.com
 0.0.0.0 mboxedge21.tt.omtrdc.net
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
+0.0.0.0 media.complex.com added to the blocklist
 0.0.0.0 medianet-match.dotomi.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediator.mail.ru
@@ -720,6 +760,7 @@
 0.0.0.0 m.exactag.com
 0.0.0.0 mid.rkdms.com
 0.0.0.0 ml314.com
+0.0.0.0 mlb.demdex.net added to the blocklist
 0.0.0.0 mobile.adfarm1.adition.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobile-collector.newrelic.com
@@ -758,6 +799,7 @@
 0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
+0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com added to the blocklist
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 pagead2.googleadservices.com
 0.0.0.0 pagead2.googlesyndication.com
@@ -765,6 +807,7 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 partnerad.l.doubleclick.net
+0.0.0.0 patagonia.122.2o7.net added to the blocklist
 0.0.0.0 p.brsrvr.com
 0.0.0.0 p.cpx.to
 0.0.0.0 pentos-cdn.polarmobile.com
@@ -862,6 +905,7 @@
 0.0.0.0 r1.computerbild.de
 0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 r.adc-serv.net
+0.0.0.0 ranker.sc.omtrdc.net added to the blocklist
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbp.mxptint.net
 0.0.0.0 rcm-na.amazon-adsystem.com
@@ -882,6 +926,7 @@
 0.0.0.0 resources.infolinks.com
 0.0.0.0 responder.wt-safetag.com
 0.0.0.0 reveal.clearbit.com
+0.0.0.0 rlog-api.under9.co added to the blocklist
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.mail.ru
 0.0.0.0 r.nexac.com
@@ -907,6 +952,7 @@
 0.0.0.0 rtb.openx.net
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 rtr.innovid.com
+0.0.0.0 rts.ssl2.duapps.com added to the blocklist
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 rubicon-match.dotomi.com
@@ -914,6 +960,7 @@
 0.0.0.0 rudy.adsnative.com
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s1325.t.eloqua.com added to the blocklist
 0.0.0.0 s1.adform.net
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s3.buysellads.com
@@ -937,6 +984,7 @@
 0.0.0.0 script.ioam.de
 0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 scripts.psyma.com
+0.0.0.0 scripttags.justuno.com added to the blocklist
 0.0.0.0 sc-static.net
 0.0.0.0 sc.tynt.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -948,11 +996,13 @@
 0.0.0.0 secure.eloqua.com
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure-gl.imrworldwide.com
+0.0.0.0 secure.leadforensics.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secure.quantserve.com
 0.0.0.0 secure.statcounter.com
 0.0.0.0 secure-uk.imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
+0.0.0.0 securite.01net.com added to the blocklist
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 se.monetate.net
@@ -1007,9 +1057,11 @@
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ss.musthird.com
+0.0.0.0 ssor.tribdss.com added to the blocklist
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 s-static.innovid.com
 0.0.0.0 sstats.adobe.com
+0.0.0.0 sstats.economist.com added to the blocklist
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 stags.bluekai.com
@@ -1041,6 +1093,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stats.pusher.com
+0.0.0.0 stat.sputnik.ru added to the blocklist
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.wired.com
 0.0.0.0 stats.wordpress.com
@@ -1072,6 +1125,7 @@
 0.0.0.0 sync.extend.tv
 0.0.0.0 syncf.tubemogul.com
 0.0.0.0 sync.go.sonobi.com
+0.0.0.0 sync.graph.bluecava.com added to the blocklist
 0.0.0.0 synchroscript.deliveryengine.adswizz.com
 0.0.0.0 sync.ipredictive.com
 0.0.0.0 sync.mathtag.com
@@ -1104,6 +1158,7 @@
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 t.cfjump.com added to the blocklist
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 t.contentsquare.net
 0.0.0.0 td2.crwdcntrl.net
@@ -1115,6 +1170,7 @@
 0.0.0.0 tg.socdm.com
 0.0.0.0 t.hoood.info
 0.0.0.0 thrtle.com
+0.0.0.0 tia.timeinc.net added to the blocklist
 0.0.0.0 t.ktxtr.com
 0.0.0.0 tlp-01.kameleoon.com
 0.0.0.0 tlp-02.kameleoon.com
@@ -1153,6 +1209,7 @@
 0.0.0.0 trck.cyberport.de
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 trc.taboola.com
+0.0.0.0 trendmd.s3.amazonaws.com added to the blocklist
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trkn.us
 0.0.0.0 trk.prod.vidible.tv
@@ -1183,6 +1240,7 @@
 0.0.0.0 usemaxserver.de
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 us.smsapi.micloud.xiaomi.net
+0.0.0.0 us-sonar.sociomantic.com added to the blocklist
 0.0.0.0 us-u.openx.net
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
@@ -1199,25 +1257,30 @@
 0.0.0.0 vfde.demdex.net
 0.0.0.0 vg06.met.vgwort.de
 0.0.0.0 vg08.met.vgwort.de
+0.0.0.0 vice-publishers-cdn.vice.com added to the blocklist
 0.0.0.0 vidanalytics.taboola.com
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 vidstat.taboola.com
+0.0.0.0 view.s7.exacttarget.com added to the blocklist
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 v.lkqd.net
 0.0.0.0 vop.sundaysky.com
 0.0.0.0 vpaid.pubmatic.com
+0.0.0.0 vrt.outbrain.com added to the blocklist
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 web-analytics.engagio.com
+0.0.0.0 webservices.sub2tech.com added to the blocklist
 0.0.0.0 webts.adac.de
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 widget.as.criteo.com
 0.0.0.0 widget.criteo.com
+0.0.0.0 widget.marktjagd.de added to the blocklist
 0.0.0.0 widgetmonitor.outbrain.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widgets.amung.us
@@ -1247,6 +1310,7 @@
 0.0.0.0 www.ad4mat.de
 0.0.0.0 www.adblockanalytics.com
 0.0.0.0 www.addtoany.com
+0.0.0.0 www.adman.gr added to the blocklist
 0.0.0.0 www.a.shifen.com
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.bet365.com
@@ -1258,6 +1322,8 @@
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.etracker.de
 0.0.0.0 www.everestjs.net
+0.0.0.0 www.ftjcfx.com added to the blocklist
+0.0.0.0 www.geoplugin.net added to the blocklist
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
 0.0.0.0 www-google-analytics.l.google.com
@@ -1265,6 +1331,7 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.hotjar.com
+0.0.0.0 www.increaserev.com added to the blocklist
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.media.net
@@ -1289,6 +1356,7 @@
 0.0.0.0 xray.mail.ru
 0.0.0.0 xtr.carambo.la
 0.0.0.0 x.vindicosuite.com
+0.0.0.0 yax-winners-eu-west-1-rtb.adroll.com added to the blocklist
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 zdbb.net
