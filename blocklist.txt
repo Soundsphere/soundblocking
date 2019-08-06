@@ -14,6 +14,7 @@
 0.0.0.0 5fd74.v.fwmrm.net
 0.0.0.0 71i.nuggad.net
 0.0.0.0 883205.fls.doubleclick.net
+0.0.0.0 a1.adform.net
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3320.casalemedia.com added to the blocklist
@@ -24,6 +25,7 @@
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 accounts.doubleclick.net
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 acds-b.prod.eu-west-1.vidible.tv
@@ -69,6 +71,7 @@
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads-adaptv.vidible.tv
 0.0.0.0 ads.adfox.ru
+0.0.0.0 ads.adtiger.de
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 ads.celtra.com
@@ -240,6 +243,7 @@
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
 0.0.0.0 banner.congstar.de
+0.0.0.0 banners.contentfeed.net
 0.0.0.0 banners.webmasterplan.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batchlogging4-noneu.truecaller.com
@@ -295,6 +299,7 @@
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn4.userzoom.com added to the blocklist
 0.0.0.0 cdn.adnxs.com
+0.0.0.0 cdn.adrta.com
 0.0.0.0 cdn.adrtx.net
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adtrue.com
@@ -499,6 +504,7 @@
 0.0.0.0 dcinfos.abtasty.com
 0.0.0.0 dclk-match.dotomi.com
 0.0.0.0 dc.services.visualstudio.com
+0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 de.ads.justpremium.com
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
@@ -548,6 +554,7 @@
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dtm.advertising.com
 0.0.0.0 d.turn.com
+0.0.0.0 dtxtngytz5im1.cloudfront.net
 0.0.0.0 dumontnet.d3.sc.omtrdc.net
 0.0.0.0 dx.steelhousemedia.com
 0.0.0.0 dy.adserve.io
@@ -584,12 +591,14 @@
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eur-ukp.adsrvr.org
+0.0.0.0 eu-sonar.sociomantic.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eu-tlx.3lift.com
 0.0.0.0 eu-u.openx.net
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 eu-west.load.exelator.com
 0.0.0.0 event.api.drift.com
+0.0.0.0 event-collector.udsrv.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 events.apester.com
@@ -733,6 +742,7 @@
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 0.0.0.0 ir2.beap.gemini.yahoo.com
+0.0.0.0 ir-de.amazon-adsystem.com
 0.0.0.0 irqs.ioam.de
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 itx4-secure.smartadserver.com
@@ -757,6 +767,7 @@
 0.0.0.0 js.pusher.com
 0.0.0.0 js.sddan.com
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 js.smartredirect.de
 0.0.0.0 js.spotx.tv
 0.0.0.0 js.trendmd.com added to the blocklist
 0.0.0.0 js.users.51.la
@@ -821,8 +832,10 @@
 0.0.0.0 mail.radar.imgsmail.ru
 0.0.0.0 mailtrack.io
 0.0.0.0 mandrillapp.com
+0.0.0.0 manifest.localytics.com
 0.0.0.0 map.media6degrees.com
 0.0.0.0 marketing.net.brillen.de
+0.0.0.0 mastercard.demdex.net
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.prod.bidr.io
@@ -888,6 +901,7 @@
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 onesignal.com
 0.0.0.0 onetag-sys.com
+0.0.0.0 ookla-d.openx.net
 0.0.0.0 open.oneplus.net
 0.0.0.0 opentag-stats.qubit.com
 0.0.0.0 openx2-match.dotomi.com
@@ -903,6 +917,7 @@
 0.0.0.0 pagead46.l.doubleclick.net
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
+0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partners.tremorhub.com
@@ -956,6 +971,7 @@
 0.0.0.0 pix.nbcuni.com
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 platform.linkedin.com
+0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 pm.w55c.net
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polarcdn-terrax.com
@@ -1011,6 +1027,7 @@
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 r1.computerbild.de
 0.0.0.0 r1-t.trackedlink.net
+0.0.0.0 r.254a.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 r.adc-serv.net
 0.0.0.0 ranker.sc.omtrdc.net added to the blocklist
@@ -1039,6 +1056,7 @@
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.mail.ru
 0.0.0.0 r.nexac.com
+0.0.0.0 route.carambo.la
 0.0.0.0 router.infolinks.com
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpt.cedexis.com
@@ -1168,6 +1186,7 @@
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spanids.dictionary.com
+0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spr.bild.de
 0.0.0.0 s.pubmine.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
@@ -1240,6 +1259,7 @@
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 studio-t.teads.tv
+0.0.0.0 s.tyxo.com
 0.0.0.0 su.addthis.com
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 s.update.indexww.com
@@ -1308,6 +1328,7 @@
 0.0.0.0 t.contentsquare.net
 0.0.0.0 td2.crwdcntrl.net
 0.0.0.0 td.crwdcntrl.net
+0.0.0.0 tdn.r42tag.com
 0.0.0.0 technical-service.net
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telegraph.grapeshot.co.uk
@@ -1333,6 +1354,7 @@
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 t.paypal.com
+0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 t.powerreviews.com
 0.0.0.0 tps30.doubleverify.com
 0.0.0.0 tps.doubleverify.com
@@ -1363,6 +1385,7 @@
 0.0.0.0 trc.taboola.com
 0.0.0.0 trendmd.s3.amazonaws.com added to the blocklist
 0.0.0.0 trends.revcontent.com
+0.0.0.0 trk.kissmetrics.com
 0.0.0.0 trkn.us
 0.0.0.0 trk.prod.vidible.tv
 0.0.0.0 trk.vidible.tv
@@ -1376,6 +1399,7 @@
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 t.wayfair.com
 0.0.0.0 u3s.mathtag.com
+0.0.0.0 u.acuityplatform.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
 0.0.0.0 uidbox.uimserv.net
@@ -1423,6 +1447,7 @@
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 vid.pubmatic.com
+0.0.0.0 vid.springserve.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 view.s7.exacttarget.com added to the blocklist
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
@@ -1475,6 +1500,7 @@
 0.0.0.0 www6.smartadserver.com
 0.0.0.0 www.888casino.com
 0.0.0.0 www8.smartadserver.com
+0.0.0.0 www9.smartadserver.com
 0.0.0.0 www.acint.net
 0.0.0.0 www.ad4mat.de
 0.0.0.0 www.adblockanalytics.com
@@ -1509,6 +1535,7 @@
 0.0.0.0 www.media.net
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
+0.0.0.0 www.okcupid.com
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.sc.pages02.net
@@ -1519,6 +1546,8 @@
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.storygize.net
 0.0.0.0 www.summerhamster.com
+0.0.0.0 www.taboola.com
+0.0.0.0 www.tag4arm.com
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.usemax.de
 0.0.0.0 www.vungle.com
@@ -1536,3 +1565,4 @@
 0.0.0.0 zdbb.net
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 z-na.amazon-adsystem.com
+0.0.0.0 zoopla-d.openx.net
