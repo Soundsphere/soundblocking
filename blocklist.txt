@@ -259,6 +259,7 @@
 0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.flashtalking.com
+0.0.0.0 cdn.geodns.tubemogul.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
@@ -816,6 +817,7 @@
 0.0.0.0 p.vtracy.de
 0.0.0.0 px2.moatads.com
 0.0.0.0 px.adhigh.net
+0.0.0.0 px.ads.linkedin.com
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxl.jivox.com
@@ -943,6 +945,7 @@
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 si.nuggad.net
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 sjrtp7.marketo.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 s.ktxtr.com
 0.0.0.0 sm4xqadz4o.kameleoon.eu
@@ -1175,6 +1178,7 @@
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 widget.as.criteo.com
+0.0.0.0 widget.criteo.com
 0.0.0.0 widgetmonitor.outbrain.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widgets.amung.us
