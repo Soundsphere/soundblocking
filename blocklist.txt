@@ -8276,6 +8276,7 @@
 0.0.0.0 cubics.com
 0.0.0.0 cue.v.fwmrm.net
 0.0.0.0 cuidatumiembro.com
+0.0.0.0 culturedcrayon.com
 0.0.0.0 culvercountry.com
 0.0.0.0 cumbridge.com
 0.0.0.0 cumeruption.com
@@ -23300,6 +23301,7 @@
 0.0.0.0 rtmail.co.za
 0.0.0.0 rtr.innovid.com
 0.0.0.0 rts.ssl2.duapps.com
+0.0.0.0 rt.udmserve.net
 0.0.0.0 r.turn.com
 0.0.0.0 r.turn.com.akadns.net
 0.0.0.0 ru44.com
@@ -26725,6 +26727,7 @@
 0.0.0.0 survey2.modernmindsoftware.com
 0.0.0.0 survey.advantageresearch.com
 0.0.0.0 survey.g.doubleclick.net
+0.0.0.0 survey.nuggad.net
 0.0.0.0 surveyrock.com
 0.0.0.0 susanrcordova.com
 0.0.0.0 s-usc1c-nss-218.firebaseio.com
@@ -26748,6 +26751,7 @@
 0.0.0.0 svoboduud.cn
 0.0.0.0 svp.contextuad.org
 0.0.0.0 swallowthisbitchpics.com
+0.0.0.0 swa.metro.co.uk
 0.0.0.0 swamisamarthpet.com
 0.0.0.0 swanksoft.com
 0.0.0.0 swanseafasteners.co.uk
@@ -30945,6 +30949,7 @@
 0.0.0.0 www.bigtitstoolbar.com
 0.0.0.0 www.bigtitsvideopro.com
 0.0.0.0 www.bikinidesk.com
+0.0.0.0 www.bilder-upload.eu
 0.0.0.0 www.binance.cloud
 0.0.0.0 www.binance-register.com
 0.0.0.0 www.binances.lros.com.au
@@ -34562,6 +34567,7 @@
 0.0.0.0 zaq-home.org
 0.0.0.0 zarinakhan.net
 0.0.0.0 zaseyan.com
+0.0.0.0 za-ssl.effectivemeasure.net
 0.0.0.0 zastroyka.org
 0.0.0.0 zatulet.org
 0.0.0.0 zaudrenduvent.fr
