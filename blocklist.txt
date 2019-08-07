@@ -2,6 +2,7 @@
 0.0.0.0 189474.engine.mobileapptracking.com
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 2-01-2a40-0017.cdx.cdxcn.net
+0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
 0.0.0.0 33across-d.openx.net
 0.0.0.0 341800575.log.optimizely.com
@@ -113,6 +114,7 @@
 0.0.0.0 advertiser.wbtrk.net
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adv.sec.intl.miui.com
+0.0.0.0 adv.sec.miui.com
 0.0.0.0 ad.wsod.com
 0.0.0.0 adx.adform.net
 0.0.0.0 adx-winners-eu-west-1-rtb.adroll.com
@@ -238,6 +240,7 @@
 0.0.0.0 a.twiago.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 authbe.sec.intl.miui.com
+0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 az416426.vo.msecnd.net
@@ -245,6 +248,7 @@
 0.0.0.0 b1sync.zemanta.com
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
+0.0.0.0 bam.nr-data.net
 0.0.0.0 banner.congstar.de
 0.0.0.0 banners.contentfeed.net
 0.0.0.0 banners.webmasterplan.com
@@ -473,6 +477,7 @@
 0.0.0.0 cti.w55c.net
 0.0.0.0 ct.pinterest.com
 0.0.0.0 cw.addthis.com
+0.0.0.0 c.webengage.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 cyberport.d3.sc.omtrdc.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
@@ -489,6 +494,7 @@
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
+0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
@@ -599,6 +605,7 @@
 0.0.0.0 e.mail.ru
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 epicunitscan.info
+0.0.0.0 epl.paypal-communication.com
 0.0.0.0 eqx-secure.smartadserver.com
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 eqx-tmk-geoloc.smartadserver.com
@@ -720,6 +727,7 @@
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ib.3lift.com
+0.0.0.0 ichnaea.netflix.com
 0.0.0.0 i.clean.gg
 0.0.0.0 i.connectad.io
 0.0.0.0 i.ctnsnet.com
@@ -799,6 +807,7 @@
 0.0.0.0 justpremium-d.openx.net
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 kiks.yandex.ru
+0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kleinanzeigen-d.openx.net
 0.0.0.0 kraken.rambler.ru
@@ -854,6 +863,7 @@
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads-eu.amazon.com
+0.0.0.0 mahimeta.com
 0.0.0.0 mailchimp.com
 0.0.0.0 mailderef.web.de
 0.0.0.0 mailfoogae.appspot.com
@@ -1011,6 +1021,7 @@
 0.0.0.0 pool.admedo.com
 0.0.0.0 popcash.net
 0.0.0.0 popup.taboola.com
+0.0.0.0 port.sec.intl.miui.com
 0.0.0.0 powerad.ai
 0.0.0.0 ppchero.com
 0.0.0.0 pp.lp4.io
@@ -1138,6 +1149,7 @@
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 s.adroll.com
 0.0.0.0 salesforcecom.demdex.net
+0.0.0.0 salesviewer.org
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 sam.msn.com
 0.0.0.0 saxp.zedo.com
@@ -1147,6 +1159,7 @@
 0.0.0.0 scdn.cxense.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 scomcluster.cxense.com
+0.0.0.0 scout24-d.openx.net
 0.0.0.0 s.cpx.to
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
@@ -1351,6 +1364,8 @@
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tag.marinsm.com
 0.0.0.0 tag.mtrcs.samba.tv
+0.0.0.0 tag.perfectaudience.com
+0.0.0.0 tag.researchnow.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
 0.0.0.0 tags-cdn.deployads.com
@@ -1408,6 +1423,7 @@
 0.0.0.0 track.adtrue.com
 0.0.0.0 trackbar.navigator.web.de
 0.0.0.0 trackcmp.net
+0.0.0.0 track.customer.io
 0.0.0.0 tracker-api.my.com
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.gaug.es
@@ -1418,8 +1434,10 @@
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.m6r.eu
+0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.mlsat02.de
 0.0.0.0 tracking.s24.com
+0.0.0.0 track.noz.de
 0.0.0.0 track.webgains.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 trck.cyberport.de
@@ -1584,6 +1602,7 @@
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.pinterest.com
+0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.sc.pages02.net
