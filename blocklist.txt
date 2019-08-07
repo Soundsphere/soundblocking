@@ -240,6 +240,7 @@
 0.0.0.0 ap.lijit.com
 0.0.0.0 apn-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 apnx-match.dotomi.com
+0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app-ab01.marketo.com
 0.0.0.0 app-ab04.marketo.com
 0.0.0.0 app-ab07.marketo.com
@@ -919,6 +920,7 @@
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscollectedforms.net
+0.0.0.0 js.hscta.net
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.idio.co
@@ -1038,6 +1040,7 @@
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 meraxes.polarmobile.com
 0.0.0.0 metrics.api.drift.com
+0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 m.exactag.com
@@ -1195,6 +1198,7 @@
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 projectagora.net
+0.0.0.0 promoted.soundcloud.com
 0.0.0.0 prophet.heise.de
 0.0.0.0 pr.ybp.yahoo.com
 0.0.0.0 psa.carambo.la
@@ -1478,6 +1482,7 @@
 0.0.0.0 stats3.unrulymedia.com
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.aws.rubiconproject.com
+0.0.0.0 stats.bannersnack.com
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.l.doubleclick.net
@@ -1501,6 +1506,7 @@
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 s.tyxo.com
 0.0.0.0 su.addthis.com
+0.0.0.0 sumo.com
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 s.update.indexww.com
 0.0.0.0 s.update.rubiconproject.com
