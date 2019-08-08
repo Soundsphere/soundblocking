@@ -1818,6 +1818,7 @@
 0.0.0.0 ads.brain.pk
 0.0.0.0 ads.brazzers.com
 0.0.0.0 ads.bumq.com
+0.0.0.0 ads.businessclick.com
 0.0.0.0 ads.businessweek.com
 0.0.0.0 ads.canalblog.com
 0.0.0.0 ad.scanmedios.com
@@ -3804,6 +3805,7 @@
 0.0.0.0 api.optmnstr.com
 0.0.0.0 api.parsely.com
 0.0.0.0 api.permutive.com
+0.0.0.0 api.petametrics.com
 0.0.0.0 api.picsart.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
@@ -3866,6 +3868,7 @@
 0.0.0.0 app-abb.marketo.com
 0.0.0.0 app-abj.marketo.com
 0.0.0.0 app.adjust.com
+0.0.0.0 app.adjust.io
 0.0.0.0 app.adroll.com
 0.0.0.0 appads.com
 0.0.0.0 appall.cn
@@ -3934,6 +3937,7 @@
 0.0.0.0 applevtex.com
 0.0.0.0 applicationgrabb.net
 0.0.0.0 app.link
+0.0.0.0 appload.ingest.crittercism.com
 0.0.0.0 applog.musical.ly
 0.0.0.0 app-lon02.marketo.com
 0.0.0.0 app-lon03.marketo.com
@@ -4036,6 +4040,7 @@
 0.0.0.0 arablatrade.com
 0.0.0.0 aragornsfeetlinks.net
 0.0.0.0 araimc.org
+0.0.0.0 araman.kameleoon.com
 0.0.0.0 aramategroup-first.cc
 0.0.0.0 aramategroup-int.net
 0.0.0.0 arboracres.org
@@ -4603,6 +4608,7 @@
 0.0.0.0 aws.com
 0.0.0.0 awseukpi.whisbi.com
 0.0.0.0 awsome-grab-block-statuses.com
+0.0.0.0 awsync.yandex.ru
 0.0.0.0 axa.addcontrol.net
 0.0.0.0 a.xanga.com
 0.0.0.0 axcus.top
@@ -7493,6 +7499,7 @@
 0.0.0.0 collector.bunchbox.co
 0.0.0.0 collector-cdn.github.com
 0.0.0.0 collector.deepmetrix.com
+0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector-medium.lightstep.com
@@ -10253,6 +10260,7 @@
 0.0.0.0 ec-track.com
 0.0.0.0 ecwz.com
 0.0.0.0 ecyb.com
+0.0.0.0 edaa.eu
 0.0.0.0 edailywinners.com
 0.0.0.0 edakgfvwql.ru
 0.0.0.0 edatasales.com
@@ -10260,6 +10268,7 @@
 0.0.0.0 edegrees.net
 0.0.0.0 eden21.net
 0.0.0.0 edenvillage.it
+0.0.0.0 edge.addthis.com
 0.0.0.0 edge-chat.facebook.com
 0.0.0.0 edgeio.com
 0.0.0.0 edge.quantserve.com
@@ -13572,6 +13581,7 @@
 0.0.0.0 hc-happycasting.com
 0.0.0.0 hclperot.com
 0.0.0.0 hclub.go.ro
+0.0.0.0 hc.uralweb.ru
 0.0.0.0 hcworld.com
 0.0.0.0 hcxiaoao.com
 0.0.0.0 hdco.on.ca
@@ -14299,6 +14309,7 @@
 0.0.0.0 icodecpack.com
 0.0.0.0 icommerce.ws
 0.0.0.0 i-compass-group.at
+0.0.0.0 icompass.insightexpressai.com
 0.0.0.0 iconads.biz
 0.0.0.0 iconexpo.com
 0.0.0.0 iconforge.favicon.com
@@ -15867,6 +15878,7 @@
 0.0.0.0 keypromanager.com
 0.0.0.0 keyrun.com
 0.0.0.0 keystaffingsolutions.com
+0.0.0.0 keytarget.adnet.lt
 0.0.0.0 keytiles.com
 0.0.0.0 keyword.cpvfeed.com
 0.0.0.0 keywordmax.com
@@ -16752,6 +16764,7 @@
 0.0.0.0 logger-06.vty.dailymotion.com
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.dailymotion.com
+0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 logg.kiwi.com
 0.0.0.0 loghisuonerieweb.com
@@ -16851,6 +16864,7 @@
 0.0.0.0 lonngren.co.uk
 0.0.0.0 lonnysfilme.de
 0.0.0.0 lonrtp1-cdn.marketo.com
+0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 loog.icu
 0.0.0.0 look1.net
 0.0.0.0 look2me2.com
@@ -17651,6 +17665,7 @@
 0.0.0.0 mdidminfoway.com
 0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 mdl3.org
+0.0.0.0 m.dlx.addthis.com
 0.0.0.0 mdnhinc.com
 0.0.0.0 m-dns.us
 0.0.0.0 mdodo.net
@@ -19012,6 +19027,7 @@
 0.0.0.0 nc.ru.redtram.com
 0.0.0.0 ncsu.thecallingcenter.com
 0.0.0.0 ndbrinquedos.com.br
+0.0.0.0 nd.demdex.net
 0.0.0.0 ndfordriverz.com
 0.0.0.0 ndirect.ppro.de
 0.0.0.0 ndparking.com
@@ -19940,6 +19956,7 @@
 0.0.0.0 om7890.com
 0.0.0.0 omaniahmed.com
 0.0.0.0 om.cbsi.com
+0.0.0.0 om.dowjoneson.com
 0.0.0.0 omega-search.com
 0.0.0.0 omegasearch.com
 0.0.0.0 omeglecaptures.ihostfull.com
@@ -25059,6 +25076,7 @@
 0.0.0.0 shopknights.com
 0.0.0.0 shop.maxviril.lu
 0.0.0.0 shopnav.com
+0.0.0.0 shopnetic.com
 0.0.0.0 shop.nuance.com
 0.0.0.0 shop-of-innovations.de
 0.0.0.0 shop.oliviahscott.com
@@ -26236,6 +26254,7 @@
 0.0.0.0 static4.smi2.net
 0.0.0.0 static5.smi2.net
 0.0.0.0 static.66.172.47.78.clients.your-server.de
+0.0.0.0 static8.smi2.net
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adfarm1.adition.com
 0.0.0.0 static.adman.gr
@@ -26966,6 +26985,7 @@
 0.0.0.0 tagon.co
 0.0.0.0 tag.perfectaudience.com
 0.0.0.0 tag.researchnow.com
+0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tags.api.umbel.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
@@ -27758,6 +27778,7 @@
 0.0.0.0 t.kck.st
 0.0.0.0 t.kctag.net
 0.0.0.0 tking.com.tn
+0.0.0.0 tk.kaufda.de
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 t.ktxtr.com
 0.0.0.0 tlcn.net
@@ -28607,6 +28628,7 @@
 0.0.0.0 txtimpact.com
 0.0.0.0 tyc0traf0.com
 0.0.0.0 tycoontooling.com
+0.0.0.0 t.yesware.com
 0.0.0.0 tyguard.co.id
 0.0.0.0 ty-kobee.com
 0.0.0.0 tylerhoechlin.org
@@ -31203,6 +31225,7 @@
 0.0.0.0 www.count24.de
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.counterguide.com
+0.0.0.0 www.counter-kostenlos.net
 0.0.0.0 www.countfund.com
 0.0.0.0 www.counting4free.com
 0.0.0.0 www.countmypage.com
@@ -33375,6 +33398,7 @@
 0.0.0.0 www.stortrk.com
 0.0.0.0 www.storybookalpacas.com
 0.0.0.0 www.storygize.net
+0.0.0.0 www.streamate.com
 0.0.0.0 www.streamxs.ws
 0.0.0.0 www.stsgroupbd.com
 0.0.0.0 www.studentessetroie.com
@@ -34536,6 +34560,7 @@
 0.0.0.0 z5x.net
 0.0.0.0 z7.cnzz.com
 0.0.0.0 z88.com.cn
+0.0.0.0 z9q9kj37oy.kameleoon.eu
 0.0.0.0 z9q9kj37oy.kameleoon.euo
 0.0.0.0 za123.cn
 0.0.0.0 zabaniz.com.bz
