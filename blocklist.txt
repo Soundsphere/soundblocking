@@ -6008,6 +6008,7 @@
 0.0.0.0 bsek5.ggsddup.com
 0.0.0.0 bsell.ru
 0.0.0.0 b.siftscience.com
+0.0.0.0 bskyb.demdex.net
 0.0.0.0 b.sli-spark.com
 0.0.0.0 bslsaude.com.br
 0.0.0.0 b.smartnews.be
@@ -11251,6 +11252,7 @@
 0.0.0.0 fanatik.net
 0.0.0.0 fanatticrecords.com
 0.0.0.0 fanclips.com
+0.0.0.0 fandangollc.demdex.net
 0.0.0.0 fandesjinkderunha.com
 0.0.0.0 fandl.net
 0.0.0.0 fangiobrokeraggio.com
@@ -17951,6 +17953,7 @@
 0.0.0.0 metod-deneg.com
 0.0.0.0 metradigitalmedia.com
 0.0.0.0 metrics.api.drift.com
+0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.corus.ca
@@ -19327,6 +19330,7 @@
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexware.net
 0.0.0.0 nf-cash.com
+0.0.0.0 nfoo-server.com
 0.0.0.0 nf.outerinfo.com
 0.0.0.0 nfscars.net
 0.0.0.0 ng3.ads.warnerbros.com
@@ -20154,6 +20158,7 @@
 0.0.0.0 openmarket.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 opensex.net
+0.0.0.0 opensharecount.com
 0.0.0.0 opensoftwareupdater.com
 0.0.0.0 opensols.com
 0.0.0.0 opensourcefirewall.com
@@ -27014,6 +27019,7 @@
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags.t.tailtarget.com
+0.0.0.0 tags.us.onscroll.com
 0.0.0.0 tags.w55c.net
 0.0.0.0 tagular.com
 0.0.0.0 tag.userreport.com
@@ -29582,6 +29588,7 @@
 0.0.0.0 warlog.info
 0.0.0.0 warlog.ru
 0.0.0.0 war-money.ru
+0.0.0.0 warnerbros.112.2o7.net
 0.0.0.0 warningiepage.com
 0.0.0.0 warningmessage.com
 0.0.0.0 warplist.com
@@ -30508,6 +30515,7 @@
 0.0.0.0 www2.click-fr.com
 0.0.0.0 www2.criteo.com
 0.0.0.0 www2.fortunecity.com
+0.0.0.0 www2.glam.com
 0.0.0.0 www2.hermoment.com
 0.0.0.0 www2.hooowah.com
 0.0.0.0 www2.hotlog.ru
@@ -31162,6 +31170,7 @@
 0.0.0.0 www.cirqueentertainment.com
 0.0.0.0 www.citrusspringslibrary.org
 0.0.0.0 www.cittainfinite.eu
+0.0.0.0 www.civicscience.com
 0.0.0.0 www.cj.com
 0.0.0.0 www.classandgo.co.uk
 0.0.0.0 www.classifieds1000.com
@@ -33419,6 +33428,7 @@
 0.0.0.0 www.stumbleupon.com
 0.0.0.0 www.sublimemedia.net
 0.0.0.0 www.suburbanmr.com
+0.0.0.0 www.subzin.com
 0.0.0.0 www.suesses-online.com
 0.0.0.0 www.sugarsync.com
 0.0.0.0 www.suitevirtuoso.com
