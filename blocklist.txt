@@ -22,6 +22,7 @@
 0.0.0.0 935-kke-240.mktoresp.com
 0.0.0.0 a1.adform.net
 0.0.0.0 a2131.casalemedia.com
+0.0.0.0 a2140.casalemedia.com
 0.0.0.0 a2220.casalemedia.com
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3320.casalemedia.com
@@ -81,6 +82,7 @@
 0.0.0.0 adobe.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 adobe.demdex.net
 0.0.0.0 adobe-sync.dotomi.com
+0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adquality.ch
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads.adaptv.advertising.com
@@ -88,6 +90,7 @@
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.adtiger.de
 0.0.0.0 ads.altitude-arena.com
+0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.avocet.io
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads-bid.l.doubleclick.net
@@ -267,6 +270,7 @@
 0.0.0.0 a.rfihub.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 as.casalemedia.com
+0.0.0.0 as.ebz.io
 0.0.0.0 asn.advolution.de
 0.0.0.0 asoscomltd.tt.omtrdc.net
 0.0.0.0 as-sec.casalemedia.com
@@ -320,6 +324,7 @@
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bid.socdm.com
 0.0.0.0 bild01.webtrekk.net
 0.0.0.0 bilder.bild.de
@@ -1049,6 +1054,7 @@
 0.0.0.0 mediametrics.ru
 0.0.0.0 medianet-match.dotomi.com
 0.0.0.0 mediation.adnxs.com
+0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 mediator.mail.ru
 0.0.0.0 mediav3.inq.com
 0.0.0.0 mepodownload.mediatek.com
@@ -1057,6 +1063,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
+0.0.0.0 metrics.responsetap.com
 0.0.0.0 m.exactag.com
 0.0.0.0 mg.mgid.com
 0.0.0.0 mid.rkdms.com
@@ -1265,6 +1272,7 @@
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 referrer.disqus.com
+0.0.0.0 reflethenfortoft.info
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 relap.io
 0.0.0.0 remote-data.urbanairship.com
@@ -1298,6 +1306,7 @@
 0.0.0.0 rs.mail.ru
 0.0.0.0 rt.applovin.com
 0.0.0.0 rtax.criteo.com
+0.0.0.0 rtb123.com
 0.0.0.0 rtb7.adscience.nl
 0.0.0.0 rtb.adentifi.com
 0.0.0.0 rtb.adgrx.com
@@ -1393,6 +1402,7 @@
 0.0.0.0 sentry.io
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedby.flashtalking.com
+0.0.0.0 server.adeasy.ru
 0.0.0.0 server.adform.net
 0.0.0.0 serve.tercept.com
 0.0.0.0 service.cmp.oath.com
