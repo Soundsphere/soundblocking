@@ -30,6 +30,7 @@
 0.0.0.0 a3320.casalemedia.com
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3391.casalemedia.com
+0.0.0.0 a4p.adpartner.pro
 0.0.0.0 aa.agkn.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a-ams.1rx.io
@@ -102,6 +103,7 @@
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.api.vungle.com
 0.0.0.0 ads.avocet.io
+0.0.0.0 ads.ayads.co
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 ads.businessclick.com
@@ -289,6 +291,7 @@
 0.0.0.0 app.miui.com
 0.0.0.0 app.pendo.io
 0.0.0.0 app-sji.marketo.com
+0.0.0.0 a.pub.network
 0.0.0.0 apvdr.com
 0.0.0.0 apx.moatads.com
 0.0.0.0 araman.kameleoon.com
@@ -831,6 +834,7 @@
 0.0.0.0 fls-eu.amazon.de
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 f.monetate.net
 0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 forms.ontraport.com
 0.0.0.0 fp.msedge.net
@@ -1060,6 +1064,7 @@
 0.0.0.0 logging.carambo.la
 0.0.0.0 login.dotomi.com
 0.0.0.0 log-ird.outbrain.com
+0.0.0.0 log.mmstat.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
@@ -1321,6 +1326,7 @@
 0.0.0.0 projectagora.net
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 prophet.heise.de
+0.0.0.0 proxy.sec.miui.com
 0.0.0.0 pr.ybp.yahoo.com
 0.0.0.0 psa.carambo.la
 0.0.0.0 ps.ecosia.org
@@ -1371,6 +1377,7 @@
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 recommender.scarabresearch.com
+0.0.0.0 recreativ.ru
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 register.xmpush.xiaomi.com
