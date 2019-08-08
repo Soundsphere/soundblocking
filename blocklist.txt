@@ -203,6 +203,7 @@
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccs.mcafee.com
 0.0.0.0 analytics.ecosia.org
+0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.ff.avast.com
 0.0.0.0 analytics.foresee.com
@@ -348,6 +349,7 @@
 0.0.0.0 batchlogging4-noneu.truecaller.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
+0.0.0.0 bbc.gscontxt.net
 0.0.0.0 bbnaut.ibillboard.com
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
 0.0.0.0 beacon-eu2.rubiconproject.com
@@ -930,6 +932,7 @@
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 healte.de
+0.0.0.0 heatmap.services
 0.0.0.0 h-ebay.online-metrix.net
 0.0.0.0 hello.myfonts.net
 0.0.0.0 hexagon-analytics.com
@@ -1154,6 +1157,7 @@
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
+0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 m.dlx.addthis.com
 0.0.0.0 m.do.co
 0.0.0.0 media.admob.com
@@ -1171,6 +1175,7 @@
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 meraxes.polarmobile.com
+0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.aviasales.ru
@@ -1327,6 +1332,7 @@
 0.0.0.0 platform.linkedin.com
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.h-cdn.com
+0.0.0.0 playtime.tubemogul.com
 0.0.0.0 pmc-d.openx.net
 0.0.0.0 pm.w55c.net
 0.0.0.0 polarcdn-pentos.com
@@ -1488,6 +1494,7 @@
 0.0.0.0 s8.addthis.com
 0.0.0.0 s8t.teads.tv
 0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 sa.bbc.co.uk
 0.0.0.0 s.adroll.com
 0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 salesviewer.org
@@ -1618,6 +1625,7 @@
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 ssc.33across.com
+0.0.0.0 ssc.api.bbc.com
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 s.skimresources.com
@@ -1823,6 +1831,7 @@
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.nativendo.de
 0.0.0.0 token.rubiconproject.com
+0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top-fwz1.mail.ru
 0.0.0.0 t.paypal.com
