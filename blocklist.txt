@@ -17350,6 +17350,7 @@
 0.0.0.0 mamasmartclub.com
 0.0.0.0 mambomarket.com
 0.0.0.0 mamejing.com
+0.0.0.0 mamka.aviasales.ru
 0.0.0.0 mamma.com
 0.0.0.0 mamylik.ru
 0.0.0.0 manage-account.siasolution.com
@@ -17668,6 +17669,7 @@
 0.0.0.0 m.dlx.addthis.com
 0.0.0.0 mdnhinc.com
 0.0.0.0 m-dns.us
+0.0.0.0 m.do.co
 0.0.0.0 mdodo.net
 0.0.0.0 mdplant.co.za
 0.0.0.0 mds.centrport.net
@@ -17758,6 +17760,7 @@
 0.0.0.0 mediatickets.net
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediatools.ws
+0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 mediator.mail.ru
 0.0.0.0 mediatracker.org
 0.0.0.0 media.trafficjunky.net
@@ -19036,6 +19039,7 @@
 0.0.0.0 neads.delivery
 0.0.0.0 nebrot.dk
 0.0.0.0 necessaryupdates.com
+0.0.0.0 neckermannreisen.btttag.com
 0.0.0.0 nedstatbasic.net
 0.0.0.0 nedstat.net
 0.0.0.0 nedstat.nl
@@ -23289,6 +23293,7 @@
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 rtax.criteo.com
+0.0.0.0 rtb123.com
 0.0.0.0 rtb7.adscience.nl
 0.0.0.0 rtb.adentifi.com
 0.0.0.0 rtb.adgrx.com
@@ -24722,6 +24727,7 @@
 0.0.0.0 server4.103092804.com
 0.0.0.0 server4.twistedhumor.com
 0.0.0.0 server7online.com
+0.0.0.0 server.adeasy.ru
 0.0.0.0 server.adformdsp.net
 0.0.0.0 server.adform.net
 0.0.0.0 servera.info
@@ -26411,6 +26417,7 @@
 0.0.0.0 stats.x14.eu
 0.0.0.0 stats.zotabox.com
 0.0.0.0 stat.t2t2.com
+0.0.0.0 stat.tildacdn.com
 0.0.0.0 stattrader.biz
 0.0.0.0 stat.tudou.com
 0.0.0.0 statuscake.com
