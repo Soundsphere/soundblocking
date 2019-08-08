@@ -286,6 +286,7 @@
 0.0.0.0 asn.advolution.de
 0.0.0.0 asoscomltd.tt.omtrdc.net
 0.0.0.0 as-sec.casalemedia.com
+0.0.0.0 asset.pagefair.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.purch.com
@@ -813,6 +814,7 @@
 0.0.0.0 g2.gumgum.com
 0.0.0.0 g.3gl.net
 0.0.0.0 g3.s.fwmrm.net
+0.0.0.0 g7.m.fwmrm.net
 0.0.0.0 ga.clearbit.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 galleryapi.micloud.xiaomi.net
@@ -919,6 +921,7 @@
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
 0.0.0.0 imprammp.taboola.com
+0.0.0.0 impression.appsflyer.com
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 index-winners-eu-west-1-rtb.adroll.com
@@ -1157,6 +1160,7 @@
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 opps.taboola.com
 0.0.0.0 optimized-by.rubiconproject.com
+0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
 0.0.0.0 outcome-ssp.supersonicads.com
@@ -1303,6 +1307,7 @@
 0.0.0.0 ranker.sc.omtrdc.net
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbp.mxptint.net
+0.0.0.0 r.chip.de
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcp.c.appier.net
 0.0.0.0 rdi.eu.criteo.com
@@ -1708,6 +1713,7 @@
 0.0.0.0 trackcmp.net
 0.0.0.0 track.customer.io
 0.0.0.0 tracker-api.my.com
+0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.gaug.es
@@ -1822,6 +1828,7 @@
 0.0.0.0 vop.sundaysky.com
 0.0.0.0 vpaid.pubmatic.com
 0.0.0.0 vrt.outbrain.com
+0.0.0.0 vstats.digitaltrends.com
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
 0.0.0.0 watson.telemetry.microsoft.com
