@@ -1356,6 +1356,7 @@
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
+0.0.0.0 profile.localytics.com
 0.0.0.0 projectagora.net
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 prophet.heise.de
@@ -1946,6 +1947,7 @@
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video.unrulymedia.com
+0.0.0.0 vid-io-dub.springserve.com
 0.0.0.0 vid.pubmatic.com
 0.0.0.0 vid.springserve.com
 0.0.0.0 vidstatb.taboola.com
