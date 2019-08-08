@@ -624,6 +624,7 @@
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
+0.0.0.0 d-1.co
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
@@ -955,6 +956,7 @@
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.outbrainimg.com
+0.0.0.0 images.performgroup.com
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 images.taboola.com
 0.0.0.0 imasdk.googleapis.com
@@ -1566,6 +1568,7 @@
 0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 spiegel.met.vgwort.de
+0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.zeotap.com
 0.0.0.0 spr.bild.de
 0.0.0.0 springer02.webtrekk.net
@@ -1629,6 +1632,7 @@
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 static.woopra.com
 0.0.0.0 static.zanox.com
+0.0.0.0 static.zotabox.com
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stats3.unrulymedia.com
 0.0.0.0 stats.appsflyer.com
@@ -1813,6 +1817,7 @@
 0.0.0.0 tracking.s24.com
 0.0.0.0 track.noz.de
 0.0.0.0 track.webgains.com
+0.0.0.0 traffic.outbrain.com
 0.0.0.0 tr.blismedia.com
 0.0.0.0 trck.cyberport.de
 0.0.0.0 trck.spoteffects.net
@@ -1993,6 +1998,7 @@
 0.0.0.0 www.everestjs.net
 0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.fullstory.com
+0.0.0.0 www.fyber.com
 0.0.0.0 www.geoplugin.net
 0.0.0.0 www.googleadservices.com
 0.0.0.0 www.google-analytics.com
