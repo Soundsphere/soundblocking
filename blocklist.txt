@@ -36,6 +36,7 @@
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 a.bf-ad.net
+0.0.0.0 abp.smartadcheck.de
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdn.intentmedia.net
@@ -114,6 +115,7 @@
 0.0.0.0 ads.google.com
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.mopub.com
+0.0.0.0 ads.nexage.com
 0.0.0.0 ads.programattik.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.rubiconproject.com
@@ -175,6 +177,7 @@
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 0.0.0.0 ams-usadmm.dotomi.com
 0.0.0.0 amzn.to
+0.0.0.0 analytics.businessinsider.com
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccs.mcafee.com
 0.0.0.0 analytics.ecosia.org
@@ -183,6 +186,7 @@
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.google.com
+0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.mailmunch.co
 0.0.0.0 analytics.ooyala.com
@@ -221,6 +225,7 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.iperceptions.com
 0.0.0.0 api.leanplum.com
+0.0.0.0 api.lever.co
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-mobi.soundcloud.com
 0.0.0.0 api.nanigans.com
@@ -255,7 +260,9 @@
 0.0.0.0 app.box.com
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.crazyegg.com
+0.0.0.0 app.crossengage.io
 0.0.0.0 app.getresponse.com
+0.0.0.0 app.getsentry.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 app.link
@@ -281,6 +288,7 @@
 0.0.0.0 aswpapius.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 a.teads.tv
+0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
 0.0.0.0 ats.otto.de
 0.0.0.0 a.twiago.com
@@ -346,6 +354,7 @@
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bttrack.com
 0.0.0.0 buffer-media-uploads.s3.amazonaws.com
+0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 builfico.de
 0.0.0.0 by.uservoice.com
 0.0.0.0 c1.adform.net
@@ -372,6 +381,7 @@
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 cdn2.teads.tv
+0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn4.userzoom.com
@@ -636,6 +646,7 @@
 0.0.0.0 de.ioam.de
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery.content-recommendation.net
+0.0.0.0 deloplen.com
 0.0.0.0 des.smartclip.net
 0.0.0.0 desv383oqqc0.cloudfront.net
 0.0.0.0 de.tynt.com
@@ -773,6 +784,7 @@
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 forms.ontraport.com
 0.0.0.0 fp.msedge.net
 0.0.0.0 fptadtrue-d.openx.net
 0.0.0.0 fqtag.com
@@ -936,6 +948,7 @@
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
 0.0.0.0 jsc.mgid.com
+0.0.0.0 js.gumgum.com
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hscta.net
@@ -1046,6 +1059,7 @@
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
 0.0.0.0 m.dlx.addthis.com
+0.0.0.0 m.do.co
 0.0.0.0 media.carambo.la
 0.0.0.0 media.complex.com
 0.0.0.0 media-eu1.inq.com
@@ -1069,6 +1083,7 @@
 0.0.0.0 mid.rkdms.com
 0.0.0.0 ml314.com
 0.0.0.0 mlb.demdex.net
+0.0.0.0 mmtro.com
 0.0.0.0 mobile.adfarm1.adition.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobile-collector.newrelic.com
@@ -1087,6 +1102,7 @@
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 my.hellobar.com
+0.0.0.0 my.rtmark.net
 0.0.0.0 nab.com.au
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
@@ -1175,6 +1191,7 @@
 0.0.0.0 pixel.mtrcs.samba.tv
 0.0.0.0 pixel.onaudience.com
 0.0.0.0 pixel-origin.mathtag.com
+0.0.0.0 pixel.prfct.co
 0.0.0.0 pixel.quantcount.com
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
@@ -1328,6 +1345,8 @@
 0.0.0.0 rudy.adsnative.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 runtime.lemonpi.io
+0.0.0.0 rxcdn.1rx.io
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s10.histats.com
@@ -1347,6 +1366,7 @@
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
+0.0.0.0 samsung.demdex.net
 0.0.0.0 saxp.zedo.com
 0.0.0.0 sb.scorecardresearch.com
 0.0.0.0 s.btstatic.com
@@ -1448,6 +1468,7 @@
 0.0.0.0 spanids.thesaurus.com
 0.0.0.0 spiegel.met.vgwort.de
 0.0.0.0 spr.bild.de
+0.0.0.0 springer02.webtrekk.net
 0.0.0.0 s.pubmine.com
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 srv.buysellads.com
@@ -1467,6 +1488,7 @@
 0.0.0.0 ss.musthird.com
 0.0.0.0 ssor.tribdss.com
 0.0.0.0 ssp.adriver.ru
+0.0.0.0 s.spoutable.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 sstats.adobe.com
 0.0.0.0 sstats.economist.com
@@ -1522,6 +1544,7 @@
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.zotabox.com
+0.0.0.0 stat.tildacdn.com
 0.0.0.0 status.discordapp.com
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 stepan-fe.go.mail.ru
@@ -1637,6 +1660,7 @@
 0.0.0.0 tlp-02.kameleoon.com
 0.0.0.0 tlp-03.kameleoon.com
 0.0.0.0 tlp-04.kameleoon.com
+0.0.0.0 tl.tradetracker.net
 0.0.0.0 tlx.3lift.com
 0.0.0.0 tmk-eqx-geoloc.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
@@ -1714,6 +1738,7 @@
 0.0.0.0 um.simpli.fi
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 up.cm.ksmobile.com
+0.0.0.0 ups.demdex.net
 0.0.0.0 ups.inq.com
 0.0.0.0 ups.tt.omtrdc.net
 0.0.0.0 ups.xplosion.de
@@ -1807,6 +1832,7 @@
 0.0.0.0 ws.sharethis.com
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 w.usabilla.com
+0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww1097.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 www1.belboon.de
