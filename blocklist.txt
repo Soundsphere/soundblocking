@@ -2895,6 +2895,7 @@
 0.0.0.0 ak.maxserving.com
 0.0.0.0 aknet.net
 0.0.0.0 ak-networks.com
+0.0.0.0 ak-ns.sascdn.com
 0.0.0.0 akril.com
 0.0.0.0 ak.sail-horizon.com
 0.0.0.0 aksdk-images.adikteev.com
@@ -5777,6 +5778,7 @@
 0.0.0.0 boltalko.xyz
 0.0.0.0 bomantivirusdownload.com
 0.0.0.0 bomantivirusfree.com
+0.0.0.0 bombora.com
 0.0.0.0 bomdeobra.com
 0.0.0.0 bonantivirys.com
 0.0.0.0 bonanzaliquormarket.com
@@ -11008,6 +11010,7 @@
 0.0.0.0 examinationantivirus.com
 0.0.0.0 examineantivirus.com
 0.0.0.0 examineillnessstore.cn
+0.0.0.0 exapi-eu.rubiconproject.com
 0.0.0.0 exapxl.de
 0.0.0.0 ex.banner.t-online.de
 0.0.0.0 excedoluxuria.com
@@ -12392,6 +12395,7 @@
 0.0.0.0 g7.m.fwmrm.net
 0.0.0.0 g8consultores.com.ar
 0.0.0.0 ga31.com
+0.0.0.0 gaae.hit.gemius.pl
 0.0.0.0 gabe.hit.gemius.pl
 0.0.0.0 gabrielakoenig.ws
 0.0.0.0 gabrielscott.com
@@ -13845,6 +13849,7 @@
 0.0.0.0 hm292.net
 0.0.0.0 hm.baidu.com
 0.0.0.0 hmzadargya.com
+0.0.0.0 hnbutton.appspot.com
 0.0.0.0 h.nexac.com
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 hnol.net
@@ -25437,6 +25442,7 @@
 0.0.0.0 smetrics.marriott.com
 0.0.0.0 smetrics.mcafee.com
 0.0.0.0 smetrics.payback.de
+0.0.0.0 smetrics.sky.com
 0.0.0.0 smetrics.tesco.com
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 smile.modchipstore.com
@@ -30520,6 +30526,7 @@
 0.0.0.0 www.321search.com
 0.0.0.0 www.3241.com
 0.0.0.0 www.333acre.com
+0.0.0.0 www.33across.com
 0.0.0.0 www.35gx.cn
 0.0.0.0 www.35mb.com
 0.0.0.0 www3.bannerspace.com
@@ -34027,6 +34034,7 @@
 0.0.0.0 xkxempire.com
 0.0.0.0 xldr.com
 0.0.0.0 x-library.com
+0.0.0.0 x.ligatus.com
 0.0.0.0 x-lime.com
 0.0.0.0 xll-g.com
 0.0.0.0 xlocator.com
