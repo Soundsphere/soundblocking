@@ -3383,6 +3383,7 @@
 0.0.0.0 analytics.mobile.walmart.com
 0.0.0.0 analytics.moviepilot.de
 0.0.0.0 analytics.moz.com
+0.0.0.0 analytics.myfinance.com
 0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.pinpoll.com
@@ -4261,6 +4262,7 @@
 0.0.0.0 asmartershopper.com
 0.0.0.0 asn.advolution.de
 0.0.0.0 asnpwnz12345.server.us
+0.0.0.0 asn-trk.advolution.de
 0.0.0.0 asofar.com
 0.0.0.0 a.softpedia.com
 0.0.0.0 asoftwarepro.com
@@ -4459,6 +4461,7 @@
 0.0.0.0 auto-bannertausch.de
 0.0.0.0 autoblog.org.ua
 0.0.0.0 autocaes.com
+0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 auto-complex.by
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 autodeals.pk
@@ -5959,6 +5962,7 @@
 0.0.0.0 brindideias.com.br
 0.0.0.0 bristlyapace.com
 0.0.0.0 british-banners.com
+0.0.0.0 britishskybroadcasti.tt.omtrdc.net
 0.0.0.0 britney-spears-pic.com
 0.0.0.0 britney-spears-picture.com
 0.0.0.0 britney-spears-spreading-outdoors.org
@@ -9332,6 +9336,7 @@
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dmitruk.net
 0.0.0.0 dmitrygaiduk.cn
+0.0.0.0 dm.journaldesfemmes.com
 0.0.0.0 dmns4sale.com
 0.0.0.0 dmp.adform.net
 0.0.0.0 dmporn.com
@@ -10264,6 +10269,7 @@
 0.0.0.0 ec-track.com
 0.0.0.0 ecwz.com
 0.0.0.0 ecyb.com
+0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 edaa.eu
 0.0.0.0 edailywinners.com
 0.0.0.0 edakgfvwql.ru
@@ -20376,6 +20382,7 @@
 0.0.0.0 p.adpdx.com
 0.0.0.0 padrinhojet.net
 0.0.0.0 p.adsymptotic.com
+0.0.0.0 pad-v3.presage.io
 0.0.0.0 padyourwallet.com
 0.0.0.0 pafefrsbasedos.com
 0.0.0.0 pafersbasedos.com
