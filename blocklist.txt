@@ -1443,6 +1443,7 @@
 0.0.0.0 ad.flurry.com
 0.0.0.0 adf.ly
 0.0.0.0 adforce.com
+0.0.0.0 ad.foxitsoftware.com
 0.0.0.0 ad.foxnetworks.com
 0.0.0.0 ad.freecity.de
 0.0.0.0 ad.freefind.com
