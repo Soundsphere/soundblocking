@@ -3822,6 +3822,7 @@
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 apiservices.krxd.net
+0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.similarweb.com
 0.0.0.0 api.skyhookwireless.com
 0.0.0.0 api.taboola.com
