@@ -178,6 +178,7 @@
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 akamai.mathtag.com
 0.0.0.0 akamai.smartadserver.com
+0.0.0.0 ak.imgfarm.com
 0.0.0.0 a.klaviyo.com
 0.0.0.0 ak-ns.sascdn.com
 0.0.0.0 ak.sail-horizon.com
@@ -263,6 +264,7 @@
 0.0.0.0 api.sec.intl.miui.com
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
+0.0.0.0 apiservices.krxd.net
 0.0.0.0 api.taboola.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.usebutton.com
@@ -514,6 +516,7 @@
 0.0.0.0 cdn.wbtrk.net
 0.0.0.0 cdnx.tribalfusion.com
 0.0.0.0 cdn.zarget.com
+0.0.0.0 cdn.zopim.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 ce.lijit.com
@@ -540,6 +543,7 @@
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 clicktotweet.com
+0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 client.perimeterx.net
@@ -825,6 +829,7 @@
 0.0.0.0 evolvemedia-d.openx.net
 0.0.0.0 evt.klarna.com
 0.0.0.0 exapi-eu.rubiconproject.com
+0.0.0.0 exch.quantcount.com
 0.0.0.0 exch.quantserve.com
 0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 eyeota-sync.dotomi.com
@@ -1138,6 +1143,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 mastercard.demdex.net
+0.0.0.0 mastertag.kpcustomer.de
 0.0.0.0 match.ads.betweendigital.com
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.org
@@ -1398,6 +1404,7 @@
 0.0.0.0 px.wa.ui-portal.de
 0.0.0.0 p.yotpo.com
 0.0.0.0 q.adrta.com
+0.0.0.0 qs.ioam.de
 0.0.0.0 quantcast584928381.s.moatpixel.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 query1.petametrics.com
@@ -1411,6 +1418,7 @@
 0.0.0.0 ranker.sc.omtrdc.net
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbp.mxptint.net
+0.0.0.0 r.casalemedia.com
 0.0.0.0 r.chip.de
 0.0.0.0 rcm-de.amazon.de
 0.0.0.0 rcm-eu.amazon-adsystem.com
@@ -1858,6 +1866,7 @@
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 tracking.bloomberg.com
+0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.gj-mobile-services.de
 0.0.0.0 tracking.immobilienscout24.de
@@ -1926,6 +1935,7 @@
 0.0.0.0 us.pixel.newscgp.com
 0.0.0.0 us.smsapi.micloud.xiaomi.net
 0.0.0.0 us-sonar.sociomantic.com
+0.0.0.0 us.statusapi.micloud.xiaomi.net
 0.0.0.0 us-u.openx.net
 0.0.0.0 us.wa.ui-portal.com
 0.0.0.0 v10.events.data.microsoft.com
@@ -2125,6 +2135,7 @@
 0.0.0.0 zdbb.net
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystems.com
 0.0.0.0 zoopla-d.openx.net
