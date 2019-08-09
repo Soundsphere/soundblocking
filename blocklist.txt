@@ -1061,6 +1061,7 @@
 0.0.0.0 ip-info.ff.avast.com
 0.0.0.0 ipinfo.io
 0.0.0.0 ipm-provider.ff.avast.com
+0.0.0.0 ip.nuggad.net
 0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 ir-de.amazon-adsystem.com
