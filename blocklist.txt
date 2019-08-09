@@ -74,6 +74,7 @@
 0.0.0.0 adara.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adclear.baur.de
 0.0.0.0 adc.nine.com.au
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 adc.xxxlutz.de
@@ -84,6 +85,7 @@
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 adelement.com
 0.0.0.0 adeventtracker.spotify.com
+0.0.0.0 ad.foxitsoftware.com
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 ad-js.chip.de
 0.0.0.0 ad.lkqd.net
@@ -110,6 +112,7 @@
 0.0.0.0 ads.ayads.co
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads-bid.l.doubleclick.net
+0.0.0.0 ads.bing.com
 0.0.0.0 ads.businessclick.com
 0.0.0.0 ads.celtra.com
 0.0.0.0 ads.creative-serving.com
@@ -240,6 +243,7 @@
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.amplitude.com
 0.0.0.0 api.apptentive.com
+0.0.0.0 api.autopilothq.com
 0.0.0.0 api.b2c.com
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.branch.io
@@ -430,6 +434,7 @@
 0.0.0.0 c.betrad.com
 0.0.0.0 c.bing.com
 0.0.0.0 cbm02.webtrekk.net
+0.0.0.0 cbsi-d.openx.net
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 cc.swiftype.com
@@ -554,10 +559,12 @@
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 click.clktraker.com
 0.0.0.0 click-de.plista.com
+0.0.0.0 click.plista.com
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 clicktotweet.com
 0.0.0.0 click.virt.exacttarget.com
+0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 client.perimeterx.net
@@ -566,6 +573,7 @@
 0.0.0.0 c.live.com
 0.0.0.0 clkde.tradedoubler.com
 0.0.0.0 clk.solocpm.com
+0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cm.adform.net
 0.0.0.0 cm.adgrx.com
@@ -721,6 +729,7 @@
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
+0.0.0.0 del.icio.us
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery.content-recommendation.net
@@ -840,6 +849,8 @@
 0.0.0.0 events.apester.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.browsiprod.com
+0.0.0.0 events.demoup.com
+0.0.0.0 events.godaddy.com
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.privy.com
@@ -1093,6 +1104,7 @@
 0.0.0.0 kropka.onet.pl
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
+0.0.0.0 laas.americanexpress.com
 0.0.0.0 launchpoint.marketo.com
 0.0.0.0 l.betrad.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
@@ -1267,6 +1279,7 @@
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 odb.outbrain.com
+0.0.0.0 office-loesung.de.intellitxt.com
 0.0.0.0 okt.to
 0.0.0.0 om.dowjoneson.com
 0.0.0.0 oms.expedia.com
@@ -1463,6 +1476,7 @@
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recreativ.ru
+0.0.0.0 recs.shareaholic.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 register.xmpush.xiaomi.com
@@ -1482,6 +1496,7 @@
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.mail.ru
+0.0.0.0 r.my.com
 0.0.0.0 r.nexac.com
 0.0.0.0 route.carambo.la
 0.0.0.0 router.infolinks.com
@@ -1585,6 +1600,7 @@
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 secure.eloqua.com
+0.0.0.0 secure.flashtalking.com
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure-gl.imrworldwide.com
 0.0.0.0 secure.gravatar.com
@@ -1848,6 +1864,7 @@
 0.0.0.0 technorati.com
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telegraph.grapeshot.co.uk
+0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.soundcloud.com
@@ -1939,6 +1956,7 @@
 0.0.0.0 t.yesware.com
 0.0.0.0 u3s.mathtag.com
 0.0.0.0 u.acuityplatform.com
+0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
@@ -2003,6 +2021,7 @@
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-ads.rubiconproject.com
+0.0.0.0 video.oms.eu
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 vid-io-dub.springserve.com
 0.0.0.0 vid.pubmatic.com
@@ -2130,6 +2149,7 @@
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.pinterest.com
+0.0.0.0 www.plista.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
@@ -2180,4 +2200,5 @@
 0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystems.com
+0.0.0.0 znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
 0.0.0.0 zoopla-d.openx.net
