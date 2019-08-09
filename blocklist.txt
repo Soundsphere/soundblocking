@@ -25,6 +25,7 @@
 0.0.0.0 a1.adform.net
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2140.casalemedia.com
+0.0.0.0 a2210.casalemedia.com
 0.0.0.0 a2220.casalemedia.com
 0.0.0.0 a2.adform.net
 0.0.0.0 a3281.casalemedia.com
@@ -354,6 +355,7 @@
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 bbnaut.ibillboard.com
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
+0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 beacon.krxd.net
@@ -667,6 +669,7 @@
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
+0.0.0.0 d9hhrg4mnvzow.cloudfront.net
 0.0.0.0 d.adroll.com
 0.0.0.0 d.adtriba.com
 0.0.0.0 d.adup-tech.com
@@ -906,11 +909,13 @@
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 global.ib-ibi.com
+0.0.0.0 glogger.inspcloud.com
 0.0.0.0 gmads.net
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.affec.tv
 0.0.0.0 gocm.c.appier.net
 0.0.0.0 go.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 go.ezoic.net
 0.0.0.0 goldbach-de-d.openx.net
 0.0.0.0 googleadapis.l.google.com
@@ -1087,11 +1092,13 @@
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadm.exelator.com
 0.0.0.0 loadr.exelator.com
+0.0.0.0 load.s3.amazonaws.com
 0.0.0.0 load.sumome.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loadus.tm.ssl.exelator.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockerdome.com
+0.0.0.0 log2.musical.ly
 0.0.0.0 log.dmtry.com
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logging.carambo.la
@@ -1108,6 +1115,7 @@
 0.0.0.0 logs1125.xiti.com
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs3.xiti.com
+0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logv31.xiti.com
 0.0.0.0 logx.optimizely.com
@@ -2008,6 +2016,7 @@
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 wolve.pro
+0.0.0.0 wpfc.ml
 0.0.0.0 ws1.hotjar.com
 0.0.0.0 ws2.hotjar.com
 0.0.0.0 ws3.hotjar.com
@@ -2109,6 +2118,7 @@
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.usemax.de
 0.0.0.0 www.vungle.com
+0.0.0.0 www.xiti.com
 0.0.0.0 www.yceml.net
 0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 www.zergnet.com
