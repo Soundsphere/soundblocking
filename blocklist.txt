@@ -260,6 +260,7 @@
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api.instabug.com
 0.0.0.0 api.iperceptions.com
+0.0.0.0 api.keen.io
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.lever.co
 0.0.0.0 api.mixpanel.com
@@ -432,6 +433,7 @@
 0.0.0.0 cat.nl.eu.criteo.com
 0.0.0.0 c.bacontent.de
 0.0.0.0 c.betrad.com
+0.0.0.0 c.bigmir.net
 0.0.0.0 c.bing.com
 0.0.0.0 cbm02.webtrekk.net
 0.0.0.0 cbsi-d.openx.net
@@ -480,6 +482,7 @@
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 cdn.exactag.com
+0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.geodns.tubemogul.com
 0.0.0.0 cdn-gl.imrworldwide.com
@@ -496,6 +499,7 @@
 0.0.0.0 cdn.mouseflow.com
 0.0.0.0 cdn.m-pathy.com
 0.0.0.0 cdn.mxpnl.com
+0.0.0.0 cdn.oas-c17.adnxs.com
 0.0.0.0 cdn.onenote.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
@@ -990,6 +994,7 @@
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ib.3lift.com
+0.0.0.0 i.bigmir.net
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 i.clean.gg
 0.0.0.0 icompass.insightexpressai.com
@@ -1071,6 +1076,7 @@
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 jita.rtk.io
 0.0.0.0 j.ophan.co.uk
+0.0.0.0 jp-u.openx.net
 0.0.0.0 js.adscale.de
 0.0.0.0 js.ad-score.com
 0.0.0.0 js.adsrvr.org
@@ -1471,6 +1477,7 @@
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcp.c.appier.net
+0.0.0.0 rc.rlcdn.com
 0.0.0.0 rdi.eu.criteo.com
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 realtime.services.disqus.com
@@ -1562,6 +1569,7 @@
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
 0.0.0.0 samsung.demdex.net
+0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 saxp.zedo.com
 0.0.0.0 sb.monetate.net
 0.0.0.0 sb.scorecardresearch.com
@@ -1658,6 +1666,7 @@
 0.0.0.0 skyde.inq.com
 0.0.0.0 skydeutschland.demdex.net
 0.0.0.0 slipstream.skyscanner.net
+0.0.0.0 s.logsss.com
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 s.media-imdb.com
 0.0.0.0 smetrics.payback.de
@@ -2005,6 +2014,7 @@
 0.0.0.0 vast.adsafeprotected.com
 0.0.0.0 vastcdn.outbrain.com
 0.0.0.0 vast-pop-zrh.mathtag.com
+0.0.0.0 vast-test.mathtag.com
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 venatusmedia-d.openx.net
 0.0.0.0 vendorlist.consensu.org
