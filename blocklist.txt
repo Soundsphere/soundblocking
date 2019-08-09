@@ -235,6 +235,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 anycast.fw.adsafeprotected.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 anyclip-d.openx.net
 0.0.0.0 aol-match.dotomi.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optnmstr.com
@@ -260,6 +261,7 @@
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api.instabug.com
 0.0.0.0 api.iperceptions.com
+0.0.0.0 api.iris.tv
 0.0.0.0 api.keen.io
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.lever.co
@@ -461,6 +463,7 @@
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appsflyer.com
+0.0.0.0 cdn.avmws.com
 0.0.0.0 cdn.avocet.io
 0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 cdn.bannerflow.com
@@ -540,6 +543,7 @@
 0.0.0.0 cdn.wbtrk.net
 0.0.0.0 cdnx.tribalfusion.com
 0.0.0.0 cdn.zarget.com
+0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 cdn.zopim.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 ced.sascdn.com
@@ -670,6 +674,7 @@
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d-1.co
+0.0.0.0 d1eoo1tco6rr5e.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
@@ -890,6 +895,7 @@
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 firefox.settings.services.mozilla.com
+0.0.0.0 flaconi02.webtrekk.net
 0.0.0.0 flash.sec.miui.com
 0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 fls-eu.amazon-adsystem.com
@@ -1264,6 +1270,7 @@
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.rtmark.net
+0.0.0.0 mytopf.com
 0.0.0.0 nab.com.au
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
@@ -1285,6 +1292,7 @@
 0.0.0.0 nr.taboola.com
 0.0.0.0 nxtck.com
 0.0.0.0 nym1-ib.adnxs.com
+0.0.0.0 nypost-d.openx.net
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 odb.outbrain.com
@@ -1361,6 +1369,7 @@
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixel-geo.prfct.co
+0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.keywee.co
 0.0.0.0 pixel.mathtag.com
 0.0.0.0 pixel.moatads.com
@@ -1672,6 +1681,7 @@
 0.0.0.0 s.logsss.com
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 s.media-imdb.com
+0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.sky.com
 0.0.0.0 s.mopub.com
@@ -1819,6 +1829,7 @@
 0.0.0.0 sync.ipredictive.com
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.outbrain.com
+0.0.0.0 sync.rambler.ru
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
@@ -2020,6 +2031,7 @@
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vast.adsafeprotected.com
 0.0.0.0 vastcdn.outbrain.com
+0.0.0.0 vast.mathtag.com
 0.0.0.0 vast-pop-zrh.mathtag.com
 0.0.0.0 vast-test.mathtag.com
 0.0.0.0 vcdn.adnxs.com
