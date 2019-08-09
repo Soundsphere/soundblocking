@@ -277,6 +277,7 @@
 0.0.0.0 api.sec.miui.com
 0.0.0.0 api.segment.io
 0.0.0.0 apiservices.krxd.net
+0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.usebutton.com
@@ -816,6 +817,7 @@
 0.0.0.0 edge.addthis.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.simplereach.com
+0.0.0.0 edigitalsurvey.com
 0.0.0.0 e.dlx.addthis.com
 0.0.0.0 eepurl.com
 0.0.0.0 eldamar01-loadbalanced.kameleoon.com
@@ -1718,6 +1720,7 @@
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 stan.xing.com
+0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.flashtalking.com
@@ -1728,6 +1731,7 @@
 0.0.0.0 static.adman.gr
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.affilae.com
 0.0.0.0 static.apester.com
 0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static.chartbeat.com
@@ -1803,6 +1807,7 @@
 0.0.0.0 sync.ad-stir.com
 0.0.0.0 sync.aralego.com
 0.0.0.0 sync.bfmio.com
+0.0.0.0 sync.clickonometrics.pl
 0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync.extend.tv
 0.0.0.0 syncf.tubemogul.com
@@ -1859,6 +1864,7 @@
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 t.appsflyer.com
 0.0.0.0 tap.rubiconproject.com
+0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 target.smi2.ru
 0.0.0.0 tbs.tradedoubler.com
 0.0.0.0 t.cfjump.com
@@ -2031,6 +2037,7 @@
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-ads.rubiconproject.com
+0.0.0.0 videoevents.outbrain.com
 0.0.0.0 video.oms.eu
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 vid-io-dub.springserve.com
@@ -2081,6 +2088,7 @@
 0.0.0.0 ws1.hotjar.com
 0.0.0.0 ws2.hotjar.com
 0.0.0.0 ws3.hotjar.com
+0.0.0.0 ws4.hotjar.com
 0.0.0.0 ws5.hotjar.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 w.sharethis.com
@@ -2121,6 +2129,7 @@
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.assoc-amazon.de
 0.0.0.0 www.audiencemanager.de
+0.0.0.0 www.awltovhc.com
 0.0.0.0 www.barilliance.net
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bilder-upload.eu
@@ -2178,6 +2187,7 @@
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tag4arm.com
 0.0.0.0 www.tns-counter.ru
+0.0.0.0 www.tqlkg.com
 0.0.0.0 www.usemax.de
 0.0.0.0 www.vungle.com
 0.0.0.0 www.xiti.com
