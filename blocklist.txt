@@ -815,6 +815,7 @@
 0.0.0.0 a2191.casalemedia.com
 0.0.0.0 a2200.casalemedia.com
 0.0.0.0 a2201.casalemedia.com
+0.0.0.0 a2210.casalemedia.com
 0.0.0.0 a2211.casalemedia.com
 0.0.0.0 a2220.casalemedia.com
 0.0.0.0 a2221.casalemedia.com
@@ -12944,6 +12945,7 @@
 0.0.0.0 globosearch.com
 0.0.0.0 globus-inter.com
 0.0.0.0 glodowka.com.pl
+0.0.0.0 glogger.inspcloud.com
 0.0.0.0 glokweb.com
 0.0.0.0 glossypussy.com
 0.0.0.0 glowiecyberstar.thats.im
@@ -16754,6 +16756,7 @@
 0.0.0.0 locop.net
 0.0.0.0 lodgegisborne.org.nz
 0.0.0.0 log1.countomat.com
+0.0.0.0 log2.musical.ly
 0.0.0.0 log3.stats24.net
 0.0.0.0 log.adap.tv
 0.0.0.0 log.adaptv.advertising.com
@@ -30369,6 +30372,7 @@
 0.0.0.0 wowtw.com
 0.0.0.0 wowweb.net
 0.0.0.0 wp11.org
+0.0.0.0 wpfc.ml
 0.0.0.0 wpvest.hk
 0.0.0.0 wqdfr.salefale.com
 0.0.0.0 wqd.nl
