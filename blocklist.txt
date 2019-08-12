@@ -25,6 +25,7 @@
 0.0.0.0 883205.fls.doubleclick.net
 0.0.0.0 935-kke-240.mktoresp.com
 0.0.0.0 a1.adform.net
+0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2140.casalemedia.com
 0.0.0.0 a2210.casalemedia.com
@@ -369,6 +370,7 @@
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 autocomplete.demandbase.com
+0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 avantlink.com
 0.0.0.0 a.volvelle.tech
 0.0.0.0 awaps.yandex.net
@@ -605,6 +607,7 @@
 0.0.0.0 click.clktraker.com
 0.0.0.0 click-de.plista.com
 0.0.0.0 click.linksynergy.com
+0.0.0.0 clickmeter.com
 0.0.0.0 click.plista.com
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clickserve.dartsearch.net
@@ -654,6 +657,7 @@
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 comcluster.cxense.com
+0.0.0.0 common.duapps.com
 0.0.0.0 condenast.demdex.net
 0.0.0.0 config2.mparticle.com
 0.0.0.0 config.ioam.de
@@ -918,6 +922,7 @@
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.streamrail.net
 0.0.0.0 event.yoochoose.net
 0.0.0.0 ev.kck.st
 0.0.0.0 evolvemedia-d.openx.net
@@ -978,6 +983,7 @@
 0.0.0.0 g3.s.fwmrm.net
 0.0.0.0 g7.m.fwmrm.net
 0.0.0.0 gaae.hit.gemius.pl
+0.0.0.0 gaby.hit.gemius.pl
 0.0.0.0 ga.clearbit.com
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 galleryapi.micloud.xiaomi.net
@@ -999,6 +1005,7 @@
 0.0.0.0 g.ezoic.net
 0.0.0.0 gg.google.com
 0.0.0.0 gj.mmstat.com
+0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 globalapi.ad.xiaomi.com
@@ -1032,6 +1039,7 @@
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 gurgle.zdbb.net
+0.0.0.0 h6.msn.com
 0.0.0.0 hajoopteg.com
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 hb-api.omnitagjs.com
@@ -1280,6 +1288,7 @@
 0.0.0.0 mb.moatads.com
 0.0.0.0 mboxedge21.tt.omtrdc.net
 0.0.0.0 mboxedge26.tt.omtrdc.net
+0.0.0.0 mbsy.co
 0.0.0.0 mcdp-chidc2.outbrain.com
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 mc.webvisor.org
@@ -1349,6 +1358,7 @@
 0.0.0.0 neckermannreisen.btttag.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 network.bazaarvoice.com
+0.0.0.0 netzwelt-gmbh-d.openx.net
 0.0.0.0 nextmillennium.liqwid.net
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
@@ -1401,17 +1411,20 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 page-events-ustats.udemy.com
+0.0.0.0 paid.outbrain.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partners.cmptch.com
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 partners.webmasterplan.com
+0.0.0.0 pa.rxthdr.com
 0.0.0.0 patagonia.122.2o7.net
 0.0.0.0 pb.adriver.ru
 0.0.0.0 p.bm23.com
 0.0.0.0 p.brsrvr.com
 0.0.0.0 p.cpx.to
+0.0.0.0 pde.lp4.io
 0.0.0.0 pentos-cdn.polarmobile.com
 0.0.0.0 perf.mmstat.com
 0.0.0.0 performance.typekit.net
@@ -1435,6 +1448,7 @@
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixelbox.uimserv.net
+0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
@@ -1458,6 +1472,7 @@
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.spotify.com
+0.0.0.0 pixel.staticworld.net
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel-us-east.rubiconproject.com
@@ -1543,6 +1558,7 @@
 0.0.0.0 px.spiceworks.com
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 px.wa.ui-portal.de
+0.0.0.0 px.wayfair.com
 0.0.0.0 p.yotpo.com
 0.0.0.0 q.adrta.com
 0.0.0.0 qs.ioam.de
@@ -1834,6 +1850,7 @@
 0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.clicktripz.com
+0.0.0.0 static.clmbtech.com
 0.0.0.0 static.criteo.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static-de.plista.com
