@@ -108,9 +108,11 @@
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 adquality.ch
 0.0.0.0 ads2.servebom.com
+0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads-adaptv.vidible.tv
 0.0.0.0 ads.adfox.ru
+0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.adtiger.de
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.api.vungle.com
@@ -141,6 +143,7 @@
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.google.com
+0.0.0.0 ads.heias.com
 0.0.0.0 ads.immobilienscout24.de
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.mopub.com
@@ -168,17 +171,21 @@
 0.0.0.0 ad.turn.com
 0.0.0.0 adventori.com
 0.0.0.0 advertiser.wbtrk.net
+0.0.0.0 advertising.yahoo.com
 0.0.0.0 advideo.uimserv.net
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 ad.wsod.com
 0.0.0.0 adx.adform.net
 0.0.0.0 adx.com.ru
+0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.zanox.com
 0.0.0.0 aem.playstation.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 aexp.demdex.net
+0.0.0.0 aff.bstatic.com
+0.0.0.0 afiles.webengage.com
 0.0.0.0 afs.googleusercontent.com
 0.0.0.0 agentanalytics.com
 0.0.0.0 ag.innovid.com
@@ -310,6 +317,7 @@
 0.0.0.0 app-abb.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
+0.0.0.0 app.adroll.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app.box.com
 0.0.0.0 appboy-images.com
@@ -326,6 +334,7 @@
 0.0.0.0 app.miui.com
 0.0.0.0 app.pendo.io
 0.0.0.0 app-sji.marketo.com
+0.0.0.0 apps.shareaholic.com
 0.0.0.0 a.pub.network
 0.0.0.0 apvdr.com
 0.0.0.0 apx.moatads.com
@@ -342,6 +351,7 @@
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
+0.0.0.0 assets1.adroll.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.customer.io
 0.0.0.0 assets-jpcust.jwpsrv.com
@@ -372,6 +382,7 @@
 0.0.0.0 b.6sc.co
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
+0.0.0.0 badges.instagram.com
 0.0.0.0 b.admedia.com
 0.0.0.0 bam.nr-data.net
 0.0.0.0 banner.congstar.de
@@ -387,6 +398,7 @@
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 bbnaut.ibillboard.com
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
+0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
@@ -413,6 +425,7 @@
 0.0.0.0 bild01.webtrekk.net
 0.0.0.0 bilder.bild.de
 0.0.0.0 bingads.microsoft.com
+0.0.0.0 bit.do
 0.0.0.0 bitrix.info
 0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 bms.adjarabet.com
@@ -513,6 +526,7 @@
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
+0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.izooto.com
@@ -734,14 +748,17 @@
 0.0.0.0 d.agkn.com
 0.0.0.0 daimlerag.d2.sc.omtrdc.net
 0.0.0.0 d.applovin.com
+0.0.0.0 d.applvn.com
 0.0.0.0 dart.l.doubleclick.net
 0.0.0.0 data05.adlooxtracking.com
+0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data27.adlooxtracking.com
 0.0.0.0 data29.adlooxtracking.com
 0.0.0.0 data2.gosquared.com
 0.0.0.0 data33.adlooxtracking.com
 0.0.0.0 data35.adlooxtracking.com
 0.0.0.0 data63.adlooxtracking.com
+0.0.0.0 data64.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
 0.0.0.0 data.appexnw.com
@@ -772,6 +789,7 @@
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 deloplen.com
+0.0.0.0 deltaairlines.tt.omtrdc.net
 0.0.0.0 deryjobmeetin.info
 0.0.0.0 de.sitestat.com
 0.0.0.0 des.smartclip.net
@@ -825,6 +843,7 @@
 0.0.0.0 ds.prod.vidible.tv
 0.0.0.0 dsum.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
+0.0.0.0 dsy5wmnntou9c.cloudfront.net
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dtm.advertising.com
 0.0.0.0 d.turn.com
@@ -1000,6 +1019,7 @@
 0.0.0.0 go.onelink.me
 0.0.0.0 go.pardot.com
 0.0.0.0 go.pub2srv.com
+0.0.0.0 go.shareaholic.com
 0.0.0.0 go.skimresources.com
 0.0.0.0 go.toutapp.com
 0.0.0.0 graph.accountkit.com
@@ -1140,6 +1160,7 @@
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsleadflows.net
 0.0.0.0 js.hs-scripts.com
+0.0.0.0 js.hubspot.com
 0.0.0.0 js.idio.co
 0.0.0.0 js.pusher.com
 0.0.0.0 js.sddan.com
@@ -1187,6 +1208,7 @@
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockerdome.com
 0.0.0.0 log2.musical.ly
+0.0.0.0 logc279.xiti.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 log.eclick.vn
 0.0.0.0 logger.foxitcloud.com
@@ -1306,6 +1328,7 @@
 0.0.0.0 ms.applovin.com
 0.0.0.0 mscom.demdex.net
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 msntrademarketing.112.2o7.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 munchkin.marketo.net
@@ -1325,6 +1348,7 @@
 0.0.0.0 ndirect.ppro.de
 0.0.0.0 neckermannreisen.btttag.com
 0.0.0.0 nervoussummer.com
+0.0.0.0 network.bazaarvoice.com
 0.0.0.0 nextmillennium.liqwid.net
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
@@ -1493,6 +1517,7 @@
 0.0.0.0 ps.eyeota.net
 0.0.0.0 p.skimresources.com
 0.0.0.0 p.smartertravel.com
+0.0.0.0 p.teads.tv
 0.0.0.0 pt.ispot.tv
 0.0.0.0 p.travelsmarter.net
 0.0.0.0 p.typekit.net
@@ -1509,6 +1534,7 @@
 0.0.0.0 px2.moatads.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
+0.0.0.0 pxc.otto.de
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxl.jivox.com
@@ -1643,6 +1669,7 @@
 0.0.0.0 sb.voicefive.com
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scdn.cxense.com
+0.0.0.0 scdn.eclick.vn
 0.0.0.0 sc.iasds01.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.clickiocdn.com
@@ -1715,6 +1742,7 @@
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 sgqcvfjvr.onet.pl
 0.0.0.0 shared.iad.appboy.com
+0.0.0.0 share.pluso.ru
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 shopnetic.com
 0.0.0.0 shutterstock.inq.com
@@ -1739,6 +1767,7 @@
 0.0.0.0 s.logsss.com
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 s.media-imdb.com
+0.0.0.0 smetrics.delta.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.sky.com
@@ -1822,6 +1851,7 @@
 0.0.0.0 static.site24x7rum.com
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 static.woopra.com
+0.0.0.0 static.yieldmo.com
 0.0.0.0 static.zanox.com
 0.0.0.0 static.zotabox.com
 0.0.0.0 stat.radar.imgsmail.ru
@@ -2023,6 +2053,8 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.mlsat02.de
 0.0.0.0 tracking.s24.com
+0.0.0.0 tracking.srv2.de
+0.0.0.0 tracking.wisepops.com
 0.0.0.0 track.noz.de
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.webgains.com
@@ -2045,6 +2077,7 @@
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.skimresources.com
 0.0.0.0 t.svtrd.com
+0.0.0.0 tt3.zedo.com
 0.0.0.0 t.teads.tv
 0.0.0.0 t.trafmag.com
 0.0.0.0 t.update.rubiconproject.com
@@ -2250,8 +2283,10 @@
 0.0.0.0 www.ligatus.com
 0.0.0.0 www.linksalpha.com
 0.0.0.0 www.liveinternet.ru
+0.0.0.0 www.mailchimp.com
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.media.net
+0.0.0.0 www.movable-ink-2183.com
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.okcupid.com
