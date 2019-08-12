@@ -3377,6 +3377,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
+0.0.0.0 analytics.lego.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.logsss.com
@@ -5099,8 +5100,12 @@
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon-nf.rubiconproject.com
 0.0.0.0 beacon.riskified.com
+0.0.0.0 beacons2.gvt2.com
+0.0.0.0 beacons3.gvt2.com
+0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacons.gcp.gvt2.com
+0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.sojern.com
 0.0.0.0 beaconsume.com
@@ -7920,6 +7925,7 @@
 0.0.0.0 core.adunity.com
 0.0.0.0 core.connatix.com
 0.0.0.0 coreldrawvectors.com
+0.0.0.0 core.polyad.net
 0.0.0.0 core.psyche-evolution.com
 0.0.0.0 coretalk.co
 0.0.0.0 corle2da.com
@@ -8370,6 +8376,7 @@
 0.0.0.0 cx.atdmt.com
 0.0.0.0 cxem.org
 0.0.0.0 cxoadfarm.dyndns.info
+0.0.0.0 c.x.oanda.com
 0.0.0.0 cxoreport.dnsalias.net
 0.0.0.0 cyberbounty.com
 0.0.0.0 cyberbsolutions.org
@@ -9000,6 +9007,7 @@
 0.0.0.0 dermatovenerologiya.com
 0.0.0.0 derniers-mois-pour-en-profiter.com
 0.0.0.0 der-weinberater.com
+0.0.0.0 deryjobmeetin.info
 0.0.0.0 desarrollocreativo.com
 0.0.0.0 desbloqueio-l-t-a-u.tk
 0.0.0.0 descargar-musica-gratis.net
@@ -12616,6 +12624,7 @@
 0.0.0.0 gearcraft.us
 0.0.0.0 gearsadspromo.club
 0.0.0.0 gebr-wachs.de
+0.0.0.0 g.eclick.vn
 0.0.0.0 geekygames.com
 0.0.0.0 gefeus.com
 0.0.0.0 geheugenredder.com
@@ -16776,6 +16785,7 @@
 0.0.0.0 logc279.xiti.com
 0.0.0.0 log.cizion.com
 0.0.0.0 log.dmtry.com
+0.0.0.0 log.eclick.vn
 0.0.0.0 logenlbb.dk
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 logformlatinomericacp.125mb.com
@@ -22022,6 +22032,7 @@
 0.0.0.0 propiedadesmarpacifico.cl
 0.0.0.0 propoleos.es
 0.0.0.0 propspark.com
+0.0.0.0 propu.sh
 0.0.0.0 proranktracker.com
 0.0.0.0 proredirect.com
 0.0.0.0 prosearching.com
@@ -24292,6 +24303,7 @@
 0.0.0.0 se-cash.net
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 sec.levexis.com
+0.0.0.0 s.eclick.vn
 0.0.0.0 sec.lighthousekeyresortorlando.mobi
 0.0.0.0 se-code.net
 0.0.0.0 secret-crush.com
@@ -27189,6 +27201,7 @@
 0.0.0.0 tech-stats.org
 0.0.0.0 techtrollsoftware.com
 0.0.0.0 te.cleveland.com
+0.0.0.0 t.eclick.vn
 0.0.0.0 tecmaze.com
 0.0.0.0 tecnoscnpj.com
 0.0.0.0 tecnotessile.net
