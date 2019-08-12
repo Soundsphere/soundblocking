@@ -160,6 +160,7 @@
 0.0.0.0 adstax-match.adrtx.net
 0.0.0.0 ads.themoneytizer.com
 0.0.0.0 ads.travelaudience.com
+0.0.0.0 ads.twitter.com
 0.0.0.0 ads.undertone.com
 0.0.0.0 ads.viber.com
 0.0.0.0 ad.sxp.smartclip.net
@@ -532,6 +533,7 @@
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.izooto.com
+0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn.livechatinc.com
 0.0.0.0 cdn.livefyre.com
@@ -1375,6 +1377,7 @@
 0.0.0.0 nypost-d.openx.net
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 oasc05.247realmedia.com
+0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 office-loesung.de.intellitxt.com
 0.0.0.0 okt.to
