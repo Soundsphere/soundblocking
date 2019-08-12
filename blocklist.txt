@@ -997,6 +997,7 @@
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hbevents.1rx.io
 0.0.0.0 hbopenbid.pubmatic.com
+0.0.0.0 hb.sekindo.com
 0.0.0.0 hb.vntsm.com
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 healte.de
@@ -1127,6 +1128,7 @@
 0.0.0.0 justpremium-d.openx.net
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 keytarget.adnet.lt
+0.0.0.0 kfw04.webtrekk.net
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 k.intellitxt.com
@@ -1294,6 +1296,7 @@
 0.0.0.0 navdmp.com
 0.0.0.0 nc.ru.redtram.com
 0.0.0.0 nd.demdex.net
+0.0.0.0 ndirect.ppro.de
 0.0.0.0 neckermannreisen.btttag.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 nextmillennium.liqwid.net
@@ -1334,6 +1337,7 @@
 0.0.0.0 opps.taboola.com
 0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
+0.0.0.0 oracle.112.2o7.net
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
 0.0.0.0 outcome-ssp.supersonicads.com
