@@ -32,6 +32,7 @@
 0.0.0.0 a2.adform.net
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3320.casalemedia.com
+0.0.0.0 a3341.casalemedia.com
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3391.casalemedia.com
 0.0.0.0 a4p.adpartner.pro
@@ -780,6 +781,7 @@
 0.0.0.0 distillery.wistia.com
 0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 dis.us.criteo.com
+0.0.0.0 djtflbt20bdde.cloudfront.net
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 d.ligatus.com
 0.0.0.0 dmd.metaservices.microsoft.com
@@ -856,6 +858,7 @@
 0.0.0.0 e-ssl.apsalar.com
 0.0.0.0 ethn.io
 0.0.0.0 etl.tindersparks.com
+0.0.0.0 et.nytimes.com
 0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
@@ -1286,6 +1289,7 @@
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mvconf.cloud.360safe.com
 0.0.0.0 mwzeom.zeotap.com
+0.0.0.0 m.yap.yahoo.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.rtmark.net
@@ -1460,6 +1464,7 @@
 0.0.0.0 prophet.heise.de
 0.0.0.0 propu.sh
 0.0.0.0 proxy.sec.miui.com
+0.0.0.0 proxy-tracker.colpirio.com
 0.0.0.0 pr.ybp.yahoo.com
 0.0.0.0 psa.carambo.la
 0.0.0.0 ps.ecosia.org
@@ -1794,6 +1799,7 @@
 0.0.0.0 static.zotabox.com
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stats3.unrulymedia.com
+0.0.0.0 statsapi.screen9.com
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.aws.rubiconproject.com
 0.0.0.0 stats.bannersnack.com
