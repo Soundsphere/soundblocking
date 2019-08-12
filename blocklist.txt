@@ -1411,6 +1411,7 @@
 0.0.0.0 ad.dyntracker.com
 0.0.0.0 ad.dyntracker.de
 0.0.0.0 ad.eanalyzer.de
+0.0.0.0 adeasyadsdelivery.cloudapp.net
 0.0.0.0 ade.clmbtech.com
 0.0.0.0 ade.googlesyndication.com
 0.0.0.0 ad.e-kolay.net
@@ -6597,6 +6598,7 @@
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
+0.0.0.0 cdn3.userzoom.com
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn4.userzoom.com
 0.0.0.0 cdn5.userzoom.com
@@ -6676,6 +6678,7 @@
 0.0.0.0 cdnhost.cn
 0.0.0.0 cdn-images.mailchimp.com
 0.0.0.0 cdn.innity.net
+0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.intergi.com
@@ -6922,6 +6925,7 @@
 0.0.0.0 chat.carabayllo.com
 0.0.0.0 chateauvirgile.fr
 0.0.0.0 chatox.in
+0.0.0.0 chatrouter-skyde.inq.com
 0.0.0.0 chatrouter-ups.inq.com
 0.0.0.0 chatrouterv3.inq.com
 0.0.0.0 chat-smiley.com
@@ -7234,6 +7238,7 @@
 0.0.0.0 click.linkstattrack.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 clickmedia.ro
+0.0.0.0 clickmeter.com
 0.0.0.0 clickmonsters.com
 0.0.0.0 click-now.net
 0.0.0.0 clicknvote.com
@@ -7594,6 +7599,7 @@
 0.0.0.0 commission-junction.com
 0.0.0.0 commissionmonster.com
 0.0.0.0 commonboys.com
+0.0.0.0 common.duapps.com
 0.0.0.0 commonname.com
 0.0.0.0 commonnames.com
 0.0.0.0 communicas.fr
@@ -8654,6 +8660,7 @@
 0.0.0.0 data60.adlooxtracking.com
 0.0.0.0 data62.adlooxtracking.com
 0.0.0.0 data63.adlooxtracking.com
+0.0.0.0 data64.adlooxtracking.com
 0.0.0.0 data66.adlooxtracking.com
 0.0.0.0 data67.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
@@ -8958,6 +8965,7 @@
 0.0.0.0 deloplen.com
 0.0.0.0 delshikandco.com
 0.0.0.0 delspam.org
+0.0.0.0 deltaairlines.tt.omtrdc.net
 0.0.0.0 deltaamateurradio.com
 0.0.0.0 deluxecommunications.com
 0.0.0.0 deluxeinternationalschool.co.zw
@@ -13459,6 +13467,7 @@
 0.0.0.0 h4ck.freepage.com
 0.0.0.0 h4host.com
 0.0.0.0 h-68-166-185-186.snvacaid.covad.net
+0.0.0.0 h6.msn.com
 0.0.0.0 h76-2-141-64.wedohosting.com
 0.0.0.0 ha3nyiusz.com
 0.0.0.0 ha-api.pushwoosh.com
@@ -15637,6 +15646,7 @@
 0.0.0.0 js.cybermonitor.com
 0.0.0.0 js.forrestersurveys.com
 0.0.0.0 js-freedom.com
+0.0.0.0 js.genieessp.com
 0.0.0.0 js.get.about.com
 0.0.0.0 js.gleam.io
 0.0.0.0 js.gumgum.com
@@ -21203,6 +21213,7 @@
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.spotify.com
+0.0.0.0 pixel.staticworld.net
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixel-us-east.rubiconproject.com
@@ -22222,6 +22233,7 @@
 0.0.0.0 proxy.sec.miui.com
 0.0.0.0 proxy-socks.info
 0.0.0.0 proxy-socks.net
+0.0.0.0 proxy-tracker.colpirio.com
 0.0.0.0 proyekto-x.com
 0.0.0.0 pro-zoop.co.uk
 0.0.0.0 pr.realvu.net
@@ -23706,6 +23718,7 @@
 0.0.0.0 sbcglobal.help.to
 0.0.0.0 sbcku.com
 0.0.0.0 sbee.com
+0.0.0.0 sbhc.portalhc.com
 0.0.0.0 sbjr.com
 0.0.0.0 sb.l.google.com
 0.0.0.0 sb.monetate.net
@@ -23873,6 +23886,7 @@
 0.0.0.0 sccapas.com.br
 0.0.0.0 sccjga.com
 0.0.0.0 scdn.cxense.com
+0.0.0.0 scdn.eclick.vn
 0.0.0.0 scenicreflections.com
 0.0.0.0 schiffsparty.de
 0.0.0.0 schijfbewaker.com
@@ -25468,6 +25482,7 @@
 0.0.0.0 smeisp.cn
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.cnn.com
+0.0.0.0 smetrics.delta.com
 0.0.0.0 smetrics.marriott.com
 0.0.0.0 smetrics.mcafee.com
 0.0.0.0 smetrics.payback.de
@@ -26319,6 +26334,7 @@
 0.0.0.0 static-de.plista.com
 0.0.0.0 static.digidip.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.eclick.vn
 0.0.0.0 static.emsservice.de
 0.0.0.0 static.etracker.com
 0.0.0.0 static.eu.criteo.net
@@ -26383,6 +26399,7 @@
 0.0.0.0 stats1.pussypayments.com
 0.0.0.0 stats1.reliablestats.com
 0.0.0.0 stats2.adengage.com
+0.0.0.0 stats2.toolur.com
 0.0.0.0 stats3.porntrack.com
 0.0.0.0 stats3.unrulymedia.com
 0.0.0.0 stats4all.cc
@@ -32387,6 +32404,7 @@
 0.0.0.0 www.magazineluizatododia.com
 0.0.0.0 www.magicagourmet.es
 0.0.0.0 www.magicphotoshow.com
+0.0.0.0 www.mailchimp.com
 0.0.0.0 www.mailcleaner.com
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.mainelongrangeenergyplanning.com
