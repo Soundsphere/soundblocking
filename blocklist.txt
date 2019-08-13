@@ -268,6 +268,7 @@
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 anyclip-d.openx.net
 0.0.0.0 aol-match.dotomi.com
+0.0.0.0 aol-winners-us-east-1-rtb.adroll.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optnmstr.com
 0.0.0.0 apex.go.sonobi.com
@@ -333,6 +334,7 @@
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app.box.com
 0.0.0.0 appboy-images.com
+0.0.0.0 app.bronto.com
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.crazyegg.com
 0.0.0.0 app.crossengage.io
@@ -369,6 +371,7 @@
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.servedby-buysellads.com
+0.0.0.0 assistjs.skimresources.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 aswpapius.com
 0.0.0.0 async-px.dynamicyield.com
@@ -419,6 +422,7 @@
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 beacon.krxd.net
+0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon-nf.rubiconproject.com
 0.0.0.0 beacon.riskified.com
 0.0.0.0 beacons2.gvt2.com
@@ -791,6 +795,7 @@
 0.0.0.0 data2.gosquared.com
 0.0.0.0 data33.adlooxtracking.com
 0.0.0.0 data35.adlooxtracking.com
+0.0.0.0 data55.adlooxtracking.com
 0.0.0.0 data63.adlooxtracking.com
 0.0.0.0 data64.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
@@ -819,6 +824,7 @@
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
 0.0.0.0 del.icio.us
+0.0.0.0 delivery.adnetwork.vn
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
 0.0.0.0 delivery.content-recommendation.net
@@ -1048,6 +1054,7 @@
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 gleam.io
+0.0.0.0 glitter.services.disqus.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 global.ib-ibi.com
 0.0.0.0 glogger.inspcloud.com
@@ -1156,6 +1163,7 @@
 0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 index-winners-eu-west-1-rtb.adroll.com
+0.0.0.0 infinityid.condenastdigital.com
 0.0.0.0 informer.yandex.ru
 0.0.0.0 ing-district.clicktale.net
 0.0.0.0 in.getclicky.com
@@ -1217,6 +1225,7 @@
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.hubspot.com
 0.0.0.0 js.idio.co
+0.0.0.0 js.maxmind.com
 0.0.0.0 js.pusher.com
 0.0.0.0 js.sddan.com
 0.0.0.0 js-sec.indexww.com
@@ -1370,6 +1379,7 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
+0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.responsetap.com
@@ -1556,6 +1566,7 @@
 0.0.0.0 pool3.moatads.com
 0.0.0.0 pool4.moatads.com
 0.0.0.0 pool6.moatads.com
+0.0.0.0 pool8.moatads.com
 0.0.0.0 pool.admedo.com
 0.0.0.0 popcash.net
 0.0.0.0 popup.taboola.com
@@ -1817,6 +1828,7 @@
 0.0.0.0 serve.tercept.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.maxymiser.net
+0.0.0.0 servicer.mgid.com
 0.0.0.0 services.serving-sys.com
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 sessions.bugsnag.com
@@ -1904,6 +1916,7 @@
 0.0.0.0 s.spoutable.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 sstats.adobe.com
+0.0.0.0 sstats.arstechnica.com
 0.0.0.0 sstats.economist.com
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
@@ -1937,6 +1950,7 @@
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 static.getclicky.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 static.imrworldwide.com
 0.0.0.0 static.inq.com
 0.0.0.0 static.kameleoon.com
 0.0.0.0 static.plista.com
@@ -2160,6 +2174,7 @@
 0.0.0.0 track.webgains.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 tr.blismedia.com
+0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.cyberport.de
 0.0.0.0 trck.spoteffects.net
 0.0.0.0 trc.taboola.com
