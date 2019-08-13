@@ -586,6 +586,7 @@
 0.0.0.0 cdntrf.com
 0.0.0.0 cdn.tynt.com
 0.0.0.0 cdn.undertone.com
+0.0.0.0 cdn-v3.conductrics.com
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.wbtrk.net
@@ -772,6 +773,7 @@
 0.0.0.0 data05.adlooxtracking.com
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data27.adlooxtracking.com
+0.0.0.0 data28.adlooxtracking.com
 0.0.0.0 data29.adlooxtracking.com
 0.0.0.0 data2.gosquared.com
 0.0.0.0 data33.adlooxtracking.com
@@ -989,6 +991,7 @@
 0.0.0.0 fra1.mobile.adnxs.com
 0.0.0.0 franecki.net
 0.0.0.0 freegeoip.app
+0.0.0.0 freegeoip.io
 0.0.0.0 freestar-d.openx.net
 0.0.0.0 fresh8.co
 0.0.0.0 frog.wix.com
@@ -1163,6 +1166,7 @@
 0.0.0.0 ir-de.amazon-adsystem.com
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 irqs.ioam.de
+0.0.0.0 i.simpli.fi
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 i.skimresources.com
 0.0.0.0 itx4-secure.smartadserver.com
@@ -1377,6 +1381,8 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 navdmp.com
+0.0.0.0 nbcu.demdex.net
+0.0.0.0 nbcume.sc.omtrdc.net
 0.0.0.0 nc.ru.redtram.com
 0.0.0.0 nd.demdex.net
 0.0.0.0 ndirect.ppro.de
@@ -1843,6 +1849,7 @@
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 srv.de.ebayrtm.com
+0.0.0.0 srvmath.com
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 ssc.33across.com
@@ -2202,6 +2209,7 @@
 0.0.0.0 vg01.met.vgwort.de
 0.0.0.0 vg02.met.vgwort.de
 0.0.0.0 vg06.met.vgwort.de
+0.0.0.0 vg07.met.vgwort.de
 0.0.0.0 vg08.met.vgwort.de
 0.0.0.0 vg09.met.vgwort.de
 0.0.0.0 vice-publishers-cdn.vice.com
