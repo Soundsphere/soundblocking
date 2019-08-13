@@ -35,6 +35,7 @@
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3320.casalemedia.com
 0.0.0.0 a3341.casalemedia.com
+0.0.0.0 a3361.casalemedia.com
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3391.casalemedia.com
 0.0.0.0 a4p.adpartner.pro
@@ -94,6 +95,7 @@
 0.0.0.0 adelement.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 ad.foxitsoftware.com
+0.0.0.0 adiceltic.de
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 ad-js.chip.de
 0.0.0.0 ad.lkqd.net
@@ -275,6 +277,7 @@
 0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.company-target.com
 0.0.0.0 api.cortana.ai
+0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.getdrip.com
@@ -391,6 +394,7 @@
 0.0.0.0 b.admedia.com
 0.0.0.0 bam.nr-data.net
 0.0.0.0 banner.congstar.de
+0.0.0.0 bannernetwork.net
 0.0.0.0 banners.adfox.ru
 0.0.0.0 banners.contentfeed.net
 0.0.0.0 bannersnack.com
@@ -409,6 +413,7 @@
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 beacon.krxd.net
 0.0.0.0 beacon-nf.rubiconproject.com
+0.0.0.0 beacon.riskified.com
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com
@@ -419,6 +424,7 @@
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
+0.0.0.0 beap1.cb.g01.yahoodns.net
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 best.aliexpress.com
@@ -481,6 +487,7 @@
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.sys.intl.xiaomi.com
+0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn-3.convertexperiments.com
@@ -674,6 +681,7 @@
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.truste.com
 0.0.0.0 containertags.belboon.de
+0.0.0.0 content.aimatch.com
 0.0.0.0 content.quantcount.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contextweb-match.dotomi.com
@@ -828,6 +836,7 @@
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 d.ligatus.com
 0.0.0.0 dmd.metaservices.microsoft.com
+0.0.0.0 dmdrogerie01.webtrekk.net
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dm.journaldesfemmes.com
@@ -1123,8 +1132,10 @@
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 imstore.bet365affiliates.com
+0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 index-winners-eu-west-1-rtb.adroll.com
+0.0.0.0 informer.yandex.ru
 0.0.0.0 ing-district.clicktale.net
 0.0.0.0 in.getclicky.com
 0.0.0.0 inimage.carambo.la
@@ -1153,6 +1164,7 @@
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 irqs.ioam.de
 0.0.0.0 isi-tracking.eventim.com
+0.0.0.0 i.skimresources.com
 0.0.0.0 itx4-secure.smartadserver.com
 0.0.0.0 itx4.smartadserver.com
 0.0.0.0 itx5-itx4.smartadserver.com
@@ -1276,6 +1288,7 @@
 0.0.0.0 mamka.aviasales.ru
 0.0.0.0 manager.smartlook.com
 0.0.0.0 mandrillapp.com
+0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
 0.0.0.0 map.media6degrees.com
 0.0.0.0 map.sddan.com
@@ -1337,6 +1350,7 @@
 0.0.0.0 mlb.demdex.net
 0.0.0.0 mmtro.com
 0.0.0.0 mobile.adfarm1.adition.com
+0.0.0.0 mobile.adsafeprotected.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-de-d.openx.net
@@ -1513,6 +1527,7 @@
 0.0.0.0 popcash.net
 0.0.0.0 popup.taboola.com
 0.0.0.0 popup.wisepops.com
+0.0.0.0 port01.com
 0.0.0.0 port.sec.intl.miui.com
 0.0.0.0 powerad.ai
 0.0.0.0 ppchero.com
@@ -1523,6 +1538,7 @@
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid-a.rubiconproject.com
+0.0.0.0 prebid.districtm.ca
 0.0.0.0 prebid-match.dotomi.com
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 preferences-mgr.truste.com
@@ -1602,6 +1618,7 @@
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recreativ.ru
 0.0.0.0 recs.shareaholic.com
+0.0.0.0 redirect.viglink.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 register.xmpush.xiaomi.com
@@ -1686,6 +1703,7 @@
 0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 salesviewer.org
 0.0.0.0 s.amazon-adsystem.com
+0.0.0.0 samcm.ksmobile.com
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
 0.0.0.0 samsung.demdex.net
@@ -1770,6 +1788,7 @@
 0.0.0.0 settings-win.data.microsoft.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 sgqcvfjvr.onet.pl
+0.0.0.0 shallowsmile.com
 0.0.0.0 shared.iad.appboy.com
 0.0.0.0 share.pluso.ru
 0.0.0.0 shavar.services.mozilla.com
@@ -1789,6 +1808,7 @@
 0.0.0.0 sjrtp7-cdn.marketo.com
 0.0.0.0 sjrtp7.marketo.com
 0.0.0.0 sjs.bizographics.com
+0.0.0.0 sjsmartcontent.org
 0.0.0.0 s.ktxtr.com
 0.0.0.0 skyde.inq.com
 0.0.0.0 skydeutschland.demdex.net
@@ -1993,6 +2013,7 @@
 0.0.0.0 tags.mathtag.com
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tagsrvcs.com
+0.0.0.0 tag-st.contextweb.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags.us.onscroll.com
 0.0.0.0 tags.w55c.net
@@ -2063,6 +2084,7 @@
 0.0.0.0 track.adform.net
 0.0.0.0 track.adtrue.com
 0.0.0.0 trackbar.navigator.web.de
+0.0.0.0 track.celtra.com
 0.0.0.0 trackcmp.net
 0.0.0.0 track.customer.io
 0.0.0.0 tracker-api.my.com
@@ -2133,6 +2155,7 @@
 0.0.0.0 ums.adtech.de
 0.0.0.0 um.simpli.fi
 0.0.0.0 universal.iperceptions.com
+0.0.0.0 uobsoe.com
 0.0.0.0 up.cm.ksmobile.com
 0.0.0.0 ups.demdex.net
 0.0.0.0 ups.inq.com
