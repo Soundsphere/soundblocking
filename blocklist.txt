@@ -1470,6 +1470,7 @@
 0.0.0.0 ad.howstuffworks.com
 0.0.0.0 ad.httpool.com
 0.0.0.0 ad.hyena.cz
+0.0.0.0 adiceltic.de
 0.0.0.0 ad.iconadserver.com
 0.0.0.0 adidm.supermedia.pl
 0.0.0.0 ad.iinfo.cz
@@ -3787,6 +3788,7 @@
 0.0.0.0 api.circularhub.com
 0.0.0.0 api.company-target.com
 0.0.0.0 api.cortana.ai
+0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.gameanalytics.com
@@ -4871,6 +4873,7 @@
 0.0.0.0 banner.mindshare.de
 0.0.0.0 banner.missingkids.com
 0.0.0.0 banner.monacogoldcasino.com
+0.0.0.0 bannernetwork.net
 0.0.0.0 banner.nixnet.cz
 0.0.0.0 banner.noblepoker.com
 0.0.0.0 banner.northsky.com
@@ -21692,6 +21695,7 @@
 0.0.0.0 pornxxxsearch.com
 0.0.0.0 porn-youtube-08.org
 0.0.0.0 pornzio.com
+0.0.0.0 port01.com
 0.0.0.0 portablesearch.bi
 0.0.0.0 portablesearch.biz
 0.0.0.0 portal12.biz
@@ -25028,6 +25032,7 @@
 0.0.0.0 shagtomsk.ru
 0.0.0.0 shakeupministries.org
 0.0.0.0 shakira-pictures.com
+0.0.0.0 shallowsmile.com
 0.0.0.0 shalom.it
 0.0.0.0 shalompennington.com
 0.0.0.0 shandimm.com
@@ -25333,6 +25338,7 @@
 0.0.0.0 sjrtp-cdn.marketo.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 sjslogistic.com
+0.0.0.0 sjsmartcontent.org
 0.0.0.0 skakalka.ru
 0.0.0.0 skarb.biz
 0.0.0.0 skaska.biz
@@ -26915,6 +26921,7 @@
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.monarchads.com
 0.0.0.0 sync.outbrain.com
+0.0.0.0 sync.rambler.ru
 0.0.0.0 syncroads.net
 0.0.0.0 sync.rtk.io
 0.0.0.0 sync.search.spotxchange.com
@@ -27061,6 +27068,7 @@
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tagsrvcs.com
+0.0.0.0 tag-st.contextweb.com
 0.0.0.0 tags.tiqcdn.com
 0.0.0.0 tags.t.tailtarget.com
 0.0.0.0 tags.us.onscroll.com
