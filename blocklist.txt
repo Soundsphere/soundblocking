@@ -21,6 +21,7 @@
 0.0.0.0 71i.nuggad.net
 0.0.0.0 727-zqe-044.mktoresp.com
 0.0.0.0 79423.analytics.edgekey.net
+0.0.0.0 8127020.fls.doubleclick.net
 0.0.0.0 8468614.fls.doubleclick.net
 0.0.0.0 883205.fls.doubleclick.net
 0.0.0.0 935-kke-240.mktoresp.com
@@ -358,6 +359,7 @@
 0.0.0.0 assets.customer.io
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.purch.com
+0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 aswpapius.com
 0.0.0.0 async-px.dynamicyield.com
@@ -692,6 +694,7 @@
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 count.spiegel.de
 0.0.0.0 c.paypal.com
+0.0.0.0 c.pub.network
 0.0.0.0 cpx.golem.de
 0.0.0.0 cpxl.golem.de
 0.0.0.0 crab.baidu.com
@@ -717,6 +720,7 @@
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cyberport.d3.sc.omtrdc.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
+0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d-1.co
@@ -724,6 +728,7 @@
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
+0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zgderxoe1a.cloudfront.net
 0.0.0.0 d20duyjzb7cuoc.cloudfront.net
@@ -839,6 +844,7 @@
 0.0.0.0 downloads.intercomcdn.com
 0.0.0.0 dp2.33across.com
 0.0.0.0 dpm.demdex.net
+0.0.0.0 dpm.zebestof.com
 0.0.0.0 ds-aksb-a.akamaihd.net
 0.0.0.0 ds-a.prod.vidible.tv
 0.0.0.0 dsh7ky7308k4b.cloudfront.net
@@ -861,6 +867,7 @@
 0.0.0.0 dyn.emetriq.de
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
+0.0.0.0 e3.adpushup.com
 0.0.0.0 e5019.e2.akamaiedge.net
 0.0.0.0 e5413.g.akamaiedge.net
 0.0.0.0 e5460.g.akamaiedge.net
@@ -965,6 +972,7 @@
 0.0.0.0 f.monetate.net
 0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 forms.ontraport.com
+0.0.0.0 forwrdnow.com
 0.0.0.0 fp.msedge.net
 0.0.0.0 fptadtrue-d.openx.net
 0.0.0.0 fqtag.com
@@ -1035,6 +1043,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 green.erne.co
+0.0.0.0 grunerandjahr.112.2o7.net
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gscounters.us1.gigya.com
 0.0.0.0 gslbeacon.lijit.com
@@ -1522,6 +1531,7 @@
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
+0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 projectagora.net
 0.0.0.0 promoted.soundcloud.com
@@ -1788,6 +1798,7 @@
 0.0.0.0 s.media-imdb.com
 0.0.0.0 smetrics.delta.com
 0.0.0.0 smetrics.foxnews.com
+0.0.0.0 smetrics.mcafee.com
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.sky.com
 0.0.0.0 s.mopub.com
@@ -2313,6 +2324,7 @@
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.pinterest.com
 0.0.0.0 www.plista.com
+0.0.0.0 www.pornhub.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
