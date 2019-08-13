@@ -685,6 +685,7 @@
 0.0.0.0 80gw6ry3i3x3qbrkwhxhw.032439.com
 0.0.0.0 80pictures.com
 0.0.0.0 810810.org
+0.0.0.0 8127020.fls.doubleclick.net
 0.0.0.0 813-mam-392.mktoresp.com
 0.0.0.0 82430.com
 0.0.0.0 82435.com
@@ -10075,6 +10076,7 @@
 0.0.0.0 e2e.mashable.com
 0.0.0.0 e2ertt.com
 0.0.0.0 e2give.com
+0.0.0.0 e3.adpushup.com
 0.0.0.0 e3c01d47-32d5-417d-86a5-6484412fd477.htmlpasta.com
 0.0.0.0 e3construction.com.sg
 0.0.0.0 e4124f6c-652b-4dde-b99a-faee9fe9aedf.htmlpasta.com
@@ -11915,6 +11917,7 @@
 0.0.0.0 forums.goninja.de
 0.0.0.0 forums.runescape.com-h.ru
 0.0.0.0 forum.yesup.net
+0.0.0.0 forwrdnow.com
 0.0.0.0 foryousearch.com
 0.0.0.0 foryousite.net
 0.0.0.0 fosforlumarket.com
