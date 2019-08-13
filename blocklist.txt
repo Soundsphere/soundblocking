@@ -3745,6 +3745,7 @@
 0.0.0.0 aolmailz.com
 0.0.0.0 aol-match.dotomi.com
 0.0.0.0 aol-winners-eu-west-1-rtb.adroll.com
+0.0.0.0 aol-winners-us-east-1-rtb.adroll.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optinmonster.com
 0.0.0.0 a.optnmnstr.com
@@ -3894,6 +3895,7 @@
 0.0.0.0 app.box.com
 0.0.0.0 appboy-images.com
 0.0.0.0 appbrmob.com
+0.0.0.0 app.bronto.com
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.crazyegg.com
 0.0.0.0 app.crossengage.io
