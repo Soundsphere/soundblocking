@@ -687,6 +687,7 @@
 0.0.0.0 810810.org
 0.0.0.0 8127020.fls.doubleclick.net
 0.0.0.0 813-mam-392.mktoresp.com
+0.0.0.0 8209809.fls.doubleclick.net
 0.0.0.0 82430.com
 0.0.0.0 82435.com
 0.0.0.0 825b52f9-b06a-4570-a098-b9f31d7bf2c3.htmlpasta.com
@@ -1573,6 +1574,7 @@
 0.0.0.0 admeta.com
 0.0.0.0 admex.com
 0.0.0.0 ad.mgd.de
+0.0.0.0 admicro1.vcmedia.vn
 0.0.0.0 admin2005.com
 0.0.0.0 admin.as-eu.falkag.net
 0.0.0.0 admindatacenter.net
@@ -3406,6 +3408,7 @@
 0.0.0.0 analytics-udg.netdna-ssl.com
 0.0.0.0 analytics.vendemore.com
 0.0.0.0 analytics.webgains.io
+0.0.0.0 analytics.yomedia.vn
 0.0.0.0 analytics.zg-api.com
 0.0.0.0 anapa-inns.ru
 0.0.0.0 ancagilca.com
@@ -6767,6 +6770,7 @@
 0.0.0.0 cdn.tynt.com
 0.0.0.0 cdn.undertone.com
 0.0.0.0 cdn.userreport.com
+0.0.0.0 cdn-v3.conductrics.com
 0.0.0.0 cdn.valueclick.net
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.vuukle.com
@@ -8961,6 +8965,7 @@
 0.0.0.0 delivery-europe-west-1.openx.net
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.h.switchadhub.com
+0.0.0.0 delivery.yomedia.vn
 0.0.0.0 dell.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 delled.net
 0.0.0.0 dellupdates.net
@@ -12675,6 +12680,7 @@
 0.0.0.0 geo.deepmetrix.com
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geoffmaydesign.com
+0.0.0.0 geo.gorillanation.com
 0.0.0.0 geoip.boredpanda.com
 0.0.0.0 geoip.businessinsider.com
 0.0.0.0 geoip-db.com
@@ -15356,6 +15362,7 @@
 0.0.0.0 it.online-more.com
 0.0.0.0 itop.cz
 0.0.0.0 i-tracked-who-blocked-me.com
+0.0.0.0 i.trackmytarget.com
 0.0.0.0 itrustbill.com
 0.0.0.0 itsallbreaksoft.net
 0.0.0.0 itsanal.com
@@ -15450,6 +15457,7 @@
 0.0.0.0 jarradhearman.com
 0.0.0.0 jasmine.ieupdates.com
 0.0.0.0 jatxt.com
+0.0.0.0 java.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 javalipecas.com.br
 0.0.0.0 javcoast.com
 0.0.0.0 javelinprogram.com
@@ -15835,6 +15843,7 @@
 0.0.0.0 karleyt.narod.ru
 0.0.0.0 karlshouse.com
 0.0.0.0 karmajunction.com
+0.0.0.0 karma.mdpcdn.com
 0.0.0.0 karnastra.com
 0.0.0.0 karty.allegro.secfence.lesavik.net
 0.0.0.0 karuna.com.my
@@ -16854,6 +16863,7 @@
 0.0.0.0 logs3.xiti.com
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs6.xiti.com
+0.0.0.0 logs.amap.com
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
 0.0.0.0 logs.juspay.in
@@ -16871,6 +16881,7 @@
 0.0.0.0 loguestbook.com
 0.0.0.0 log.umsns.com
 0.0.0.0 logv31.xiti.com
+0.0.0.0 log.worldsoft-cms.info
 0.0.0.0 logx.optimizely.com
 0.0.0.0 loja.brasilliker.com.br
 0.0.0.0 lokhsik.dnsabr.com
@@ -17139,6 +17150,7 @@
 0.0.0.0 macstrax.com
 0.0.0.0 maczilla.com
 0.0.0.0 mad4porn.com
+0.0.0.0 m.ad6media.fr
 0.0.0.0 madadsmedia.com
 0.0.0.0 madaeng.com
 0.0.0.0 madclient.uimserv.net
@@ -24838,6 +24850,7 @@
 0.0.0.0 service.urchin.com
 0.0.0.0 servicwebuc.com
 0.0.0.0 servik.com
+0.0.0.0 serving.ad.org.vn
 0.0.0.0 serving.bepolite.eu
 0.0.0.0 serving.rpowermedia.com
 0.0.0.0 servl.com.ar
@@ -26404,6 +26417,7 @@
 0.0.0.0 stat-prof.com
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 statrafongon.biz
+0.0.0.0 stats01.20min.ch
 0.0.0.0 stats1.porntrack.com
 0.0.0.0 stats1.pussypayments.com
 0.0.0.0 stats1.reliablestats.com
@@ -27038,6 +27052,7 @@
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 tag.digitaltarget.ru
+0.0.0.0 tag.gammaplatform.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 taghahanastylol.com
 0.0.0.0 taghahasillynasty.com
@@ -27346,6 +27361,7 @@
 0.0.0.0 telegraphmediagroup.d3.sc.omtrdc.net
 0.0.0.0 telegraphmediagroupl.tt.omtrdc.net
 0.0.0.0 telekom01.webtrekk.net
+0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.jivosite.com
@@ -33652,6 +33668,7 @@
 0.0.0.0 www.toyshq.net
 0.0.0.0 www.tpreiasouthtexas.org
 0.0.0.0 www.tqlkg.com
+0.0.0.0 www.tracc.it
 0.0.0.0 www.track-star.com
 0.0.0.0 www.tradunep.com.ve
 0.0.0.0 www.trafficadvance.net
@@ -34260,6 +34277,7 @@
 0.0.0.0 x-traceur.com
 0.0.0.0 xtraff.com
 0.0.0.0 x-traffic.biz
+0.0.0.0 x-traffic-director.videoplaza.tv
 0.0.0.0 xtraffic.plus
 0.0.0.0 xtrafficplus.com
 0.0.0.0 xtragay.com
