@@ -2067,6 +2067,7 @@
 0.0.0.0 ads.indiatimes.com
 0.0.0.0 ads.infi.net
 0.0.0.0 ads.internic.co.il
+0.0.0.0 ads.investingchannel.com
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.isoftmarketing.com
 0.0.0.0 ads.itv.com
@@ -2220,6 +2221,7 @@
 0.0.0.0 ads.shorte.st
 0.0.0.0 ads.sift.co.uk
 0.0.0.0 ads.silverdisc.co.uk
+0.0.0.0 ads.simpli.fi
 0.0.0.0 ads.s-i-r.de
 0.0.0.0 adssl-dc2.adtech.de
 0.0.0.0 ads.slim.com
@@ -3811,6 +3813,7 @@
 0.0.0.0 api.lever.co
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-mobi.soundcloud.com
+0.0.0.0 api.moengage.com
 0.0.0.0 api.monetizer101.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
@@ -4272,6 +4275,7 @@
 0.0.0.0 askmeni.com
 0.0.0.0 ask-yug.com
 0.0.0.0 asmartershopper.com
+0.0.0.0 asmedia.adsupplyssl.com
 0.0.0.0 asn.advolution.de
 0.0.0.0 asnpwnz12345.server.us
 0.0.0.0 asn-trk.advolution.de
@@ -4630,6 +4634,7 @@
 0.0.0.0 a.xanga.com
 0.0.0.0 axcus.top
 0.0.0.0 axdget-sync.nuggad.net
+0.0.0.0 ax-d.pixfuture.net
 0.0.0.0 axelfoto.com
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 axemediasoftware.com
@@ -9332,6 +9337,7 @@
 0.0.0.0 dkadmin.biz
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 dkgate.biz
+0.0.0.0 dk-gmtdmp.mookie1.com
 0.0.0.0 dkjfwekjnc4.com
 0.0.0.0 dksjdjlszruehre82388dskjak.co
 0.0.0.0 dktr.ru
@@ -24005,6 +24011,7 @@
 0.0.0.0 s-direct.com
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.appsflyer.com
+0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 sdka-v10.cf
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
@@ -30143,6 +30150,7 @@
 0.0.0.0 wildolders.com
 0.0.0.0 wildsexparties.com
 0.0.0.0 wildxxxpussy.com
+0.0.0.0 wileypublishing.sc.omtrdc.net
 0.0.0.0 willchurchill.tv
 0.0.0.0 willhaben-286480-hdb.adomik.com
 0.0.0.0 wilma.kr.ua
@@ -31128,6 +31136,7 @@
 0.0.0.0 www.bramersrodeo.com
 0.0.0.0 www.brandy.in.ua
 0.0.0.0 www.brasilon-line.com
+0.0.0.0 www.breakingnews.ie
 0.0.0.0 www.bredons.org
 0.0.0.0 www.brighant.com
 0.0.0.0 www.brindideias.com.br
@@ -34810,6 +34819,7 @@
 0.0.0.0 zmievski.org
 0.0.0.0 z.moatads.com
 0.0.0.0 zn_0xssfnnsxmogd01-cbs.siteintercept.qualtrics.com
+0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 0.0.0.0 zn86avj0qk1qmgkpz-chronicle.siteintercept.qualtrics.com
