@@ -606,6 +606,7 @@
 0.0.0.0 6y2w.icu
 0.0.0.0 700k.com
 0.0.0.0 700xxx.com
+0.0.0.0 709-nxn-706.mktoresp.com
 0.0.0.0 70pictures.com
 0.0.0.0 7150edea8dac793fcacdb3b26ea12fba.22863e27829e4100ec2742738380c161f2f4d424.ccde.co.ke
 0.0.0.0 71gradus.com
@@ -28300,6 +28301,7 @@
 0.0.0.0 tracking.internetstores.de
 0.0.0.0 tracking.intl.miui.com
 0.0.0.0 tracking.ipbill.com
+0.0.0.0 tracking.kdata.fr
 0.0.0.0 tracking.lengow.com
 0.0.0.0 tracking.lenzmx.com
 0.0.0.0 tracking.lqm.io
