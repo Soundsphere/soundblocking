@@ -467,6 +467,7 @@
 0.0.0.0 512j.com
 0.0.0.0 513389.cn
 0.0.0.0 513389.com
+0.0.0.0 5164101.fls.doubleclick.net
 0.0.0.0 518ad.com
 0.0.0.0 51edm.net
 0.0.0.0 51friend.anytome.com
@@ -2282,6 +2283,7 @@
 0.0.0.0 adsupply.com
 0.0.0.0 ads.up-value.de
 0.0.0.0 ads.usatoday.com
+0.0.0.0 ads.us.e-planning.net
 0.0.0.0 ads.v3.com
 0.0.0.0 ads.verticalresponse.com
 0.0.0.0 ads.vgchartz.com
@@ -3443,6 +3445,7 @@
 0.0.0.0 angels.rankspace.com
 0.0.0.0 angelsvids.com
 0.0.0.0 angpar.112.2o7.net
+0.0.0.0 ani.adspruce.com
 0.0.0.0 anilbhandari.com
 0.0.0.0 animal6.net
 0.0.0.0 animal-cartoons.com
@@ -5118,6 +5121,7 @@
 0.0.0.0 beacons2.gvt2.com
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com
+0.0.0.0 beacons5.gvt2.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
@@ -16383,6 +16387,7 @@
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.naver.com
 0.0.0.0 lct.salesforce.com
+0.0.0.0 lddy25pglm.kameleoon.eu
 0.0.0.0 ldgate.com
 0.0.0.0 ldkiekxc.rr.nu
 0.0.0.0 le52.icu
@@ -26322,11 +26327,13 @@
 0.0.0.0 starwindowshutters.com.au
 0.0.0.0 stas.outbrain.com
 0.0.0.0 st.astraone.io
+0.0.0.0 stat1.moneycontrol.com
 0.0.0.0 stat1.trafic.ro
 0.0.0.0 stat1.vipstat.com
 0.0.0.0 stat24.com
 0.0.0.0 stat24.meta.ua
 0.0.0.0 stat3.cybermonitor.com
+0.0.0.0 stat3.moneycontrol.com
 0.0.0.0 stat.alibaba.com
 0.0.0.0 statblaster.com
 0.0.0.0 stat.blogads.com
@@ -30483,6 +30490,7 @@
 0.0.0.0 ws.funutilities.com
 0.0.0.0 ws.fxtornado.com
 0.0.0.0 w.sharethis.com
+0.0.0.0 ws.ksmobile.net
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws-na.amazon.adsystem.com
 0.0.0.0 ws.pusherapp.com
@@ -30497,6 +30505,7 @@
 0.0.0.0 wudiliuliang.com
 0.0.0.0 wudustore.com
 0.0.0.0 wufak.com
+0.0.0.0 w.uptolike.com
 0.0.0.0 wurldmedia.com
 0.0.0.0 wurstkoenigin.de
 0.0.0.0 w.usabilla.com
