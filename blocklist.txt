@@ -1841,6 +1841,7 @@
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 scomcluster.cxense.com
+0.0.0.0 scontent-iad3-1.cdninstagram.com
 0.0.0.0 scout24-d.openx.net
 0.0.0.0 s.cpx.to
 0.0.0.0 script.crazyegg.com
@@ -2489,6 +2490,7 @@
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.etracker.de
 0.0.0.0 www.everestjs.net
+0.0.0.0 www.facebook.com
 0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.fyber.com
