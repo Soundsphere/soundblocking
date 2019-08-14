@@ -162,6 +162,7 @@
 0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.scorecardresearch.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads.simpli.fi
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 adstax-match.adrtx.net
@@ -224,6 +225,7 @@
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.outbrain.com
 0.0.0.0 amplifypixel.outbrain.com
+0.0.0.0 ams01-usadmm.dotomi.com
 0.0.0.0 ams01-usadmm-ds.dotomi.com
 0.0.0.0 ams02-usadmm.dotomi.com
 0.0.0.0 ams02-usadmm-ds.dotomi.com
@@ -822,6 +824,7 @@
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.livefyre.com
 0.0.0.0 data.mistat.intl.xiaomi.com
+0.0.0.0 data.queryly.com
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
@@ -996,6 +999,7 @@
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 faggrim.com
 0.0.0.0 fandangollc.demdex.net
+0.0.0.0 farlex-d.openx.net
 0.0.0.0 farm-de.plista.com
 0.0.0.0 farm.plista.com
 0.0.0.0 fast.adobe.demdex.net
@@ -1072,6 +1076,7 @@
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
+0.0.0.0 glb-ads.atwola.adtech.de
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 gleam.io
 0.0.0.0 glitter.services.disqus.com
@@ -1258,6 +1263,7 @@
 0.0.0.0 js.users.51.la
 0.0.0.0 js-webt-lol.9cache.com
 0.0.0.0 justpremium-d.openx.net
+0.0.0.0 jwpltx.com
 0.0.0.0 karma.mdpcdn.com
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 keytarget.adnet.lt
@@ -1754,6 +1760,7 @@
 0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 rub-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 rudy.adsnative.com
+0.0.0.0 rules.atgsvcs.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rum.monitis.com
 0.0.0.0 rum-static.pingdom.net
@@ -1887,6 +1894,7 @@
 0.0.0.0 site.adform.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 sjrtp5-cdn.marketo.com
 0.0.0.0 sjrtp7-cdn.marketo.com
 0.0.0.0 sjrtp7.marketo.com
 0.0.0.0 sjs.bizographics.com
@@ -2413,6 +2421,7 @@
 0.0.0.0 www.barilliance.net
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bilder-upload.eu
+0.0.0.0 www.breakingnews.ie
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clicktripz.com
 0.0.0.0 www.counter-kostenlos.net
@@ -2444,6 +2453,7 @@
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.mailchimp.com
 0.0.0.0 www.mainadv.com
+0.0.0.0 www.marketo.com
 0.0.0.0 www.media.net
 0.0.0.0 www.movable-ink-2183.com
 0.0.0.0 www.nexus.ensighten.com
