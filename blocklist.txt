@@ -620,6 +620,7 @@
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.tradelab.fr
 0.0.0.0 cdntrf.com
+0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cdn.tynt.com
 0.0.0.0 cdn.undertone.com
 0.0.0.0 cdn-v3.conductrics.com
@@ -970,6 +971,7 @@
 0.0.0.0 epicunitscan.info
 0.0.0.0 epidm.edgesuite.net
 0.0.0.0 epl.paypal-communication.com
+0.0.0.0 epnt.ebay.com
 0.0.0.0 eqx-secure.smartadserver.com
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 eqx-tmk-geoloc.smartadserver.com
@@ -2248,6 +2250,7 @@
 0.0.0.0 tracking.gj-mobile-services.de
 0.0.0.0 tracking.immobilienscout24.de
 0.0.0.0 tracking.intl.miui.com
+0.0.0.0 tracking.kdata.fr
 0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.m6r.eu
 0.0.0.0 tracking.miui.com
@@ -2472,6 +2475,7 @@
 0.0.0.0 www.barilliance.net
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bilder-upload.eu
+0.0.0.0 www.bizographics.com
 0.0.0.0 www.breakingnews.ie
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clicktripz.com
