@@ -4272,6 +4272,7 @@
 0.0.0.0 a.sisdotnet.com
 0.0.0.0 askbigtits.com
 0.0.0.0 ask-d.openx.net
+0.0.0.0 askfm-usd-d.openx.net
 0.0.0.0 askforquote.com
 0.0.0.0 askgates.com
 0.0.0.0 askingtool.com
@@ -4288,6 +4289,7 @@
 0.0.0.0 asoscomltd.tt.omtrdc.net
 0.0.0.0 a.sou7.com
 0.0.0.0 asp.milan-fans.com
+0.0.0.0 a.spolecznosci.net
 0.0.0.0 aspopontoglio.it
 0.0.0.0 asporn.net
 0.0.0.0 asqnext.nuggad.net
@@ -6757,6 +6759,7 @@
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.simility.com
 0.0.0.0 cdn-social.janrain.com
+0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.springserve.com
 0.0.0.0 cdnssl.clicktale.net
@@ -18377,6 +18380,7 @@
 0.0.0.0 monicamolinaphotography.com
 0.0.0.0 monica-sweetheart.com
 0.0.0.0 monitordeamenazas.com
+0.0.0.0 monitor.econda-monitor.de
 0.0.0.0 monitor-token.com
 0.0.0.0 monni.dk
 0.0.0.0 monofix.cx
