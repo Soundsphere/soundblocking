@@ -360,6 +360,7 @@
 0.0.0.0 app.pendo.io
 0.0.0.0 app-sji.marketo.com
 0.0.0.0 apps.shareaholic.com
+0.0.0.0 app.yieldify.com
 0.0.0.0 a.pub.network
 0.0.0.0 apvdr.com
 0.0.0.0 apx.moatads.com
@@ -370,10 +371,12 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 askfm-usd-d.openx.net
 0.0.0.0 asmedia.adsupplyssl.com
 0.0.0.0 asn.advolution.de
 0.0.0.0 asn-trk.advolution.de
 0.0.0.0 asoscomltd.tt.omtrdc.net
+0.0.0.0 a.spolecznosci.net
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
@@ -601,6 +604,7 @@
 0.0.0.0 cdns.gigya.com
 0.0.0.0 cdn-sic.33across.com
 0.0.0.0 cdn.siftscience.com
+0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.springserve.com
 0.0.0.0 cdnssl.clicktale.net
@@ -1200,6 +1204,7 @@
 0.0.0.0 img.metaffiliation.com
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
+0.0.0.0 impde.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 imstore.bet365affiliates.com
@@ -1298,6 +1303,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 launchpoint.marketo.com
 0.0.0.0 l.betrad.com
+0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lddy25pglm.kameleoon.eu
 0.0.0.0 leadback.advertising.com
@@ -1448,8 +1454,10 @@
 0.0.0.0 mobile.pipe.aria.microsoft.com
 0.0.0.0 modes.taboola.com
 0.0.0.0 moevideo.biz
+0.0.0.0 monitor.econda-monitor.de
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mpsnare.iesnare.com
+0.0.0.0 mpx.mopub.com
 0.0.0.0 mrb.upapi.net
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.cmcm.com
@@ -1489,6 +1497,7 @@
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 now.eloqua.com
+0.0.0.0 nqs.nice264.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 nxtck.com
 0.0.0.0 nym1-ib.adnxs.com
@@ -1553,12 +1562,14 @@
 0.0.0.0 perf.mmstat.com
 0.0.0.0 performance.typekit.net
 0.0.0.0 perr.h-cdn.com
+0.0.0.0 pfa.levexis.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping.getadblock.com
 0.0.0.0 pingma.qq.com
+0.0.0.0 pings.vidpulse.com
 0.0.0.0 pi.pardot.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
@@ -1964,6 +1975,7 @@
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 srv.de.ebayrtm.com
 0.0.0.0 srvmath.com
+0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 srx.main.ebayrtm.com
 0.0.0.0 ssc.33across.com
@@ -2104,6 +2116,7 @@
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.rambler.ru
+0.0.0.0 sync.rtk.io
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
@@ -2443,6 +2456,7 @@
 0.0.0.0 www.ad4mat.de
 0.0.0.0 www.adblockanalytics.com
 0.0.0.0 www.adcell.de
+0.0.0.0 www.addthis.com
 0.0.0.0 www.addtoany.com
 0.0.0.0 www.adman.gr
 0.0.0.0 www.adobetag.com
