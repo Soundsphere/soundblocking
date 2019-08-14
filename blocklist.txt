@@ -256,6 +256,7 @@
 0.0.0.0 analytics.pokki.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.shareaholic.com
+0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics-udg.netdna-ssl.com
@@ -301,6 +302,7 @@
 0.0.0.0 api.lever.co
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-mobi.soundcloud.com
+0.0.0.0 api.moengage.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.picsart.com
@@ -360,6 +362,7 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 asmedia.adsupplyssl.com
 0.0.0.0 asn.advolution.de
 0.0.0.0 asn-trk.advolution.de
 0.0.0.0 asoscomltd.tt.omtrdc.net
@@ -394,6 +397,7 @@
 0.0.0.0 awaps.yandex.ru
 0.0.0.0 awsync.yandex.ru
 0.0.0.0 axdget-sync.nuggad.net
+0.0.0.0 ax-d.pixfuture.net
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 b1img.com
@@ -419,6 +423,7 @@
 0.0.0.0 bbnaut.ibillboard.com
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
 0.0.0.0 bcp.crwdcntrl.net
+0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
@@ -713,6 +718,7 @@
 0.0.0.0 cookie-script.com
 0.0.0.0 cookiesync.vertamedia.com
 0.0.0.0 cookiex.ngd.yahoo.com
+0.0.0.0 core.connatix.com
 0.0.0.0 core.polyad.net
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.snackly.co
@@ -938,6 +944,7 @@
 0.0.0.0 engine.adzerk.net
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 epicunitscan.info
+0.0.0.0 epidm.edgesuite.net
 0.0.0.0 epl.paypal-communication.com
 0.0.0.0 eqx-secure.smartadserver.com
 0.0.0.0 eqx.smartadserver.com
@@ -1238,6 +1245,7 @@
 0.0.0.0 js.hs-scripts.com
 0.0.0.0 js.hubspot.com
 0.0.0.0 js.idio.co
+0.0.0.0 js.matheranalytics.com
 0.0.0.0 js.maxmind.com
 0.0.0.0 json.bild.de
 0.0.0.0 js.pusher.com
@@ -1315,6 +1323,7 @@
 0.0.0.0 log.worldsoft-cms.info
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lonrtp1.marketo.com
+0.0.0.0 loopme.me
 0.0.0.0 l.ooyala.com
 0.0.0.0 lovetk-d.openx.net
 0.0.0.0 l.sharethis.com
@@ -2349,6 +2358,7 @@
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
+0.0.0.0 wileypublishing.sc.omtrdc.net
 0.0.0.0 win8.ipv6.microsoft.com
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
