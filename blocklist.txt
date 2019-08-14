@@ -152,6 +152,7 @@
 0.0.0.0 ads.google.com
 0.0.0.0 ads.heias.com
 0.0.0.0 ads.immobilienscout24.de
+0.0.0.0 ads.investingchannel.com
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.nexage.com
@@ -1238,6 +1239,7 @@
 0.0.0.0 js.hubspot.com
 0.0.0.0 js.idio.co
 0.0.0.0 js.maxmind.com
+0.0.0.0 json.bild.de
 0.0.0.0 js.pusher.com
 0.0.0.0 js.sddan.com
 0.0.0.0 js-sec.indexww.com
@@ -1608,6 +1610,7 @@
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-js.aws.y-track.com
+0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 projectagora.net
 0.0.0.0 promoted.soundcloud.com
@@ -1799,6 +1802,7 @@
 0.0.0.0 sc-static.net
 0.0.0.0 sc.tynt.com
 0.0.0.0 sdk.accountkit.com
+0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdkm.w.inmobi.com
@@ -1896,6 +1900,7 @@
 0.0.0.0 snippets.cdn.mozilla.net
 0.0.0.0 s.ntv.io
 0.0.0.0 sofia.trustx.org
+0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spanids.dictionary.com
