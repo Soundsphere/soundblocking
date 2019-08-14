@@ -5927,6 +5927,7 @@
 0.0.0.0 bradshaw3.com
 0.0.0.0 braincash.com
 0.0.0.0 braineyak.com
+0.0.0.0 brain.foresee.com
 0.0.0.0 braininfotech.com
 0.0.0.0 brain-labo.net
 0.0.0.0 brakehawk.com
@@ -8668,9 +8669,11 @@
 0.0.0.0 data55.adlooxtracking.com
 0.0.0.0 data58.adlooxtracking.com
 0.0.0.0 data60.adlooxtracking.com
+0.0.0.0 data61.adlooxtracking.com
 0.0.0.0 data62.adlooxtracking.com
 0.0.0.0 data63.adlooxtracking.com
 0.0.0.0 data64.adlooxtracking.com
+0.0.0.0 data65.adlooxtracking.com
 0.0.0.0 data66.adlooxtracking.com
 0.0.0.0 data67.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
@@ -18308,6 +18311,7 @@
 0.0.0.0 modsecpaststudents.com
 0.0.0.0 modserv.net
 0.0.0.0 modysabera.com
+0.0.0.0 moevideo.biz
 0.0.0.0 mogreet.com
 0.0.0.0 mohanahrfuturistics.com
 0.0.0.0 moinozhki.com
@@ -25780,6 +25784,7 @@
 0.0.0.0 southoftheborder.com.au
 0.0.0.0 southsidebroadcasting.com
 0.0.0.0 southvalleypeacecenter.org
+0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 souvenirua.com
 0.0.0.0 souxingbing.com
 0.0.0.0 sovetskie-plakaty.ru
@@ -27885,6 +27890,7 @@
 0.0.0.0 tmk-secure.smartadserver.com
 0.0.0.0 tmk.smartadserver.com
 0.0.0.0 tmlbsptmjd.com
+0.0.0.0 tmobile.demdex.net
 0.0.0.0 t.mobitrk.com
 0.0.0.0 t.mookie1.com
 0.0.0.0 t.mplxtms.com
