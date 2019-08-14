@@ -490,6 +490,7 @@
 0.0.0.0 c3.adalyser.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 cache-ssl.celtra.com
+0.0.0.0 c.ad6media.fr
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 c.amazon-adsystem.com
 0.0.0.0 capture.condenastdigital.com
@@ -698,6 +699,7 @@
 0.0.0.0 conductor.clicktale.net
 0.0.0.0 config2.mparticle.com
 0.0.0.0 config.ioam.de
+0.0.0.0 config.samqaicongen.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connect.ekomi.de
 0.0.0.0 connect.facebook.com
@@ -874,6 +876,7 @@
 0.0.0.0 dis.us.criteo.com
 0.0.0.0 djtflbt20bdde.cloudfront.net
 0.0.0.0 dkb01.webtrekk.net
+0.0.0.0 dk-gmtdmp.mookie1.com
 0.0.0.0 d.ligatus.com
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dmdrogerie01.webtrekk.net
@@ -1359,6 +1362,7 @@
 0.0.0.0 mandrillapp.com
 0.0.0.0 manifest.53.localytics.com
 0.0.0.0 manifest.localytics.com
+0.0.0.0 mansueto-d.openx.net
 0.0.0.0 map.media6degrees.com
 0.0.0.0 map.sddan.com
 0.0.0.0 marketing.dropbox.com
@@ -1479,6 +1483,7 @@
 0.0.0.0 office-loesung.de.intellitxt.com
 0.0.0.0 okt.to
 0.0.0.0 om.dowjoneson.com
+0.0.0.0 omns.americanexpress.com
 0.0.0.0 oms.expedia.com
 0.0.0.0 oms.nuggad.net
 0.0.0.0 onclickads.net
@@ -1906,6 +1911,7 @@
 0.0.0.0 s.logsss.com
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 s.media-imdb.com
+0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.delta.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.mcafee.com
@@ -2516,6 +2522,7 @@
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystems.com
