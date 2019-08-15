@@ -495,6 +495,7 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browser-update.org
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 b.siftscience.com
 0.0.0.0 bskyb.demdex.net
 0.0.0.0 b.smartnews.be
 0.0.0.0 bs.serving-sys.com
@@ -726,6 +727,7 @@
 0.0.0.0 common.duapps.com
 0.0.0.0 condenast.demdex.net
 0.0.0.0 conductor.clicktale.net
+0.0.0.0 config1.veinteractive.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 config.ioam.de
 0.0.0.0 config.safedk.com
@@ -1101,6 +1103,7 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 garu.hit.gemius.pl
+0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gcdn.2mdn.net
@@ -1164,6 +1167,7 @@
 0.0.0.0 h6.msn.com
 0.0.0.0 hajoopteg.com
 0.0.0.0 hal9000.redintelligence.net
+0.0.0.0 halc.iadvize.com
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hbevents.1rx.io
 0.0.0.0 hbopenbid.pubmatic.com
@@ -1228,6 +1232,7 @@
 0.0.0.0 img2.zergnet.com
 0.0.0.0 img.3lift.com
 0.0.0.0 img4.zergnet.com
+0.0.0.0 img.bet-at-home.com
 0.0.0.0 img.en25.com
 0.0.0.0 img.metaffiliation.com
 0.0.0.0 imgraovat.vnecdn.net
@@ -1788,6 +1793,7 @@
 0.0.0.0 responder.wt-safetag.com
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 reveal.clearbit.com
+0.0.0.0 rh.revolvermaps.com
 0.0.0.0 riafinancial.d2.sc.omtrdc.net
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 r.logrocket.io
@@ -1910,6 +1916,7 @@
 0.0.0.0 secure-dcr.imrworldwide.com
 0.0.0.0 secure-ds.serving-sys.com
 0.0.0.0 secure.eloqua.com
+0.0.0.0 secure-eu.imrworldwide.com
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure-gl.imrworldwide.com
@@ -1974,6 +1981,7 @@
 0.0.0.0 sjrtp5-cdn.marketo.com
 0.0.0.0 sjrtp7-cdn.marketo.com
 0.0.0.0 sjrtp7.marketo.com
+0.0.0.0 sjrtp8-cdn.marketo.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 sjsmartcontent.org
 0.0.0.0 s.ktxtr.com
@@ -2622,6 +2630,7 @@
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yield-manager.browsiprod.com
 0.0.0.0 ynuf.alipay.com
+0.0.0.0 yui.yahooapis.com
 0.0.0.0 z9q9kj37oy.kameleoon.eu
 0.0.0.0 za-ads.de
 0.0.0.0 za-ssl.effectivemeasure.net
