@@ -4106,6 +4106,7 @@
 0.0.0.0 arheo.com
 0.0.0.0 ariandange.com
 0.0.0.0 ariane.abtasty.com
+0.0.0.0 a.ria.ru
 0.0.0.0 ariboo.com
 0.0.0.0 ariel.ieupdates.com
 0.0.0.0 arieslogistics.lk
@@ -8659,6 +8660,7 @@
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data08.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
+0.0.0.0 data12.adlooxtracking.com
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data13.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
@@ -8667,6 +8669,7 @@
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
 0.0.0.0 data24.adlooxtracking.com
+0.0.0.0 data.24smi.net
 0.0.0.0 data25.adlooxtracking.com
 0.0.0.0 data26.adlooxtracking.com
 0.0.0.0 data27.adlooxtracking.com
@@ -8689,6 +8692,7 @@
 0.0.0.0 data65.adlooxtracking.com
 0.0.0.0 data66.adlooxtracking.com
 0.0.0.0 data67.adlooxtracking.com
+0.0.0.0 data68.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
 0.0.0.0 data.appexnw.com
@@ -12562,6 +12566,7 @@
 0.0.0.0 gardenguardians.us
 0.0.0.0 garfirm.com
 0.0.0.0 garrysmodsucksdick.t35.com
+0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 garydineenhockey.com
 0.0.0.0 garysipawi.com
 0.0.0.0 gasoilcalefaccion.org
@@ -12946,6 +12951,7 @@
 0.0.0.0 glavprofit.ru
 0.0.0.0 glb-ads.atwola.adtech.de
 0.0.0.0 glb-ads.atwola.adtechus.com
+0.0.0.0 glb-ads.betathome.adtech.de
 0.0.0.0 glb-ads.eyeonx.adtech.de
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 glbdf.org
@@ -14815,6 +14821,7 @@
 0.0.0.0 imzahagents.com
 0.0.0.0 ina6iq.com
 0.0.0.0 ina6sk.com
+0.0.0.0 inapi.posst.co
 0.0.0.0 inaughty.org
 0.0.0.0 inaugural05.com
 0.0.0.0 in-automate.sendinblue.com
@@ -15700,6 +15707,7 @@
 0.0.0.0 js.megalocast.net
 0.0.0.0 js.moatads.com
 0.0.0.0 js.mobileoffers-bn-download.com
+0.0.0.0 jsn.24smi.net
 0.0.0.0 js.nrcdn.com
 0.0.0.0 json.bild.de
 0.0.0.0 jsonip.com
@@ -18035,6 +18043,7 @@
 0.0.0.0 metrics.ryanair.com
 0.0.0.0 metrics.sdkbox.com
 0.0.0.0 metrics.windowsitpro.com
+0.0.0.0 metric.volkswagen.com
 0.0.0.0 metrocharter.org
 0.0.0.0 metrodevcon.com
 0.0.0.0 metromoneychange.com
@@ -20511,6 +20520,7 @@
 0.0.0.0 pampere.org
 0.0.0.0 pan-advert.com
 0.0.0.0 panafricanbank.net
+0.0.0.0 pandoramedia.demdex.net
 0.0.0.0 panel911.com
 0.0.0.0 panet.org
 0.0.0.0 pankajsthombre.com
@@ -30534,6 +30544,7 @@
 0.0.0.0 ww2awards.info
 0.0.0.0 ww2.ez-tracks.com
 0.0.0.0 ww50.smartadserver.com
+0.0.0.0 ww691.smartadserver.com
 0.0.0.0 ww.contactscorp.com
 0.0.0.0 wwise.biz
 0.0.0.0 ww.ispscorp.com
@@ -31940,6 +31951,7 @@
 0.0.0.0 www.gorillawalker.com
 0.0.0.0 www.goss.ru
 0.0.0.0 www.gotdy.com
+0.0.0.0 www.gotgayporn.com
 0.0.0.0 www.gotlaughs.com
 0.0.0.0 www.gotoo.com
 0.0.0.0 www.gotsmiley.com
