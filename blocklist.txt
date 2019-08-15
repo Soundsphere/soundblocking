@@ -20,6 +20,7 @@
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5fd74.v.fwmrm.net
 0.0.0.0 6124109.fls.doubleclick.net
+0.0.0.0 709-nxn-706.mktoresp.com
 0.0.0.0 71i.nuggad.net
 0.0.0.0 727-zqe-044.mktoresp.com
 0.0.0.0 79423.analytics.edgekey.net
@@ -58,6 +59,7 @@
 0.0.0.0 a.bf-ad.net
 0.0.0.0 abp.smartadcheck.de
 0.0.0.0 accounts.doubleclick.net
+0.0.0.0 accounts.eu1.gigya.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 a.cdn.intentmedia.net
 0.0.0.0 acds-b.prod.eu-west-1.vidible.tv
@@ -196,6 +198,7 @@
 0.0.0.0 adx.g.doubleclick.net
 0.0.0.0 adx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 ad.yieldlab.net
+0.0.0.0 ad.yieldmanager.com
 0.0.0.0 ad.zanox.com
 0.0.0.0 aem.playstation.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 aexp.demdex.net
@@ -714,6 +717,7 @@
 0.0.0.0 conductor.clicktale.net
 0.0.0.0 config2.mparticle.com
 0.0.0.0 config.ioam.de
+0.0.0.0 config.safedk.com
 0.0.0.0 config.samqaicongen.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connect.ekomi.de
@@ -756,6 +760,7 @@
 0.0.0.0 cs1137.wpc.gammacdn.net
 0.0.0.0 cs11.wpc.v0cdn.net
 0.0.0.0 cs.adingo.jp
+0.0.0.0 cs.gssprt.jp
 0.0.0.0 csi.gstatic.com
 0.0.0.0 cs.media.net
 0.0.0.0 c.spiegel.de
@@ -1479,6 +1484,7 @@
 0.0.0.0 nab.com.au
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
+0.0.0.0 nativespot.com
 0.0.0.0 navdmp.com
 0.0.0.0 nbcu.demdex.net
 0.0.0.0 nbcume.sc.omtrdc.net
@@ -1545,6 +1551,7 @@
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 page-events-ustats.udemy.com
 0.0.0.0 paid.outbrain.com
+0.0.0.0 pandoramedia.demdex.net
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partners.cmptch.com
@@ -2191,6 +2198,7 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.jivosite.com
+0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 tendertest.com
@@ -2309,6 +2317,7 @@
 0.0.0.0 um2.eqads.com
 0.0.0.0 ums.adtech.de
 0.0.0.0 um.simpli.fi
+0.0.0.0 unconf.adkmob.com
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 uobsoe.com
 0.0.0.0 up.cm.ksmobile.com
