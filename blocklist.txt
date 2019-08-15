@@ -623,6 +623,7 @@
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.tradelab.fr
 0.0.0.0 cdntrf.com
+0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cdn.tynt.com
 0.0.0.0 cdn.undertone.com
@@ -646,6 +647,7 @@
 0.0.0.0 c.gumgum.com
 0.0.0.0 chatrouter-skyde.inq.com
 0.0.0.0 chatrouter-ups.inq.com
+0.0.0.0 chaturbate.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
@@ -1446,6 +1448,7 @@
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.responsetap.com
+0.0.0.0 metric.volkswagen.com
 0.0.0.0 m.exactag.com
 0.0.0.0 mg.mgid.com
 0.0.0.0 microsoftwindows.112.2o7.net
@@ -1668,6 +1671,7 @@
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-js.aws.y-track.com
+0.0.0.0 prof.estat.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 projectagora.net
@@ -2014,6 +2018,7 @@
 0.0.0.0 stan.xing.com
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.mobile.yandex.net
+0.0.0.0 stas.outbrain.com
 0.0.0.0 stat1.moneycontrol.com
 0.0.0.0 stat3.moneycontrol.com
 0.0.0.0 stat.dealtime.com
@@ -2091,6 +2096,7 @@
 0.0.0.0 st.top100.ru
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 stun.services.mozilla.com
+0.0.0.0 style2.ad6.fr
 0.0.0.0 s.tyxo.com
 0.0.0.0 su.addthis.com
 0.0.0.0 sumo.com
@@ -2510,6 +2516,7 @@
 0.0.0.0 www.googletagmanager.com
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googletagservices.com
+0.0.0.0 www.gotgayporn.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.increaserev.com
 0.0.0.0 www.kqzyfj.com
