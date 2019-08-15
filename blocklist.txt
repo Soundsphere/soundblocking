@@ -3851,6 +3851,7 @@
 0.0.0.0 api.usersnap.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 api.vanilla.futurecdn.net
+0.0.0.0 api.viafoura.co
 0.0.0.0 api.viglink.com
 0.0.0.0 api.vuukle.com
 0.0.0.0 api.webthumbnail.org
@@ -8668,6 +8669,7 @@
 0.0.0.0 data19.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
+0.0.0.0 data22.adlooxtracking.com
 0.0.0.0 data24.adlooxtracking.com
 0.0.0.0 data.24smi.net
 0.0.0.0 data25.adlooxtracking.com
@@ -8681,6 +8683,7 @@
 0.0.0.0 data33.adlooxtracking.com
 0.0.0.0 data35.adlooxtracking.com
 0.0.0.0 data37.adlooxtracking.com
+0.0.0.0 data38.adlooxtracking.com
 0.0.0.0 data53.adlooxtracking.com
 0.0.0.0 data55.adlooxtracking.com
 0.0.0.0 data58.adlooxtracking.com
@@ -13132,6 +13135,7 @@
 0.0.0.0 goldstats.net
 0.0.0.0 goldvipclub.com
 0.0.0.0 gold.weborama.fr
+0.0.0.0 golf4.de.intellitxt.com
 0.0.0.0 golfingtricks.cf
 0.0.0.0 golftennis.net
 0.0.0.0 golinovatorew.com
@@ -13487,6 +13491,7 @@
 0.0.0.0 gvla.org
 0.0.0.0 gwd.lphbs.com
 0.0.0.0 gwisalltrack.com
+0.0.0.0 gwm.w-cdn.com
 0.0.0.0 gwrepresentacoes.com.br
 0.0.0.0 gwrgerger.com
 0.0.0.0 gxgxy.net
@@ -18758,6 +18763,7 @@
 0.0.0.0 mybankcreditcard.com
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybdsmdot.com
+0.0.0.0 mybestdc.com
 0.0.0.0 mybestelitemovies.com
 0.0.0.0 mybestsearch2007.com
 0.0.0.0 mybestsearch.com
@@ -23173,6 +23179,7 @@
 0.0.0.0 rhinopropertyservices.ca
 0.0.0.0 rhodabmiller.com
 0.0.0.0 rhpvsxpoff.com
+0.0.0.0 rh.revolvermaps.com
 0.0.0.0 rhynecyder.com
 0.0.0.0 rhythmnewmedia.com
 0.0.0.0 riafinancial.d2.sc.omtrdc.net
@@ -27499,6 +27506,7 @@
 0.0.0.0 te.thestar.com
 0.0.0.0 te.trb.com
 0.0.0.0 tetrvscorp.com
+0.0.0.0 tetu.com
 0.0.0.0 texaspokerstoreblog.com
 0.0.0.0 texbaza.ru
 0.0.0.0 texnika.com.ua
@@ -28337,6 +28345,7 @@
 0.0.0.0 tracking.yourfilehost.com
 0.0.0.0 track.jpost.com
 0.0.0.0 trackla.stackla.com
+0.0.0.0 track.linksynergy.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mopo.de
 0.0.0.0 trackmysales.com
@@ -33957,6 +33966,7 @@
 0.0.0.0 www.wyzo.com
 0.0.0.0 www.x2revenue.com
 0.0.0.0 www.xactroofsolutions.com
+0.0.0.0 www.xaxis.com
 0.0.0.0 www.xbeta69.com
 0.0.0.0 www.xclicks.net
 0.0.0.0 www.xctrk.com
