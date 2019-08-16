@@ -7101,6 +7101,7 @@
 0.0.0.0 ci24.actonsoftware.com
 0.0.0.0 ci37.actonsoftware.com
 0.0.0.0 ci61.actonsoftware.com
+0.0.0.0 ci89.actonsoftware.com
 0.0.0.0 ci95.actonsoftware.com
 0.0.0.0 ciaaju.org
 0.0.0.0 cia-imm.com
@@ -9085,6 +9086,7 @@
 0.0.0.0 destinationjungle.com
 0.0.0.0 destroythemoon.com
 0.0.0.0 desv383oqqc0.cloudfront.net
+0.0.0.0 detailedglue.com
 0.0.0.0 detailedsearch.net
 0.0.0.0 detaripea.com
 0.0.0.0 detect.rayjump.com
@@ -12965,6 +12967,7 @@
 0.0.0.0 glb-ads.atwola.adtechus.com
 0.0.0.0 glb-ads.betathome.adtech.de
 0.0.0.0 glb-ads.eyeonx.adtech.de
+0.0.0.0 glb-ads.iam.adtech.de
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 glbdf.org
 0.0.0.0 gleam.io
@@ -26512,6 +26515,7 @@
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 statsie.com
 0.0.0.0 stats.indextools.com
+0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.mezzobit.com
