@@ -376,6 +376,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app.miui.com
 0.0.0.0 app.pendo.io
+0.0.0.0 app-sj13.marketo.com
 0.0.0.0 app-sji.marketo.com
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 app.yieldify.com
@@ -1362,6 +1363,7 @@
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kleinanzeigen-d.openx.net
 0.0.0.0 kraken.rambler.ru
+0.0.0.0 kreiszeitung-de.intellitxt.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 kropka.onet.pl
 0.0.0.0 k.streamrail.com
@@ -2151,6 +2153,7 @@
 0.0.0.0 stats.bannersnack.com
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 stats.g.doubleclick.net
+0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.monohost.com
