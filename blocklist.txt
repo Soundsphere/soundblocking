@@ -160,9 +160,11 @@
 0.0.0.0 16aq.cn
 0.0.0.0 16a.us
 0.0.0.0 16.vg
+0.0.0.0 178176.engine.mobileapptracking.com
 0.0.0.0 180hits.de
 0.0.0.0 180searchassistant.com
 0.0.0.0 1827a5c1b772cf739.southernweyr.us
+0.0.0.0 1847082.fls.doubleclick.net
 0.0.0.0 189474.engine.mobileapptracking.com
 0.0.0.0 190282.xyz
 0.0.0.0 191gm.com
@@ -6389,6 +6391,7 @@
 0.0.0.0 carbonfibrebusinesscards.com
 0.0.0.0 carboniqtest.com
 0.0.0.0 card4love.com
+0.0.0.0 cardcarryinglesbian.com
 0.0.0.0 carde.sitesled.com
 0.0.0.0 cardetailingnz.com
 0.0.0.0 cardgoods.com
@@ -8256,6 +8259,7 @@
 0.0.0.0 crueltoplist.com
 0.0.0.0 cruiseporn.com
 0.0.0.0 cruisereservations.paradisechartercruises.com
+0.0.0.0 crunchmind-d.openx.net
 0.0.0.0 crunchy-block-checkings.com
 0.0.0.0 crushus-s3.curd.io
 0.0.0.0 crutop.com
@@ -8556,6 +8560,7 @@
 0.0.0.0 dae.responsetarget.com
 0.0.0.0 daeyoungland.co.kr
 0.0.0.0 dafinder.com
+0.0.0.0 dagda.vilynx.com
 0.0.0.0 d.agkn.com
 0.0.0.0 dahliaweddingvideos.com
 0.0.0.0 dailyapps.com
@@ -8661,6 +8666,8 @@
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data08.adlooxtracking.com
 0.0.0.0 data09.adlooxtracking.com
+0.0.0.0 data10.adlooxtracking.com
+0.0.0.0 data11.adlooxtracking.com
 0.0.0.0 data12.adlooxtracking.com
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data13.adlooxtracking.com
@@ -8681,6 +8688,7 @@
 0.0.0.0 data2.gosquared.com
 0.0.0.0 data30.adlooxtracking.com
 0.0.0.0 data33.adlooxtracking.com
+0.0.0.0 data34.adlooxtracking.com
 0.0.0.0 data35.adlooxtracking.com
 0.0.0.0 data37.adlooxtracking.com
 0.0.0.0 data38.adlooxtracking.com
@@ -12701,6 +12709,7 @@
 0.0.0.0 genusskreuzfahrt.com
 0.0.0.0 geo113prod.kadserver.com
 0.0.0.0 geo2.adobe.com
+0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geobytes.com
 0.0.0.0 geoced.smartadserver.com
@@ -15551,6 +15560,7 @@
 0.0.0.0 jeyhost.000webhost.info
 0.0.0.0 jf-carvalhal.pt
 0.0.0.0 jfglass.net
+0.0.0.0 j.flxpxl.com
 0.0.0.0 jfrprototips.com
 0.0.0.0 jfteabd.com
 0.0.0.0 jhanjartv.com
@@ -16195,6 +16205,7 @@
 0.0.0.0 krd.realcities.com
 0.0.0.0 kredit-schnell.ru
 0.0.0.0 kredytbank.com.ua
+0.0.0.0 kreiszeitung-de.intellitxt.com
 0.0.0.0 krgate.com
 0.0.0.0 krim.us
 0.0.0.0 krishnachem.in
@@ -16871,6 +16882,7 @@
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 logirls.net
 0.0.0.0 logisticstores.com
+0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.musical.ly
 0.0.0.0 logo.affiliatebot.com
@@ -22897,6 +22909,7 @@
 0.0.0.0 rebrandsoftware.com
 0.0.0.0 recadastramentoinfo.com
 0.0.0.0 recdir.com
+0.0.0.0 receptivereaction.com
 0.0.0.0 recepti.yoursalesmaster.com
 0.0.0.0 recipe-network.com
 0.0.0.0 recitaldean.co.za
@@ -29596,6 +29609,7 @@
 0.0.0.0 v-nature.biz
 0.0.0.0 voasi.com
 0.0.0.0 vocenossocliente.com
+0.0.0.0 vodafonenz.122.2o7.net
 0.0.0.0 vodaodessa.com
 0.0.0.0 vodforcureatmypc.in
 0.0.0.0 vodkoved.ru
@@ -32759,6 +32773,7 @@
 0.0.0.0 www.nevkar.com
 0.0.0.0 www.newclinic-kmv.ru
 0.0.0.0 www.newdotnet.com
+0.0.0.0 www.newnownext.com
 0.0.0.0 www.newsalone.com
 0.0.0.0 www.newslettersponsor.com
 0.0.0.0 www.newtonknows.com
