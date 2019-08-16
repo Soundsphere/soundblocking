@@ -326,6 +326,7 @@
 0.0.0.0 api-mobi.soundcloud.com
 0.0.0.0 api.moengage.com
 0.0.0.0 api.nanigans.com
+0.0.0.0 api.parsely.com
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.picsart.com
 0.0.0.0 api.primecaster.net
@@ -404,6 +405,7 @@
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.customer.io
 0.0.0.0 assets-jpcust.jwpsrv.com
+0.0.0.0 assets.kromtech.net
 0.0.0.0 assets.privy.com
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.servedby-buysellads.com
@@ -675,6 +677,7 @@
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
 0.0.0.0 ci61.actonsoftware.com
+0.0.0.0 ci89.actonsoftware.com
 0.0.0.0 c.imedia.cz
 0.0.0.0 cj.dotomi.com
 0.0.0.0 c.jsrdn.com
@@ -918,6 +921,7 @@
 0.0.0.0 de.sitestat.com
 0.0.0.0 des.smartclip.net
 0.0.0.0 desv383oqqc0.cloudfront.net
+0.0.0.0 detailedglue.com
 0.0.0.0 de.tynt.com
 0.0.0.0 deutschepostag1.d3.sc.omtrdc.net
 0.0.0.0 dev.appboy.com
@@ -1090,6 +1094,7 @@
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 flaconi02.webtrekk.net
+0.0.0.0 flapi1.rubiconproject.com
 0.0.0.0 flash.sec.miui.com
 0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 fls-eu.amazon-adsystem.com
@@ -1148,11 +1153,13 @@
 0.0.0.0 getrockerbox.com
 0.0.0.0 g.ezoic.net
 0.0.0.0 gg.google.com
+0.0.0.0 gift-connect-d.openx.net
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
 0.0.0.0 glb-ads.atwola.adtech.de
 0.0.0.0 glb-ads.betathome.adtech.de
+0.0.0.0 glb-ads.iam.adtech.de
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 gleam.io
 0.0.0.0 glitter.services.disqus.com
@@ -1208,6 +1215,7 @@
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hit.dogannet.tv
+0.0.0.0 hive-d.openx.net
 0.0.0.0 hm.baidu.com
 0.0.0.0 hnbutton.appspot.com
 0.0.0.0 hn.inspectlet.com
@@ -1786,6 +1794,7 @@
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.spiceworks.com
 0.0.0.0 px.srvcs.tumblr.com
+0.0.0.0 px.steelhousemedia.com
 0.0.0.0 px.wa.ui-portal.de
 0.0.0.0 px.wayfair.com
 0.0.0.0 p.yotpo.com
@@ -1802,6 +1811,7 @@
 0.0.0.0 r.254a.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 r.adc-serv.net
+0.0.0.0 r.adrolays.de
 0.0.0.0 r.adserver01.de
 0.0.0.0 ranker.sc.omtrdc.net
 0.0.0.0 rb.adnxs.com
@@ -2151,6 +2161,7 @@
 0.0.0.0 stats.appsflyer.com
 0.0.0.0 stats.aws.rubiconproject.com
 0.0.0.0 stats.bannersnack.com
+0.0.0.0 stats.buysellads.com
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.kaltura.com
@@ -2412,6 +2423,7 @@
 0.0.0.0 uir.uimserv.net
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.at.atwola.com
+0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 um2.eqads.com
 0.0.0.0 ums.adtech.de
@@ -2427,6 +2439,7 @@
 0.0.0.0 ups.xplosion.de
 0.0.0.0 urbanmedia-d.openx.net
 0.0.0.0 urlaubspiraten.digidip.net
+0.0.0.0 urtracker.q-sis.de
 0.0.0.0 us-ads.openx.net
 0.0.0.0 usage.trackjs.com
 0.0.0.0 usc.adserver.snapads.com
@@ -2521,6 +2534,7 @@
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 whitelabel.media.net
+0.0.0.0 whos.amung.us
 0.0.0.0 widget.as.criteo.com
 0.0.0.0 widget.criteo.com
 0.0.0.0 widget.marktjagd.de
