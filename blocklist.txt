@@ -862,6 +862,7 @@
 0.0.0.0 a4391.casalemedia.com
 0.0.0.0 a4550.casalemedia.com
 0.0.0.0 a4p.adpartner.pro
+0.0.0.0 a6.smi2.ru
 0.0.0.0 a777.org
 0.0.0.0 a7cef5e5-cc44-42b9-ba90-3463d44a8d57.htmlpasta.com
 0.0.0.0 a7search.com
@@ -4261,6 +4262,7 @@
 0.0.0.0 ashtary.com
 0.0.0.0 a.shutterfly.com
 0.0.0.0 asiabiofuel.com
+0.0.0.0 asia.creativecdn.com
 0.0.0.0 asianadultfriendfinder.com
 0.0.0.0 asiandebutantes.com
 0.0.0.0 asiangirls.ss.ru
@@ -6334,6 +6336,7 @@
 0.0.0.0 calmabags.com
 0.0.0.0 calma.ro.94-23-249-83.eneticproyectos.com
 0.0.0.0 caloquet.com
+0.0.0.0 calotag.com
 0.0.0.0 calriskmgmt.org
 0.0.0.0 calxalnternetbankline.tk
 0.0.0.0 calxe.com
@@ -6660,6 +6663,7 @@
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appsflyer.com
+0.0.0.0 cdn.apvdr.com
 0.0.0.0 cdn.at.atwola.com
 0.0.0.0 cdn.atwola.com
 0.0.0.0 cdn.avmws.com
@@ -12475,6 +12479,7 @@
 0.0.0.0 g2lp.icu
 0.0.0.0 g.3gl.net
 0.0.0.0 g3.s.fwmrm.net
+0.0.0.0 g3.v.fwmrm.net
 0.0.0.0 g42l.icu
 0.0.0.0 g4dhhg53jsdjnnkjwjrfyiouh3o4u4th.vinerteen.com
 0.0.0.0 g4gorgeous.com
@@ -15390,6 +15395,7 @@
 0.0.0.0 istanbulsin.com
 0.0.0.0 istarthere.com
 0.0.0.0 isteveyasa.com
+0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 istwire.com
 0.0.0.0 isuckall.com
 0.0.0.0 itaes.edu.mx
@@ -19869,6 +19875,7 @@
 0.0.0.0 o4ko.com
 0.0.0.0 o78s.top
 0.0.0.0 o7n9.cn
+0.0.0.0 o.addthis.com
 0.0.0.0 oad.realmedia.com
 0.0.0.0 oa.hzmcd.com
 0.0.0.0 oaimages.com
@@ -21219,6 +21226,7 @@
 0.0.0.0 pinesgazette.com
 0.0.0.0 ping1.unicast.com
 0.0.0.0 ping520.2255.cc
+0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping-dot-acp-magento.appspot.com
@@ -24433,6 +24441,7 @@
 0.0.0.0 secure3.marketengines.com
 0.0.0.0 secure6.platinumbucks.com
 0.0.0.0 secure.accessmedia.tv
+0.0.0.0 secure.ace-tag.advertising.com
 0.0.0.0 secureadd.goshly.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secureads.ft.com
@@ -26415,6 +26424,8 @@
 0.0.0.0 static4.smi2.net
 0.0.0.0 static5.smi2.net
 0.0.0.0 static.66.172.47.78.clients.your-server.de
+0.0.0.0 static6.smi2.net
+0.0.0.0 static7.smi2.net
 0.0.0.0 static8.smi2.net
 0.0.0.0 static.addtoany.com
 0.0.0.0 static.adfarm1.adition.com
@@ -26613,6 +26624,7 @@
 0.0.0.0 stephanhuller.blogspot.ca
 0.0.0.0 stepstone.d1.sc.omtrdc.net
 0.0.0.0 stepuptechsite.com
+0.0.0.0 stern.met.vgwort.de
 0.0.0.0 sterva.com
 0.0.0.0 stetic.com
 0.0.0.0 stetmail.com
@@ -27446,6 +27458,7 @@
 0.0.0.0 telegraphmedia.bootstrap.fyre.co
 0.0.0.0 telegraphmediagroup.d3.sc.omtrdc.net
 0.0.0.0 telegraphmediagroupl.tt.omtrdc.net
+0.0.0.0 telegraph.sdk.beemray.com
 0.0.0.0 telekom01.webtrekk.net
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
@@ -29218,6 +29231,7 @@
 0.0.0.0 usasync01.admantx.com
 0.0.0.0 usawireless.tv
 0.0.0.0 usc.adserver.snapads.com
+0.0.0.0 us-central1-firebase-wixapp.cloudfunctions.net
 0.0.0.0 uscmchicago2005.com
 0.0.0.0 us-counter.com
 0.0.0.0 usdcoin.top
