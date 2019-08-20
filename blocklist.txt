@@ -407,6 +407,7 @@
 0.0.0.0 4704202.fls.doubleclick.net
 0.0.0.0 47089ffb-b84d-4f8c-beeb-245caad9ecbf.htmlpasta.com
 0.0.0.0 4798542.fls.doubleclick.net
+0.0.0.0 4878630.fls.doubleclick.net
 0.0.0.0 4898337.fls.doubleclick.net
 0.0.0.0 49f97743-223b-4d84-b337-961a4c632bae.htmlpasta.com
 0.0.0.0 4affiliate.net
@@ -2070,6 +2071,7 @@
 0.0.0.0 ads.indeed.com
 0.0.0.0 ads.indiatimes.com
 0.0.0.0 ads.infi.net
+0.0.0.0 ads.intentiq.com
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 ads.ipowerweb.com
@@ -2245,6 +2247,7 @@
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.struq.com
 0.0.0.0 ads.sun.com
+0.0.0.0 ads.sunmaker.com
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.tahono.com
 0.0.0.0 ads.targetedbanner.biz
@@ -3802,6 +3805,7 @@
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
+0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.getdrip.com
@@ -3846,6 +3850,7 @@
 0.0.0.0 api.taboola.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.trackuity.com
+0.0.0.0 api.traversedlp.com
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.uprivaladserver.net
@@ -3876,6 +3881,7 @@
 0.0.0.0 app-1und1-sa-online.herokuapp.com
 0.0.0.0 app2.jkahfmal.com
 0.0.0.0 app2.salesmanago.pl
+0.0.0.0 app4.kromtech.net
 0.0.0.0 app-ab01.marketo.com
 0.0.0.0 app-ab04.marketo.com
 0.0.0.0 app-ab07.marketo.com
@@ -4002,6 +4008,7 @@
 0.0.0.0 app-sj09.marketo.com
 0.0.0.0 app-sj13.marketo.com
 0.0.0.0 app-sj16.marketo.com
+0.0.0.0 app-sj17.marketo.com
 0.0.0.0 app-sj19.marketo.com
 0.0.0.0 app-sji.marketo.com
 0.0.0.0 app-sjo.marketo.com
@@ -4442,6 +4449,7 @@
 0.0.0.0 audiotext.net
 0.0.0.0 audiotools.ws
 0.0.0.0 audit.median.hu
+0.0.0.0 audit.quantcast.mgr.consensu.org
 0.0.0.0 audit.webinform.hu
 0.0.0.0 aud.pubmatic.com
 0.0.0.0 aufeminin-e-d.openx.net
@@ -4683,6 +4691,7 @@
 0.0.0.0 b00gle.com
 0.0.0.0 b0a404e6-3389-4957-b59f-31375acb4a36.htmlpasta.com
 0.0.0.0 b0o.net
+0.0.0.0 b0oqeyj7z5.kameleoon.eu
 0.0.0.0 b0tfilez.tripod.com
 0.0.0.0 b1.bluetime.com
 0.0.0.0 b1img.com
@@ -7249,6 +7258,7 @@
 0.0.0.0 click-counter.org
 0.0.0.0 clickdensity.com
 0.0.0.0 click-de.plista.com
+0.0.0.0 click.dji.com
 0.0.0.0 click.dpbill.com
 0.0.0.0 clickedyclick.com
 0.0.0.0 clickeight.com
@@ -8324,6 +8334,7 @@
 0.0.0.0 ctnetwork.hu
 0.0.0.0 c.t-online.de
 0.0.0.0 ct.pinterest.com
+0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ct.sddan.com
 0.0.0.0 ct.sexadnet.com
 0.0.0.0 ctt.ec
@@ -10132,6 +10143,7 @@
 0.0.0.0 e5a859ac-8858-427e-ab5c-eb2a8efc36b6.htmlpasta.com
 0.0.0.0 e6603.g.akamaiedge.net
 0.0.0.0 e6a346ef-c562-41e5-a4a6-514a0edbe69f.htmlpasta.com
+0.0.0.0 e7081.g.akamaiedge.net
 0.0.0.0 e7da7.in
 0.0.0.0 e7da7.ws
 0.0.0.0 e8675309.com
@@ -10842,6 +10854,7 @@
 0.0.0.0 eshopxml.msn.com
 0.0.0.0 esibizioniste.org
 0.0.0.0 esimedia-d.openx.net
+0.0.0.0 esixtgmbhandcokg.d3.sc.omtrdc.net
 0.0.0.0 eskaton.it
 0.0.0.0 eslickcreative.com
 0.0.0.0 esnt.cn
@@ -13715,6 +13728,7 @@
 0.0.0.0 hellocams.com
 0.0.0.0 hellogoldcontract.com
 0.0.0.0 hellohentai.com
+0.0.0.0 hello.lov.net
 0.0.0.0 hello.myfonts.net
 0.0.0.0 hellopeople.biz
 0.0.0.0 hellosanta2008.com
@@ -14213,6 +14227,7 @@
 0.0.0.0 h.starware.com
 0.0.0.0 hsx.com
 0.0.0.0 htcf.org
+0.0.0.0 htlbid.com
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 html-5.me
 0.0.0.0 htmlhubing.xyz
@@ -15782,6 +15797,7 @@
 0.0.0.0 jurewedding.or.kr
 0.0.0.0 jurgita.com
 0.0.0.0 just2young.com
+0.0.0.0 justapinch-com-d.openx.net
 0.0.0.0 justcounter.com
 0.0.0.0 justfacials.com
 0.0.0.0 justfolio.com
@@ -19848,6 +19864,7 @@
 0.0.0.0 nzpr.com
 0.0.0.0 nzz.d3.sc.omtrdc.net
 0.0.0.0 o0o0o0.dvrdns.org
+0.0.0.0 o1.qnsr.com
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 o4ko.com
 0.0.0.0 o78s.top
@@ -21285,6 +21302,7 @@
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.spotify.com
+0.0.0.0 pixel-static.spotify.com
 0.0.0.0 pixel.staticworld.net
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.tapad.com
@@ -22579,6 +22597,7 @@
 0.0.0.0 query.network
 0.0.0.0 query.petametrics.com
 0.0.0.0 query-us-east1.petametrics.com
+0.0.0.0 query-us-west1.petametrics.com
 0.0.0.0 questaffiliates.net
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 queue.searchreslt.com
@@ -23759,6 +23778,7 @@
 0.0.0.0 sasonet.de
 0.0.0.0 sasonet.org
 0.0.0.0 s.as-us.falkag.net
+0.0.0.0 sat101.webtrekk.net
 0.0.0.0 satelconseil.com
 0.0.0.0 satellitemoon.com
 0.0.0.0 satiristlist.com
@@ -24911,6 +24931,7 @@
 0.0.0.0 serving.bepolite.eu
 0.0.0.0 serving.rpowermedia.com
 0.0.0.0 servl.com.ar
+0.0.0.0 servt.playbuzz.co
 0.0.0.0 servuceinfolock.net
 0.0.0.0 sesdermausa.com
 0.0.0.0 seshark.com
@@ -25332,6 +25353,7 @@
 0.0.0.0 sin.creativecdn.com
 0.0.0.0 sindo.me
 0.0.0.0 sinfb.adsrvr.org
+0.0.0.0 s.infogram.com
 0.0.0.0 sinfullegs.com
 0.0.0.0 singin-ebay-account-login.smtp.ru
 0.0.0.0 singlecapital.cl
@@ -26256,6 +26278,7 @@
 0.0.0.0 ssl.siteimprove.com
 0.0.0.0 ssl-static.vinsight.de
 0.0.0.0 ssl-vg03.met.vgwort.de
+0.0.0.0 ssl.vizury.com
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssl.xplosion.de
@@ -26599,6 +26622,7 @@
 0.0.0.0 stickeri24.ru
 0.0.0.0 stickylist.com
 0.0.0.0 sticlabrasov.ro
+0.0.0.0 stiffstem.com
 0.0.0.0 stikesmaharani.ac.id
 0.0.0.0 stil1st.ru
 0.0.0.0 stile-groupllc.net
@@ -27012,6 +27036,7 @@
 0.0.0.0 syncyourclock.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
+0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.traffichaus.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 syndication.voodoo.com
@@ -27512,6 +27537,7 @@
 0.0.0.0 test.rfppl.co.in
 0.0.0.0 test.ru
 0.0.0.0 testscanantivirus.com
+0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 testsecurityonline.com
 0.0.0.0 test.udroid.net
 0.0.0.0 testus.info
@@ -28354,6 +28380,7 @@
 0.0.0.0 tracking.roispy.com
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.searchmarketing.com
+0.0.0.0 tracking.skyword.com
 0.0.0.0 trackingsoft.com
 0.0.0.0 tracking.spiderbait.com
 0.0.0.0 tracking.srv2.de
@@ -28474,6 +28501,7 @@
 0.0.0.0 traffmoney.biz
 0.0.0.0 traffnew1.biz
 0.0.0.0 traffnew.biz
+0.0.0.0 trafforsrv.com
 0.0.0.0 traffsale1.biz
 0.0.0.0 traffstats.biz
 0.0.0.0 traff-store.com
@@ -28881,6 +28909,7 @@
 0.0.0.0 uhren-ertl.de
 0.0.0.0 uicmailuiceduhk.oxxy.com
 0.0.0.0 uidbox.uimserv.net
+0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uihertubilosas.com
 0.0.0.0 uiiiu.com
 0.0.0.0 uilerdobavonader.com
@@ -29467,6 +29496,7 @@
 0.0.0.0 viaxgiulio.top
 0.0.0.0 vibromech.com
 0.0.0.0 vice.demdex.net
+0.0.0.0 vice.hb.omtrdc.net
 0.0.0.0 vicehouse.com
 0.0.0.0 vice-publishers-cdn.vice.com
 0.0.0.0 vicp.cc
@@ -29501,6 +29531,7 @@
 0.0.0.0 video-lolita2.info
 0.0.0.0 videomasturbation.net
 0.0.0.0 videomiles.com
+0.0.0.0 video.moatads.com
 0.0.0.0 videomoviesonline.com
 0.0.0.0 video.oms.eu
 0.0.0.0 video-party.com
@@ -30849,6 +30880,7 @@
 0.0.0.0 www.ads55.com
 0.0.0.0 www.adsedo.com
 0.0.0.0 www.adservingnetwork.com
+0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.ad-souk.com
 0.0.0.0 www.adsourcecorp.com
 0.0.0.0 www.adsprve1.com
@@ -31910,6 +31942,7 @@
 0.0.0.0 www.gerkencapiital.com
 0.0.0.0 www.get3tesla.net
 0.0.0.0 www.get-around-firwall.com
+0.0.0.0 www.getdrip.com
 0.0.0.0 www.getmirar.com
 0.0.0.0 www.getnow.com
 0.0.0.0 www.getpetrocoin.com
@@ -33106,6 +33139,7 @@
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
 0.0.0.0 www.quantserve.com
+0.0.0.0 www.queer.de
 0.0.0.0 www.querverweis.net
 0.0.0.0 www.quickbookspayrollonline.com
 0.0.0.0 www.quickbrowsersearch.com
