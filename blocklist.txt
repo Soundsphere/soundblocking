@@ -807,6 +807,7 @@
 0.0.0.0 a1964.g.akamai.net
 0.0.0.0 a1.adform.net
 0.0.0.0 a1talk.de.intellitxt.com
+0.0.0.0 a1.vdna-assets.com
 0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2140.casalemedia.com
@@ -1389,6 +1390,7 @@
 0.0.0.0 adcreative.tribuneinteractive.com
 0.0.0.0 ad.crwdcntrl.net
 0.0.0.0 ad.cs102175.com
+0.0.0.0 adc.tripple.at
 0.0.0.0 adc.xxxlutz.de
 0.0.0.0 add2profile.com
 0.0.0.0 addash.co
@@ -1776,6 +1778,7 @@
 0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.affiliates.match.com
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
+0.0.0.0 ads.alibaba.com
 0.0.0.0 ads.allvatar.com
 0.0.0.0 ads.alpha00001.com
 0.0.0.0 ads.alt.com
@@ -2075,6 +2078,7 @@
 0.0.0.0 ads.intentiq.com
 0.0.0.0 ads.internic.co.il
 0.0.0.0 ads.investingchannel.com
+0.0.0.0 ads.ioam.de
 0.0.0.0 ads.ipowerweb.com
 0.0.0.0 ads.isoftmarketing.com
 0.0.0.0 ads.itv.com
@@ -2162,6 +2166,7 @@
 0.0.0.0 ads.olivebrandresponse.com
 0.0.0.0 adsolutions.yp.com
 0.0.0.0 adsonar.com
+0.0.0.0 ads.one.co.il
 0.0.0.0 ads.oneplace.com
 0.0.0.0 ads.ookla.com
 0.0.0.0 ads.oomz.de
@@ -8224,6 +8229,7 @@
 0.0.0.0 creatonprojects.com
 0.0.0.0 credifinanciera.co
 0.0.0.0 credi.financiera.com
+0.0.0.0 credit-agricole.fr
 0.0.0.0 creditcardbilling.net
 0.0.0.0 credit.co.ua
 0.0.0.0 creditfido.com
@@ -8706,6 +8712,7 @@
 0.0.0.0 data33.adlooxtracking.com
 0.0.0.0 data34.adlooxtracking.com
 0.0.0.0 data35.adlooxtracking.com
+0.0.0.0 data36.adlooxtracking.com
 0.0.0.0 data37.adlooxtracking.com
 0.0.0.0 data38.adlooxtracking.com
 0.0.0.0 data53.adlooxtracking.com
@@ -11832,6 +11839,7 @@
 0.0.0.0 flca.com.au
 0.0.0.0 fleshbaby.com
 0.0.0.0 fleshlightcash.com
+0.0.0.0 flex.atdmt.com
 0.0.0.0 flexbanner.com
 0.0.0.0 flexispy.com
 0.0.0.0 fleyk.biz
@@ -15750,6 +15758,7 @@
 0.0.0.0 js.nrcdn.com
 0.0.0.0 json.bild.de
 0.0.0.0 jsonip.com
+0.0.0.0 js.ptengine.cn
 0.0.0.0 js.pusher.com
 0.0.0.0 js.recurly.com
 0.0.0.0 js.revsci.net
@@ -22480,6 +22489,7 @@
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxlctl.as.com
 0.0.0.0 pxlctl.elpais.com
+0.0.0.0 pxl.iqm.com
 0.0.0.0 pxl.jivox.com
 0.0.0.0 px.marchex.io
 0.0.0.0 px.moatads.com
@@ -23185,6 +23195,7 @@
 0.0.0.0 resumeforyour.net
 0.0.0.0 retaildirect.realmedia.com
 0.0.0.0 retargeter.com
+0.0.0.0 retcode.taobao.com
 0.0.0.0 retracker.com
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 retromus.ru
@@ -25426,6 +25437,7 @@
 0.0.0.0 sjafc.com
 0.0.0.0 sj.burstnet.com
 0.0.0.0 sjbypty.com
+0.0.0.0 s.jpush.cn
 0.0.0.0 sjrtp1.marketo.com
 0.0.0.0 sjrtp3-cdn.marketo.com
 0.0.0.0 sjrtp5-cdn.marketo.com
@@ -28286,6 +28298,7 @@
 0.0.0.0 tqlkg.net
 0.0.0.0 tqzn.com
 0.0.0.0 tr1.admeira.ch
+0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 traceremover.com
 0.0.0.0 tracezapper.com
 0.0.0.0 track1.aniview.com
@@ -30901,6 +30914,7 @@
 0.0.0.0 www.adsserve.com
 0.0.0.0 www.adstract.com
 0.0.0.0 www.adstriker.com
+0.0.0.0 www.adternal.com
 0.0.0.0 www.ad.tgdaily.com
 0.0.0.0 www.adtilt.com
 0.0.0.0 www.adtoolsinc.com
