@@ -894,6 +894,7 @@
 0.0.0.0 a.adsrvr.org
 0.0.0.0 a.adtech.de
 0.0.0.0 a.adtechus.com
+0.0.0.0 a.adtng.com
 0.0.0.0 aahrcpllc.com
 0.0.0.0 aambg.org
 0.0.0.0 a.amg777.com
@@ -3398,6 +3399,7 @@
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
+0.0.0.0 analytics.kaltura.com
 0.0.0.0 analytics.lego.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 analytics.live.com
 0.0.0.0 analytics.localytics.com
@@ -3418,6 +3420,7 @@
 0.0.0.0 analytics.similarweb.com
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.skyscanner.net
+0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.twitter.com
@@ -3916,6 +3919,7 @@
 0.0.0.0 appbaixar.com
 0.0.0.0 app.box.com
 0.0.0.0 appboy-images.com
+0.0.0.0 app.brightinfo.com
 0.0.0.0 appbrmob.com
 0.0.0.0 app.bronto.com
 0.0.0.0 app.chat.xiaomi.net
@@ -4109,6 +4113,7 @@
 0.0.0.0 ard.xxxblackbook.com
 0.0.0.0 areal-realt.ru
 0.0.0.0 aregay.com
+0.0.0.0 a.remarketstats.com
 0.0.0.0 arenapolitica.com.mx
 0.0.0.0 arendakvartir.kz
 0.0.0.0 arendovalka.xyz
@@ -5109,6 +5114,7 @@
 0.0.0.0 bci.modyo.be
 0.0.0.0 bci-net.com
 0.0.0.0 bcitech.com
+0.0.0.0 bc.marfeel.com
 0.0.0.0 bcmediagroup.com
 0.0.0.0 bcorporationswork.top
 0.0.0.0 bcp.crwdcntrl.net
@@ -6326,6 +6332,7 @@
 0.0.0.0 caiyi8.com
 0.0.0.0 cakra-app.com
 0.0.0.0 calcioturris.com
+0.0.0.0 c.algovid.com
 0.0.0.0 californiaparanormalsociety.com
 0.0.0.0 call2pay.com
 0.0.0.0 call4bill.com
@@ -6894,6 +6901,7 @@
 0.0.0.0 certifcadodesegurancadadosatualizar.club
 0.0.0.0 certifiedtranslations.ru
 0.0.0.0 certify.alexametrics.com
+0.0.0.0 certify-amp.alexametrics.com
 0.0.0.0 cert-services.com
 0.0.0.0 certumgroup.com
 0.0.0.0 cervatotal.servebeer.com
@@ -16899,6 +16907,7 @@
 0.0.0.0 logging.carambo.la
 0.0.0.0 logg.kiwi.com
 0.0.0.0 loghisuonerieweb.com
+0.0.0.0 log.hypebeast.com
 0.0.0.0 logiguard.com
 0.0.0.0 loginbank.org
 0.0.0.0 login.fric.cn
@@ -17759,6 +17768,7 @@
 0.0.0.0 mba-icmmadurai.in
 0.0.0.0 mbc44.com
 0.0.0.0 mbc70.com
+0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 mbkwbar.com
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mbmarquitectos.com.pe
@@ -19408,6 +19418,7 @@
 0.0.0.0 news.hugesoft.org
 0.0.0.0 newsit.es
 0.0.0.0 newsletter.com.au
+0.0.0.0 newsmaxmedia.demdex.net
 0.0.0.0 news.mirtesen.ru
 0.0.0.0 newsnetw.oewabox.at
 0.0.0.0 newsnetwork-bd.org
@@ -23165,6 +23176,7 @@
 0.0.0.0 republika.onet.pl
 0.0.0.0 requestedlinks.com
 0.0.0.0 res1.applovin.com
+0.0.0.0 researchgate-d.openx.net
 0.0.0.0 research.ifmo.ru
 0.0.0.0 resellerclub.com
 0.0.0.0 reseller-porn.com
@@ -25396,6 +25408,7 @@
 0.0.0.0 sirtermi.co.il
 0.0.0.0 sisbi.net
 0.0.0.0 sisco.hit.stat.pl
+0.0.0.0 sis.jpush.io
 0.0.0.0 sismodular.com
 0.0.0.0 sispk.com
 0.0.0.0 sistemaimune.com
@@ -26480,6 +26493,7 @@
 0.0.0.0 static.itrack.it
 0.0.0.0 static.kameleoon.com
 0.0.0.0 static.licdn.com
+0.0.0.0 static.mackeeper.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
 0.0.0.0 staticq.com
@@ -26562,6 +26576,7 @@
 0.0.0.0 stats.hyperinzerce.cz
 0.0.0.0 statsie.com
 0.0.0.0 stats.indextools.com
+0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stats.merriam-webster.com
@@ -27058,6 +27073,7 @@
 0.0.0.0 sync.users-api.com
 0.0.0.0 sync.vertamedia.com
 0.0.0.0 syncyourclock.com
+0.0.0.0 syndicate.purch.com
 0.0.0.0 syndication.exdynsrv.com
 0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
@@ -34174,6 +34190,7 @@
 0.0.0.0 x5x.ru
 0.0.0.0 x6.yakiuchi.com
 0.0.0.0 x77x.com
+0.0.0.0 x9vql09shn.kameleoon.eu
 0.0.0.0 xampapp.ga
 0.0.0.0 xanaxreliable.com
 0.0.0.0 xanhtuoi.com
