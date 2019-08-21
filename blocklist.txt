@@ -111,6 +111,7 @@
 0.0.0.0 adc.xxxlutz.de
 0.0.0.0 ad-delivery.net
 0.0.0.0 ad.doubleclick.net
+0.0.0.0 ad.dyntracker.com
 0.0.0.0 ad.eanalyzer.de
 0.0.0.0 adeasyadsdelivery.cloudapp.net
 0.0.0.0 ade.clmbtech.com
@@ -183,6 +184,7 @@
 0.0.0.0 ads.immobilienscout24.de
 0.0.0.0 ads.intentiq.com
 0.0.0.0 ads.investingchannel.com
+0.0.0.0 ads.ioam.de
 0.0.0.0 ads.lfstmedia.com
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.nexage.com
@@ -205,6 +207,7 @@
 0.0.0.0 ads.us.e-planning.net
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.videoadex.com
+0.0.0.0 ads.w55c.net
 0.0.0.0 ad.sxp.smartclip.net
 0.0.0.0 ads.yahoo.com
 0.0.0.0 ads.yap.yahoo.com
@@ -426,6 +429,7 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 asia.creativecdn.com
 0.0.0.0 askfm-usd-d.openx.net
 0.0.0.0 asmedia.adsupplyssl.com
 0.0.0.0 asn.advolution.de
@@ -584,6 +588,7 @@
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.bing.com
 0.0.0.0 cbm02.webtrekk.net
+0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsi-d.openx.net
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
@@ -954,6 +959,7 @@
 0.0.0.0 datacloud.tealiumiq.com
 0.0.0.0 data.cmcore.com
 0.0.0.0 datacollect6.abtasty.com
+0.0.0.0 data.coremetrics.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.livefyre.com
@@ -1131,6 +1137,7 @@
 0.0.0.0 events.demoup.com
 0.0.0.0 events.godaddy.com
 0.0.0.0 events.jotform.com
+0.0.0.0 events.kaloo.ga
 0.0.0.0 events.launchdarkly.com
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.privy.com
@@ -1221,6 +1228,7 @@
 0.0.0.0 geo2.adobe.com
 0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geo.gorillanation.com
+0.0.0.0 geo.kaloo.ga
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geo.moatads.com
@@ -2519,6 +2527,7 @@
 0.0.0.0 tracking.kdata.fr
 0.0.0.0 tracking.lqm.io
 0.0.0.0 tracking.m6r.eu
+0.0.0.0 tracking.metalyzer.com
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.mlsat02.de
 0.0.0.0 tracking.musixmatch.com
