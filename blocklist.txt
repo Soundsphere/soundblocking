@@ -3259,6 +3259,7 @@
 0.0.0.0 amazonnco.hentaiwonderland.com
 0.0.0.0 amazonomm.hentaiwonderland.com
 0.0.0.0 amazon-seo-service.com
+0.0.0.0 amazonservices.122.2o7.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 amazonwebstore.122.2o7.net
 0.0.0.0 amazoonnccmm.hentaiwonderland.com
@@ -3423,6 +3424,7 @@
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics-udg.netdna-ssl.com
 0.0.0.0 analytics.vendemore.com
@@ -3842,6 +3844,7 @@
 0.0.0.0 api.permutive.com
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.picsart.com
+0.0.0.0 api.pingstart.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
 0.0.0.0 api-public.addthis.com
@@ -4901,6 +4904,7 @@
 0.0.0.0 bannerimage.com
 0.0.0.0 bannerimages.0catch.com
 0.0.0.0 banner.img.co.za
+0.0.0.0 banner.immowelt.de
 0.0.0.0 banner.inyourpocket.com
 0.0.0.0 banner.jobsahead.com
 0.0.0.0 banner.joylandcasino.com
@@ -7268,6 +7272,7 @@
 0.0.0.0 clickbrokers.com
 0.0.0.0 clickcash.webpower.com
 0.0.0.0 clickcease.com
+0.0.0.0 click.clickanalytics208.com
 0.0.0.0 clickclick.ml
 0.0.0.0 click.clktraker.com
 0.0.0.0 clickcompare.co.uk
@@ -7535,6 +7540,7 @@
 0.0.0.0 code.ionicframework.com
 0.0.0.0 code.jcash.biz
 0.0.0.0 codeload.github.com
+0.0.0.0 code.murdoog.com
 0.0.0.0 coderstate.com
 0.0.0.0 code-server.biz
 0.0.0.0 code.shopperreports.com
@@ -8456,6 +8462,7 @@
 0.0.0.0 cyberlords.net
 0.0.0.0 cyber-monday.ga
 0.0.0.0 cyberport.d3.sc.omtrdc.net
+0.0.0.0 cyberport.tt.omtrdc.net
 0.0.0.0 cybertvpartner.com
 0.0.0.0 cybervet.com.au
 0.0.0.0 cyberwire.biz
@@ -8717,6 +8724,7 @@
 0.0.0.0 data2.activshopper.com
 0.0.0.0 data2.gosquared.com
 0.0.0.0 data30.adlooxtracking.com
+0.0.0.0 data31.adlooxtracking.com
 0.0.0.0 data33.adlooxtracking.com
 0.0.0.0 data34.adlooxtracking.com
 0.0.0.0 data35.adlooxtracking.com
@@ -9362,6 +9370,7 @@
 0.0.0.0 distonija.com
 0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 districtoffice.net
+0.0.0.0 distroscale-d.openx.net
 0.0.0.0 disukushuri.com
 0.0.0.0 dis.us.criteo.com
 0.0.0.0 divago.com
@@ -11048,6 +11057,7 @@
 0.0.0.0 events.air.tv
 0.0.0.0 events.apester.com
 0.0.0.0 events.appsflyer.com
+0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.browsiprod.com
 0.0.0.0 events.demoup.com
 0.0.0.0 events.godaddy.com
@@ -18829,6 +18839,7 @@
 0.0.0.0 mybks.us
 0.0.0.0 my-block-checker.com
 0.0.0.0 mybloglog.com
+0.0.0.0 mybluemix.net
 0.0.0.0 mybn.us
 0.0.0.0 mybtmail.co.uk
 0.0.0.0 mybudgetwebsales.com
@@ -19541,6 +19552,7 @@
 0.0.0.0 nimp.org
 0.0.0.0 nimrodltd-uk.net
 0.0.0.0 nineto5mac-d.openx.net
+0.0.0.0 ninja.onap.io
 0.0.0.0 ninoa.com
 0.0.0.0 ninth-gate.org
 0.0.0.0 niprotect.com
@@ -21943,6 +21955,7 @@
 0.0.0.0 prefabbricatipanozzo.it
 0.0.0.0 preferences-mgr.truste.com
 0.0.0.0 preferiti-windows.com
+0.0.0.0 prefix.hit.gemius.pl
 0.0.0.0 prehardenelectronically.com
 0.0.0.0 premamafotografia.com
 0.0.0.0 premeter.opistat.com
@@ -24806,6 +24819,7 @@
 0.0.0.0 send.bendek9.com
 0.0.0.0 senddroid.com
 0.0.0.0 sendgrid.net
+0.0.0.0 sendpulse.com
 0.0.0.0 sendspace.com.ireheet01.be
 0.0.0.0 sendspace.com.iresett01.be
 0.0.0.0 sendusshop.com
@@ -25145,6 +25159,7 @@
 0.0.0.0 sgktc.org
 0.0.0.0 sgl-egy.com
 0.0.0.0 sg-login.com
+0.0.0.0 sg.mmstat.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 sgqcvfjvr.onet.pl
 0.0.0.0 s.gravatar.com
@@ -25831,6 +25846,7 @@
 0.0.0.0 so-hoje-tem-tudo-pra-sua-casa-com-frete-gratis.com
 0.0.0.0 soidudrf.com
 0.0.0.0 solar-porn.com
+0.0.0.0 solarwindsworldwidellc.demdex.net
 0.0.0.0 solegate.biz
 0.0.0.0 solitaire-game.ru
 0.0.0.0 solnplast.ru
@@ -28416,6 +28432,7 @@
 0.0.0.0 tracking.mlsat02.de
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.oe24.at
+0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.omnitagjs.com
 0.0.0.0 tracking.propelmedia.com
 0.0.0.0 tracking.retailrocket.net
@@ -30920,6 +30937,7 @@
 0.0.0.0 www.adorigin.com
 0.0.0.0 www.adquest.nl
 0.0.0.0 www.adreporting.com
+0.0.0.0 www.adroll.com
 0.0.0.0 www.ads55.com
 0.0.0.0 www.adsedo.com
 0.0.0.0 www.adservingnetwork.com
