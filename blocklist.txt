@@ -37,6 +37,7 @@
 0.0.0.0 8468614.fls.doubleclick.net
 0.0.0.0 883205.fls.doubleclick.net
 0.0.0.0 935-kke-240.mktoresp.com
+0.0.0.0 9to5google.com
 0.0.0.0 a1.adform.net
 0.0.0.0 a1.vdna-assets.com
 0.0.0.0 a2130.casalemedia.com
@@ -216,6 +217,7 @@
 0.0.0.0 ads.sunmaker.com
 0.0.0.0 adstax-match.adrtx.net
 0.0.0.0 ads.themoneytizer.com
+0.0.0.0 ads.trafficjunky.net
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.undertone.com
@@ -441,6 +443,7 @@
 0.0.0.0 app-sj17.marketo.com
 0.0.0.0 app-sji.marketo.com
 0.0.0.0 apps.shareaholic.com
+0.0.0.0 appuals.com
 0.0.0.0 app.yieldify.com
 0.0.0.0 a.pub.network
 0.0.0.0 apvdr.com
@@ -2126,6 +2129,7 @@
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3-eu-central-1.amazonaws.com
+0.0.0.0 s3.us-east-2.amazonaws.com
 0.0.0.0 s62.mxcdn.net
 0.0.0.0 s7.addthis.com
 0.0.0.0 s8.addthis.com
