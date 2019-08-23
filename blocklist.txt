@@ -293,6 +293,7 @@
 0.0.0.0 30kuil1.iodelivery.com
 0.0.0.0 30search.com
 0.0.0.0 30to50.com
+0.0.0.0 311c47d7.webengage.co
 0.0.0.0 31234.com
 0.0.0.0 313ddd59-592a-44df-90a9-955eb1649d4a.htmlpasta.com
 0.0.0.0 315-ftt-121.mktoresp.com
@@ -406,6 +407,7 @@
 0.0.0.0 456oxlw7li43o.com
 0.0.0.0 4704202.fls.doubleclick.net
 0.0.0.0 47089ffb-b84d-4f8c-beeb-245caad9ecbf.htmlpasta.com
+0.0.0.0 4711400.fls.doubleclick.net
 0.0.0.0 4798542.fls.doubleclick.net
 0.0.0.0 4878630.fls.doubleclick.net
 0.0.0.0 4898337.fls.doubleclick.net
@@ -2003,6 +2005,7 @@
 0.0.0.0 ads.exdynsrv.com
 0.0.0.0 ads.expat-blog.biz
 0.0.0.0 ads.expedia.com
+0.0.0.0 ads.eyeonx.ch
 0.0.0.0 ads.ezboard.com
 0.0.0.0 ad.seznam.cz
 0.0.0.0 adsfac.eu
@@ -2070,6 +2073,7 @@
 0.0.0.0 ads.icq.com
 0.0.0.0 adside.com
 0.0.0.0 ads.ign.com
+0.0.0.0 ads.imaging-resource.com
 0.0.0.0 ad.simgames.net
 0.0.0.0 ads.img.co.za
 0.0.0.0 ads.imgur.com
@@ -5103,6 +5107,7 @@
 0.0.0.0 bbin.ru
 0.0.0.0 bbjj.househot.com
 0.0.0.0 bbn-903.icu
+0.0.0.0 bbnaut.bbelements.com
 0.0.0.0 bbn.img.com.ua
 0.0.0.0 bb.portalsacbb.app
 0.0.0.0 bb-search.com
@@ -8572,6 +8577,7 @@
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
 0.0.0.0 d3t5ngjixpjdho.cloudfront.net
 0.0.0.0 d3v27wwd40f0xu.cloudfront.net
+0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5p.de17a.com
 0.0.0.0 d6513d71-ee0e-41c3-8bda-83587ac4e863.htmlpasta.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
@@ -8710,6 +8716,7 @@
 0.0.0.0 data12.adlooxtracking.com
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data13.adlooxtracking.com
+0.0.0.0 data14.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
 0.0.0.0 data19.adlooxtracking.com
@@ -8733,6 +8740,7 @@
 0.0.0.0 data36.adlooxtracking.com
 0.0.0.0 data37.adlooxtracking.com
 0.0.0.0 data38.adlooxtracking.com
+0.0.0.0 data39.adlooxtracking.com
 0.0.0.0 data53.adlooxtracking.com
 0.0.0.0 data55.adlooxtracking.com
 0.0.0.0 data58.adlooxtracking.com
@@ -11075,6 +11083,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.secureserver.net
 0.0.0.0 events.streamrail.net
+0.0.0.0 events.turbosquid.com
 0.0.0.0 events.whisk.com
 0.0.0.0 event-tracking.com
 0.0.0.0 eventuresnv.com
@@ -12516,6 +12525,7 @@
 0.0.0.0 g8consultores.com.ar
 0.0.0.0 ga31.com
 0.0.0.0 gaae.hit.gemius.pl
+0.0.0.0 gaba.hit.gemius.pl
 0.0.0.0 gabe.hit.gemius.pl
 0.0.0.0 gabrielakoenig.ws
 0.0.0.0 gabrielscott.com
@@ -14447,6 +14457,7 @@
 0.0.0.0 icommerce.ws
 0.0.0.0 i-compass-group.at
 0.0.0.0 icompass.insightexpressai.com
+0.0.0.0 i.compendium.com
 0.0.0.0 iconads.biz
 0.0.0.0 iconexpo.com
 0.0.0.0 iconforge.favicon.com
@@ -14988,6 +14999,7 @@
 0.0.0.0 infohelpspeednet.com
 0.0.0.0 infomarket.cc
 0.0.0.0 infomessagerieclients.freeweb.pk
+0.0.0.0 info.muxy.io
 0.0.0.0 info.mytrix.cz
 0.0.0.0 infonet.com.tn
 0.0.0.0 infopaypal.135.it
@@ -15317,6 +15329,7 @@
 0.0.0.0 iqsearch.net
 0.0.0.0 iquicksearch.com
 0.0.0.0 iquicksearch.net
+0.0.0.0 i.r1-cdn.net
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 iraher.com
 0.0.0.0 irame.co.zw
@@ -17234,6 +17247,7 @@
 0.0.0.0 m.9gag.com
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 ma3ca.com
+0.0.0.0 ma728-r.analytics.edgekey.net
 0.0.0.0 maaalainin.org
 0.0.0.0 mabas.co.za
 0.0.0.0 mab.chartbeat.com
@@ -18110,6 +18124,7 @@
 0.0.0.0 metrics.corus.ca
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrics.gfycat.com
+0.0.0.0 metrics.makemytrip.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.performancing.com
@@ -18410,6 +18425,7 @@
 0.0.0.0 modserv.net
 0.0.0.0 modysabera.com
 0.0.0.0 moevideo.biz
+0.0.0.0 mogointeractive.com
 0.0.0.0 mogreet.com
 0.0.0.0 mohanahrfuturistics.com
 0.0.0.0 moinozhki.com
@@ -19934,6 +19950,7 @@
 0.0.0.0 oascentral.charleston.net
 0.0.0.0 oascentral.chicagobusiness.com
 0.0.0.0 oascentral.clearchannel.com
+0.0.0.0 oascentral.consumerreports.org
 0.0.0.0 oascentral.covers.com
 0.0.0.0 oascentral.cybereps.com
 0.0.0.0 oascentral.dailybreeze.com
@@ -23781,7 +23798,9 @@
 0.0.0.0 sam.msn.com
 0.0.0.0 samochodoweoleje.pl
 0.0.0.0 samsung.demdex.net
+0.0.0.0 samsungelectronicsamericainc.demdex.net
 0.0.0.0 samsung-germany.demdex.net
+0.0.0.0 samsungus.btttag.com
 0.0.0.0 samz.com
 0.0.0.0 sam.zoy.org
 0.0.0.0 sa-nata.com.ua
@@ -30639,6 +30658,7 @@
 0.0.0.0 wswgroup.com
 0.0.0.0 wswnet.com
 0.0.0.0 wt.adctrl.com
+0.0.0.0 wtpn.twenga.de
 0.0.0.0 wu2cash.com
 0.0.0.0 wudiliuliang.com
 0.0.0.0 wudustore.com
@@ -33117,6 +33137,7 @@
 0.0.0.0 www.porncash.de
 0.0.0.0 www.porncash.tv
 0.0.0.0 www.pornhub.com
+0.0.0.0 www.pornhublive.com
 0.0.0.0 www.pornmagbucks.com
 0.0.0.0 www.pornmagpass.com
 0.0.0.0 www.pornmail.com
