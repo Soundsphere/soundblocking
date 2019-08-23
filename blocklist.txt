@@ -88,6 +88,7 @@
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 a.bf-ad.net
 0.0.0.0 abp.smartadcheck.de
+0.0.0.0 abrtp1.marketo.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accounts.eu1.gigya.com
 0.0.0.0 acdn.adnxs.com
@@ -359,6 +360,7 @@
 0.0.0.0 anycast.fw.adsafeprotected.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 anyclip-d.openx.net
+0.0.0.0 aoa.demdex.net
 0.0.0.0 aol-match.dotomi.com
 0.0.0.0 aol-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 aol-winners-us-east-1-rtb.adroll.com
@@ -508,6 +510,7 @@
 0.0.0.0 ats.otto.de
 0.0.0.0 a.twiago.com
 0.0.0.0 auction.unityads.unity3d.com
+0.0.0.0 audiag.112.2o7.net
 0.0.0.0 audible.tt.omtrdc.net
 0.0.0.0 audit.quantcast.mgr.consensu.org
 0.0.0.0 aud.pubmatic.com
@@ -819,6 +822,7 @@
 0.0.0.0 clicktotweet.com
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 client-analytics.braintreegateway.com
+0.0.0.0 client.a.pxi.pub
 0.0.0.0 clientcdn.pushengage.com
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 clientmetrics.kik.com
@@ -1139,6 +1143,7 @@
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dpm.zebestof.com
 0.0.0.0 dps.bing.com
+0.0.0.0 dp-sync.dotomi.com
 0.0.0.0 d.refinedads.com
 0.0.0.0 drs2.veinteractive.com
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -1419,6 +1424,7 @@
 0.0.0.0 hit.dogannet.tv
 0.0.0.0 hits.europuls.eu
 0.0.0.0 hive-d.openx.net
+0.0.0.0 hm732.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hnbutton.appspot.com
 0.0.0.0 hn.inspectlet.com
@@ -2095,6 +2101,7 @@
 0.0.0.0 recreativ.ru
 0.0.0.0 recs.richrelevance.com
 0.0.0.0 recs.shareaholic.com
+0.0.0.0 redhat.sc.omtrdc.net
 0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 redirect.viglink.com
 0.0.0.0 referrer.disqus.com
@@ -2247,6 +2254,7 @@
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 s.eclick.vn
 0.0.0.0 sec.umeng.com
+0.0.0.0 secure.33across.com
 0.0.0.0 secure.ace-tag.advertising.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 secure-assets.rubiconproject.com
@@ -2359,6 +2367,7 @@
 0.0.0.0 sofia.trustx.org
 0.0.0.0 solarwindsworldwidellc.demdex.net
 0.0.0.0 soma.smaato.net
+0.0.0.0 sonyglobal.d1.sc.omtrdc.net
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 spade.twitch.tv
@@ -2482,6 +2491,7 @@
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.kaltura.com
 0.0.0.0 stats.l.doubleclick.net
+0.0.0.0 stats.lotlinx.com
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.monohost.com
 0.0.0.0 stats.mos.ru
@@ -2696,6 +2706,7 @@
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.gaug.es
 0.0.0.0 track.hubspot.com
+0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 tracking.bloomberg.com
@@ -2896,6 +2907,7 @@
 0.0.0.0 webts.adac.de
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 wellsfargobankna.demdex.net
+0.0.0.0 weltonline01.webtrekk.net
 0.0.0.0 w.estat.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 whitelabel.media.net
@@ -2967,6 +2979,7 @@
 0.0.0.0 www.adman.gr
 0.0.0.0 www.adobetag.com
 0.0.0.0 www.adroll.com
+0.0.0.0 www.adsensecustomsearchads.com
 0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adternal.com
 0.0.0.0 www.adtilt.com
@@ -3022,6 +3035,7 @@
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.ligatus.com
+0.0.0.0 www.linkconnector.com
 0.0.0.0 www.linksalpha.com
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liveinternet.ru
