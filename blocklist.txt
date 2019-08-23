@@ -10,6 +10,7 @@
 0.0.0.0 2507573.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
+0.0.0.0 311c47d7.webengage.co
 0.0.0.0 3276817.fls.doubleclick.net
 0.0.0.0 33across-d.openx.net
 0.0.0.0 341800575.log.optimizely.com
@@ -185,12 +186,14 @@
 0.0.0.0 adserver.eyeonx.ch
 0.0.0.0 adserver.idg.de
 0.0.0.0 adserver.pressboard.ca
+0.0.0.0 adserver.reklamstore.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 ads.e-webtrack.net
+0.0.0.0 ads.eyeonx.ch
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.google.com
@@ -282,6 +285,7 @@
 0.0.0.0 altfarm.mediaplex.com
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 amazonservices.122.2o7.net
+0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 amazonwebstore.122.2o7.net
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify-imp.outbrain.com
@@ -457,6 +461,7 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 ash.creativecdn.com
 0.0.0.0 asia.creativecdn.com
 0.0.0.0 ask-d.openx.net
 0.0.0.0 askfm-usd-d.openx.net
@@ -530,6 +535,7 @@
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
 0.0.0.0 bbc.gscontxt.net
+0.0.0.0 bbnaut.bbelements.com
 0.0.0.0 bbnaut.ibillboard.com
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
 0.0.0.0 bc.marfeel.com
@@ -636,6 +642,7 @@
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.stickyadstv.com
 0.0.0.0 cdn2.hubspot.net
+0.0.0.0 cdn2.inner-active.mobi
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
@@ -960,6 +967,7 @@
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
+0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5p.de17a.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
@@ -980,11 +988,13 @@
 0.0.0.0 data04.adlooxtracking.com
 0.0.0.0 data05.adlooxtracking.com
 0.0.0.0 data06.adlooxtracking.com
+0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data08.adlooxtracking.com
 0.0.0.0 data10.adlooxtracking.com
 0.0.0.0 data11.adlooxtracking.com
 0.0.0.0 data12.adlooxtracking.com
 0.0.0.0 data134.adlooxtracking.com
+0.0.0.0 data14.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
@@ -1035,6 +1045,7 @@
 0.0.0.0 dc84.s290.meetrics.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dc.ads.linkedin.com
+0.0.0.0 dc.banggood.com
 0.0.0.0 dcinfos.abtasty.com
 0.0.0.0 dclk-match.dotomi.com
 0.0.0.0 dc.services.visualstudio.com
@@ -1072,6 +1083,7 @@
 0.0.0.0 di.rlcdn.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 dis.eu.criteo.com
+0.0.0.0 displayad.layer-ad.org
 0.0.0.0 display.apester.com
 0.0.0.0 displayf.tubemogul.com
 0.0.0.0 distillery.wistia.com
@@ -1095,6 +1107,7 @@
 0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 d.nativendo.de
 0.0.0.0 dnn506yrbagrg.cloudfront.net
+0.0.0.0 dnssec-nd.gexperiments1.com
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 dot.wp.pl
 0.0.0.0 doug1izaerwt3.cloudfront.net
@@ -1158,6 +1171,7 @@
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
 0.0.0.0 e.mail.ru
 0.0.0.0 engine.adzerk.net
+0.0.0.0 ens.nzz.ch
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 epicunitscan.info
 0.0.0.0 epidm.edgesuite.net
@@ -1206,11 +1220,13 @@
 0.0.0.0 events.privy.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.streamrail.net
+0.0.0.0 events.turbosquid.com
 0.0.0.0 event.yoochoose.net
 0.0.0.0 ev.kck.st
 0.0.0.0 evolvemedia-d.openx.net
 0.0.0.0 evt.klarna.com
 0.0.0.0 exapi-eu.rubiconproject.com
+0.0.0.0 exapxl.de
 0.0.0.0 exch.quantcount.com
 0.0.0.0 exch.quantserve.com
 0.0.0.0 expedia.com.ssl.d1.sc.omtrdc.net
@@ -1387,6 +1403,7 @@
 0.0.0.0 htlbid.com
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 httpkafka.unityads.unity3d.com
+0.0.0.0 ht.youporn.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
@@ -1473,6 +1490,7 @@
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 ip.nuggad.net
 0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
+0.0.0.0 i.r1-cdn.net
 0.0.0.0 ir2.beap.gemini.yahoo.com
 0.0.0.0 ir-conductor.clicktale.net
 0.0.0.0 ir-de.amazon-adsystem.com
@@ -1596,6 +1614,7 @@
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.olark.com
+0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
 0.0.0.0 logpostback.media.net
@@ -1626,6 +1645,7 @@
 0.0.0.0 m2d.m2.ai
 0.0.0.0 m.9gag.com
 0.0.0.0 ma312-r.analytics.edgesuite.net
+0.0.0.0 ma728-r.analytics.edgekey.net
 0.0.0.0 mab.chartbeat.com
 0.0.0.0 mabping.chartbeat.net
 0.0.0.0 mackeeperapp.mackeeper.com
@@ -1705,6 +1725,7 @@
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.gfycat.com
+0.0.0.0 metrics.makemytrip.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.responsetap.com
@@ -1713,6 +1734,7 @@
 0.0.0.0 mg.mgid.com
 0.0.0.0 microsoftwindows.112.2o7.net
 0.0.0.0 mid.rkdms.com
+0.0.0.0 milesandmore.d1.sc.omtrdc.net
 0.0.0.0 ml314.com
 0.0.0.0 mlb.demdex.net
 0.0.0.0 mmtro.com
@@ -1785,6 +1807,7 @@
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 o.addthis.com
 0.0.0.0 oasc05.247realmedia.com
+0.0.0.0 oascentral.consumerreports.org
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 offer.alibaba.com
@@ -2078,6 +2101,7 @@
 0.0.0.0 rpt.cedexis.com
 0.0.0.0 rpxnow.com
 0.0.0.0 r.refinedads.com
+0.0.0.0 r.remarketingpixel.com
 0.0.0.0 r.sastts.com
 0.0.0.0 rscdn.cxense.com
 0.0.0.0 r.scoota.co
@@ -2144,7 +2168,9 @@
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
 0.0.0.0 samsung.demdex.net
+0.0.0.0 samsungelectronicsamericainc.demdex.net
 0.0.0.0 samsung-germany.demdex.net
+0.0.0.0 samsungus.btttag.com
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sat101.webtrekk.net
 0.0.0.0 saxp.zedo.com
@@ -2300,6 +2326,7 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 sofia.trustx.org
 0.0.0.0 solarwindsworldwidellc.demdex.net
+0.0.0.0 soma.smaato.net
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 spade.twitch.tv
@@ -2406,6 +2433,7 @@
 0.0.0.0 static.zotabox.com
 0.0.0.0 statistics.11880.com
 0.0.0.0 stat.media
+0.0.0.0 stat.pladform.ru
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stats01.20min.ch
 0.0.0.0 stats2.toolur.com
@@ -2573,9 +2601,11 @@
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 tendertest.com
+0.0.0.0 tenor.com
 0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 tetu.com
 0.0.0.0 tg.socdm.com
+0.0.0.0 tharbadir.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 t.hoood.info
 0.0.0.0 thor.rtk.io
@@ -2583,8 +2613,10 @@
 0.0.0.0 tia.timeinc.net
 0.0.0.0 time.izatcloud.net
 0.0.0.0 t.indeed.com
+0.0.0.0 tisoomi-services.com
 0.0.0.0 t.kck.st
 0.0.0.0 tk.kaufda.de
+0.0.0.0 tknet.rayjump.com
 0.0.0.0 t.ktxtr.com
 0.0.0.0 tlp-01.kameleoon.com
 0.0.0.0 tlp-02.kameleoon.com
@@ -2655,6 +2687,7 @@
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.mopo.de
 0.0.0.0 track.noz.de
+0.0.0.0 track.omguk.com
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.webgains.com
@@ -2730,6 +2763,7 @@
 0.0.0.0 usage.trackjs.com
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 us-central1-firebase-wixapp.cloudfunctions.net
+0.0.0.0 usd.india-abc.com
 0.0.0.0 usemaxserver.de
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
@@ -2747,6 +2781,7 @@
 0.0.0.0 v10.events.data.microsoft.com
 0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 v2.zopim.com
+0.0.0.0 v4.moatads.com
 0.0.0.0 v7.beemray.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v7.stats.avast.com
@@ -2841,6 +2876,7 @@
 0.0.0.0 widget.privy.com
 0.0.0.0 widgets.amung.us
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 widgets.stackcommerce.com
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
@@ -2871,6 +2907,7 @@
 0.0.0.0 ww1097.smartadserver.com
 0.0.0.0 ww2060.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
+0.0.0.0 ww50.smartadserver.com
 0.0.0.0 ww691.smartadserver.com
 0.0.0.0 www14.smartadserver.com
 0.0.0.0 www1.belboon.de
@@ -2999,6 +3036,7 @@
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xiti.com
 0.0.0.0 www.yceml.net
+0.0.0.0 www.youporn.com
 0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 www.zergnet.com
 0.0.0.0 x9vql09shn.kameleoon.eu
