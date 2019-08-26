@@ -368,6 +368,7 @@
 0.0.0.0 a.optnmnstr.com
 0.0.0.0 a.optnmstr.com
 0.0.0.0 apex.go.sonobi.com
+0.0.0.0 api2.branch.io
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.amplitude.com
@@ -531,6 +532,7 @@
 0.0.0.0 ax-d.pixfuture.net
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 az416426.vo.msecnd.net
+0.0.0.0 az-partners.net
 0.0.0.0 b0oqeyj7z5.kameleoon.eu
 0.0.0.0 b1img.com
 0.0.0.0 b1sync.zemanta.com
@@ -790,6 +792,7 @@
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-amp.alexametrics.com
 0.0.0.0 c.evidon.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 c.fqtag.com
 0.0.0.0 cgi.connect.qq.com
 0.0.0.0 c.go-mpulse.net
@@ -834,6 +837,7 @@
 0.0.0.0 clk.solocpm.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudfront-labs.amazonaws.com
+0.0.0.0 cloud-observer.ip-label.net
 0.0.0.0 cm.adform.net
 0.0.0.0 cm.adgrx.com
 0.0.0.0 cmap.alibaba.com
@@ -1368,6 +1372,7 @@
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 gmads.net
 0.0.0.0 gm.mmstat.com
+0.0.0.0 g.msn.com
 0.0.0.0 gnar.grammarly.com
 0.0.0.0 go.affec.tv
 0.0.0.0 go.automatad.com
@@ -1760,6 +1765,7 @@
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.gfycat.com
+0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
@@ -2176,6 +2182,7 @@
 0.0.0.0 rudy.adsnative.com
 0.0.0.0 rules.atgsvcs.com
 0.0.0.0 rules.quantcount.com
+0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 rum.logsss.com
 0.0.0.0 rum.monitis.com
 0.0.0.0 rum-static.pingdom.net
@@ -2327,6 +2334,7 @@
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simage4.pubmatic.com
 0.0.0.0 simonsignal.com
+0.0.0.0 sin.creativecdn.com
 0.0.0.0 s.infogram.com
 0.0.0.0 s.innovid.com
 0.0.0.0 si.nuggad.net
@@ -2877,6 +2885,7 @@
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 v.lkqd.net
+0.0.0.0 vmp.boldchat.com
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 vodafonenz.122.2o7.net
 0.0.0.0 vop.sundaysky.com
