@@ -78,6 +78,7 @@
 0.0.0.0 a.adtech.de
 0.0.0.0 a.adtng.com
 0.0.0.0 a-ams.1rx.io
+0.0.0.0 aan.amazon.com
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.audrte.com
@@ -85,6 +86,7 @@
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 a.bf-ad.net
 0.0.0.0 abp.smartadcheck.de
@@ -319,6 +321,7 @@
 0.0.0.0 ams03-usadmm-ds.dotomi.com
 0.0.0.0 ams1-ib.adnxs.com
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
+0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-usadmm.dotomi.com
 0.0.0.0 amzn.to
 0.0.0.0 analytics.businessinsider.com
@@ -527,6 +530,7 @@
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 autocomplete.demandbase.com
+0.0.0.0 autocontext.begun.ru
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 aux-log2-sh.vertamedia.com
 0.0.0.0 avantlink.com
@@ -558,6 +562,7 @@
 0.0.0.0 banners.webmasterplan.com
 0.0.0.0 banners.wunderground.com
 0.0.0.0 bat.bing.com
+0.0.0.0 batchgeo.com
 0.0.0.0 batchlogging4-noneu.truecaller.com
 0.0.0.0 bats.video.yahoo.com
 0.0.0.0 bbcdn-bbnaut.ibillboard.com
@@ -627,6 +632,7 @@
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bttrack.com
 0.0.0.0 buffer-media-uploads.s3.amazonaws.com
+0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 builfico.de
 0.0.0.0 by.uservoice.com
@@ -963,6 +969,7 @@
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c.wort-suche.com
+0.0.0.0 cws.conviva.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cyberport.d3.sc.omtrdc.net
@@ -1337,6 +1344,7 @@
 0.0.0.0 g7.m.fwmrm.net
 0.0.0.0 gaae.hit.gemius.pl
 0.0.0.0 gaba.hit.gemius.pl
+0.0.0.0 ga-beacon.appspot.com
 0.0.0.0 gaby.hit.gemius.pl
 0.0.0.0 ga.clearbit.com
 0.0.0.0 g.adspeed.net
@@ -1409,6 +1417,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 green.erne.co
+0.0.0.0 grmtech.net
 0.0.0.0 grunerandjahr.112.2o7.net
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gscounters.us1.gigya.com
@@ -1524,6 +1533,7 @@
 0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 in.ml314.com
+0.0.0.0 inputs.alooma.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insights.blogfoster.com
 0.0.0.0 insights.hotjar.com
@@ -1615,6 +1625,7 @@
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kinesis.us-east-1.amazonaws.com
 0.0.0.0 k.intellitxt.com
+0.0.0.0 kiosked-d.openx.net
 0.0.0.0 kitbit.net
 0.0.0.0 kleinanzeigen-d.openx.net
 0.0.0.0 kraken.rambler.ru
@@ -1714,6 +1725,7 @@
 0.0.0.0 m.adnxs.com
 0.0.0.0 mads.amazon-adsystem.com
 0.0.0.0 mads-eu.amazon.com
+0.0.0.0 m.adtiming.com
 0.0.0.0 mahimeta.com
 0.0.0.0 mailchimp.com
 0.0.0.0 mailderef.web.de
@@ -1808,6 +1820,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 mobile-service.segment.com
 0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 modes.taboola.com
@@ -1856,6 +1869,7 @@
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nfl.demdex.net
+0.0.0.0 nfl.hb.omtrdc.net
 0.0.0.0 nfoo-server.com
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ninja.onap.io
@@ -2097,6 +2111,7 @@
 0.0.0.0 px.wa.ui-portal.de
 0.0.0.0 px.wayfair.com
 0.0.0.0 p.yotpo.com
+0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
 0.0.0.0 qsearch.media.net
 0.0.0.0 qs.ioam.de
@@ -2447,6 +2462,7 @@
 0.0.0.0 ssp-csync.smartadserver.com
 0.0.0.0 ssp.lkqd.net
 0.0.0.0 s.spoutable.com
+0.0.0.0 ssp.rambler.ru
 0.0.0.0 sstatic1.histats.com
 0.0.0.0 s-static.innovid.com
 0.0.0.0 sstats.adobe.com
@@ -2652,6 +2668,7 @@
 0.0.0.0 t.appsflyer.com
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap-secure.rubiconproject.com
+0.0.0.0 target.smi2.net
 0.0.0.0 target.smi2.ru
 0.0.0.0 tbs.tradedoubler.com
 0.0.0.0 tc.airfrance.com
@@ -2760,6 +2777,7 @@
 0.0.0.0 tracking.mlsat02.de
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.olx-st.com
+0.0.0.0 tracking.omnitagjs.com
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.skyword.com
 0.0.0.0 tracking.srv2.de
@@ -2771,6 +2789,7 @@
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.webgains.com
+0.0.0.0 track.ziprecruiter.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafforsrv.com
 0.0.0.0 tr.blismedia.com
@@ -2944,6 +2963,7 @@
 0.0.0.0 webtrends.telegraph.co.uk
 0.0.0.0 webts.adac.de
 0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 wellsfargobankna.demdex.net
 0.0.0.0 weltonline01.webtrekk.net
 0.0.0.0 w.estat.com
