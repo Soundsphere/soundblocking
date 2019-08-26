@@ -88,6 +88,7 @@
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 a.bf-ad.net
 0.0.0.0 abp.smartadcheck.de
+0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 abrtp1.marketo.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accounts.eu1.gigya.com
@@ -425,6 +426,7 @@
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.usersnap.com
+0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.viafoura.co
 0.0.0.0 api.viglink.com
 0.0.0.0 api.vungle.com
@@ -581,6 +583,7 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.sojern.com
+0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
@@ -1029,6 +1032,7 @@
 0.0.0.0 data12.adlooxtracking.com
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data14.adlooxtracking.com
+0.0.0.0 data15.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
@@ -1431,6 +1435,7 @@
 0.0.0.0 hello.lov.net
 0.0.0.0 hello.myfonts.net
 0.0.0.0 helper-stats.wondershare.com
+0.0.0.0 heredeutschlandgmbh.d1.sc.omtrdc.net
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hit.dogannet.tv
@@ -1546,6 +1551,7 @@
 0.0.0.0 ir-ing-district.clicktale.net
 0.0.0.0 ir-na.amazon-adsystem.com
 0.0.0.0 irqs.ioam.de
+0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 i.simpli.fi
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 i.skimresources.com
@@ -1619,6 +1625,7 @@
 0.0.0.0 kvinit-prod.api.kochava.com
 0.0.0.0 l2.io
 0.0.0.0 l2.visiblemeasures.com
+0.0.0.0 l96jc26jvj.kameleoon.eu
 0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 launchpoint.marketo.com
@@ -1782,6 +1789,7 @@
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
+0.0.0.0 metrics.nfl.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.responsetap.com
@@ -1800,6 +1808,7 @@
 0.0.0.0 mobile-collector.newrelic.com
 0.0.0.0 mobile-de-d.openx.net
 0.0.0.0 mobile.pipe.aria.microsoft.com
+0.0.0.0 mobile.smartadserver.com
 0.0.0.0 mobile-static.adsafeprotected.com
 0.0.0.0 modes.taboola.com
 0.0.0.0 moevideo.biz
@@ -2525,6 +2534,7 @@
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.smartclip.net
+0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.wired.com
 0.0.0.0 stats.wordpress.com
@@ -2543,6 +2553,7 @@
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 stream1.livefyre.com
+0.0.0.0 stream.useriq.com
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 strips.vidible.tv
 0.0.0.0 st.top100.ru
@@ -2665,6 +2676,7 @@
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
+0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 tendertest.com
