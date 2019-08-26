@@ -3796,6 +3796,7 @@
 0.0.0.0 apgs.us
 0.0.0.0 a.photobucket.com
 0.0.0.0 aphrodite.porntrack.com
+0.0.0.0 api2.branch.io
 0.0.0.0 api.addthis.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.adquality.ch
@@ -3904,6 +3905,7 @@
 0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab10.marketo.com
 0.0.0.0 app-ab12.marketo.com
+0.0.0.0 app-ab13.marketo.com
 0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab16.marketo.com
 0.0.0.0 app-ab17.marketo.com
@@ -4341,6 +4343,7 @@
 0.0.0.0 assets.adstage.io
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.customer.io
+0.0.0.0 assets.ipcdigital.co.uk
 0.0.0.0 assets.jetlore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.kromtech.net
@@ -4706,6 +4709,7 @@
 0.0.0.0 azkempire.com
 0.0.0.0 azlex.uz
 0.0.0.0 azonica.com
+0.0.0.0 az-partners.net
 0.0.0.0 azter.com
 0.0.0.0 azur-residence.com
 0.0.0.0 azzoonnmm.hentaiwonderland.com
@@ -6934,6 +6938,7 @@
 0.0.0.0 cff3d4e8-b830-4e02-b078-735408aa32cd.htmlpasta.com
 0.0.0.0 cfgnzm.aswend.com
 0.0.0.0 cfg.shopperreports.com
+0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 cfirst.co.in
 0.0.0.0 cf-mail.com
 0.0.0.0 c.fqtag.com
@@ -7423,6 +7428,7 @@
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloudns.asia
 0.0.0.0 cloudns.cc
+0.0.0.0 cloud-observer.ip-label.net
 0.0.0.0 cloudpress.ws
 0.0.0.0 cloudtokenexchange.com
 0.0.0.0 clrsch.com
@@ -7857,6 +7863,7 @@
 0.0.0.0 content.livesportmedia.eu
 0.0.0.0 content-loader.com
 0.0.0.0 contentlocker.net
+0.0.0.0 content.mql5.com
 0.0.0.0 content.oinadserver.com
 0.0.0.0 content.quantcount.com
 0.0.0.0 contentreview.com
@@ -15041,6 +15048,7 @@
 0.0.0.0 in.interboost.com
 0.0.0.0 init.inpost-platnosci.net
 0.0.0.0 init.opay24.com
+0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
 0.0.0.0 injectpanel.com
 0.0.0.0 injeteck.com.br
@@ -15624,6 +15632,7 @@
 0.0.0.0 jewsformckinney.org
 0.0.0.0 jeyhost.000webhost.info
 0.0.0.0 jf-carvalhal.pt
+0.0.0.0 jfe-cdn.qualtrics.com
 0.0.0.0 jfglass.net
 0.0.0.0 j.flxpxl.com
 0.0.0.0 jfrprototips.com
@@ -16470,6 +16479,7 @@
 0.0.0.0 lb64.s400.meetrics.net
 0.0.0.0 lb68.s400.meetrics.net
 0.0.0.0 lb97.s400.meetrics.net
+0.0.0.0 lb.apicit.net
 0.0.0.0 l.betrad.com
 0.0.0.0 lbn.ru
 0.0.0.0 lcd-studio.com
@@ -17613,6 +17623,7 @@
 0.0.0.0 marracamp.org.uk
 0.0.0.0 marreme.com
 0.0.0.0 marriott.btttag.com
+0.0.0.0 marriottinternationa.demdex.net
 0.0.0.0 marshleewardbustle.com
 0.0.0.0 martfinder.com
 0.0.0.0 martiansong.com
@@ -18116,6 +18127,7 @@
 0.0.0.0 methodsilva.com
 0.0.0.0 metkor.com.tr
 0.0.0.0 metod-deneg.com
+0.0.0.0 metok-ccc.intl.xiaomi.com
 0.0.0.0 metradigitalmedia.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics-api.librato.com
@@ -18124,6 +18136,7 @@
 0.0.0.0 metrics.corus.ca
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrics.gfycat.com
+0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
@@ -20391,6 +20404,7 @@
 0.0.0.0 orange.thaifasthost.com
 0.0.0.0 orbitcycle.com
 0.0.0.0 orbitexplorer.com
+0.0.0.0 orca.qubitproducts.com
 0.0.0.0 ordendeslichts.de
 0.0.0.0 order-software-licenses.com
 0.0.0.0 orders.webpower.com
@@ -23018,6 +23032,7 @@
 0.0.0.0 redexe.com
 0.0.0.0 redfunny.com
 0.0.0.0 redgamma.com
+0.0.0.0 redhat.sc.omtrdc.net
 0.0.0.0 redhotwonders.com
 0.0.0.0 redil.com.pe
 0.0.0.0 redir94.com
@@ -23554,6 +23569,7 @@
 0.0.0.0 ru-lk-rt.ru
 0.0.0.0 rumahimpiankitaarnhem.nl
 0.0.0.0 rumamba.com
+0.0.0.0 rum-collector-2.pingdom.net
 0.0.0.0 rum-collector.pingdom.net
 0.0.0.0 rumcollector.teslamotors.com
 0.0.0.0 rumenterprise.com
@@ -24147,6 +24163,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com
@@ -30989,6 +31006,7 @@
 0.0.0.0 www.adultweetplace.com
 0.0.0.0 www.adventurediscoverytravel.com
 0.0.0.0 www.advertisingstats.com
+0.0.0.0 www.adwidecenter.com
 0.0.0.0 www.adzoma.com
 0.0.0.0 www.aelanidigital.com
 0.0.0.0 www.affiliatefuel.com
