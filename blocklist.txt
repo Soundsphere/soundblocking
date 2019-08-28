@@ -72,6 +72,7 @@
 0.0.0.0 a3371.casalemedia.com
 0.0.0.0 a3391.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
+0.0.0.0 a4450.casalemedia.com
 0.0.0.0 a4550.casalemedia.com
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a6.smi2.ru
@@ -234,6 +235,7 @@
 0.0.0.0 ads.one.co.il
 0.0.0.0 ads.programattik.com
 0.0.0.0 ads.pro-market.net
+0.0.0.0 adspsp.com
 0.0.0.0 ads.pubmatic.com
 0.0.0.0 ads.rubiconproject.com
 0.0.0.0 ads.samsungads.com
@@ -357,6 +359,7 @@
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.google.com
+0.0.0.0 analytics.hindustantimes.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.kaltura.com
@@ -472,6 +475,7 @@
 0.0.0.0 app-ab04.marketo.com
 0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab13.marketo.com
+0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-aba.marketo.com
 0.0.0.0 app-abb.marketo.com
@@ -930,6 +934,7 @@
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 comcluster.cxense.com
 0.0.0.0 common.duapps.com
+0.0.0.0 community.unbounce.com
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condenast.demdex.net
 0.0.0.0 conductor.clicktale.net
@@ -2501,6 +2506,7 @@
 0.0.0.0 s.logsss.com
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 smarticon.geotrust.com
+0.0.0.0 smarturl.it
 0.0.0.0 s-media-cache-ak0.pinimg.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 smetrics.aem.playstation.com
@@ -3054,6 +3060,7 @@
 0.0.0.0 vmp.boldchat.com
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 vodafonenz.122.2o7.net
+0.0.0.0 vogelservices.122.2o7.net
 0.0.0.0 vop.sundaysky.com
 0.0.0.0 vpaid.pubmatic.com
 0.0.0.0 vra.outbrain.com
