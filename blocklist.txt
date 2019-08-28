@@ -174,6 +174,7 @@
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 ado.pro-market.net
 0.0.0.0 ad.outstream.today
+0.0.0.0 a.dpmsrv.com
 0.0.0.0 adquality.ch
 0.0.0.0 ads18.vertamedia.com
 0.0.0.0 ads2.servebom.com
@@ -223,6 +224,7 @@
 0.0.0.0 ads.imaging-resource.com
 0.0.0.0 ads.immobilienscout24.de
 0.0.0.0 ads.indeed.com
+0.0.0.0 ads.instabid.tech
 0.0.0.0 ads.intentiq.com
 0.0.0.0 ads.investingchannel.com
 0.0.0.0 ads.ioam.de
@@ -284,6 +286,7 @@
 0.0.0.0 ad.zanox.com
 0.0.0.0 aem.playstation.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 aexp.demdex.net
+0.0.0.0 a.farlex.com
 0.0.0.0 aff.bstatic.com
 0.0.0.0 afiles.webengage.com
 0.0.0.0 afs.googleusercontent.com
@@ -403,6 +406,7 @@
 0.0.0.0 api.b2c.com
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.branch.io
+0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bufferapp.com
 0.0.0.0 api-cf.affirm.com
 0.0.0.0 api.chat.xiaomi.net
@@ -424,6 +428,7 @@
 0.0.0.0 api.keen.io
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.lever.co
+0.0.0.0 api.logmatic.io
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-mobi.soundcloud.com
 0.0.0.0 api.moengage.com
@@ -530,6 +535,7 @@
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.ipcdigital.co.uk
+0.0.0.0 assets.jetlore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.kromtech.net
 0.0.0.0 assets.privy.com
@@ -999,6 +1005,7 @@
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ct.sddan.com
+0.0.0.0 cts.tradepub.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 curse-d.openx.net
 0.0.0.0 custom-wrs.api.responsys.net
@@ -1026,6 +1033,7 @@
 0.0.0.0 d20duyjzb7cuoc.cloudfront.net
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
+0.0.0.0 d29usylhdk1xyu.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -1043,6 +1051,8 @@
 0.0.0.0 d3c3cq33003psk.cloudfront.net
 0.0.0.0 d3cxv97fi8q177.cloudfront.net
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
+0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
+0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
@@ -1203,6 +1213,7 @@
 0.0.0.0 dpm.zebestof.com
 0.0.0.0 dps.bing.com
 0.0.0.0 dp-sync.dotomi.com
+0.0.0.0 d.pub.network
 0.0.0.0 d.refinedads.com
 0.0.0.0 drs2.veinteractive.com
 0.0.0.0 ds-aksb-a.akamaihd.net
@@ -1278,6 +1289,7 @@
 0.0.0.0 et.nytimes.com
 0.0.0.0 et.twyn.com
 0.0.0.0 eu-aa.online-metrix.net
+0.0.0.0 euasync01.admantx.com
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu.market-place.su
@@ -1564,6 +1576,7 @@
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
 0.0.0.0 impde.tradedoubler.com
+0.0.0.0 impes.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 imstore.bet365affiliates.com
@@ -1732,10 +1745,12 @@
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logging.carambo.la
+0.0.0.0 logg.kiwi.com
 0.0.0.0 log.hypebeast.com
 0.0.0.0 login.dotomi.com
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 logitechlogitechglobal.112.2o7.net
+0.0.0.0 loglady.skypicker.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrain.com
@@ -1957,6 +1972,7 @@
 0.0.0.0 office-loesung.de.intellitxt.com
 0.0.0.0 okt.to
 0.0.0.0 om.dowjoneson.com
+0.0.0.0 omniture.chip.de
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 oms.expedia.com
 0.0.0.0 oms.nuggad.net
@@ -2041,6 +2057,7 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixelappcollector.thesun.co.uk
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixelbox.uimserv.net
@@ -2118,6 +2135,7 @@
 0.0.0.0 pp.lp4.io
 0.0.0.0 p.po.st
 0.0.0.0 pp.userapi.com
+0.0.0.0 pq-direct.revsci.net
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prebid.adnxs.com
@@ -2799,6 +2817,7 @@
 0.0.0.0 thor.rtk.io
 0.0.0.0 thrtle.com
 0.0.0.0 tia.timeinc.net
+0.0.0.0 timeanddate-d.openx.net
 0.0.0.0 time.izatcloud.net
 0.0.0.0 t.indeed.com
 0.0.0.0 tisoomi-services.com
