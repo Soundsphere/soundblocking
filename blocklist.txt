@@ -313,6 +313,7 @@
 0.0.0.0 33jc.icu
 0.0.0.0 340safe.cn
 0.0.0.0 341800575.log.optimizely.com
+0.0.0.0 347-iat-677.mktoresp.com
 0.0.0.0 3484567.com
 0.0.0.0 34b20b5a-eb70-470a-ac24-2da82b8a4b6f.htmlpasta.com
 0.0.0.0 35561.com
@@ -811,6 +812,7 @@
 0.0.0.0 a1.adform.net
 0.0.0.0 a1talk.de.intellitxt.com
 0.0.0.0 a1.vdna-assets.com
+0.0.0.0 a2121.casalemedia.com
 0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2140.casalemedia.com
@@ -1274,6 +1276,7 @@
 0.0.0.0 adac02.webtrekk.net
 0.0.0.0 adaction.de
 0.0.0.0 ad.adlegend.com
+0.0.0.0 ad.admitad.com
 0.0.0.0 ad.adnet.de
 0.0.0.0 ad.adnetwork.com.br
 0.0.0.0 ad.adriver.ru
@@ -2552,6 +2555,7 @@
 0.0.0.0 advertising.guildlaunch.net
 0.0.0.0 advertising.ingame.de
 0.0.0.0 advertising.microsoft.com
+0.0.0.0 advertising.oriel.io
 0.0.0.0 advertisingvision.com
 0.0.0.0 advertising.yahoo.com
 0.0.0.0 advertmarket.com
@@ -3180,6 +3184,7 @@
 0.0.0.0 alsalehenterprises.com
 0.0.0.0 alservices.fr
 0.0.0.0 alset.com
+0.0.0.0 als-svc.nytimes.com
 0.0.0.0 alsultanah.com
 0.0.0.0 altavisibilita.com
 0.0.0.0 altermix.ua
@@ -3819,6 +3824,7 @@
 0.0.0.0 api.chat.xiaomi.net
 0.0.0.0 api.circularhub.com
 0.0.0.0 api.company-target.com
+0.0.0.0 api.content-ad.net
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
@@ -4315,6 +4321,7 @@
 0.0.0.0 ask-yug.com
 0.0.0.0 asmartershopper.com
 0.0.0.0 asmedia.adsupplyssl.com
+0.0.0.0 as.mytoys.de
 0.0.0.0 asn.advolution.de
 0.0.0.0 asnpwnz12345.server.us
 0.0.0.0 asn-trk.advolution.de
@@ -6651,6 +6658,7 @@
 0.0.0.0 cdn11.contentabc.com
 0.0.0.0 cdn1.ads.contentabc.com
 0.0.0.0 cdn1.adsdk.com
+0.0.0.0 cdn1.inner-active.mobi
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn-1.stat-track.com
 0.0.0.0 cdn1.stickyadstv.com
@@ -7451,6 +7459,7 @@
 0.0.0.0 club-super-sex.com
 0.0.0.0 club-suv.ru
 0.0.0.0 clusif.free.fr
+0.0.0.0 cluster006.ovh.net
 0.0.0.0 cluster1.hitfarm.com
 0.0.0.0 cluster.adultworld.com
 0.0.0.0 cluster.blingblingcontent.com
@@ -12502,6 +12511,7 @@
 0.0.0.0 fvvan.hk
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwapi.adsafeprotected.com
+0.0.0.0 fwd3.hosts.co.uk
 0.0.0.0 fwef222.cn
 0.0.0.0 fxbroadband.com
 0.0.0.0 fxclix.com
@@ -13566,6 +13576,7 @@
 0.0.0.0 gvla.org
 0.0.0.0 gwd.lphbs.com
 0.0.0.0 gwisalltrack.com
+0.0.0.0 gwmtracking.com
 0.0.0.0 gwm.w-cdn.com
 0.0.0.0 gwrepresentacoes.com.br
 0.0.0.0 gwrgerger.com
@@ -15265,6 +15276,7 @@
 0.0.0.0 inx.lv
 0.0.0.0 ioacon.com
 0.0.0.0 ioam.de
+0.0.0.0 iocdn.coremetrics.com
 0.0.0.0 iocloths.xyz
 0.0.0.0 iogcasinos.com
 0.0.0.0 iojik.ru
@@ -16808,6 +16820,7 @@
 0.0.0.0 livefixer.com
 0.0.0.0 livegabmling.com
 0.0.0.0 live-guard-for-pc.net
+0.0.0.0 live.hyprmx.com
 0.0.0.0 liveintent.com
 0.0.0.0 livelines.ads365.com
 0.0.0.0 livemachines.com
@@ -17300,6 +17313,7 @@
 0.0.0.0 madrabbitsex.com
 0.0.0.0 madrste.com
 0.0.0.0 mads.amazon-adsystem.com
+0.0.0.0 mads.amazon.com
 0.0.0.0 mads.aol.com
 0.0.0.0 mads.at.atwola.com
 0.0.0.0 mads.cnet.com
@@ -17819,6 +17833,7 @@
 0.0.0.0 mb-tv.com
 0.0.0.0 mbuyu.nl
 0.0.0.0 mcabil.org
+0.0.0.0 mcafee12.tt.omtrdc.net
 0.0.0.0 mcafeekeymcafee.com
 0.0.0.0 mcafee-official.info
 0.0.0.0 mcafeereview.com
@@ -19743,6 +19758,7 @@
 0.0.0.0 npxs.one
 0.0.0.0 nqs.nice264.com
 0.0.0.0 nqs-nl12-c2.youboranqs01.com
+0.0.0.0 nqs-nl12-c3.youboranqs01.com
 0.0.0.0 nqs-nl1-c10.youboranqs01.com
 0.0.0.0 nrcci.org.np
 0.0.0.0 nrsi.twilightparadox.com
@@ -20387,6 +20403,7 @@
 0.0.0.0 opt-in.biz
 0.0.0.0 optinemailservices.com
 0.0.0.0 optinrealbig.com
+0.0.0.0 optout.33across.com
 0.0.0.0 optout.aboutads.info
 0.0.0.0 optout.addthis.com
 0.0.0.0 optout.betrad.com
@@ -22414,6 +22431,7 @@
 0.0.0.0 prvacy-center.org
 0.0.0.0 prvacy-centre.org
 0.0.0.0 prvacy-ceter.org
+0.0.0.0 prvsz4pe.micpn.com
 0.0.0.0 pr.xeol.net
 0.0.0.0 prx.freecj.com
 0.0.0.0 prxw.com
@@ -24554,6 +24572,7 @@
 0.0.0.0 securefires.com
 0.0.0.0 secure.flashtalking.com
 0.0.0.0 secure.footprint.net
+0.0.0.0 secure.gaug.es
 0.0.0.0 secure-gg.imrworldwide.com
 0.0.0.0 secure.gl-certificate.net
 0.0.0.0 secure-gl.imrworldwide.com
@@ -24567,6 +24586,7 @@
 0.0.0.0 secureinstruct.com
 0.0.0.0 secureinvites.com
 0.0.0.0 secure-it.imrworldwide.com
+0.0.0.0 secure-jp.imrworldwide.com
 0.0.0.0 secure.lab17.com
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.leadforensics.com
@@ -24985,6 +25005,7 @@
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 servicedwt.com
 0.0.0.0 servicefrancesmbinc.fr
+0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service-impots-particuliers.com
 0.0.0.0 service-login12.com
 0.0.0.0 service.maxymiser.net
@@ -27118,6 +27139,7 @@
 0.0.0.0 syncroads.net
 0.0.0.0 sync.rtk.io
 0.0.0.0 sync.search.spotxchange.com
+0.0.0.0 sync.serverbid.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
 0.0.0.0 sync.teads.tv
@@ -27241,6 +27263,7 @@
 0.0.0.0 tag-host.com
 0.0.0.0 taghothahalol.com
 0.0.0.0 taghotsillyface.com
+0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 tagimagenutsgreat.com
 0.0.0.0 tag.imonomy.com
 0.0.0.0 tag.leadplace.fr
@@ -27372,6 +27395,7 @@
 0.0.0.0 t.co
 0.0.0.0 t.contentsquare.net
 0.0.0.0 tcr.tynt.com
+0.0.0.0 tc.tradetracker.net
 0.0.0.0 tctsincorporated.com
 0.0.0.0 t.cwkuki.com
 0.0.0.0 tcwrcgeneralcontractors.com
@@ -28512,6 +28536,7 @@
 0.0.0.0 track-turbo.com
 0.0.0.0 track.unear.net
 0.0.0.0 track.upsclients.com
+0.0.0.0 track.vdo.ai
 0.0.0.0 trackvisits.cc
 0.0.0.0 trackwasher.com
 0.0.0.0 track.webgains.com
@@ -28666,6 +28691,7 @@
 0.0.0.0 trffc.org
 0.0.0.0 trgde.adocean.pl
 0.0.0.0 trhunt.com
+0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 trial-offers.com
 0.0.0.0 trial.updates.winsoftware.com
 0.0.0.0 triangletire.com
@@ -29559,6 +29585,7 @@
 0.0.0.0 vevrier.org
 0.0.0.0 vezdevoz.com.ua
 0.0.0.0 vezomania.com
+0.0.0.0 vfc.demdex.net
 0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 vfde.demdex.net
 0.0.0.0 vfinitylife.com
@@ -30099,6 +30126,7 @@
 0.0.0.0 weburlopener.com
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 web.vortex.data.microsoft.com
+0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 web.web.pharmom.com
 0.0.0.0 webwhaatssp.herokuapp.com
 0.0.0.0 webwinantivirxp.com
