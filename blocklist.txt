@@ -1,6 +1,7 @@
 0.0.0.0 1016557.fls.doubleclick.net
 0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 15.taboola.com
+0.0.0.0 168logger.com
 0.0.0.0 178176.engine.mobileapptracking.com
 0.0.0.0 1847082.fls.doubleclick.net
 0.0.0.0 189474.engine.mobileapptracking.com
@@ -114,6 +115,7 @@
 0.0.0.0 activities.alibaba.com
 0.0.0.0 activity.windows.com
 0.0.0.0 act.webmasterplan.com
+0.0.0.0 acuityads.com
 0.0.0.0 acuityplatform.com
 0.0.0.0 ad11.adfarm1.adition.com
 0.0.0.0 ad1.adfarm1.adition.com
@@ -154,10 +156,12 @@
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 ad.foxitsoftware.com
+0.0.0.0 adhese.com
 0.0.0.0 adiceltic.de
 0.0.0.0 adimg.uimserv.net
 0.0.0.0 ad.ipredictive.com
 0.0.0.0 ad-js.chip.de
+0.0.0.0 adledge.com
 0.0.0.0 ad.liveburst.com
 0.0.0.0 ad.lkqd.net
 0.0.0.0 adlog.flurry.com
@@ -482,6 +486,7 @@
 0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-aba.marketo.com
 0.0.0.0 app-abb.marketo.com
+0.0.0.0 app-abj.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
 0.0.0.0 app.adroll.com
@@ -541,6 +546,7 @@
 0.0.0.0 asset.pagefair.net
 0.0.0.0 assets1.adroll.com
 0.0.0.0 assets.adobedtm.com
+0.0.0.0 assets.adstage.io
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.ipcdigital.co.uk
@@ -719,6 +725,7 @@
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.zeit.de
 0.0.0.0 cdata.carambo.la
+0.0.0.0 cdn11.contentabc.com
 0.0.0.0 cdn1.ads.contentabc.com
 0.0.0.0 cdn1.inner-active.mobi
 0.0.0.0 cdn1.smartadserver.com
@@ -937,6 +944,7 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-pxss13u803.perimeterx.net
+0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collect.tealiumiq.com
 0.0.0.0 combine.urbanairship.com
@@ -963,6 +971,7 @@
 0.0.0.0 containertags.belboon.de
 0.0.0.0 content.adriver.ru
 0.0.0.0 content.aimatch.com
+0.0.0.0 content.carambo.la
 0.0.0.0 content.mql5.com
 0.0.0.0 content.quantcount.com
 0.0.0.0 content.tapjoy.com
@@ -1037,6 +1046,7 @@
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d-1.co
+0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1eoo1tco6rr5e.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
@@ -1298,6 +1308,7 @@
 0.0.0.0 eqx.smartadserver.com
 0.0.0.0 eqx-tmk-geoloc.smartadserver.com
 0.0.0.0 e.reddit.com
+0.0.0.0 ergoag.d3.sc.omtrdc.net
 0.0.0.0 errors.client.optimizely.com
 0.0.0.0 e.serverbid.com
 0.0.0.0 esixtgmbhandcokg.d3.sc.omtrdc.net
@@ -1540,6 +1551,7 @@
 0.0.0.0 hpsupport.qualtrics.com
 0.0.0.0 htlbid.com
 0.0.0.0 html5.adsrvr.org
+0.0.0.0 ht.redtube.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 ht.youporn.com
 0.0.0.0 i1.ytimg.com
@@ -1912,6 +1924,7 @@
 0.0.0.0 microsoftwindows.112.2o7.net
 0.0.0.0 mid.rkdms.com
 0.0.0.0 milesandmore.d1.sc.omtrdc.net
+0.0.0.0 mixedmag.com
 0.0.0.0 ml314.com
 0.0.0.0 mlb.demdex.net
 0.0.0.0 mmtro.com
@@ -2148,6 +2161,7 @@
 0.0.0.0 pool1.moatads.com
 0.0.0.0 pool3.moatads.com
 0.0.0.0 pool4.moatads.com
+0.0.0.0 pool5.moatads.com
 0.0.0.0 pool6.moatads.com
 0.0.0.0 pool7.moatads.com
 0.0.0.0 pool8.moatads.com
@@ -2276,6 +2290,7 @@
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 relap.io
+0.0.0.0 reliancecorporateit.tt.omtrdc.net
 0.0.0.0 remarket.clicktripz.com
 0.0.0.0 remote-data.urbanairship.com
 0.0.0.0 rem-track.bild.de
@@ -2303,6 +2318,7 @@
 0.0.0.0 rmsi.nuggad.net
 0.0.0.0 r.my.com
 0.0.0.0 r.nexac.com
+0.0.0.0 ro89.com
 0.0.0.0 route.carambo.la
 0.0.0.0 router.infolinks.com
 0.0.0.0 rpc.tapjoy.com
@@ -2470,6 +2486,7 @@
 0.0.0.0 sentry.io
 0.0.0.0 servedbyadbutler.com
 0.0.0.0 servedby.flashtalking.com
+0.0.0.0 serve.oxcluster.com
 0.0.0.0 server.adeasy.ru
 0.0.0.0 server.adformdsp.net
 0.0.0.0 server.adform.net
@@ -2642,6 +2659,7 @@
 0.0.0.0 static.emsservice.de
 0.0.0.0 static.etracker.com
 0.0.0.0 static.eu.criteo.net
+0.0.0.0 static.exoclick.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.getclicky.com
 0.0.0.0 static.hotjar.com
@@ -2815,6 +2833,7 @@
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 target.smi2.net
 0.0.0.0 target.smi2.ru
+0.0.0.0 tbskip.taobao.com
 0.0.0.0 tbs.tradedoubler.com
 0.0.0.0 tc.airfrance.com
 0.0.0.0 t.cfjump.com
@@ -2835,6 +2854,7 @@
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 telegraphmediagroup.d3.sc.omtrdc.net
 0.0.0.0 telegraph.sdk.beemray.com
+0.0.0.0 telekom01.webtrekk.net
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry-in.battle.net
@@ -2970,6 +2990,7 @@
 0.0.0.0 t.sf14g.com
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.skimresources.com
+0.0.0.0 tslomhfys.com
 0.0.0.0 t.svtrd.com
 0.0.0.0 tt3.zedo.com
 0.0.0.0 t.teads.tv
@@ -3204,6 +3225,7 @@
 0.0.0.0 www.adskeeper.co.uk
 0.0.0.0 www.adternal.com
 0.0.0.0 www.adtilt.com
+0.0.0.0 www.adventori.com
 0.0.0.0 www.adwidecenter.com
 0.0.0.0 www.amobee.com
 0.0.0.0 www.anrdoezrs.net
@@ -3282,6 +3304,7 @@
 0.0.0.0 www.quantcast.com
 0.0.0.0 www.queer.de
 0.0.0.0 www.ranking-hits.de
+0.0.0.0 www.redtube.com.br
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 www.sc.pages02.net
