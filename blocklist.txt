@@ -3408,6 +3408,7 @@
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.global.sky.com
 0.0.0.0 analytics.google.com
+0.0.0.0 analytics.hindustantimes.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.kaltura.com
@@ -7693,6 +7694,7 @@
 0.0.0.0 communitychev.com
 0.0.0.0 communitygirls.com
 0.0.0.0 community.globaleaccess.com
+0.0.0.0 community.unbounce.com
 0.0.0.0 com-nir.top
 0.0.0.0 com-nis.top
 0.0.0.0 com-oc.top
@@ -7903,6 +7905,7 @@
 0.0.0.0 controledemenaces.com
 0.0.0.0 control-group.mk
 0.0.0.0 control.kochava.com
+0.0.0.0 controller.intl.xiaomi.com
 0.0.0.0 controlmeh.com
 0.0.0.0 control-panel-1und1-de.com
 0.0.0.0 controlporno.com
@@ -8759,6 +8762,7 @@
 0.0.0.0 data39.adlooxtracking.com
 0.0.0.0 data53.adlooxtracking.com
 0.0.0.0 data55.adlooxtracking.com
+0.0.0.0 data57.adlooxtracking.com
 0.0.0.0 data58.adlooxtracking.com
 0.0.0.0 data60.adlooxtracking.com
 0.0.0.0 data61.adlooxtracking.com
@@ -14530,6 +14534,7 @@
 0.0.0.0 idgsearch.com
 0.0.0.0 idguk1-d.openx.net
 0.0.0.0 idhh.com
+0.0.0.0 idiagnostics.apple.com
 0.0.0.0 idifitness.ru
 0.0.0.0 idivination.com
 0.0.0.0 idkqzshcjxr.com
@@ -16644,6 +16649,7 @@
 0.0.0.0 lideramca-de-estoque.com
 0.0.0.0 lidiane.serveblog.net
 0.0.0.0 liencs.fr
+0.0.0.0 lifeandstylemag.com
 0.0.0.0 lifechangeshopingmall.com
 0.0.0.0 lifedramateam.org
 0.0.0.0 life.egycontra.com
@@ -16974,6 +16980,7 @@
 0.0.0.0 logirls.net
 0.0.0.0 logisticstores.com
 0.0.0.0 logitechlogitechglobal.112.2o7.net
+0.0.0.0 logliberation.xiti.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.musical.ly
 0.0.0.0 logo.affiliatebot.com
@@ -17585,6 +17592,7 @@
 0.0.0.0 manysex.org
 0.0.0.0 maplefarmmedia.com
 0.0.0.0 map.media6degrees.com
+0.0.0.0 mapmywayfree.com
 0.0.0.0 map-quest.org
 0.0.0.0 map.sddan.com
 0.0.0.0 marablic.com
@@ -18162,6 +18170,7 @@
 0.0.0.0 metrics.windowsitpro.com
 0.0.0.0 metric.volkswagen.com
 0.0.0.0 metrocharter.org
+0.0.0.0 metro.co.uk.102.122.2o7.net
 0.0.0.0 metrodevcon.com
 0.0.0.0 metromoneychange.com
 0.0.0.0 metropoly.cl
@@ -20753,6 +20762,7 @@
 0.0.0.0 pasengewood.com
 0.0.0.0 paseodelrancho.com.gt
 0.0.0.0 pasqualina.com
+0.0.0.0 pass.1688.com
 0.0.0.0 passdiscount.com
 0.0.0.0 passecdl.co.uk
 0.0.0.0 passion-4.net
@@ -21464,6 +21474,7 @@
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.h-cdn.com
 0.0.0.0 player.performgroup.com
+0.0.0.0 player.piksel.com
 0.0.0.0 playersclub.reefclubcasino.com
 0.0.0.0 player.spoods.io
 0.0.0.0 playersx.com
@@ -22585,6 +22596,7 @@
 0.0.0.0 pzest.com
 0.0.0.0 pzq1.icu
 0.0.0.0 pzrk.ru
+0.0.0.0 q14.cnzz.com
 0.0.0.0 q3.webtrekk.net
 0.0.0.0 q520.cn
 0.0.0.0 q8pilots.net
@@ -25801,6 +25813,7 @@
 0.0.0.0 snowpornmovies.com
 0.0.0.0 snowthumbs.com
 0.0.0.0 snr.com.np
+0.0.0.0 snrtp-cdn.marketo.com
 0.0.0.0 s.ntv.io
 0.0.0.0 snugweb.com
 0.0.0.0 snunited.org
@@ -26002,6 +26015,7 @@
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
+0.0.0.0 spanishdict-d.openx.net
 0.0.0.0 spanking-epics.com
 0.0.0.0 spankingepics.com
 0.0.0.0 spankovision.net
@@ -26793,6 +26807,7 @@
 0.0.0.0 storybookalpacas.com
 0.0.0.0 stpaulcrofton.org
 0.0.0.0 stpaulsdillsburg.com
+0.0.0.0 st.polyad.net
 0.0.0.0 s.tradingview.com
 0.0.0.0 straighttalkreviews.com
 0.0.0.0 strangewishes.com
@@ -27051,6 +27066,7 @@
 0.0.0.0 svetoch.moscow
 0.0.0.0 svoboduud.cn
 0.0.0.0 svp.contextuad.org
+0.0.0.0 swa.and.co.uk
 0.0.0.0 swallowthisbitchpics.com
 0.0.0.0 swa.metro.co.uk
 0.0.0.0 swamisamarthpet.com
@@ -27286,6 +27302,7 @@
 0.0.0.0 tags.mathtag.com
 0.0.0.0 tags.news.com.au
 0.0.0.0 tags.onscroll.com
+0.0.0.0 tag.sp.advertising.com
 0.0.0.0 tagsrvcs.com
 0.0.0.0 tag-st.contextweb.com
 0.0.0.0 tags.tiqcdn.com
@@ -27638,6 +27655,7 @@
 0.0.0.0 tesla-crypto.info
 0.0.0.0 teslaplus.com
 0.0.0.0 tesla-team.info
+0.0.0.0 tesla.tt.omtrdc.net
 0.0.0.0 test96316.test-account.com
 0.0.0.0 test-account.com
 0.0.0.0 test.alyashmac.com
@@ -28500,6 +28518,7 @@
 0.0.0.0 tracking.propelmedia.com
 0.0.0.0 tracking.retailrocket.net
 0.0.0.0 tracking.roispy.com
+0.0.0.0 tracking.rtl.de
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.skyword.com
@@ -29543,6 +29562,7 @@
 0.0.0.0 ventureflow.com
 0.0.0.0 ventureproductions.org
 0.0.0.0 veoda.com
+0.0.0.0 vepxl1.net
 0.0.0.0 vera.kr.ua
 0.0.0.0 veranda-spb.ru
 0.0.0.0 verbattle.com
@@ -34951,6 +34971,7 @@
 0.0.0.0 zcqgxvhpch.biz
 0.0.0.0 zcvalkenburg.nl
 0.0.0.0 zdau-builder.122.2o7.net
+0.0.0.0 zdbb.netshelter.net
 0.0.0.0 zde-affinity.edgecaching.net
 0.0.0.0 zdfttygzjm.biz
 0.0.0.0 zdm-auto.com
@@ -35052,6 +35073,7 @@
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystems.com
 0.0.0.0 znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
+0.0.0.0 znedscsenlrql0rxd-teslamotors.siteintercept.qualtrics.com
 0.0.0.0 znext.com
 0.0.0.0 znt07.cn
 0.0.0.0 zoav.com
