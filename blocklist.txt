@@ -123,6 +123,7 @@
 0.0.0.0 ad4.adfarm1.adition.com
 0.0.0.0 ad4mat.net
 0.0.0.0 ad.71i.de
+0.0.0.0 ad8.adfarm1.adition.com
 0.0.0.0 adac02.webtrekk.net
 0.0.0.0 ad.admitad.com
 0.0.0.0 ad.adriver.ru
@@ -341,6 +342,7 @@
 0.0.0.0 ams03-usadmm.dotomi.com
 0.0.0.0 ams03-usadmm-ds.dotomi.com
 0.0.0.0 ams1-ib.adnxs.com
+0.0.0.0 ams1.mobile.adnxs.com
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-usadmm.dotomi.com
@@ -435,6 +437,7 @@
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-mobi.soundcloud.com
 0.0.0.0 api.moengage.com
+0.0.0.0 api.monetizer101.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.optmnstr.com
 0.0.0.0 api.parsely.com
@@ -490,6 +493,7 @@
 0.0.0.0 app.chat.xiaomi.net
 0.0.0.0 app.crazyegg.com
 0.0.0.0 app.crossengage.io
+0.0.0.0 app-e.marketo.com
 0.0.0.0 app.getresponse.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.hubspot.com
@@ -498,6 +502,7 @@
 0.0.0.0 appload.ingest.crittercism.com
 0.0.0.0 applog.musical.ly
 0.0.0.0 app-lon02.marketo.com
+0.0.0.0 app-lon04.marketo.com
 0.0.0.0 app-measurement.com
 0.0.0.0 app.miui.com
 0.0.0.0 app.pendo.io
@@ -709,6 +714,7 @@
 0.0.0.0 cbsi-d.openx.net
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
+0.0.0.0 c.cnzz.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.zeit.de
@@ -765,6 +771,7 @@
 0.0.0.0 cdneast2-xch.media.net
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.engine.4dsply.com
+0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn.firstimpression.io
@@ -913,6 +920,7 @@
 0.0.0.0 cms.quantserve.com
 0.0.0.0 cm.steepto.com
 0.0.0.0 cms-xch.33across.com
+0.0.0.0 cnzz.mmstat.com
 0.0.0.0 code.bildstatic.de
 0.0.0.0 code.etracker.com
 0.0.0.0 codefund.io
@@ -963,6 +971,7 @@
 0.0.0.0 continuum.dds.microsoft.com
 0.0.0.0 control.adap.tv
 0.0.0.0 control.kochava.com
+0.0.0.0 controller.intl.xiaomi.com
 0.0.0.0 convammp.taboola.com
 0.0.0.0 conversions.adaptv.advertising.com
 0.0.0.0 conv.tubemogul.com
@@ -986,6 +995,7 @@
 0.0.0.0 cpx.golem.de
 0.0.0.0 cpxl.golem.de
 0.0.0.0 crab.baidu.com
+0.0.0.0 crashdump.spotify.com
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
@@ -1065,6 +1075,7 @@
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5p.de17a.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9hhrg4mnvzow.cloudfront.net
 0.0.0.0 d.adroll.com
@@ -1111,8 +1122,11 @@
 0.0.0.0 data37.adlooxtracking.com
 0.0.0.0 data38.adlooxtracking.com
 0.0.0.0 data39.adlooxtracking.com
+0.0.0.0 data53.adlooxtracking.com
 0.0.0.0 data55.adlooxtracking.com
+0.0.0.0 data57.adlooxtracking.com
 0.0.0.0 data58.adlooxtracking.com
+0.0.0.0 data60.adlooxtracking.com
 0.0.0.0 data61.adlooxtracking.com
 0.0.0.0 data62.adlooxtracking.com
 0.0.0.0 data63.adlooxtracking.com
@@ -1295,6 +1309,7 @@
 0.0.0.0 et.twyn.com
 0.0.0.0 eu-aa.online-metrix.net
 0.0.0.0 euasync01.admantx.com
+0.0.0.0 eu.a.volvelle.tech
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu.market-place.su
@@ -1423,6 +1438,7 @@
 0.0.0.0 geo2.adobe.com
 0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geo.gorillanation.com
+0.0.0.0 geoip-db.com
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.stroeerdp.de
@@ -1543,6 +1559,7 @@
 0.0.0.0 id5-sync.com
 0.0.0.0 id.google.com
 0.0.0.0 idguk1-d.openx.net
+0.0.0.0 idiagnostics.apple.com
 0.0.0.0 idpix.media6degrees.com
 0.0.0.0 id.rlcdn.com
 0.0.0.0 idsync.rlcdn.com
@@ -1722,6 +1739,7 @@
 0.0.0.0 lib.selfcampaign.com
 0.0.0.0 libs.outbrain.com
 0.0.0.0 licensing.bitmovin.com
+0.0.0.0 lifeandstylemag.com
 0.0.0.0 linkconnector.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 live.chartboost.com
@@ -1756,6 +1774,7 @@
 0.0.0.0 log-ird.outbrain.com
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 loglady.skypicker.com
+0.0.0.0 logliberation.xiti.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrain.com
@@ -1776,6 +1795,7 @@
 0.0.0.0 logv31.xiti.com
 0.0.0.0 log.worldsoft-cms.info
 0.0.0.0 logx.optimizely.com
+0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 loopme.me
 0.0.0.0 l.ooyala.com
@@ -1816,6 +1836,7 @@
 0.0.0.0 mansueto-d.openx.net
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 map.media6degrees.com
+0.0.0.0 mapmywayfree.com
 0.0.0.0 map.sddan.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.dropbox.com
@@ -1882,6 +1903,7 @@
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.responsetap.com
+0.0.0.0 metrics.ryanair.com
 0.0.0.0 metric.volkswagen.com
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 metro.co.uk.102.122.2o7.net
@@ -2029,6 +2051,7 @@
 0.0.0.0 partners.tremorhub.com
 0.0.0.0 partners.webmasterplan.com
 0.0.0.0 pa.rxthdr.com
+0.0.0.0 pass.1688.com
 0.0.0.0 patagonia.122.2o7.net
 0.0.0.0 pb.adriver.ru
 0.0.0.0 p.bm23.com
@@ -2112,6 +2135,7 @@
 0.0.0.0 platform.tumblr.com
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.h-cdn.com
+0.0.0.0 player.piksel.com
 0.0.0.0 playtime.tubemogul.com
 0.0.0.0 p.liadm.com
 0.0.0.0 pls.webtype.com
@@ -2208,6 +2232,7 @@
 0.0.0.0 px.wa.ui-portal.de
 0.0.0.0 px.wayfair.com
 0.0.0.0 p.yotpo.com
+0.0.0.0 q14.cnzz.com
 0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
 0.0.0.0 qsearch.media.net
@@ -2460,6 +2485,7 @@
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 servt.playbuzz.co
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settings-win.data.microsoft.com
@@ -2520,6 +2546,7 @@
 0.0.0.0 snapsort-d.openx.net
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 snrtp-cdn.marketo.com
 0.0.0.0 s.ntv.io
 0.0.0.0 sofia.trustx.org
 0.0.0.0 solarwindsworldwidellc.demdex.net
@@ -2531,6 +2558,7 @@
 0.0.0.0 sp.analytics.yahoo.com
 0.0.0.0 spanids.dictionary.com
 0.0.0.0 spanids.thesaurus.com
+0.0.0.0 spanishdict-d.openx.net
 0.0.0.0 spgo.io
 0.0.0.0 spiegel-de.spiegel.de
 0.0.0.0 spiegel.met.vgwort.de
@@ -2677,6 +2705,7 @@
 0.0.0.0 stiffstem.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 storage.outbrain.com
+0.0.0.0 st.polyad.net
 0.0.0.0 s.tradingview.com
 0.0.0.0 stream1.livefyre.com
 0.0.0.0 stream.useriq.com
@@ -2699,6 +2728,7 @@
 0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 svastx.moatads.com
 0.0.0.0 s.vertamedia.com
+0.0.0.0 swa.and.co.uk
 0.0.0.0 swa.metro.co.uk
 0.0.0.0 swrap.tradedoubler.com
 0.0.0.0 sy.eu.angsrvr.com
@@ -2767,6 +2797,7 @@
 0.0.0.0 tags.crwdcntrl.net
 0.0.0.0 tags-eu.tiqcdn.com
 0.0.0.0 tags.expo9.exponential.com
+0.0.0.0 tags.h12-media.com
 0.0.0.0 tags.mathtag.com
 0.0.0.0 tags.onscroll.com
 0.0.0.0 tag.sp.advertising.com
@@ -2814,6 +2845,7 @@
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 tendertest.com
 0.0.0.0 tenor.com
+0.0.0.0 tesla.tt.omtrdc.net
 0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 tetu.com
 0.0.0.0 tg.socdm.com
@@ -2869,6 +2901,7 @@
 0.0.0.0 trackcmp.net
 0.0.0.0 track.cordial.io
 0.0.0.0 track.customer.io
+0.0.0.0 track.dictionary.com
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.euroweb.net
@@ -2896,6 +2929,7 @@
 0.0.0.0 tracking.musixmatch.com
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.omnitagjs.com
+0.0.0.0 tracking.rtl.de
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.skyword.com
 0.0.0.0 tracking.srv2.de
@@ -3021,6 +3055,7 @@
 0.0.0.0 venatusmedia-d.openx.net
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
+0.0.0.0 vepxl1.net
 0.0.0.0 vfc.demdex.net
 0.0.0.0 vfd2dyn.vodafone.de
 0.0.0.0 vfde.demdex.net
@@ -3076,6 +3111,7 @@
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 waust.at
 0.0.0.0 waves.retentionscience.com
+0.0.0.0 w.cnzz.com
 0.0.0.0 wcs.naver.com
 0.0.0.0 wd.adcolony.com
 0.0.0.0 web-analytics.engagio.com
@@ -3088,6 +3124,7 @@
 0.0.0.0 webtrends.telegraph.co.uk
 0.0.0.0 webts.adac.de
 0.0.0.0 webvideomarketing.ru
+0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.msn.com
 0.0.0.0 wellsfargobankna.demdex.net
@@ -3301,6 +3338,7 @@
 0.0.0.0 za-ads.de
 0.0.0.0 za-ssl.effectivemeasure.net
 0.0.0.0 zdbb.net
+0.0.0.0 zdbb.netshelter.net
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 zm232.com
@@ -3310,5 +3348,6 @@
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystems.com
 0.0.0.0 znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
+0.0.0.0 znedscsenlrql0rxd-teslamotors.siteintercept.qualtrics.com
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 z.webengage.co
