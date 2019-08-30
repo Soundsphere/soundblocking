@@ -19,6 +19,7 @@
 0.0.0.0 347-iat-677.mktoresp.com
 0.0.0.0 3573281.fls.doubleclick.net
 0.0.0.0 35ax3z5b4g.kameleoon.eu
+0.0.0.0 3797665.fls.doubleclick.net
 0.0.0.0 4228414.fls.doubleclick.net
 0.0.0.0 4382365.fls.doubleclick.net
 0.0.0.0 4711400.fls.doubleclick.net
@@ -51,6 +52,7 @@
 0.0.0.0 a2130.casalemedia.com
 0.0.0.0 a2131.casalemedia.com
 0.0.0.0 a2140.casalemedia.com
+0.0.0.0 a2141.casalemedia.com
 0.0.0.0 a2150.casalemedia.com
 0.0.0.0 a2151.casalemedia.com
 0.0.0.0 a2160.casalemedia.com
@@ -66,6 +68,7 @@
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3290.casalemedia.com
 0.0.0.0 a3291.casalemedia.com
+0.0.0.0 a3310.casalemedia.com
 0.0.0.0 a3320.casalemedia.com
 0.0.0.0 a3321.casalemedia.com
 0.0.0.0 a3330.casalemedia.com
@@ -187,6 +190,7 @@
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 adquality.ch
 0.0.0.0 ads18.vertamedia.com
+0.0.0.0 ads19.vertamedia.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads30.adcolony.com
 0.0.0.0 ads.adap.tv
@@ -487,6 +491,7 @@
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app4.kromtech.net
 0.0.0.0 app-ab01.marketo.com
+0.0.0.0 app-ab02.marketo.com
 0.0.0.0 app-ab04.marketo.com
 0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab13.marketo.com
@@ -597,6 +602,7 @@
 0.0.0.0 axdget-sync.nuggad.net
 0.0.0.0 ax-d.pixfuture.net
 0.0.0.0 axel-springer-d.openx.net
+0.0.0.0 az1.qualtrics.com
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 az-partners.net
 0.0.0.0 b0oqeyj7z5.kameleoon.eu
@@ -770,6 +776,7 @@
 0.0.0.0 cdn.bannerflow.com
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.blueconic.net
+0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.c-i.as
@@ -1366,6 +1373,7 @@
 0.0.0.0 events.privy.com
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.streamrail.net
+0.0.0.0 events.tremorhub.com
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.whisk.com
 0.0.0.0 event.yoochoose.net
@@ -1432,6 +1440,7 @@
 0.0.0.0 freegeoip.app
 0.0.0.0 freegeoip.io
 0.0.0.0 freestar-d.openx.net
+0.0.0.0 freetour.com
 0.0.0.0 fresh8.co
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
@@ -1764,6 +1773,8 @@
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lddy25pglm.kameleoon.eu
 0.0.0.0 leadback.advertising.com
+0.0.0.0 lenovo.demdex.net
+0.0.0.0 lenovo.tt.omtrdc.net
 0.0.0.0 lexip.4pcdn.de
 0.0.0.0 lg3.media.net
 0.0.0.0 libs.coremetrics.com
@@ -2235,14 +2246,17 @@
 0.0.0.0 pr.realvu.net
 0.0.0.0 prvsz4pe.micpn.com
 0.0.0.0 pr.ybp.yahoo.com
+0.0.0.0 ps3.pubnub.com
 0.0.0.0 psa.carambo.la
 0.0.0.0 ps.ecosia.org
 0.0.0.0 ps.eyeota.net
 0.0.0.0 p.skimresources.com
 0.0.0.0 p.smartertravel.com
+0.0.0.0 ps.ns-cdn.com
 0.0.0.0 p.t.dps-reach.com
 0.0.0.0 p.teads.tv
 0.0.0.0 pt.ispot.tv
+0.0.0.0 pt.peerius.com
 0.0.0.0 p.travelsmarter.net
 0.0.0.0 p.typekit.net
 0.0.0.0 pubads.g.doubleclick.net
@@ -2293,6 +2307,7 @@
 0.0.0.0 r.adserver01.de
 0.0.0.0 ranker.sc.omtrdc.net
 0.0.0.0 rb.adnxs.com
+0.0.0.0 r.bbci.co.uk
 0.0.0.0 rbp.mxptint.net
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.chip.de
@@ -2858,6 +2873,7 @@
 0.0.0.0 talos.adman.gr
 0.0.0.0 tapestry.tapad.com
 0.0.0.0 t.appsflyer.com
+0.0.0.0 tappx.com
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 target.smi2.net
@@ -2912,6 +2928,7 @@
 0.0.0.0 tk.kaufda.de
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 t.ktxtr.com
+0.0.0.0 t.leady.com
 0.0.0.0 tlp-01.kameleoon.com
 0.0.0.0 tlp-02.kameleoon.com
 0.0.0.0 tlp-03.kameleoon.com
@@ -2956,6 +2973,7 @@
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.opentrackr.org
 0.0.0.0 track.express.de
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.gaug.es
@@ -3007,6 +3025,7 @@
 0.0.0.0 trgde.adocean.pl
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tribl.io
+0.0.0.0 trivago.partner.intentmedia.net
 0.0.0.0 trk.connatix.com
 0.0.0.0 trker1.azalead.com
 0.0.0.0 trk.kissmetrics.com
@@ -3094,6 +3113,9 @@
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v7.stats.avast.com
 0.0.0.0 v.adsrvr.org
+0.0.0.0 vap2ewr1.lijit.com
+0.0.0.0 vap4ewr1.lijit.com
+0.0.0.0 vap5ewr1.lijit.com
 0.0.0.0 vap6ewr1.lijit.com
 0.0.0.0 vap.lijit.com
 0.0.0.0 vars.hotjar.com
@@ -3234,6 +3256,7 @@
 0.0.0.0 www2.glam.com
 0.0.0.0 www2.mpnrs.com
 0.0.0.0 www.33across.com
+0.0.0.0 www.3dstats.com
 0.0.0.0 www3.mpnrs.com
 0.0.0.0 www3.smartadserver.com
 0.0.0.0 www.4chan.org
@@ -3244,13 +3267,16 @@
 0.0.0.0 www8.smartadserver.com
 0.0.0.0 www9.smartadserver.com
 0.0.0.0 www.acint.net
+0.0.0.0 www.acuityads.com
 0.0.0.0 www.ad4mat.de
 0.0.0.0 www.adblockanalytics.com
 0.0.0.0 www.adcell.de
+0.0.0.0 www.adcolony.com
 0.0.0.0 www.addthis.com
 0.0.0.0 www.addtoany.com
 0.0.0.0 www.adition.com
 0.0.0.0 www.adman.gr
+0.0.0.0 www.admedo.com
 0.0.0.0 www.adobetag.com
 0.0.0.0 www.adroll.com
 0.0.0.0 www.adsensecustomsearchads.com
@@ -3374,6 +3400,7 @@
 0.0.0.0 x.fidelity-media.com
 0.0.0.0 x.ligatus.com
 0.0.0.0 xl-trk.com
+0.0.0.0 xml.ad-maven.com
 0.0.0.0 xpl.theadex.com
 0.0.0.0 xray.mail.ru
 0.0.0.0 x.skimresources.com
