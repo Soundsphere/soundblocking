@@ -460,6 +460,7 @@
 0.0.0.0 500bb.com
 0.0.0.0 500galleries.net
 0.0.0.0 5029539.fls.doubleclick.net
+0.0.0.0 5035110.fls.doubleclick.net
 0.0.0.0 5060110.fls.doubleclick.net
 0.0.0.0 50atlesters.lk
 0.0.0.0 50blog.cn
@@ -866,6 +867,8 @@
 0.0.0.0 a3400.casalemedia.com
 0.0.0.0 a3.suntimes.com
 0.0.0.0 a4391.casalemedia.com
+0.0.0.0 a4411.casalemedia.com
+0.0.0.0 a4500.casalemedia.com
 0.0.0.0 a4550.casalemedia.com
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a6.smi2.ru
@@ -2265,6 +2268,7 @@
 0.0.0.0 ads.sunmaker.com
 0.0.0.0 ads.supplyframe.com
 0.0.0.0 ads.tahono.com
+0.0.0.0 ads.tapdaq.com
 0.0.0.0 ads.targetedbanner.biz
 0.0.0.0 adstat.4u.pl
 0.0.0.0 adstats.com
@@ -3384,6 +3388,7 @@
 0.0.0.0 analslammers.com
 0.0.0.0 analsorority.com
 0.0.0.0 analyticalinstrumentsmanufacturer.com
+0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics-ads.xyz
 0.0.0.0 analytics.analytics-egain.com
@@ -3810,6 +3815,7 @@
 0.0.0.0 api.adsnative.com
 0.0.0.0 api.airbrake.io
 0.0.0.0 api.amplitude.com
+0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api.appsflyer.com
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.at.runescape.com.sd3.pw
@@ -8738,6 +8744,7 @@
 0.0.0.0 data14.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
+0.0.0.0 data18.adlooxtracking.com
 0.0.0.0 data19.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
@@ -10310,6 +10317,7 @@
 0.0.0.0 ebayotomotiv.com
 0.0.0.0 ebayplay.ru
 0.0.0.0 ebay-sell.com
+0.0.0.0 ebayukb-d.openx.net
 0.0.0.0 ebayus-d.openx.net
 0.0.0.0 ebbw.com
 0.0.0.0 ebch.com
@@ -11460,6 +11468,7 @@
 0.0.0.0 fastlearningforex.com
 0.0.0.0 fastlineonline.com
 0.0.0.0 fast-look.com
+0.0.0.0 fast.marriottinternationa.demdex.net
 0.0.0.0 fastmediaservice.com
 0.0.0.0 fastmp3player.com
 0.0.0.0 fastmp3search.com.ar
@@ -13285,6 +13294,7 @@
 0.0.0.0 googlee.info
 0.0.0.0 google-find-it.com
 0.0.0.0 goo-gle.info
+0.0.0.0 googleleadservices.com
 0.0.0.0 google-liar.ru
 0.0.0.0 googlelink.us
 0.0.0.0 googlemare.com
@@ -16980,6 +16990,7 @@
 0.0.0.0 logirls.net
 0.0.0.0 logisticstores.com
 0.0.0.0 logitechlogitechglobal.112.2o7.net
+0.0.0.0 loglady.skypicker.com
 0.0.0.0 logliberation.xiti.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.musical.ly
@@ -16995,6 +17006,7 @@
 0.0.0.0 logpostback.media.net
 0.0.0.0 log.prezi.com
 0.0.0.0 log.quora.com
+0.0.0.0 logrocket.com
 0.0.0.0 log.rutube.ru
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs1125.xiti.com
@@ -17890,6 +17902,7 @@
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 me-checkpoint-284982141.com
 0.0.0.0 meconnect.org
+0.0.0.0 med-api.admost.com
 0.0.0.0 medartrotin.com
 0.0.0.0 medbod.com
 0.0.0.0 medbog.com
@@ -17930,6 +17943,7 @@
 0.0.0.0 media.funpic.de
 0.0.0.0 media.gameduell.de
 0.0.0.0 mediageneral.com
+0.0.0.0 media.go2speed.org
 0.0.0.0 media.intelia.it
 0.0.0.0 media-interface.net
 0.0.0.0 media.justus-service.ru
@@ -21373,6 +21387,7 @@
 0.0.0.0 pixel.carambo.la
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
 0.0.0.0 pixel.everesttech.net
@@ -23187,6 +23202,7 @@
 0.0.0.0 releshop.ru
 0.0.0.0 relevantsites.net
 0.0.0.0 relevanz10.de
+0.0.0.0 reliancecorporateit.tt.omtrdc.net
 0.0.0.0 religioustourism.gr
 0.0.0.0 rellationsystemhavordonline.uk
 0.0.0.0 relton.net
@@ -23606,6 +23622,7 @@
 0.0.0.0 rum.logsss.com
 0.0.0.0 rum.monitis.com
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 run.admost.com
 0.0.0.0 run.adrizer.com
 0.0.0.0 runandwod.com
 0.0.0.0 runative-syndicate.com
@@ -24186,6 +24203,7 @@
 0.0.0.0 sdihsihdsfsofhsohs.net
 0.0.0.0 s-direct.com
 0.0.0.0 sdk.accountkit.com
+0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 sdka-v10.cf
@@ -25514,6 +25532,7 @@
 0.0.0.0 sitemerkezi.net
 0.0.0.0 sitemeter.com
 0.0.0.0 sitemynet.com
+0.0.0.0 site-optimization-api.company-target.com
 0.0.0.0 sitepars.org
 0.0.0.0 siterank.hypermart.net
 0.0.0.0 siteretrebedns.com
@@ -28490,6 +28509,7 @@
 0.0.0.0 tracking.cp.ligatus.com
 0.0.0.0 tracking.crunchiemedia.com
 0.0.0.0 tracking.datacenteredu.live
+0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.foxnews.com
 0.0.0.0 tracking.g2crowd.com
@@ -29367,6 +29387,7 @@
 0.0.0.0 usdcoin.top
 0.0.0.0 us-downloads.com
 0.0.0.0 usearch.biz
+0.0.0.0 us-east-1.a.intentmedia.net
 0.0.0.0 usedcopiersaustin.com
 0.0.0.0 usedsex.net
 0.0.0.0 usedwatchshop.com
@@ -29981,6 +30002,7 @@
 0.0.0.0 web3193.cweb01.gamingweb.de
 0.0.0.0 web3200.cweb01.gamingweb.de
 0.0.0.0 webaccupgrd.eg.vg
+0.0.0.0 web.adblade.com
 0.0.0.0 web.adknowledge.com
 0.0.0.0 webads.bizservers.com
 0.0.0.0 webads.co.nz
@@ -31052,6 +31074,7 @@
 0.0.0.0 www.adultoweb.com
 0.0.0.0 www.adultscandy.com
 0.0.0.0 www.adultweetplace.com
+0.0.0.0 www.adventori.com
 0.0.0.0 www.adventurediscoverytravel.com
 0.0.0.0 www.advertisingstats.com
 0.0.0.0 www.adwidecenter.com
@@ -32732,6 +32755,7 @@
 0.0.0.0 www.maxkb.com
 0.0.0.0 www.maxprivacyprotector.com
 0.0.0.0 www.mazur.cl
+0.0.0.0 www.mb103.com
 0.0.0.0 www.mba-icmmadurai.in
 0.0.0.0 www.mbc44.com
 0.0.0.0 www.mbc70.com
