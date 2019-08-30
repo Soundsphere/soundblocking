@@ -67,13 +67,16 @@
 0.0.0.0 a3291.casalemedia.com
 0.0.0.0 a3320.casalemedia.com
 0.0.0.0 a3321.casalemedia.com
+0.0.0.0 a3330.casalemedia.com
 0.0.0.0 a3341.casalemedia.com
 0.0.0.0 a3361.casalemedia.com
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3371.casalemedia.com
 0.0.0.0 a3391.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
+0.0.0.0 a4411.casalemedia.com
 0.0.0.0 a4450.casalemedia.com
+0.0.0.0 a4500.casalemedia.com
 0.0.0.0 a4550.casalemedia.com
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a6.smi2.ru
@@ -252,6 +255,7 @@
 0.0.0.0 ads.smartstream.tv
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.sunmaker.com
+0.0.0.0 ads.tapdaq.com
 0.0.0.0 adstax-match.adrtx.net
 0.0.0.0 ads.themoneytizer.com
 0.0.0.0 ads.trafficjunky.net
@@ -410,6 +414,7 @@
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.amplitude.com
+0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 api.b2c.com
@@ -863,6 +868,7 @@
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-amp.alexametrics.com
 0.0.0.0 c.evidon.com
+0.0.0.0 cewecolor.d3.sc.omtrdc.net
 0.0.0.0 cf.iadsdk.apple.com
 0.0.0.0 c.fqtag.com
 0.0.0.0 cgi.connect.qq.com
@@ -1008,6 +1014,7 @@
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
+0.0.0.0 creative.prf.hn
 0.0.0.0 credit-agricole.fr
 0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 crunchmind-d.openx.net
@@ -1113,6 +1120,7 @@
 0.0.0.0 data14.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
+0.0.0.0 data18.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
 0.0.0.0 data22.adlooxtracking.com
@@ -1278,6 +1286,7 @@
 0.0.0.0 easycounter.com
 0.0.0.0 ebaydeb-d.openx.net
 0.0.0.0 ebayinc.demdex.net
+0.0.0.0 ebayukb-d.openx.net
 0.0.0.0 ebdr3.com
 0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 ecommerce.iap.unity3d.com
@@ -1378,6 +1387,7 @@
 0.0.0.0 fast.forbes.com
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 fast.marriottinternationa.demdex.net
 0.0.0.0 fast.skydeutschland.demdex.net
 0.0.0.0 faultycanvas.com
 0.0.0.0 faz.met.vgwort.de
@@ -1404,6 +1414,7 @@
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 f.monetate.net
 0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 forbes.media.net
 0.0.0.0 forms.gle
 0.0.0.0 forms.ontraport.com
 0.0.0.0 forwrdnow.com
@@ -1493,6 +1504,7 @@
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.bi.owox.com
+0.0.0.0 googleleadservices.com
 0.0.0.0 go.onelink.me
 0.0.0.0 go.pardot.com
 0.0.0.0 go.pub2srv.com
@@ -1536,6 +1548,7 @@
 0.0.0.0 hello.myfonts.net
 0.0.0.0 helper-stats.wondershare.com
 0.0.0.0 heredeutschlandgmbh.d1.sc.omtrdc.net
+0.0.0.0 hertz.122.2o7.net
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hi.hellobar.com
 0.0.0.0 hit.dogannet.tv
@@ -1795,6 +1808,7 @@
 0.0.0.0 logpostback.media.net
 0.0.0.0 log.prezi.com
 0.0.0.0 log.quora.com
+0.0.0.0 logrocket.com
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs1125.xiti.com
 0.0.0.0 logs1242.xiti.com
@@ -1892,6 +1906,7 @@
 0.0.0.0 media.complex.com
 0.0.0.0 media-eu1.inq.com
 0.0.0.0 media.flixfacts.com
+0.0.0.0 media.go2speed.org
 0.0.0.0 media-lax1.inq.com
 0.0.0.0 mediametrics.ru
 0.0.0.0 medianet-match.dotomi.com
@@ -2066,6 +2081,7 @@
 0.0.0.0 pa.rxthdr.com
 0.0.0.0 pass.1688.com
 0.0.0.0 patagonia.122.2o7.net
+0.0.0.0 pa.tns-ua.com
 0.0.0.0 pb.adriver.ru
 0.0.0.0 p.bm23.com
 0.0.0.0 p.brsrvr.com
@@ -2104,6 +2120,7 @@
 0.0.0.0 pixelbox.uimserv.net
 0.0.0.0 pixel.cdnwidget.com
 0.0.0.0 pixel.condenastdigital.com
+0.0.0.0 pixel.cpex.cz
 0.0.0.0 pixel-eu.rubiconproject.com
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
 0.0.0.0 pixel.everesttech.net
@@ -2204,6 +2221,7 @@
 0.0.0.0 propermedia-d.openx.net
 0.0.0.0 prophet.heise.de
 0.0.0.0 propu.sh
+0.0.0.0 prosieben01.webtrekk.net
 0.0.0.0 proxy.sec.miui.com
 0.0.0.0 proxy-tracker.colpirio.com
 0.0.0.0 pr.realvu.net
@@ -2367,6 +2385,7 @@
 0.0.0.0 rum.logsss.com
 0.0.0.0 rum.monitis.com
 0.0.0.0 rum-static.pingdom.net
+0.0.0.0 run.admost.com
 0.0.0.0 run.adrizer.com
 0.0.0.0 runtime.lemonpi.io
 0.0.0.0 rv-gateway.supersonicads.com
@@ -2532,6 +2551,7 @@
 0.0.0.0 site.adform.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteintercept.qualtrics.com
+0.0.0.0 site-optimization-api.company-target.com
 0.0.0.0 s.jpush.cn
 0.0.0.0 sjrtp5-cdn.marketo.com
 0.0.0.0 sjrtp6-cdn.marketo.com
@@ -2935,6 +2955,7 @@
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 tracking.bloomberg.com
+0.0.0.0 tracking.eurosport.com
 0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.g2crowd.com
 0.0.0.0 tracking.gj-mobile-services.de
@@ -3135,6 +3156,7 @@
 0.0.0.0 w.cnzz.com
 0.0.0.0 wcs.naver.com
 0.0.0.0 wd.adcolony.com
+0.0.0.0 web.adblade.com
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 webed.dm.gg
 0.0.0.0 webmdcom.tt.omtrdc.net
@@ -3279,6 +3301,7 @@
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.lduhtrp.net
+0.0.0.0 www.leanplum.com
 0.0.0.0 www.ligatus.com
 0.0.0.0 www.linkconnector.com
 0.0.0.0 www.linksalpha.com
@@ -3364,6 +3387,7 @@
 0.0.0.0 zdbb.netshelter.net
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zeus.ad.intl.xiaomi.com
+0.0.0.0 z.gds.cnzz.com
 0.0.0.0 zm232.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
