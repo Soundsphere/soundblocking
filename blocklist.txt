@@ -333,6 +333,7 @@
 0.0.0.0 37143a1b-69b4-4a0d-b8cf-28abf0203d0e.htmlpasta.com
 0.0.0.0 3721.com
 0.0.0.0 37586.com
+0.0.0.0 3797665.fls.doubleclick.net
 0.0.0.0 37cecdb7-789a-4d41-ba8a-a522440ec5ed.htmlpasta.com
 0.0.0.0 37wg.com
 0.0.0.0 380f08cf-7b9b-4445-aa56-37b6ed077de0.htmlpasta.com
@@ -1728,6 +1729,7 @@
 0.0.0.0 ads10.speedbit.com
 0.0.0.0 ads180.com
 0.0.0.0 ads18.vertamedia.com
+0.0.0.0 ads19.vertamedia.com
 0.0.0.0 ads1.canoe.ca
 0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.msn.com
@@ -3914,6 +3916,7 @@
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app4.kromtech.net
 0.0.0.0 app-ab01.marketo.com
+0.0.0.0 app-ab02.marketo.com
 0.0.0.0 app-ab04.marketo.com
 0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab10.marketo.com
@@ -11111,6 +11114,7 @@
 0.0.0.0 events.redditmedia.com
 0.0.0.0 events.secureserver.net
 0.0.0.0 events.streamrail.net
+0.0.0.0 events.tremorhub.com
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.whisk.com
 0.0.0.0 event-tracking.com
@@ -12318,6 +12322,7 @@
 0.0.0.0 freetogo.com.au
 0.0.0.0 freetoplists.com
 0.0.0.0 freetopsite.com
+0.0.0.0 freetour.com
 0.0.0.0 free-traffic.xyz
 0.0.0.0 free-tube-orgasm.net
 0.0.0.0 freevbuckx.com
@@ -22464,6 +22469,7 @@
 0.0.0.0 pr.ybp.yahoo.com
 0.0.0.0 przewodnikbeskidy.com.pl
 0.0.0.0 ps2.interpolls.com
+0.0.0.0 ps3.pubnub.com
 0.0.0.0 psa48.ru
 0.0.0.0 psa-ae.com
 0.0.0.0 psa.carambo.la
@@ -22495,6 +22501,7 @@
 0.0.0.0 p.teads.tv
 0.0.0.0 pt.ispot.tv
 0.0.0.0 p.t-online.de
+0.0.0.0 pt.peerius.com
 0.0.0.0 ptproject.com
 0.0.0.0 p.travelsmarter.net
 0.0.0.0 pt.server1.adexit.com
@@ -22943,6 +22950,7 @@
 0.0.0.0 rb1.design.ru
 0.0.0.0 rb.adnxs.com
 0.0.0.0 rbadult.com
+0.0.0.0 r.bbci.co.uk
 0.0.0.0 rbcmontgomery.com
 0.0.0.0 rb-net.com
 0.0.0.0 rbp.mxptint.net
@@ -27377,6 +27385,7 @@
 0.0.0.0 tapjoy.go2cloud.org
 0.0.0.0 tapki.cn
 0.0.0.0 t.appsflyer.com
+0.0.0.0 tappx.com
 0.0.0.0 tap.rubiconproject.com
 0.0.0.0 tap-secure.rubiconproject.com
 0.0.0.0 tapsense.com
@@ -27609,6 +27618,7 @@
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.remoteapp.windowsazure.com
+0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.soundcloud.com
 0.0.0.0 telepay.nl
 0.0.0.0 teletransact.com
@@ -28477,6 +28487,7 @@
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.netmechanic.com
+0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.pythonvideo.com
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 trackersimulator.org
@@ -28763,6 +28774,7 @@
 0.0.0.0 tripshome.com
 0.0.0.0 trip.uncle-aunty.com
 0.0.0.0 trisexual.com
+0.0.0.0 trivago.partner.intentmedia.net
 0.0.0.0 trivselsdoktoren.dk
 0.0.0.0 trix.net
 0.0.0.0 trixscripts.com
@@ -29523,6 +29535,7 @@
 0.0.0.0 vap2ewr1.lijit.com
 0.0.0.0 vap2sfo1.lijit.com
 0.0.0.0 vap4ewr1.lijit.com
+0.0.0.0 vap5ewr1.lijit.com
 0.0.0.0 vap6ewr1.lijit.com
 0.0.0.0 vap.lijit.com
 0.0.0.0 vaportotal.net
@@ -31000,6 +31013,7 @@
 0.0.0.0 www.activshopper.com
 0.0.0.0 www.actrend.work
 0.0.0.0 www.actualizacionesjuridicasdeantioquia.com
+0.0.0.0 www.acuityads.com
 0.0.0.0 www.acustat.com
 0.0.0.0 www.acxiom.com
 0.0.0.0 www.ad4ever.com
@@ -31012,6 +31026,7 @@
 0.0.0.0 www.adbutler.com
 0.0.0.0 www.adbutler.de
 0.0.0.0 www.adcell.de
+0.0.0.0 www.adcolony.com
 0.0.0.0 www.adconduit.net
 0.0.0.0 www.adcycle.com
 0.0.0.0 www.ad.denguru.com
@@ -31035,6 +31050,7 @@
 0.0.0.0 www.adlandpro.com
 0.0.0.0 www.adleadbrazil.com
 0.0.0.0 www.adman.gr
+0.0.0.0 www.admedo.com
 0.0.0.0 www.adminder.com
 0.0.0.0 www.administracionganadera.cl
 0.0.0.0 www.admiraplus.net
@@ -34419,6 +34435,7 @@
 0.0.0.0 xmirror.us
 0.0.0.0 xml.411web.com
 0.0.0.0 xml.adbetnet.com
+0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.adservme.com
 0.0.0.0 xmlcash.com
 0.0.0.0 xml.nbcsearch.com
