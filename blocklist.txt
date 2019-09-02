@@ -76,6 +76,7 @@
 0.0.0.0 a3361.casalemedia.com
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3371.casalemedia.com
+0.0.0.0 a3390.casalemedia.com
 0.0.0.0 a3391.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
 0.0.0.0 a4411.casalemedia.com
@@ -119,6 +120,7 @@
 0.0.0.0 action.media6degrees.com
 0.0.0.0 action.metaffiliation.com
 0.0.0.0 actions-am.taboola.com
+0.0.0.0 actions-hk.taboola.com
 0.0.0.0 activities.alibaba.com
 0.0.0.0 activity.windows.com
 0.0.0.0 act.webmasterplan.com
@@ -361,6 +363,7 @@
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-usadmm.dotomi.com
 0.0.0.0 amzn.to
+0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.businessinsider.com
 0.0.0.0 analytics.carambo.la
@@ -999,6 +1002,7 @@
 0.0.0.0 controller.intl.xiaomi.com
 0.0.0.0 convammp.taboola.com
 0.0.0.0 conversions.adaptv.advertising.com
+0.0.0.0 convhkmp.taboola.com
 0.0.0.0 conv.tubemogul.com
 0.0.0.0 cookie.brealtime.com
 0.0.0.0 cookieinfoscript.com
@@ -1083,6 +1087,7 @@
 0.0.0.0 d2uepos3ef6db0.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
+0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
@@ -1444,6 +1449,7 @@
 0.0.0.0 fresh8.co
 0.0.0.0 frog.wix.com
 0.0.0.0 front.optimonk.com
+0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 fs.microsoft.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwapi.adsafeprotected.com
@@ -1977,6 +1983,7 @@
 0.0.0.0 mogointeractive.com
 0.0.0.0 monitor.econda-monitor.de
 0.0.0.0 mpp.vindicosuite.com
+0.0.0.0 mproxy.banner.linksynergy.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mrb.upapi.net
@@ -2346,6 +2353,7 @@
 0.0.0.0 resources.infolinks.com
 0.0.0.0 resources.taboola.com
 0.0.0.0 responder.wt-safetag.com
+0.0.0.0 res.rbl.ms
 0.0.0.0 restapi.amap.com
 0.0.0.0 retcode.taobao.com
 0.0.0.0 retrack.q-divisioncdn.de
@@ -2594,6 +2602,7 @@
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 smarticon.geotrust.com
 0.0.0.0 smarturl.it
+0.0.0.0 smct.co
 0.0.0.0 s-media-cache-ak0.pinimg.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 smetrics.aem.playstation.com
@@ -2805,6 +2814,7 @@
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.clickonometrics.pl
 0.0.0.0 sync-dsp.ad-m.asia
+0.0.0.0 sync-eu.connectad.io
 0.0.0.0 sync.extend.tv
 0.0.0.0 syncf.tubemogul.com
 0.0.0.0 sync.go.sonobi.com
@@ -2889,6 +2899,7 @@
 0.0.0.0 tc.tradetracker.net
 0.0.0.0 t.cwkuki.com
 0.0.0.0 td2.crwdcntrl.net
+0.0.0.0 t.dailymail.co.uk
 0.0.0.0 td.crwdcntrl.net
 0.0.0.0 tdn.r42tag.com
 0.0.0.0 tealium.hs.llnwd.net
@@ -3001,6 +3012,7 @@
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.skyword.com
 0.0.0.0 tracking.srv2.de
+0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.mailerlite.com
@@ -3136,6 +3148,7 @@
 0.0.0.0 vg01.met.vgwort.de
 0.0.0.0 vg02.met.vgwort.de
 0.0.0.0 vg04.met.vgwort.de
+0.0.0.0 vg05.met.vgwort.de
 0.0.0.0 vg06.met.vgwort.de
 0.0.0.0 vg07.met.vgwort.de
 0.0.0.0 vg08.met.vgwort.de
