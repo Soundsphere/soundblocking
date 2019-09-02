@@ -399,6 +399,7 @@
 0.0.0.0 4345210.fls.doubleclick.net
 0.0.0.0 4382365.fls.doubleclick.net
 0.0.0.0 44466666.com
+0.0.0.0 4461178.fls.doubleclick.net
 0.0.0.0 4466666.com
 0.0.0.0 446d67d8-3cde-47b5-987b-7f6b707d0c54.htmlpasta.com
 0.0.0.0 44986.com
@@ -864,6 +865,7 @@
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3371.casalemedia.com
 0.0.0.0 a3381.casalemedia.com
+0.0.0.0 a3390.casalemedia.com
 0.0.0.0 a3391.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
 0.0.0.0 a3.suntimes.com
@@ -1135,6 +1137,7 @@
 0.0.0.0 action.media6degrees.com
 0.0.0.0 action.metaffiliation.com
 0.0.0.0 actions-am.taboola.com
+0.0.0.0 actions-hk.taboola.com
 0.0.0.0 actions-latb.taboola.com
 0.0.0.0 actionsplash.com
 0.0.0.0 actitudgrafica.com
@@ -3390,6 +3393,7 @@
 0.0.0.0 analslammers.com
 0.0.0.0 analsorority.com
 0.0.0.0 analyticalinstrumentsmanufacturer.com
+0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.adpost.org
 0.0.0.0 analytics-ads.xyz
@@ -4222,6 +4226,7 @@
 0.0.0.0 as4a.com
 0.0.0.0 as5000.com
 0.0.0.0 as5000.wunderground.com
+0.0.0.0 as.adlooxtracking.com
 0.0.0.0 asafebrowser.com
 0.0.0.0 asafecenter.com
 0.0.0.0 asafeguardinfo.com
@@ -7929,6 +7934,7 @@
 0.0.0.0 conversionruler.com
 0.0.0.0 conversions.adaptv.advertising.com
 0.0.0.0 convertdvd.info
+0.0.0.0 convhkmp.taboola.com
 0.0.0.0 convlatbmp.taboola.com
 0.0.0.0 conv.tubemogul.com
 0.0.0.0 conyc.com
@@ -10397,6 +10403,7 @@
 0.0.0.0 ecomp3.ru
 0.0.0.0 econfidence.com
 0.0.0.0 econfidence.net
+0.0.0.0 e.connectad.io
 0.0.0.0 econom.co
 0.0.0.0 economiesdeprimes.com
 0.0.0.0 econotel.net
@@ -11343,6 +11350,7 @@
 0.0.0.0 f5biz.com
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 f6cbf.in
+0.0.0.0 f7-de.adhigh.net
 0.0.0.0 f7f1bd8b-5f09-4621-8e64-1e756f36aba9.htmlpasta.com
 0.0.0.0 f8c6c53e-6e29-4d10-bad6-3fc9bd63d586.htmlpasta.com
 0.0.0.0 fabdeals.co
@@ -12408,6 +12416,7 @@
 0.0.0.0 frontiertreeservices.com
 0.0.0.0 front.optimonk.com
 0.0.0.0 frontpagecash.com
+0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 froo.com
 0.0.0.0 fruitportlionsclub.com
 0.0.0.0 fry.webtistic.com
@@ -15802,6 +15811,8 @@
 0.0.0.0 js.bizographics.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jscdn.yieldbird.com
+0.0.0.0 jsc.idealmedia.io
+0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 jscomputadores.com
 0.0.0.0 js.cybermonitor.com
@@ -17015,6 +17026,7 @@
 0.0.0.0 log.rutube.ru
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs1125.xiti.com
+0.0.0.0 logs11.xiti.com
 0.0.0.0 logs1241.xiti.com
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs13.xiti.com
@@ -17347,6 +17359,7 @@
 0.0.0.0 madserver.net
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 mads.zdnet.com
+0.0.0.0 m.adtiming.com
 0.0.0.0 madvertise.de
 0.0.0.0 madxakep2.hocomua.ru
 0.0.0.0 maejoana.byethost13.com
@@ -17876,6 +17889,7 @@
 0.0.0.0 mcfa.us
 0.0.0.0 mcgeeforlabor.com
 0.0.0.0 mckennittfamily.com
+0.0.0.0 mckinseyknowledge.122.2o7.net
 0.0.0.0 m.cpa4.org
 0.0.0.0 mcpromotions.com
 0.0.0.0 mcsoftgrants.ml
@@ -18690,6 +18704,7 @@
 0.0.0.0 mphusky.com
 0.0.0.0 mpn-analytics.mokonocdn.com
 0.0.0.0 mpp.vindicosuite.com
+0.0.0.0 mproxy.banner.linksynergy.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mpspace.net
 0.0.0.0 mpstat.us
@@ -19564,6 +19579,7 @@
 0.0.0.0 nfscars.net
 0.0.0.0 ng3.ads.warnerbros.com
 0.0.0.0 ngasaw.com
+0.0.0.0 ngastatic.com
 0.0.0.0 ngc1976.net
 0.0.0.0 ngd.thesun.co.uk
 0.0.0.0 ngimmigration.com
@@ -26734,6 +26750,7 @@
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stattrader.biz
 0.0.0.0 stat.tudou.com
+0.0.0.0 stat.uptodown.com
 0.0.0.0 statuscake.com
 0.0.0.0 status.discordapp.com
 0.0.0.0 status.qckads.com
@@ -27167,6 +27184,7 @@
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.clickonometrics.pl
 0.0.0.0 sync-dsp.ad-m.asia
+0.0.0.0 sync-eu.connectad.io
 0.0.0.0 sync.extend.tv
 0.0.0.0 syncf.tubemogul.com
 0.0.0.0 sync.go.sonobi.com
@@ -27446,6 +27464,7 @@
 0.0.0.0 tcwrcgeneralcontractors.com
 0.0.0.0 tc-ww.com
 0.0.0.0 td2.crwdcntrl.net
+0.0.0.0 t.dailymail.co.uk
 0.0.0.0 tdak.com
 0.0.0.0 tdclogisticsac.com
 0.0.0.0 td.crwdcntrl.net
@@ -29018,8 +29037,10 @@
 0.0.0.0 u7zywp.com
 0.0.0.0 u9.y83h2.com
 0.0.0.0 uaanow.com
+0.0.0.0 ua-content.adriver.ru
 0.0.0.0 u.acuityplatform.com
 0.0.0.0 ua.fm
+0.0.0.0 ua.hit.gemius.pl
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 ua-ir.com.ua
 0.0.0.0 uant.net
@@ -29506,6 +29527,7 @@
 0.0.0.0 vadadi.hu
 0.0.0.0 vaderenergy.ru
 0.0.0.0 vadik.info
+0.0.0.0 vads.net.vn
 0.0.0.0 v.adsrvr.org
 0.0.0.0 vagdevigurazala.in
 0.0.0.0 vage.biz
@@ -30775,6 +30797,7 @@
 0.0.0.0 wvw.yahoo-mai.com-secured-web.validator.accounts.medipluscur.com
 0.0.0.0 ww1003.smartadserver.com
 0.0.0.0 ww1097.smartadserver.com
+0.0.0.0 ww13.smartadserver.com
 0.0.0.0 ww17.login-appleid.apple.com.alert-wode.com
 0.0.0.0 ww1.ez-screensavers.com
 0.0.0.0 ww1.hsbcpremiere.com
