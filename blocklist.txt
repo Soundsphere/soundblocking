@@ -201,6 +201,7 @@
 0.0.0.0 ads.adfox.ru
 0.0.0.0 ads.adthrive.com
 0.0.0.0 ads.adtiger.de
+0.0.0.0 ads.aerserv.com
 0.0.0.0 ads.alibaba.com
 0.0.0.0 ads.altitude-arena.com
 0.0.0.0 ads.api.vungle.com
@@ -544,6 +545,7 @@
 0.0.0.0 a.rfihub.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 a.ria.ru
+0.0.0.0 as.adlooxtracking.com
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 ase.clmbtech.com
@@ -557,6 +559,7 @@
 0.0.0.0 asn-trk.advolution.de
 0.0.0.0 asoscomltd.tt.omtrdc.net
 0.0.0.0 a.spolecznosci.net
+0.0.0.0 asqnext.nuggad.net
 0.0.0.0 as-sec.casalemedia.com
 0.0.0.0 asset.pagefair.com
 0.0.0.0 asset.pagefair.net
@@ -781,6 +784,7 @@
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.branch.io
+0.0.0.0 cdn.callrail.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.concert.io
@@ -1307,6 +1311,7 @@
 0.0.0.0 ebdr3.com
 0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 ecommerce.iap.unity3d.com
+0.0.0.0 e.connectad.io
 0.0.0.0 e.crashlytics.com
 0.0.0.0 ec-track.com
 0.0.0.0 ed98512111bb19e5.in.net
@@ -1719,6 +1724,8 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
+0.0.0.0 jsc.idealmedia.io
+0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js.genieessp.com
 0.0.0.0 js.gleam.io
@@ -1835,6 +1842,7 @@
 0.0.0.0 logrocket.com
 0.0.0.0 logs-01.loggly.com
 0.0.0.0 logs1125.xiti.com
+0.0.0.0 logs11.xiti.com
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs3.xiti.com
@@ -1889,6 +1897,7 @@
 0.0.0.0 mapmywayfree.com
 0.0.0.0 map.sddan.com
 0.0.0.0 marketing.alibaba.com
+0.0.0.0 marketing.criteo.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marriott.btttag.com
@@ -2277,6 +2286,7 @@
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 purch-match.dotomi.com
 0.0.0.0 p.vtracy.de
+0.0.0.0 px1.vtrtl.de
 0.0.0.0 px2.moatads.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
@@ -3062,7 +3072,9 @@
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.yesware.com
 0.0.0.0 u3s.mathtag.com
+0.0.0.0 ua-content.adriver.ru
 0.0.0.0 u.acuityplatform.com
+0.0.0.0 ua.hit.gemius.pl
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
@@ -3124,6 +3136,7 @@
 0.0.0.0 v7.beemray.com
 0.0.0.0 v7event.stats.avast.com
 0.0.0.0 v7.stats.avast.com
+0.0.0.0 vads.net.vn
 0.0.0.0 v.adsrvr.org
 0.0.0.0 vap2ewr1.lijit.com
 0.0.0.0 vap4ewr1.lijit.com
@@ -3259,6 +3272,7 @@
 0.0.0.0 w.usabilla.com
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww1097.smartadserver.com
+0.0.0.0 ww13.smartadserver.com
 0.0.0.0 ww2060.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww50.smartadserver.com
