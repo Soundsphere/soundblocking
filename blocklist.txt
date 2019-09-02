@@ -500,6 +500,7 @@
 0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab13.marketo.com
 0.0.0.0 app-ab22.marketo.com
+0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab24.marketo.com
 0.0.0.0 app-aba.marketo.com
 0.0.0.0 app-abb.marketo.com
@@ -1083,6 +1084,7 @@
 0.0.0.0 d20duyjzb7cuoc.cloudfront.net
 0.0.0.0 d22v2nmahyeg2a.cloudfront.net
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
+0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 d29usylhdk1xyu.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
@@ -1297,6 +1299,7 @@
 0.0.0.0 dyn.emetriq.de
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
+0.0.0.0 e1.extreme-dm.com
 0.0.0.0 e3.adpushup.com
 0.0.0.0 e5019.e2.akamaiedge.net
 0.0.0.0 e5413.g.akamaiedge.net
@@ -1399,6 +1402,7 @@
 0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 eyeota-sync.dotomi.com
 0.0.0.0 f5.market.mi-img.com
+0.0.0.0 f7-de.adhigh.net
 0.0.0.0 faggrim.com
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 farlex-d.openx.net
@@ -2010,6 +2014,7 @@
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybestdc.com
 0.0.0.0 mybluemix.net
+0.0.0.0 mydmp.exelator.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 mytopf.com
@@ -2775,6 +2780,7 @@
 0.0.0.0 stats.wp.com
 0.0.0.0 stats.zotabox.com
 0.0.0.0 stat.tildacdn.com
+0.0.0.0 stat.uptodown.com
 0.0.0.0 status.discordapp.com
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 steadfastsystem.com
@@ -2981,6 +2987,7 @@
 0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 track1.aniview.com
 0.0.0.0 track2.trbo.com
+0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
 0.0.0.0 track.adtrue.com
 0.0.0.0 trackbar.navigator.web.de
@@ -3029,6 +3036,7 @@
 0.0.0.0 track.mopo.de
 0.0.0.0 track.noz.de
 0.0.0.0 track.omguk.com
+0.0.0.0 track.securedvisit.com
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.thesaurus.com
@@ -3288,6 +3296,7 @@
 0.0.0.0 www3.smartadserver.com
 0.0.0.0 www.4chan.org
 0.0.0.0 www4.smartadserver.com
+0.0.0.0 www.51.la
 0.0.0.0 www5.smartadserver.com
 0.0.0.0 www6.smartadserver.com
 0.0.0.0 www.888casino.com
@@ -3358,6 +3367,7 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gotgayporn.com
+0.0.0.0 www.hlserve.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.i.matheranalytics.com
 0.0.0.0 www.increaserev.com
