@@ -878,6 +878,7 @@
 0.0.0.0 a4500.casalemedia.com
 0.0.0.0 a4550.casalemedia.com
 0.0.0.0 a4p.adpartner.pro
+0.0.0.0 a5.smi2.ru
 0.0.0.0 a6.smi2.ru
 0.0.0.0 a777.org
 0.0.0.0 a7cef5e5-cc44-42b9-ba90-3463d44a8d57.htmlpasta.com
@@ -5934,6 +5935,7 @@
 0.0.0.0 borar.net
 0.0.0.0 bordados.com.uy
 0.0.0.0 boredlife.com
+0.0.0.0 boredpanda-d.openx.net
 0.0.0.0 borlander.cn
 0.0.0.0 borlander.com.cn
 0.0.0.0 borresuspasos.com
@@ -14313,6 +14315,7 @@
 0.0.0.0 hqvideo.info
 0.0.0.0 hq-videoz.com
 0.0.0.0 hqwmdjejtudlk-dfjkeid.com
+0.0.0.0 hr.adocean.pl
 0.0.0.0 hrenota.com
 0.0.0.0 hreski.com
 0.0.0.0 hrsourcegroup.com
@@ -19063,6 +19066,7 @@
 0.0.0.0 myntelligence.com
 0.0.0.0 mynudedirect.com
 0.0.0.0 my-nude-girl.com
+0.0.0.0 my.outbrain.com
 0.0.0.0 myownsearchtool.com
 0.0.0.0 mypagerank.net
 0.0.0.0 mypagerank.ru
@@ -19545,6 +19549,7 @@
 0.0.0.0 newspk.tv
 0.0.0.0 newspywaredetector.com
 0.0.0.0 newsrosprom.ru
+0.0.0.0 news.smi2.ru
 0.0.0.0 news.svnhforum.com
 0.0.0.0 newstaffadsshop.club
 0.0.0.0 newsworldnow.com
@@ -22090,6 +22095,7 @@
 0.0.0.0 premium-pc-scan.com
 0.0.0.0 premiumrates.org
 0.0.0.0 premium-search.net
+0.0.0.0 premiumtv.122.2o7.net
 0.0.0.0 prepagatapos5333.com
 0.0.0.0 preparetobuy.live
 0.0.0.0 presentsearch.net
@@ -26595,6 +26601,7 @@
 0.0.0.0 stat.dyna.ultraweb.hu
 0.0.0.0 stat.flashtalking.com
 0.0.0.0 stathat.com
+0.0.0.0 static1.smi2.net
 0.0.0.0 static1.squarespace.com
 0.0.0.0 static240082.rollins.emory.edu
 0.0.0.0 static2.smi2.net
