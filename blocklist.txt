@@ -1041,6 +1041,7 @@
 0.0.0.0 cs11.wpc.v0cdn.net
 0.0.0.0 cs.adingo.jp
 0.0.0.0 csc.beap.bc.yahoo.com
+0.0.0.0 cse.google.com
 0.0.0.0 cs.gssprt.jp
 0.0.0.0 csi.gstatic.com
 0.0.0.0 cs.media.net
@@ -2438,6 +2439,7 @@
 0.0.0.0 rxcdn.1rx.io
 0.0.0.0 s0.2mdn.net
 0.0.0.0 s0.doubleclick.net
+0.0.0.0 s0.wp.com
 0.0.0.0 s10.histats.com
 0.0.0.0 s1325.t.eloqua.com
 0.0.0.0 s1.adform.net
@@ -2481,6 +2483,7 @@
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 scomcluster.cxense.com
 0.0.0.0 scontent-iad3-1.cdninstagram.com
+0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scout24-d.openx.net
 0.0.0.0 s.cpx.to
 0.0.0.0 script.crazyegg.com
