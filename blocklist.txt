@@ -975,6 +975,7 @@
 0.0.0.0 comcluster.cxense.com
 0.0.0.0 common.duapps.com
 0.0.0.0 community.unbounce.com
+0.0.0.0 completion.amazon.co.uk
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condenast.demdex.net
 0.0.0.0 conductor.clicktale.net
@@ -987,6 +988,7 @@
 0.0.0.0 connatix-d.openx.net
 0.0.0.0 connect.ekomi.de
 0.0.0.0 connect.facebook.com
+0.0.0.0 connect.facebook.net
 0.0.0.0 connect.ok.ru
 0.0.0.0 connect.rom.miui.com
 0.0.0.0 connect.tapjoy.com
@@ -2447,6 +2449,7 @@
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3-eu-central-1.amazonaws.com
+0.0.0.0 s3-eu-west-1.amazonaws.com
 0.0.0.0 s3.us-east-2.amazonaws.com
 0.0.0.0 s62.mxcdn.net
 0.0.0.0 s7.addthis.com
