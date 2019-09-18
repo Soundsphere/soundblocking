@@ -25,6 +25,7 @@
 0.0.0.0 4711400.fls.doubleclick.net
 0.0.0.0 4798542.fls.doubleclick.net
 0.0.0.0 4878630.fls.doubleclick.net
+0.0.0.0 4.bp.blogspot.com
 0.0.0.0 4d.condenastdigital.com
 0.0.0.0 5029539.fls.doubleclick.net
 0.0.0.0 5035110.fls.doubleclick.net
@@ -800,6 +801,7 @@
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdneast2-xch.media.net
 0.0.0.0 cdn.elasticad.net
+0.0.0.0 cdn.embedly.com
 0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
@@ -2034,6 +2036,7 @@
 0.0.0.0 nd.demdex.net
 0.0.0.0 ndirect.ppro.de
 0.0.0.0 neckermannreisen.btttag.com
+0.0.0.0 nerdist.com
 0.0.0.0 nervoussummer.com
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 netzwelt-gmbh-d.openx.net
@@ -2366,6 +2369,7 @@
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 res1.applovin.com
+0.0.0.0 res.cloudinary.com
 0.0.0.0 researchgate-d.openx.net
 0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resources.infolinks.com
