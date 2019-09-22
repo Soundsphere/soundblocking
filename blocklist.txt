@@ -1585,6 +1585,7 @@
 0.0.0.0 hertz.122.2o7.net
 0.0.0.0 hexagon-analytics.com
 0.0.0.0 hi.hellobar.com
+0.0.0.0 history.google.com
 0.0.0.0 hit.dogannet.tv
 0.0.0.0 hits.europuls.eu
 0.0.0.0 hive-d.openx.net
@@ -2209,6 +2210,7 @@
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 platform.tumblr.com
+0.0.0.0 platform.twitter.com
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.h-cdn.com
 0.0.0.0 player.piksel.com
