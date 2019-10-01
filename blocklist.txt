@@ -7526,6 +7526,7 @@
 0.0.0.0 cm.need2find.com
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cmp-cdn.ghostery.com
+0.0.0.0 cmp.macworld.com
 0.0.0.0 cmpstar.com
 0.0.0.0 cm.revcontent.com
 0.0.0.0 cms1.net
@@ -8466,6 +8467,7 @@
 0.0.0.0 customer.appmys-ups.org
 0.0.0.0 customer.cludo.com
 0.0.0.0 customer-ebay.com
+0.0.0.0 customerevents.netflix.com
 0.0.0.0 customer-limited.com
 0.0.0.0 customerservice-directory.com
 0.0.0.0 customers.invoice-appmy.org
@@ -19829,6 +19831,7 @@
 0.0.0.0 nqs-nl12-c3.youboranqs01.com
 0.0.0.0 nqs-nl1-c10.youboranqs01.com
 0.0.0.0 nrcci.org.np
+0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 nrsi.twilightparadox.com
 0.0.0.0 nrssm.in
 0.0.0.0 nr.taboola.com
