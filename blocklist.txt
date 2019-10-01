@@ -945,6 +945,7 @@
 0.0.0.0 cm.mgid.com
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cmp-cdn.ghostery.com
+0.0.0.0 cmp.macworld.com
 0.0.0.0 cm.revcontent.com
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 c.msn.com
@@ -1061,6 +1062,7 @@
 0.0.0.0 cts.tradepub.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 curse-d.openx.net
+0.0.0.0 customerevents.netflix.com
 0.0.0.0 custom-wrs.api.responsys.net
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
@@ -2054,6 +2056,7 @@
 0.0.0.0 now.eloqua.com
 0.0.0.0 nqs.nice264.com
 0.0.0.0 nqs-nl12-c3.youboranqs01.com
+0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 ns.zdbb.net
 0.0.0.0 nxtck.com
@@ -3132,6 +3135,7 @@
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 use-tor.adsrvr.org
+0.0.0.0 use.typekit.net
 0.0.0.0 us.find.api.micloud.xiaomi.net
 0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us.phonecallapi.micloud.xiaomi.net
