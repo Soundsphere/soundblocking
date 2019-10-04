@@ -46,6 +46,7 @@
 0.0.0.0 883205.fls.doubleclick.net
 0.0.0.0 935-kke-240.mktoresp.com
 0.0.0.0 9to5google.com
+0.0.0.0 a01.korrelate.net
 0.0.0.0 a0.smi2.ru
 0.0.0.0 a1.adform.net
 0.0.0.0 a1.vdna-assets.com
@@ -503,6 +504,7 @@
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab24.marketo.com
+0.0.0.0 app-ab27.marketo.com
 0.0.0.0 app-aba.marketo.com
 0.0.0.0 app-abb.marketo.com
 0.0.0.0 app-abj.marketo.com
@@ -535,6 +537,7 @@
 0.0.0.0 app-sj17.marketo.com
 0.0.0.0 app-sjh.marketo.com
 0.0.0.0 app-sji.marketo.com
+0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 appuals.com
 0.0.0.0 app.yieldify.com
@@ -619,6 +622,7 @@
 0.0.0.0 b.6sc.co
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
+0.0.0.0 b9-eu-imp.tribalfusion.com
 0.0.0.0 badges.instagram.com
 0.0.0.0 b.admedia.com
 0.0.0.0 bam.nr-data.net
@@ -667,8 +671,10 @@
 0.0.0.0 best.aliexpress.com
 0.0.0.0 betathome.glb.adtech.de
 0.0.0.0 bh.contextweb.com
+0.0.0.0 bia.brightinfo.com
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 biddr.brealtime.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bid.socdm.com
 0.0.0.0 bild01.webtrekk.net
@@ -724,6 +730,7 @@
 0.0.0.0 c.algovid.com
 0.0.0.0 calotag.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 c.apple.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 capture.trackjs.com
 0.0.0.0 cardcarryinglesbian.com
@@ -839,6 +846,7 @@
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.refersion.com
 0.0.0.0 cdn.revcontent.com
+0.0.0.0 cdn-s2s.buysellads.net
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdns.connatix.com
@@ -939,6 +947,7 @@
 0.0.0.0 cm.adform.net
 0.0.0.0 cm.adgrx.com
 0.0.0.0 cmap.alibaba.com
+0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.eyereturn.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 c.mgid.com
@@ -1265,7 +1274,9 @@
 0.0.0.0 dmp.theadex.com
 0.0.0.0 dmp.v.fwmrm.net
 0.0.0.0 dmtracking2.alibaba.com
+0.0.0.0 dmx.districtm.io
 0.0.0.0 dmxleo.dailymotion.com
+0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 d.nativendo.de
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnssec-nd.gexperiments1.com
@@ -1377,6 +1388,8 @@
 0.0.0.0 eventapi.libring.com
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 eventgateway.soundcloud.com
+0.0.0.0 eventgw.twilio.com
+0.0.0.0 eventgw-us1-1378646237.us-east-1.elb.amazonaws.com
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
@@ -1570,6 +1583,7 @@
 0.0.0.0 handelsblatt01.webtrekk.net
 0.0.0.0 hawk.pcgamer.com
 0.0.0.0 hb-api.omnitagjs.com
+0.0.0.0 hb.emxdgt.com
 0.0.0.0 hbevents.1rx.io
 0.0.0.0 hb.nexage.com
 0.0.0.0 hbopenbid.pubmatic.com
@@ -1654,6 +1668,7 @@
 0.0.0.0 img4.zergnet.com
 0.0.0.0 img.alibaba.com
 0.0.0.0 img.bet-at-home.com
+0.0.0.0 imgcdn.brightinfo.com
 0.0.0.0 img.en25.com
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.metaffiliation.com
@@ -1701,6 +1716,7 @@
 0.0.0.0 ipinfo.io
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 ip.nuggad.net
+0.0.0.0 i.po.st
 0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 0.0.0.0 i.r1-cdn.net
 0.0.0.0 ir2.beap.gemini.yahoo.com
@@ -1954,6 +1970,7 @@
 0.0.0.0 media.flixfacts.com
 0.0.0.0 media.go2speed.org
 0.0.0.0 media-lax1.inq.com
+0.0.0.0 mediamath.digitru.st
 0.0.0.0 mediametrics.ru
 0.0.0.0 medianet-match.dotomi.com
 0.0.0.0 mediation.adnxs.com
@@ -2003,6 +2020,7 @@
 0.0.0.0 moevideo.biz
 0.0.0.0 mogointeractive.com
 0.0.0.0 monitor.econda-monitor.de
+0.0.0.0 mormont.gamer-network.net
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mproxy.banner.linksynergy.com
 0.0.0.0 mpsnare.iesnare.com
@@ -2158,6 +2176,7 @@
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
 0.0.0.0 piwik.up.welt.de
+0.0.0.0 pix04.revsci.net
 0.0.0.0 pix.btrll.com
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.33across.com
@@ -2456,6 +2475,7 @@
 0.0.0.0 s1.adform.net
 0.0.0.0 s1.listrakbi.com
 0.0.0.0 s290.mxcdn.net
+0.0.0.0 s2s.singular.net
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3-eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
@@ -2517,8 +2537,10 @@
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.dpmsrv.com
 0.0.0.0 seal.verisign.com
@@ -2819,10 +2841,12 @@
 0.0.0.0 style2.ad6.fr
 0.0.0.0 s.tyxo.com
 0.0.0.0 su.addthis.com
+0.0.0.0 subpixel.4players.de
 0.0.0.0 sumo.com
 0.0.0.0 s.update.adsrvr.org
 0.0.0.0 s.update.indexww.com
 0.0.0.0 s.update.rubiconproject.com
+0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 survey.122.2o7.net
 0.0.0.0 survey.g.doubleclick.net
@@ -3004,6 +3028,7 @@
 0.0.0.0 track2.trbo.com
 0.0.0.0 track.addevent.com
 0.0.0.0 track.adform.net
+0.0.0.0 track.adtraction.com
 0.0.0.0 track.adtrue.com
 0.0.0.0 trackbar.navigator.web.de
 0.0.0.0 track.celtra.com
