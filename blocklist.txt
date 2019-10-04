@@ -461,6 +461,7 @@
 0.0.0.0 api.moengage.com
 0.0.0.0 api.monetizer101.com
 0.0.0.0 api.nanigans.com
+0.0.0.0 api.native.ai
 0.0.0.0 api.optmnstr.com
 0.0.0.0 api.parsely.com
 0.0.0.0 api.petametrics.com
@@ -478,6 +479,7 @@
 0.0.0.0 api.segment.io
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 api.setting.intl.miui.com
+0.0.0.0 api.share.mob.com
 0.0.0.0 api.stathat.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.traversedlp.com
@@ -704,6 +706,7 @@
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 bs.yandex.ru
+0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bttrack.com
 0.0.0.0 buffer-media-uploads.s3.amazonaws.com
@@ -1058,6 +1061,7 @@
 0.0.0.0 cse.google.com
 0.0.0.0 cs.gssprt.jp
 0.0.0.0 csi.gstatic.com
+0.0.0.0 cslogger.media.net
 0.0.0.0 cs.media.net
 0.0.0.0 c.spiegel.de
 0.0.0.0 cs.prd.msys.playstation.net
@@ -1376,6 +1380,7 @@
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu.market-place.su
+0.0.0.0 eu.nuggad.net
 0.0.0.0 eu.qualtrics.com
 0.0.0.0 eur-ukp.adsrvr.org
 0.0.0.0 eu-sonar.sociomantic.com
@@ -1480,6 +1485,7 @@
 0.0.0.0 front.optimonk.com
 0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 fs.microsoft.com
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwapi.adsafeprotected.com
 0.0.0.0 fwd3.hosts.co.uk
@@ -2849,6 +2855,7 @@
 0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 survey.122.2o7.net
+0.0.0.0 survey.euro.confirmit.com
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.nuggad.net
 0.0.0.0 s-usweb.dotomi.com
@@ -3155,6 +3162,7 @@
 0.0.0.0 ups.xplosion.de
 0.0.0.0 urbanmedia-d.openx.net
 0.0.0.0 urlaubspiraten.digidip.net
+0.0.0.0 urs.cnet.com
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 us-ads.openx.net
 0.0.0.0 usage.trackjs.com
@@ -3266,6 +3274,7 @@
 0.0.0.0 web.adblade.com
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 webed.dm.gg
+0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 webmdcom.tt.omtrdc.net
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
@@ -3508,6 +3517,7 @@
 0.0.0.0 z.moatads.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
+0.0.0.0 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
 0.0.0.0 z-na.amazon-adsystem.com
 0.0.0.0 z-na.amazon-adsystems.com
 0.0.0.0 znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
