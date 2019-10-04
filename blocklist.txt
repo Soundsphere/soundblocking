@@ -4765,6 +4765,7 @@
 0.0.0.0 b8f17fb8-20db-466b-bdc5-9b2940a17b5e.htmlpasta.com
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
+0.0.0.0 b9-eu-imp.tribalfusion.com
 0.0.0.0 baa8c2b5-0e1b-43d5-a72e-103cec96a6ab.htmlpasta.com
 0.0.0.0 ba.afl.rakuten.co.jp
 0.0.0.0 baanvitaminsea.com
@@ -5520,6 +5521,7 @@
 0.0.0.0 bidclix.net
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 biddr.brealtime.com
 0.0.0.0 bi-de-wisch.de
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bidr.trellian.com
@@ -6451,6 +6453,7 @@
 0.0.0.0 capitaloneonlineservices.com
 0.0.0.0 capital-systems.net
 0.0.0.0 capitolschedule.com
+0.0.0.0 c.apple.com
 0.0.0.0 capsula.biz
 0.0.0.0 capsulink.com
 0.0.0.0 captativa.com.br
@@ -6827,6 +6830,7 @@
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn-rtb.sape.ru
 0.0.0.0 cdn.runescape.com.sd3.pw
+0.0.0.0 cdn-s2s.buysellads.net
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdns.connatix.com
@@ -7502,6 +7506,7 @@
 0.0.0.0 cmap.alibaba.com
 0.0.0.0 c.marketgid.com
 0.0.0.0 cmdlin3.com
+0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.eyereturn.com
 0.0.0.0 cmfraj.org
 0.0.0.0 cm.g.doubleclick.net
@@ -9515,9 +9520,11 @@
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmtracking.alibaba.com
 0.0.0.0 dmvlite.com
+0.0.0.0 dmx.districtm.io
 0.0.0.0 dmxleo.dailymotion.com
 0.0.0.0 dmxml.smartname.overture.com
 0.0.0.0 dn3y71tq7jf07.cloudfront.net
+0.0.0.0 dna8twue3dlxq.cloudfront.net
 0.0.0.0 dnaads.com
 0.0.0.0 dnads.directnic.com
 0.0.0.0 dn.adzerver.com
@@ -11112,6 +11119,8 @@
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 event.getblue.io
+0.0.0.0 eventgw.twilio.com
+0.0.0.0 eventgw-us1-1378646237.us-east-1.elb.amazonaws.com
 0.0.0.0 event.inner-active.mobi
 0.0.0.0 event-listener.air.tv
 0.0.0.0 eventlogger.soundcloud.com
@@ -13772,6 +13781,7 @@
 0.0.0.0 hb.adx.adform.net
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hb.disney.go.com
+0.0.0.0 hb.emxdgt.com
 0.0.0.0 hbevents.1rx.io
 0.0.0.0 hb.geoads.net
 0.0.0.0 hbh.smtp.ru
@@ -17996,6 +18006,7 @@
 0.0.0.0 medialytics.com
 0.0.0.0 media.m-adx.com
 0.0.0.0 media.matcash.com
+0.0.0.0 mediamath.digitru.st
 0.0.0.0 mediametrics.ru
 0.0.0.0 mediametrix.com
 0.0.0.0 mediamgr.ugo.com
@@ -23784,6 +23795,7 @@
 0.0.0.0 s2.nend.net
 0.0.0.0 s2.qckads.com
 0.0.0.0 s2.shinystat.it
+0.0.0.0 s2s.singular.net
 0.0.0.0 s2.tgp15.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3edyhacker.ath.cx
@@ -24266,6 +24278,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdk.hockeyapp.net
+0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdk.starbolt.io
