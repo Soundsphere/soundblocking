@@ -5,6 +5,7 @@
 0.0.0.0 178176.engine.mobileapptracking.com
 0.0.0.0 1847082.fls.doubleclick.net
 0.0.0.0 189474.engine.mobileapptracking.com
+0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 194-vvc-221.mktoresp.com
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
@@ -843,6 +844,7 @@
 0.0.0.0 cdn.onenote.net
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
+0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
@@ -1524,6 +1526,7 @@
 0.0.0.0 geo.qualaroo.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geoservice.curse.com
+0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.yahoo.com
 0.0.0.0 get.mirando.de
@@ -1828,6 +1831,7 @@
 0.0.0.0 libs.de.coremetrics.com
 0.0.0.0 lib.selfcampaign.com
 0.0.0.0 libs.outbrain.com
+0.0.0.0 license.piriform.com
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 lifeandstylemag.com
 0.0.0.0 linkconnector.com
@@ -3115,6 +3119,7 @@
 0.0.0.0 tru.am
 0.0.0.0 try.abtasty.com
 0.0.0.0 t.sf14g.com
+0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 t.sharethis.com
 0.0.0.0 t.skimresources.com
 0.0.0.0 tslomhfys.com
@@ -3386,6 +3391,7 @@
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.blogads.de
 0.0.0.0 www.breakingnews.ie
+0.0.0.0 www.ccleaner.com
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clicktripz.com
 0.0.0.0 www.counter-gratis.com
