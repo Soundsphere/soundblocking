@@ -1996,6 +1996,7 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
+0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
@@ -2361,6 +2362,7 @@
 0.0.0.0 query-us-west1.petametrics.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
 0.0.0.0 r1.computerbild.de
+0.0.0.0 r1---sn-4g5e6nz7.gvt1.com
 0.0.0.0 r1-t.trackedlink.net
 0.0.0.0 r.254a.com
 0.0.0.0 radar.cedexis.com
