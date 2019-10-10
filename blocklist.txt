@@ -3456,6 +3456,7 @@
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
 0.0.0.0 www.queer.de
+0.0.0.0 www.querverweis.net
 0.0.0.0 www.ranking-hits.de
 0.0.0.0 www.redtube.com.br
 0.0.0.0 www.reimageplus.com
