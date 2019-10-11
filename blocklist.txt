@@ -1994,6 +1994,7 @@
 0.0.0.0 adserver.startnow.com
 0.0.0.0 adserver.theonering.net
 0.0.0.0 adserver.twitpic.com
+0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adserver.viagogo.com
 0.0.0.0 adserver.virginmedia.com
@@ -2065,6 +2066,7 @@
 0.0.0.0 ads.goyk.com
 0.0.0.0 ads.gplusmedia.com
 0.0.0.0 ads.gradfinder.com
+0.0.0.0 ads.greengeeks.com
 0.0.0.0 ads.grindinggears.com
 0.0.0.0 ads.groundspeak.com
 0.0.0.0 ads.gsm-exchange.com
@@ -6132,6 +6134,7 @@
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 b-s.tercept.com
 0.0.0.0 bs.t-redirect.com
+0.0.0.0 bsw.digitru.st
 0.0.0.0 bs.yandex.ru
 0.0.0.0 bt1.kanoodle.com
 0.0.0.0 btbilgisayarkursu.com
@@ -6703,6 +6706,7 @@
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn3.userzoom.com
+0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn4.userzoom.com
 0.0.0.0 cdn5.userzoom.com
@@ -12884,6 +12888,7 @@
 0.0.0.0 gera-design.de
 0.0.0.0 gerdosoft.org
 0.0.0.0 gerkencapiital.com
+0.0.0.0 german-adult-news.com
 0.0.0.0 german-club-manila.com
 0.0.0.0 german-linkindex.de
 0.0.0.0 germes-trans.com
@@ -13796,6 +13801,7 @@
 0.0.0.0 hbh.smtp.ru
 0.0.0.0 hbison.com
 0.0.0.0 hbj.hd.gov.cn
+0.0.0.0 hblg.media.net
 0.0.0.0 hbmd.hotbar.com
 0.0.0.0 hbndc.org
 0.0.0.0 hb.nexage.com
@@ -13805,6 +13811,7 @@
 0.0.0.0 hb.sekindo.com
 0.0.0.0 hbtengxun.com
 0.0.0.0 hb.vntsm.com
+0.0.0.0 hbx.media.net
 0.0.0.0 hccsolanonapa.org
 0.0.0.0 hc-happycasting.com
 0.0.0.0 hclperot.com
@@ -14043,6 +14050,7 @@
 0.0.0.0 hits.europuls.eu
 0.0.0.0 hits.gureport.co.uk
 0.0.0.0 hits.icdirect.com
+0.0.0.0 hits-i.iubenda.com
 0.0.0.0 hits.informer.com
 0.0.0.0 hitslink.com
 0.0.0.0 hits.nextstat.com
@@ -14972,6 +14980,7 @@
 0.0.0.0 impsa.com.mx
 0.0.0.0 impulse.forkcdn.com
 0.0.0.0 impulseleads.com
+0.0.0.0 imrk.net
 0.0.0.0 imrw0rldwide.com
 0.0.0.0 im-sad-im-blocked.com
 0.0.0.0 imstore.bet365affiliates.com
@@ -16681,11 +16690,13 @@
 0.0.0.0 lewdman.com
 0.0.0.0 lexhost.ru
 0.0.0.0 lexiclips.com
+0.0.0.0 lexip.4pcdn.de
 0.0.0.0 lfchanraomo.com
 0.0.0.0 lfnmcjw.biz
 0.0.0.0 lg3.media.net
 0.0.0.0 lgklgklgk.com
 0.0.0.0 lg-led-culture.com
+0.0.0.0 lgncal.media.net
 0.0.0.0 lgsolar.de
 0.0.0.0 lh-studio.biz
 0.0.0.0 liafreehos.webng.com
@@ -18782,6 +18793,7 @@
 0.0.0.0 ms9876sm.com
 0.0.0.0 m.samajkihalchal.com
 0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 mscom.demdex.net
 0.0.0.0 msconfig.co.kr
@@ -21449,6 +21461,7 @@
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.33across.com
 0.0.0.0 pixel3.about.com
+0.0.0.0 pixel.4pcdn.de
 0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
@@ -26073,6 +26086,7 @@
 0.0.0.0 soundium.us
 0.0.0.0 soundtime.com.mx
 0.0.0.0 source2-1.at.vwdhosting.net
+0.0.0.0 sourcepoint.vice.com
 0.0.0.0 sourcesopen.com
 0.0.0.0 southamricasunimat.com
 0.0.0.0 southernhots.com
@@ -27358,6 +27372,7 @@
 0.0.0.0 tabsu.com
 0.0.0.0 tacaginomoto.ubbihp.com.br
 0.0.0.0 tacil.org
+0.0.0.0 tacoda.at.atwola.com
 0.0.0.0 tadadadam.com
 0.0.0.0 tadmovies.com
 0.0.0.0 tadstore.cc
@@ -27698,6 +27713,7 @@
 0.0.0.0 telemetry.remoteapp.windowsazure.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.soundcloud.com
+0.0.0.0 telemetry.tradingview.com
 0.0.0.0 telepay.nl
 0.0.0.0 teletransact.com
 0.0.0.0 teletransaction.com
@@ -28724,6 +28740,7 @@
 0.0.0.0 trafficjuicer.com
 0.0.0.0 trafficleader.com
 0.0.0.0 traffic.liveuniversenetwork.com
+0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 trafficmarketplace.com
 0.0.0.0 trafficmonetize.org
 0.0.0.0 trafficmonetizer.org
@@ -30158,6 +30175,7 @@
 0.0.0.0 web-free-hosting.net
 0.0.0.0 web.g15-talk.com
 0.0.0.0 webhancer.com
+0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 webhit.aftenposten.no
 0.0.0.0 webhitcounter.com
 0.0.0.0 webhomenews.com
