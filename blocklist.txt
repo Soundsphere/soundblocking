@@ -1614,6 +1614,7 @@
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hb.emxdgt.com
 0.0.0.0 hbevents.1rx.io
+0.0.0.0 hblg.media.net
 0.0.0.0 hb.nexage.com
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hb.sekindo.com
@@ -3129,6 +3130,7 @@
 0.0.0.0 track.mopo.de
 0.0.0.0 track.noz.de
 0.0.0.0 track.omguk.com
+0.0.0.0 track.pricespider.com
 0.0.0.0 track.securedvisit.com
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.tenjin.io
@@ -3150,6 +3152,7 @@
 0.0.0.0 tr.hit.gemius.pl
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tribl.io
+0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 trivago.partner.intentmedia.net
 0.0.0.0 trk.connatix.com
 0.0.0.0 trker1.azalead.com
