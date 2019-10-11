@@ -6005,6 +6005,7 @@
 0.0.0.0 bprkoperindojaya.id
 0.0.0.0 bpro1.top
 0.0.0.0 bptelecoms.co.za
+0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 bqredret.ru
 0.0.0.0 b.qsjyy.com
 0.0.0.0 br1022.teste.website
@@ -6754,6 +6755,7 @@
 0.0.0.0 cdn.cquotient.com
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.decibelinsight.net
+0.0.0.0 cdn.digitru.st
 0.0.0.0 cdn.districtm.ca
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.doubleverify.com
@@ -8197,6 +8199,7 @@
 0.0.0.0 cptestserver.com
 0.0.0.0 cptoeeol.byethost7.com
 0.0.0.0 c.pub.network
+0.0.0.0 cpu.samsungelectronics.com
 0.0.0.0 cpvti.com
 0.0.0.0 cpxadroit.com
 0.0.0.0 cpx.golem.de
@@ -8510,6 +8513,7 @@
 0.0.0.0 cxoadfarm.dyndns.info
 0.0.0.0 c.x.oanda.com
 0.0.0.0 cxoreport.dnsalias.net
+0.0.0.0 cxt.deutsche-bank.de
 0.0.0.0 cyberbounty.com
 0.0.0.0 cyberbsolutions.org
 0.0.0.0 cyber-defender.com
@@ -8562,6 +8566,7 @@
 0.0.0.0 d1503222.u81.igempresas.ig.com.br
 0.0.0.0 d169bbxks24g2u.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
+0.0.0.0 d16xpr36wrmcmk.cloudfront.net
 0.0.0.0 d1739833.u81.igempresas.ig.com.br
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
@@ -10123,6 +10128,7 @@
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.adkernel.com
 0.0.0.0 dspcluster.adfarm1.adition.com
+0.0.0.0 ds.polyad.net
 0.0.0.0 ds.prod.vidible.tv
 0.0.0.0 ds.starmedia.com
 0.0.0.0 dstillery.com
@@ -10406,6 +10412,7 @@
 0.0.0.0 eccesso.es
 0.0.0.0 ecconomiza.com
 0.0.0.0 ecdn.firstimpression.io
+0.0.0.0 ecdn.liveclicker.net
 0.0.0.0 echofind.com
 0.0.0.0 echterschutz.com
 0.0.0.0 ecircle-ag.com
@@ -11059,6 +11066,7 @@
 0.0.0.0 eunigames.com
 0.0.0.0 euniverseads.com
 0.0.0.0 euniverse.com
+0.0.0.0 eu.nuggad.net
 0.0.0.0 eupdatepage.com
 0.0.0.0 eu-pulsepoint-rtb.quantserve.com
 0.0.0.0 eu.qualtrics.com
@@ -11132,6 +11140,7 @@
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.browsiprod.com
+0.0.0.0 events-collector.spot.im
 0.0.0.0 events.demoup.com
 0.0.0.0 events.godaddy.com
 0.0.0.0 events.jotform.com
@@ -15368,6 +15377,7 @@
 0.0.0.0 i.pagetarget.com
 0.0.0.0 ipapi.co
 0.0.0.0 ipbehdeh.ir
+0.0.0.0 ipcheck.tmgrup.com.tr
 0.0.0.0 ipcons.biz
 0.0.0.0 ipdaez0813mia.innerhost.com
 0.0.0.0 ipdata.phoneaccess.com
@@ -16344,6 +16354,7 @@
 0.0.0.0 kpang.com
 0.0.0.0 kpizuyuw.cn
 0.0.0.0 kpremium.com
+0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 kpxvrvdefs.yi.org
 0.0.0.0 krabdream.info
 0.0.0.0 kraizz.com
@@ -18224,6 +18235,7 @@
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics.corus.ca
 0.0.0.0 metricsdirect.com
+0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
@@ -26230,6 +26242,7 @@
 0.0.0.0 sprintjogsi.hu
 0.0.0.0 spros.com
 0.0.0.0 sproutenergy.ca
+0.0.0.0 spr.welt.de
 0.0.0.0 spseguridadyservicios.com
 0.0.0.0 spth.de.vu
 0.0.0.0 s.pubmine.com
@@ -28806,6 +28819,7 @@
 0.0.0.0 treyparker.com
 0.0.0.0 trffc.org
 0.0.0.0 trgde.adocean.pl
+0.0.0.0 tr.hit.gemius.pl
 0.0.0.0 trhunt.com
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 trial-offers.com
@@ -35000,6 +35014,7 @@
 0.0.0.0 ypgw.wallloan.com
 0.0.0.0 ypir.com
 0.0.0.0 ypn-js.overture.com
+0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 yqsf.cn
 0.0.0.0 yrkdsp.112.2o7.net
 0.0.0.0 yrztpzjou.hn.org
@@ -35232,6 +35247,7 @@
 0.0.0.0 zoover.adtrackers.net
 0.0.0.0 z-p42.graph.instagram.com
 0.0.0.0 z-p4.graph.instagram.com
+0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z-quest.com
 0.0.0.0 zr0.net
 0.0.0.0 zredirector.com
