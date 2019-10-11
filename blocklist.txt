@@ -230,6 +230,7 @@
 0.0.0.0 adserver.idg.de
 0.0.0.0 adserver.pressboard.ca
 0.0.0.0 adserver.reklamstore.com
+0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver-us.adtech.advertising.com
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.in
@@ -240,6 +241,7 @@
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.google.com
+0.0.0.0 ads.greengeeks.com
 0.0.0.0 ads.heias.com
 0.0.0.0 ads.imaging-resource.com
 0.0.0.0 ads.immobilienscout24.de
@@ -590,6 +592,7 @@
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 a.teads.tv
 0.0.0.0 atemda.com
+0.0.0.0 atonato.de
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
 0.0.0.0 ats.otto.de
@@ -708,6 +711,7 @@
 0.0.0.0 b.smartnews.be
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 b.stats.paypal.com
+0.0.0.0 bsw.digitru.st
 0.0.0.0 bs.yandex.ru
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bt.mediaimpact.de
@@ -771,11 +775,13 @@
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
 0.0.0.0 cdn3.userzoom.com
+0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn4.userzoom.com
 0.0.0.0 cdn5.userzoom.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn.accelerator.arsdev.net
+0.0.0.0 cdn.adaptv.advertising.com
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.admixer.net
 0.0.0.0 cdn.adnxs.com
@@ -810,6 +816,7 @@
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.digitru.st
+0.0.0.0 cdn.districtm.ca
 0.0.0.0 cdn.districtm.io
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.dynamicyield.com
@@ -872,6 +879,7 @@
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdn-static.optimonk.com
 0.0.0.0 cdn.static.zdbb.net
+0.0.0.0 cdn.stat-rock.com
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.stroeerdigitalmedia.de
 0.0.0.0 cdn.switchadhub.com
@@ -1001,6 +1009,7 @@
 0.0.0.0 conductor.clicktale.net
 0.0.0.0 config1.veinteractive.com
 0.0.0.0 config2.mparticle.com
+0.0.0.0 config.inmobi.com
 0.0.0.0 config.ioam.de
 0.0.0.0 config.safedk.com
 0.0.0.0 config.samqaicongen.com
@@ -1539,6 +1548,7 @@
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.yahoo.com
+0.0.0.0 german-adult-news.com
 0.0.0.0 get.mirando.de
 0.0.0.0 getrockerbox.com
 0.0.0.0 g.ezoic.net
@@ -1608,6 +1618,7 @@
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hb.sekindo.com
 0.0.0.0 hb.vntsm.com
+0.0.0.0 hbx.media.net
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 healte.de
 0.0.0.0 heatmap.services
@@ -1623,6 +1634,7 @@
 0.0.0.0 history.google.com
 0.0.0.0 hit.dogannet.tv
 0.0.0.0 hits.europuls.eu
+0.0.0.0 hits-i.iubenda.com
 0.0.0.0 hive-d.openx.net
 0.0.0.0 hm732.com
 0.0.0.0 hm.baidu.com
@@ -1698,6 +1710,7 @@
 0.0.0.0 impes.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
+0.0.0.0 imrk.net
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 inapi.posst.co
 0.0.0.0 in-automate.sendinblue.com
@@ -1839,6 +1852,7 @@
 0.0.0.0 lenovo.tt.omtrdc.net
 0.0.0.0 lexip.4pcdn.de
 0.0.0.0 lg3.media.net
+0.0.0.0 lgncal.media.net
 0.0.0.0 libs.coremetrics.com
 0.0.0.0 libs.de.coremetrics.com
 0.0.0.0 lib.selfcampaign.com
@@ -2050,6 +2064,7 @@
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mrb.upapi.net
 0.0.0.0 ms.applovin.com
+0.0.0.0 ms.applvn.com
 0.0.0.0 ms.cmcm.com
 0.0.0.0 mscom.demdex.net
 0.0.0.0 m.servedby-buysellads.com
@@ -2203,6 +2218,8 @@
 0.0.0.0 pix.btrll.com
 0.0.0.0 pixel.1und1.de
 0.0.0.0 pixel.33across.com
+0.0.0.0 pixel.4pcdn.de
+0.0.0.0 pixel-a.basis.net
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
@@ -2350,6 +2367,7 @@
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 pxc.otto.de
 0.0.0.0 px-eu.adhigh.net
+0.0.0.0 px.gfycat.com
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxl.iqm.com
 0.0.0.0 pxl.jivox.com
@@ -2699,6 +2717,7 @@
 0.0.0.0 solarwindsworldwidellc.demdex.net
 0.0.0.0 soma.smaato.net
 0.0.0.0 sonyglobal.d1.sc.omtrdc.net
+0.0.0.0 sourcepoint.vice.com
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 sp1cluster.cxense.com
 0.0.0.0 spade.twitch.tv
@@ -2755,6 +2774,7 @@
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 stags.bluekai.com
+0.0.0.0 s.tagsrvcs.com
 0.0.0.0 stan.xing.com
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.mobile.yandex.net
@@ -2845,6 +2865,7 @@
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.uptodown.com
 0.0.0.0 status.discordapp.com
+0.0.0.0 st.core.polyad.net
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 stepan-fe.go.mail.ru
@@ -2929,6 +2950,7 @@
 0.0.0.0 t4ft.de
 0.0.0.0 t.a3cloud.net
 0.0.0.0 taboola-d.openx.net
+0.0.0.0 tacoda.at.atwola.com
 0.0.0.0 tag.1rx.io
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tag.aticdn.net
@@ -2975,6 +2997,7 @@
 0.0.0.0 tbs.tradedoubler.com
 0.0.0.0 tc.airfrance.com
 0.0.0.0 t.cfjump.com
+0.0.0.0 t.channeladvisor.com
 0.0.0.0 tcheck.outbrainimg.com
 0.0.0.0 t.co
 0.0.0.0 t.contentsquare.net
@@ -3001,6 +3024,7 @@
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.sdk.inmobi.com
 0.0.0.0 telemetry.soundcloud.com
+0.0.0.0 telemetry.tradingview.com
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 tendertest.com
 0.0.0.0 tenor.com
@@ -3091,6 +3115,7 @@
 0.0.0.0 tracking.miui.com
 0.0.0.0 tracking.mlsat02.de
 0.0.0.0 tracking.musixmatch.com
+0.0.0.0 tracking.oe24.at
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.omnitagjs.com
 0.0.0.0 tracking.rtl.de
@@ -3111,6 +3136,7 @@
 0.0.0.0 track.vdo.ai
 0.0.0.0 track.webgains.com
 0.0.0.0 track.ziprecruiter.com
+0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafforsrv.com
 0.0.0.0 tr.blismedia.com
@@ -3121,6 +3147,7 @@
 0.0.0.0 trendmd.s3.amazonaws.com
 0.0.0.0 trends.revcontent.com
 0.0.0.0 trgde.adocean.pl
+0.0.0.0 tr.hit.gemius.pl
 0.0.0.0 tr.iadsdk.apple.com
 0.0.0.0 tribl.io
 0.0.0.0 trivago.partner.intentmedia.net
