@@ -4109,6 +4109,7 @@
 0.0.0.0 aptuk-online.org
 0.0.0.0 apture.com
 0.0.0.0 a.pub.network
+0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 apvdr.com
 0.0.0.0 apx.moatads.com
 0.0.0.0 aqualoungecasino.com
@@ -5523,6 +5524,7 @@
 0.0.0.0 bidclix.net
 0.0.0.0 bid.contextweb.com
 0.0.0.0 bidder.criteo.com
+0.0.0.0 bidder.rtk.io
 0.0.0.0 biddr.brealtime.com
 0.0.0.0 bi-de-wisch.de
 0.0.0.0 bid.g.doubleclick.net
@@ -6756,6 +6758,7 @@
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.content.prod.cms.msn.com
 0.0.0.0 cdn.contentspread.net
+0.0.0.0 cdn.cpnscdn.com
 0.0.0.0 cdn.cquotient.com
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.decibelinsight.net
@@ -6822,6 +6825,7 @@
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.optmd.com
+0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
@@ -9998,6 +10002,7 @@
 0.0.0.0 dps.bing.com
 0.0.0.0 dp-sync.dotomi.com
 0.0.0.0 d.pub.network
+0.0.0.0 dpu.samsungelectronics.com
 0.0.0.0 dqmedia.net
 0.0.0.0 drabland.net
 0.0.0.0 drafta.com
@@ -15873,6 +15878,7 @@
 0.0.0.0 js.gleam.io
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.himediads.com
+0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hs-analytics.net
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hscta.net
@@ -18214,6 +18220,7 @@
 0.0.0.0 mester.info.hu
 0.0.0.0 mestick.com
 0.0.0.0 mesvr.com
+0.0.0.0 me.taboola.com
 0.0.0.0 meta-casino.com
 0.0.0.0 metacount.com
 0.0.0.0 metafora.ru
@@ -20721,6 +20728,7 @@
 0.0.0.0 pages07.net
 0.0.0.0 pages.etology.com
 0.0.0.0 pages-stats.rbl.ms
+0.0.0.0 pages.taboola.com
 0.0.0.0 pagesyouraccount.cloudns.asia
 0.0.0.0 pagodatents.co.za
 0.0.0.0 paguole.com
@@ -28552,6 +28560,7 @@
 0.0.0.0 track.anchorfree.com
 0.0.0.0 track.attributionapp.com
 0.0.0.0 trackbar.navigator.web.de
+0.0.0.0 track.bazonline.ch
 0.0.0.0 track.bigbanners.com
 0.0.0.0 t.rack.cc
 0.0.0.0 track.celtra.com
@@ -29446,6 +29455,7 @@
 0.0.0.0 uptodateprotection.com
 0.0.0.0 uptodateprotection.net
 0.0.0.0 uptodatesecurity.com
+0.0.0.0 upu.samsungelectronics.com
 0.0.0.0 up.woyo8g.com
 0.0.0.0 upyoursecurity.com
 0.0.0.0 urakusushi.com
@@ -34659,6 +34669,7 @@
 0.0.0.0 xpscanantivirysonline.com
 0.0.0.0 xp-shield.com
 0.0.0.0 xpsn.com
+0.0.0.0 xpu.samsungelectronics.com
 0.0.0.0 xq1.net
 0.0.0.0 xrandom.com
 0.0.0.0 x-ratedclips.com
