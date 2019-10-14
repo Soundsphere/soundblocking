@@ -32,6 +32,7 @@
 0.0.0.0 5035110.fls.doubleclick.net
 0.0.0.0 5164101.fls.doubleclick.net
 0.0.0.0 5283813.fls.doubleclick.net
+0.0.0.0 5290727.fls.doubleclick.net
 0.0.0.0 5779200.fls.doubleclick.net
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5d0b6.v.fwmrm.net
@@ -136,6 +137,7 @@
 0.0.0.0 ad.360yield.com
 0.0.0.0 ad3.adfarm1.adition.com
 0.0.0.0 ad4.adfarm1.adition.com
+0.0.0.0 ad4m.at
 0.0.0.0 ad4mat.net
 0.0.0.0 ad.71i.de
 0.0.0.0 ad8.adfarm1.adition.com
@@ -216,6 +218,7 @@
 0.0.0.0 ads.bing.com
 0.0.0.0 ads.businessclick.com
 0.0.0.0 ads.celtra.com
+0.0.0.0 ads.contextweb.com
 0.0.0.0 adsco.re
 0.0.0.0 ads.creative-serving.com
 0.0.0.0 ads.deliverimp.com
@@ -1720,6 +1723,7 @@
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 imrk.net
 0.0.0.0 imstore.bet365affiliates.com
+0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 inapi.posst.co
 0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 incoming.telemetry.mozilla.org
@@ -1896,6 +1900,7 @@
 0.0.0.0 log.eclick.vn
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.foxitcloud.com
+0.0.0.0 logger.unsplash.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 logg.kiwi.com
 0.0.0.0 log.hypebeast.com
@@ -2284,6 +2289,7 @@
 0.0.0.0 platform.linkedin.com
 0.0.0.0 platform.tumblr.com
 0.0.0.0 platform.twitter.com
+0.0.0.0 player.adtelligent.com
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.h-cdn.com
 0.0.0.0 player.piksel.com
@@ -3110,6 +3116,7 @@
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.gaug.es
 0.0.0.0 track.hubspot.com
+0.0.0.0 tracking1.firstimpression.io
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking.aatkit.com
 0.0.0.0 trackingapi.kaufda.de
@@ -3243,6 +3250,7 @@
 0.0.0.0 us.find.api.micloud.xiaomi.net
 0.0.0.0 us.galleryapi.micloud.xiaomi.net
 0.0.0.0 us.micardapi.micloud.xiaomi.net
+0.0.0.0 usnews.122.2o7.net
 0.0.0.0 us.phonecallapi.micloud.xiaomi.net
 0.0.0.0 us.pixel.newscgp.com
 0.0.0.0 us.smsapi.micloud.xiaomi.net
@@ -3297,6 +3305,7 @@
 0.0.0.0 vidapi.expepp.de
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-ads.rubiconproject.com
+0.0.0.0 video-api.yql.yahoo.com
 0.0.0.0 video-assets.mathtag.com
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 video.moatads.com
