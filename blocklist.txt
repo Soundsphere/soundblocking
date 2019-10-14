@@ -8,6 +8,7 @@
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 194-vvc-221.mktoresp.com
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
+0.0.0.0 1.gmxnet.damoh.schneevonmorgen.com
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 2-01-2a40-0017.cdx.cdxcn.net
 0.0.0.0 2507573.fls.doubleclick.net
@@ -552,6 +553,7 @@
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 appuals.com
 0.0.0.0 app.yieldify.com
+0.0.0.0 aps.hearstnp.com
 0.0.0.0 a.pub.network
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 apvdr.com
@@ -585,6 +587,7 @@
 0.0.0.0 assets.adstage.io
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.customer.io
+0.0.0.0 assets.deployads.com
 0.0.0.0 assets.ipcdigital.co.uk
 0.0.0.0 assets.jetlore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
@@ -1838,6 +1841,7 @@
 0.0.0.0 kfw04.webtrekk.net
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kinesis.us-east-1.amazonaws.com
+0.0.0.0 kinoprogramm.bild.de
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kiosked-d.openx.net
 0.0.0.0 kitbit.net
@@ -2122,6 +2126,7 @@
 0.0.0.0 nfl.demdex.net
 0.0.0.0 nfl.hb.omtrdc.net
 0.0.0.0 nfoo-server.com
+0.0.0.0 ninegag-d.openx.net
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 n.mplxtms.com
