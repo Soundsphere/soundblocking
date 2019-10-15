@@ -1006,7 +1006,9 @@
 0.0.0.0 collectorb.tvsquared.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
+0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
@@ -1264,6 +1266,7 @@
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.yomedia.vn
+0.0.0.0 dellinc.tt.omtrdc.net
 0.0.0.0 deloplen.com
 0.0.0.0 deltaairlines.tt.omtrdc.net
 0.0.0.0 deryjobmeetin.info
@@ -1716,6 +1719,7 @@
 0.0.0.0 imgcdn.brightinfo.com
 0.0.0.0 img.en25.com
 0.0.0.0 img.mediaplex.com
+0.0.0.0 img.mediaplex.com.edgesuite.net
 0.0.0.0 img.metaffiliation.com
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
@@ -2873,6 +2877,7 @@
 0.0.0.0 stats.merriam-webster.com
 0.0.0.0 stats.monohost.com
 0.0.0.0 stats.mos.ru
+0.0.0.0 stats.mvilivestats.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stat.sputnik.ru
@@ -2954,6 +2959,7 @@
 0.0.0.0 sync.rtk.io
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.serverbid.com
+0.0.0.0 sync.sharethis.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
 0.0.0.0 sync.teads.tv
@@ -3111,6 +3117,7 @@
 0.0.0.0 track.cordial.io
 0.0.0.0 track.customer.io
 0.0.0.0 track.dictionary.com
+0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.departapp.com
 0.0.0.0 tracker.euroweb.net
