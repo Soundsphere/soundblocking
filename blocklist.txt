@@ -178,6 +178,7 @@
 0.0.0.0 ad.ipredictive.com
 0.0.0.0 ad-js.chip.de
 0.0.0.0 adledge.com
+0.0.0.0 ad.linksynergy.com
 0.0.0.0 ad.liveburst.com
 0.0.0.0 ad.lkqd.net
 0.0.0.0 adlog.flurry.com
@@ -432,6 +433,7 @@
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optnmnstr.com
 0.0.0.0 a.optnmstr.com
+0.0.0.0 aorta.clickagy.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api.ad.intl.xiaomi.com
@@ -454,6 +456,7 @@
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com
+0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.getdrip.com
 0.0.0.0 api.getvero.com
 0.0.0.0 api.hostip.info
@@ -1673,6 +1676,7 @@
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ib.3lift.com
+0.0.0.0 ibclick.stream
 0.0.0.0 i.bigmir.net
 0.0.0.0 ib.mookie1.com
 0.0.0.0 ichnaea.netflix.com
@@ -2218,6 +2222,7 @@
 0.0.0.0 patagonia.122.2o7.net
 0.0.0.0 pa.tns-ua.com
 0.0.0.0 pb.adriver.ru
+0.0.0.0 pb-assets.tedcdn.com
 0.0.0.0 p.bm23.com
 0.0.0.0 p.brsrvr.com
 0.0.0.0 p.cpx.to
