@@ -112,6 +112,7 @@
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 a.bf-ad.net
 0.0.0.0 abp.smartadcheck.de
+0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 abrtp1.marketo.com
 0.0.0.0 accounts.doubleclick.net
@@ -152,6 +153,7 @@
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adc3-assets.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
+0.0.0.0 adc-ad-assets.adtilt.com
 0.0.0.0 ad-cdn.technoratimedia.com
 0.0.0.0 adclear.baur.de
 0.0.0.0 adclick.g.doubleclick.net
@@ -497,6 +499,7 @@
 0.0.0.0 api.taboola.com
 0.0.0.0 api.traversedlp.com
 0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.usersnap.com
 0.0.0.0 api.vanilla.futurecdn.net
@@ -821,6 +824,7 @@
 0.0.0.0 cdn.branch.io
 0.0.0.0 cdn.callrail.com
 0.0.0.0 cdn.carbonads.com
+0.0.0.0 cdn.chitika.net
 0.0.0.0 cdn.c-i.as
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.connatix.com
@@ -928,6 +932,7 @@
 0.0.0.0 ce.lijit.com
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-amp.alexametrics.com
+0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 c.evidon.com
 0.0.0.0 cewecolor.d3.sc.omtrdc.net
 0.0.0.0 cf.iadsdk.apple.com
@@ -957,6 +962,7 @@
 0.0.0.0 click.dji.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 clickmeter.com
+0.0.0.0 click.oneplus.com
 0.0.0.0 click.plista.com
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clickserve.dartsearch.net
@@ -1067,6 +1073,7 @@
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 core.connatix.com
 0.0.0.0 core.polyad.net
+0.0.0.0 counter.kingsoft.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.snackly.co
 0.0.0.0 counter.top.ge
@@ -1113,6 +1120,7 @@
 0.0.0.0 curse-d.openx.net
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 custom-wrs.api.responsys.net
+0.0.0.0 cvision.media.net
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c.wort-suche.com
@@ -1493,6 +1501,7 @@
 0.0.0.0 feedburner.google.com
 0.0.0.0 feed.engage.im
 0.0.0.0 fei.pro-market.net
+0.0.0.0 fh.under9.co
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 firefox.settings.services.mozilla.com
@@ -1759,6 +1768,7 @@
 0.0.0.0 insights.plista.com
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 inskinad.com
+0.0.0.0 instant.page
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 instreamvideo.ru
 0.0.0.0 intljs.rmtag.com
@@ -1800,6 +1810,7 @@
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 java.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 jcm.jd.com
 0.0.0.0 jfe-cdn.qualtrics.com
 0.0.0.0 j.flxpxl.com
 0.0.0.0 jita.rtk.io
@@ -2099,6 +2110,7 @@
 0.0.0.0 ms.cmcm.com
 0.0.0.0 mscom.demdex.net
 0.0.0.0 m.servedby-buysellads.com
+0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 msntrademarketing.112.2o7.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 mtrx.go.sonobi.com
@@ -2396,6 +2408,7 @@
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 purch-match.dotomi.com
 0.0.0.0 p.vtracy.de
+0.0.0.0 pv.tubemogul.com
 0.0.0.0 px1.vtrtl.de
 0.0.0.0 px2.moatads.com
 0.0.0.0 px.adhigh.net
@@ -2406,6 +2419,7 @@
 0.0.0.0 pxl.connexity.net
 0.0.0.0 pxl.iqm.com
 0.0.0.0 pxl.jivox.com
+0.0.0.0 px.marchex.io
 0.0.0.0 px.moatads.com
 0.0.0.0 px.owneriq.net
 0.0.0.0 px.spiceworks.com
@@ -2775,6 +2789,7 @@
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
+0.0.0.0 srvccnc.media.net
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 srv.de.ebayrtm.com
 0.0.0.0 srvmath.com
@@ -3081,6 +3096,7 @@
 0.0.0.0 t.indeed.com
 0.0.0.0 tisoomi-services.com
 0.0.0.0 t.kck.st
+0.0.0.0 t.kctag.net
 0.0.0.0 tk.kaufda.de
 0.0.0.0 tknet.rayjump.com
 0.0.0.0 t.ktxtr.com
@@ -3124,6 +3140,7 @@
 0.0.0.0 track.bazonline.ch
 0.0.0.0 track.celtra.com
 0.0.0.0 trackcmp.net
+0.0.0.0 track.contently.com
 0.0.0.0 track.cordial.io
 0.0.0.0 track.customer.io
 0.0.0.0 track.dictionary.com
@@ -3165,6 +3182,7 @@
 0.0.0.0 tracking.srv2.de
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.wisepops.com
+0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mopo.de
@@ -3429,6 +3447,7 @@
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww1097.smartadserver.com
 0.0.0.0 ww13.smartadserver.com
+0.0.0.0 ww1.smartadserver.com
 0.0.0.0 ww2060.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
 0.0.0.0 ww50.smartadserver.com
@@ -3520,6 +3539,7 @@
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.i.matheranalytics.com
 0.0.0.0 www.increaserev.com
+0.0.0.0 www.inskinad.com
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.lduhtrp.net
