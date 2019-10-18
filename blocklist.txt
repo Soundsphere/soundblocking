@@ -3306,6 +3306,7 @@
 0.0.0.0 usemaxserver.de
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
+0.0.0.0 user-sync.adhese.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use.typekit.net
 0.0.0.0 us.find.api.micloud.xiaomi.net
