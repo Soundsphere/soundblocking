@@ -1259,6 +1259,7 @@
 0.0.0.0 ad4.adfarm1.adition.com
 0.0.0.0 ad4.bannerbank.ru
 0.0.0.0 ad4.bigmir.net
+0.0.0.0 ad4m.at
 0.0.0.0 ad4mat.net
 0.0.0.0 ad4.speedbit.com
 0.0.0.0 ad5.adecn.com
@@ -3453,6 +3454,7 @@
 0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.sleeknote.com
+0.0.0.0 analytics.smallpdf.com
 0.0.0.0 analytics.socialblade.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.tradedoubler.com
@@ -3841,6 +3843,7 @@
 0.0.0.0 api.branch.io
 0.0.0.0 api.brs.intl.miui.com
 0.0.0.0 api.bufferapp.com
+0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 apice-snn.com
 0.0.0.0 api-cf.affirm.com
 0.0.0.0 api.chat.xiaomi.net
@@ -3900,6 +3903,7 @@
 0.0.0.0 api.traversedlp.com
 0.0.0.0 api.tr.blismedia.com
 0.0.0.0 api.uca.cloud.unity3d.com
+0.0.0.0 api.unbounce.com
 0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.usersnap.com
@@ -7322,6 +7326,7 @@
 0.0.0.0 clickagents.com
 0.0.0.0 clickaire.com
 0.0.0.0 clickalchemy.com
+0.0.0.0 click.alibaba.com
 0.0.0.0 click.allfeeds.com
 0.0.0.0 click-and-find.com
 0.0.0.0 clickauditor.net
@@ -9232,6 +9237,7 @@
 0.0.0.0 device-metrics-us-2.amazon.com
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 device.zhiliaoapp.com
+0.0.0.0 de-videovalis.videoplaza.tv
 0.0.0.0 devilsfuck.com
 0.0.0.0 devilsmp3.com
 0.0.0.0 devis-isp.co.za
@@ -10982,6 +10988,7 @@
 0.0.0.0 espassport.com
 0.0.0.0 especial-mes-dos-namorados-eletroeletronicos.com
 0.0.0.0 es-piso.net
+0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 espn.hb.omtrdc.net
 0.0.0.0 espnola.com
 0.0.0.0 esponce.com
@@ -15237,6 +15244,7 @@
 0.0.0.0 instantflashx.zip.net
 0.0.0.0 instanthosting.com.au
 0.0.0.0 instantmadness.com
+0.0.0.0 instant.page
 0.0.0.0 instantsafepage.com
 0.0.0.0 instantsearch.cc
 0.0.0.0 instantsending.bz
@@ -16975,6 +16983,7 @@
 0.0.0.0 load77.exelator.com
 0.0.0.0 loadcash.biz
 0.0.0.0 load.curd.io
+0.0.0.0 loader.engage.gsfn.us
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 loadfree.mobi
 0.0.0.0 loading321.com
@@ -17044,6 +17053,7 @@
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.foxitcloud.com
+0.0.0.0 logger.unsplash.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 logg.kiwi.com
 0.0.0.0 loghisuonerieweb.com
@@ -22110,9 +22120,11 @@
 0.0.0.0 preamp.us
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid-a.rubiconproject.com
+0.0.0.0 prebid.digitru.st
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 prebid-match.dotomi.com
 0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 prebid.technoratimedia.com
 0.0.0.0 precenters.com
 0.0.0.0 preciousmonex.com
 0.0.0.0 precisioncounter.com
@@ -22271,6 +22283,7 @@
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile.localytics.com
 0.0.0.0 profilemspace.com
+0.0.0.0 profiles.segment.com
 0.0.0.0 profile.ssp.rambler.ru
 0.0.0.0 profilinstylin.com
 0.0.0.0 profinishmi.com
@@ -23307,6 +23320,7 @@
 0.0.0.0 relton.net
 0.0.0.0 r.email.luderic.com
 0.0.0.0 remarkableliving.info
+0.0.0.0 remarket.clicktripz.com
 0.0.0.0 remaxla.co.za
 0.0.0.0 remboursement8975-recu.com
 0.0.0.0 remd-v10.ga
@@ -27260,6 +27274,7 @@
 0.0.0.0 sync.adkernel.com
 0.0.0.0 sync.adotmob.com
 0.0.0.0 sync.ad-stir.com
+0.0.0.0 sync.adtelligent.com
 0.0.0.0 sync.aralego.com
 0.0.0.0 sync.audtd.com
 0.0.0.0 sync.bfmio.com
@@ -28609,6 +28624,7 @@
 0.0.0.0 track.homestead.com
 0.0.0.0 track.hubspot.com
 0.0.0.0 tracking101.com
+0.0.0.0 tracking1.firstimpression.io
 0.0.0.0 tracking.247search.com
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking.4v4jfe79erfxfu8z8.com
