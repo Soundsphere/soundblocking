@@ -175,6 +175,7 @@
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfarm.mediaplex.com
 0.0.0.0 ad.foxitsoftware.com
+0.0.0.0 adf.tubemogul.com
 0.0.0.0 adhese.com
 0.0.0.0 adiceltic.de
 0.0.0.0 adimg.uimserv.net
@@ -819,6 +820,7 @@
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.apvdr.com
+0.0.0.0 cdn.avazutracking.net
 0.0.0.0 cdn.avmws.com
 0.0.0.0 cdn.avocet.io
 0.0.0.0 cdn-a.yieldlove.com
@@ -1437,6 +1439,7 @@
 0.0.0.0 eu.a.volvelle.tech
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
+0.0.0.0 eu.groupondata.com
 0.0.0.0 eu.market-place.su
 0.0.0.0 eu.nuggad.net
 0.0.0.0 eu.qualtrics.com
@@ -2140,6 +2143,7 @@
 0.0.0.0 mytopf.com
 0.0.0.0 n2.mouseflow.com
 0.0.0.0 nab.com.au
+0.0.0.0 nan.netmng.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 nativespot.com
@@ -3076,6 +3080,7 @@
 0.0.0.0 t.contentsquare.net
 0.0.0.0 tcr.tynt.com
 0.0.0.0 tc.tradetracker.net
+0.0.0.0 t.custora.com
 0.0.0.0 t.cwkuki.com
 0.0.0.0 td2.crwdcntrl.net
 0.0.0.0 t.dailymail.co.uk
