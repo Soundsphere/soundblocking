@@ -1218,6 +1218,7 @@
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
 0.0.0.0 data22.adlooxtracking.com
+0.0.0.0 data24.adlooxtracking.com
 0.0.0.0 data.24smi.net
 0.0.0.0 data25.adlooxtracking.com
 0.0.0.0 data26.adlooxtracking.com
@@ -2350,6 +2351,7 @@
 0.0.0.0 polarcdn-terrax.com
 0.0.0.0 polldaddy.com
 0.0.0.0 pool1.moatads.com
+0.0.0.0 pool2.moatads.com
 0.0.0.0 pool3.moatads.com
 0.0.0.0 pool4.moatads.com
 0.0.0.0 pool5.moatads.com
@@ -2486,6 +2488,7 @@
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 receptivereaction.com
+0.0.0.0 reckinbuttiten.pro
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recreativ.ru
 0.0.0.0 recs.richrelevance.com
