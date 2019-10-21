@@ -6152,6 +6152,7 @@
 0.0.0.0 btest.it
 0.0.0.0 btgrab.com
 0.0.0.0 btinternetconnect.com
+0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 btnode.eu
 0.0.0.0 bttrack.com
@@ -6228,6 +6229,7 @@
 0.0.0.0 busfun.net
 0.0.0.0 bush17.mail333.su
 0.0.0.0 business-cc.com
+0.0.0.0 businessclick.ch
 0.0.0.0 business-loop.com
 0.0.0.0 businessmodelcommunity.com
 0.0.0.0 business.opera.com
@@ -7350,6 +7352,7 @@
 0.0.0.0 click.dpbill.com
 0.0.0.0 clickedyclick.com
 0.0.0.0 clickeight.com
+0.0.0.0 click.eu.adopexchange.com
 0.0.0.0 clickexperts.net
 0.0.0.0 clickfast.com
 0.0.0.0 click.fool.com
@@ -10653,6 +10656,7 @@
 0.0.0.0 elpantalan.es
 0.0.0.0 elpath.com
 0.0.0.0 elrincondelarquero.com
+0.0.0.0 elr.sfr.fr
 0.0.0.0 elseif.biz
 0.0.0.0 elsiriri.com.ar
 0.0.0.0 elsitioweb.de
@@ -17798,6 +17802,7 @@
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.basebanner.com
+0.0.0.0 match.bnmla.com
 0.0.0.0 matchcom.js-freedom.com
 0.0.0.0 matchcraft.com
 0.0.0.0 matchingpromiserings.com
@@ -23882,6 +23887,7 @@
 0.0.0.0 sadionkerionpasdein.com
 0.0.0.0 sadistic-rape.com
 0.0.0.0 s.adroll.com
+0.0.0.0 s.adtelligent.com
 0.0.0.0 sad-torg.com.ua
 0.0.0.0 sadukkanora.com
 0.0.0.0 sady-urala.ru
@@ -29693,6 +29699,7 @@
 0.0.0.0 vciqupoj.cn
 0.0.0.0 vcm-match.dotomi.com
 0.0.0.0 v-codec.com
+0.0.0.0 v.connatix.com
 0.0.0.0 vcrssd1.cc
 0.0.0.0 vcrssd1.eu
 0.0.0.0 vdna.exelator.com
