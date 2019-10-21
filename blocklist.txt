@@ -968,6 +968,7 @@
 0.0.0.0 click.clktraker.com
 0.0.0.0 click-de.plista.com
 0.0.0.0 click.dji.com
+0.0.0.0 click.eu.adopexchange.com
 0.0.0.0 click.linksynergy.com
 0.0.0.0 clickmeter.com
 0.0.0.0 click.oneplus.com
@@ -1306,6 +1307,7 @@
 0.0.0.0 de-videovalis.videoplaza.tv
 0.0.0.0 dev.visualwebsiteoptimizer.com
 0.0.0.0 dff7tx5c2qbxc.cloudfront.net
+0.0.0.0 d.ghostery.com
 0.0.0.0 dh.serving-sys.com
 0.0.0.0 diapi.webgains.com
 0.0.0.0 diff.smartadserver.com
@@ -1522,6 +1524,7 @@
 0.0.0.0 flapi1.rubiconproject.com
 0.0.0.0 flash.sec.miui.com
 0.0.0.0 flex.atdmt.com
+0.0.0.0 f-log-at.grammarly.io
 0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon.com
@@ -2030,6 +2033,7 @@
 0.0.0.0 match.adsby.bidtheatre.com
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.basebanner.com
+0.0.0.0 match.bnmla.com
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 match.rundsp.com
 0.0.0.0 match.sharethrough.com
@@ -2920,6 +2924,7 @@
 0.0.0.0 stats.buysellads.com
 0.0.0.0 stats.computecmedia.de
 0.0.0.0 statse.webtrendslive.com
+0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.kaltura.com
