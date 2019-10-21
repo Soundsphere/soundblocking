@@ -758,6 +758,7 @@
 0.0.0.0 ca1.qualtrics.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 cache.betweendigital.com
+0.0.0.0 cache.soso.com
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 c.ad6media.fr
 0.0.0.0 c.adskeeper.co.uk
@@ -1665,6 +1666,7 @@
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 halc.iadvize.com
 0.0.0.0 handelsblatt01.webtrekk.net
+0.0.0.0 happyfoxchat.com
 0.0.0.0 hawk.pcgamer.com
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hb.emxdgt.com
@@ -2909,6 +2911,7 @@
 0.0.0.0 static.mackeeper.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
+0.0.0.0 static.segment.com
 0.0.0.0 static.site24x7rum.com
 0.0.0.0 statics.streamable.com
 0.0.0.0 static.vertamedia.com
