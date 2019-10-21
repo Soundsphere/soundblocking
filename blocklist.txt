@@ -1419,6 +1419,7 @@
 0.0.0.0 eldamar02-loadbalanced.kameleoon.com
 0.0.0.0 eldamar03-loadbalanced.kameleoon.com
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
+0.0.0.0 elr.sfr.fr
 0.0.0.0 e.mail.ru
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ensign.unbounce.com
@@ -2168,6 +2169,7 @@
 0.0.0.0 nc.ru.redtram.com
 0.0.0.0 nd.demdex.net
 0.0.0.0 ndirect.ppro.de
+0.0.0.0 neads.delivery
 0.0.0.0 neckermannreisen.btttag.com
 0.0.0.0 nerdist.com
 0.0.0.0 nervoussummer.com
@@ -2620,6 +2622,7 @@
 0.0.0.0 sa.api.intl.miui.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 s.adroll.com
+0.0.0.0 s.adtelligent.com
 0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 salesviewer.org
 0.0.0.0 s.amazon-adsystem.com
