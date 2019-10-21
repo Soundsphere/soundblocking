@@ -52,6 +52,7 @@
 0.0.0.0 a01.korrelate.net
 0.0.0.0 a0.smi2.ru
 0.0.0.0 a1.adform.net
+0.0.0.0 a1.seadform.net
 0.0.0.0 a1.vdna-assets.com
 0.0.0.0 a2121.casalemedia.com
 0.0.0.0 a2130.casalemedia.com
@@ -524,6 +525,7 @@
 0.0.0.0 app-ab04.marketo.com
 0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab13.marketo.com
+0.0.0.0 app-ab14.marketo.com
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab24.marketo.com
@@ -743,6 +745,7 @@
 0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 builfico.de
+0.0.0.0 businessclick.ch
 0.0.0.0 by.uservoice.com
 0.0.0.0 c00.adobe.com
 0.0.0.0 c1.adform.net
@@ -1335,6 +1338,7 @@
 0.0.0.0 dmpsync.3lift.com
 0.0.0.0 dmp.theadex.com
 0.0.0.0 dmp.v.fwmrm.net
+0.0.0.0 dms.netmng.com
 0.0.0.0 dmtracking2.alibaba.com
 0.0.0.0 dmx.districtm.io
 0.0.0.0 dmxleo.dailymotion.com
@@ -1343,6 +1347,7 @@
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnssec-nd.gexperiments1.com
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
+0.0.0.0 d.omsnative.de
 0.0.0.0 dot.wp.pl
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dove.saymedia.com
@@ -1453,6 +1458,7 @@
 0.0.0.0 eu-u.openx.net
 0.0.0.0 euw.adserver.snapads.com
 0.0.0.0 eu-west.load.exelator.com
+0.0.0.0 event-analytics.yesware.com
 0.0.0.0 event.api.drift.com
 0.0.0.0 eventapi.libring.com
 0.0.0.0 event-collector.udsrv.com
@@ -2153,6 +2159,7 @@
 0.0.0.0 native.sharethrough.com
 0.0.0.0 nativespot.com
 0.0.0.0 navdmp.com
+0.0.0.0 navvy.media.net
 0.0.0.0 nba.demdex.net
 0.0.0.0 nbcu.demdex.net
 0.0.0.0 nbcume.sc.omtrdc.net
@@ -2197,6 +2204,7 @@
 0.0.0.0 odb.outbrain.com
 0.0.0.0 offer.alibaba.com
 0.0.0.0 office-loesung.de.intellitxt.com
+0.0.0.0 ohcohz.stroeerdp.de
 0.0.0.0 okt.to
 0.0.0.0 om.dowjoneson.com
 0.0.0.0 omniture.chip.de
@@ -2904,6 +2912,7 @@
 0.0.0.0 static.site24x7rum.com
 0.0.0.0 statics.streamable.com
 0.0.0.0 static.vertamedia.com
+0.0.0.0 static.verticalscope.com
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 static.woopra.com
 0.0.0.0 static.yieldmo.com
@@ -2987,6 +2996,7 @@
 0.0.0.0 s.vertamedia.com
 0.0.0.0 swa.and.co.uk
 0.0.0.0 swa.metro.co.uk
+0.0.0.0 swisscom.demdex.net
 0.0.0.0 swrap.tradedoubler.com
 0.0.0.0 sy.eu.angsrvr.com
 0.0.0.0 s.yjtag.jp
@@ -3357,6 +3367,7 @@
 0.0.0.0 vast-pop-zrh.mathtag.com
 0.0.0.0 vast-test.mathtag.com
 0.0.0.0 vcdn.adnxs.com
+0.0.0.0 v.connatix.com
 0.0.0.0 venatusmedia-d.openx.net
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
