@@ -1595,6 +1595,7 @@
 0.0.0.0 geni.us
 0.0.0.0 geo2.adobe.com
 0.0.0.0 geoapi.indiatimes.com
+0.0.0.0 geoced.smartadserver.com
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geoip-db.com
 0.0.0.0 geo.kaloo.ga
