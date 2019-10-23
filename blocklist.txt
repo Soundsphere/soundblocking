@@ -992,6 +992,7 @@
 0.0.0.0 clients6.google.com
 0.0.0.0 c.live.com
 0.0.0.0 clkde.tradedoubler.com
+0.0.0.0 clkfeed.com
 0.0.0.0 clk.solocpm.com
 0.0.0.0 clk.tradedoubler.com
 0.0.0.0 cloudapi.imrworldwide.com
@@ -2908,14 +2909,17 @@
 0.0.0.0 static-de.plista.com
 0.0.0.0 static.digidip.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static-eb.media.net
 0.0.0.0 static.eclick.vn
 0.0.0.0 static.emsservice.de
 0.0.0.0 static.etracker.com
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.fmpub.net
+0.0.0.0 static.freeskreen.com
 0.0.0.0 static.getclicky.com
 0.0.0.0 static.hotjar.com
+0.0.0.0 static.hubspot.com
 0.0.0.0 static.imrworldwide.com
 0.0.0.0 static.inq.com
 0.0.0.0 static.kameleoon.com
@@ -3669,6 +3673,7 @@
 0.0.0.0 x.ligatus.com
 0.0.0.0 xl-trk.com
 0.0.0.0 xml.ad-maven.com
+0.0.0.0 xml.blueparrot.media
 0.0.0.0 xpl.theadex.com
 0.0.0.0 xpu.samsungelectronics.com
 0.0.0.0 xray.mail.ru
