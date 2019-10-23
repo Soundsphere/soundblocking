@@ -967,6 +967,7 @@
 0.0.0.0 ck.solocpm.com
 0.0.0.0 clarium.global.ssl.fastly.net
 0.0.0.0 clc.stackoverflow.com
+0.0.0.0 clevernt.com
 0.0.0.0 click.alibaba.com
 0.0.0.0 click.clickanalytics208.com
 0.0.0.0 click.clktraker.com
@@ -992,6 +993,7 @@
 0.0.0.0 c.live.com
 0.0.0.0 clkde.tradedoubler.com
 0.0.0.0 clk.solocpm.com
+0.0.0.0 clk.tradedoubler.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloud-observer.ip-label.net
@@ -1317,6 +1319,7 @@
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 di.rlcdn.com
+0.0.0.0 dis.as.criteo.com
 0.0.0.0 dis.criteo.com
 0.0.0.0 dis.eu.criteo.com
 0.0.0.0 displayad.layer-ad.org
@@ -1523,6 +1526,7 @@
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedburner.google.com
 0.0.0.0 feed.engage.im
+0.0.0.0 feed.mikle.com
 0.0.0.0 fei.pro-market.net
 0.0.0.0 fh.under9.co
 0.0.0.0 file.market.xiaomi.com
@@ -2134,6 +2138,7 @@
 0.0.0.0 mproxy.banner.linksynergy.com
 0.0.0.0 mpsnare.iesnare.com
 0.0.0.0 mpx.mopub.com
+0.0.0.0 m.quantcount.com
 0.0.0.0 mrb.upapi.net
 0.0.0.0 ms.applovin.com
 0.0.0.0 ms.applvn.com
@@ -2484,6 +2489,7 @@
 0.0.0.0 r.254a.com
 0.0.0.0 r2---sn-4g5e6n76.gvt1.com
 0.0.0.0 r2---sn-4g5ednsk.gvt1.com
+0.0.0.0 r3---sn-4g5ednee.gvt1.com
 0.0.0.0 r6---sn-4g5edne7.gvt1.com
 0.0.0.0 radar.cedexis.com
 0.0.0.0 r.adc-serv.net
@@ -2492,6 +2498,7 @@
 0.0.0.0 ranker.sc.omtrdc.net
 0.0.0.0 rb.adnxs.com
 0.0.0.0 r.bbci.co.uk
+0.0.0.0 rbnt.org
 0.0.0.0 rbp.mxptint.net
 0.0.0.0 r.casalemedia.com
 0.0.0.0 r.chip.de
@@ -2977,6 +2984,7 @@
 0.0.0.0 st.polyad.net
 0.0.0.0 s.tradingview.com
 0.0.0.0 stream1.livefyre.com
+0.0.0.0 streamamp-d.openx.net
 0.0.0.0 stream.useriq.com
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 strips.vidible.tv
@@ -3473,6 +3481,7 @@
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 wileypublishing.sc.omtrdc.net
 0.0.0.0 win8.ipv6.microsoft.com
+0.0.0.0 wms.assoc-amazon.com
 0.0.0.0 wms.assoc-amazon.de
 0.0.0.0 wms-eu.amazon-adsystem.com
 0.0.0.0 wms-na.amazon-adsystem.com
@@ -3677,6 +3686,7 @@
 0.0.0.0 yjtag.yahoo.co.jp
 0.0.0.0 ynuf.alibaba.com
 0.0.0.0 ynuf.alipay.com
+0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 yui.yahooapis.com
 0.0.0.0 z9q9kj37oy.kameleoon.eu
