@@ -677,6 +677,7 @@
 0.0.0.0 bc.marfeel.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bea4.v.fwmrm.net
+0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
@@ -1379,6 +1380,7 @@
 0.0.0.0 dsum.casalemedia.com
 0.0.0.0 dsum-sec.casalemedia.com
 0.0.0.0 dsy5wmnntou9c.cloudfront.net
+0.0.0.0 dt1pxsve3tgas.cloudfront.net
 0.0.0.0 dt.adsafeprotected.com
 0.0.0.0 dtm.advertising.com
 0.0.0.0 dts.innovid.com
@@ -2120,6 +2122,7 @@
 0.0.0.0 mixedmag.com
 0.0.0.0 ml314.com
 0.0.0.0 mlb.demdex.net
+0.0.0.0 mltrk.io
 0.0.0.0 mmtro.com
 0.0.0.0 mobile.adfarm1.adition.com
 0.0.0.0 mobile.adsafeprotected.com
@@ -3474,8 +3477,11 @@
 0.0.0.0 whos.amung.us
 0.0.0.0 widget.as.criteo.com
 0.0.0.0 widget.criteo.com
+0.0.0.0 widget.eu.criteo.com
+0.0.0.0 widget.fr.eu.criteo.com
 0.0.0.0 widget.marktjagd.de
 0.0.0.0 widgetmonitor.outbrain.com
+0.0.0.0 widget.nl.eu.criteo.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.privy.com
 0.0.0.0 widgets.amung.us
