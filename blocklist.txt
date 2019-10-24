@@ -5194,6 +5194,7 @@
 0.0.0.0 beachookup.com
 0.0.0.0 beachtoday.ru
 0.0.0.0 beachtrash.com
+0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
@@ -7470,6 +7471,7 @@
 0.0.0.0 clk4.com
 0.0.0.0 clkads.com
 0.0.0.0 clkde.tradedoubler.com
+0.0.0.0 clkfeed.com
 0.0.0.0 clkmon.com
 0.0.0.0 clkoptimizer.com
 0.0.0.0 clkrev.com
@@ -18275,6 +18277,7 @@
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
+0.0.0.0 metrics-nl.fitanalytics.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.performancing.com
@@ -18473,6 +18476,7 @@
 0.0.0.0 mlb.demdex.net
 0.0.0.0 mli-connects.com
 0.0.0.0 mlm.de
+0.0.0.0 mltrk.io
 0.0.0.0 mm5208.com
 0.0.0.0 mmaglobal.com
 0.0.0.0 mmarau.ac.ke
@@ -19727,6 +19731,7 @@
 0.0.0.0 nimble.dealsaver.com
 0.0.0.0 nimp.org
 0.0.0.0 nimrodltd-uk.net
+0.0.0.0 ninegag-d.openx.net
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ninja.onap.io
 0.0.0.0 ninoa.com
@@ -26714,6 +26719,7 @@
 0.0.0.0 static-de.plista.com
 0.0.0.0 static.digidip.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static-eb.media.net
 0.0.0.0 static.eclick.vn
 0.0.0.0 static.emsservice.de
 0.0.0.0 static.etracker.com
@@ -27309,6 +27315,7 @@
 0.0.0.0 sync.rtk.io
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.serverbid.com
+0.0.0.0 sync.sharethis.com
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
 0.0.0.0 sync.teads.tv
@@ -30538,8 +30545,10 @@
 0.0.0.0 widget.criteo.com
 0.0.0.0 widgetdata.tradingview.com
 0.0.0.0 widget.eu.criteo.com
+0.0.0.0 widget.fr.eu.criteo.com
 0.0.0.0 widget.marktjagd.de
 0.0.0.0 widgetmonitor.outbrain.com
+0.0.0.0 widget.nl.eu.criteo.com
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget-porn.com
 0.0.0.0 widget.privy.com
@@ -34585,6 +34594,7 @@
 0.0.0.0 xml.adbetnet.com
 0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.adservme.com
+0.0.0.0 xml.blueparrot.media
 0.0.0.0 xmlcash.com
 0.0.0.0 xml.nbcsearch.com
 0.0.0.0 x-moms.biz
