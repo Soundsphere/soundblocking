@@ -545,6 +545,7 @@
 0.0.0.0 app.crazyegg.com
 0.0.0.0 app.crossengage.io
 0.0.0.0 app-e.marketo.com
+0.0.0.0 app.gelirartisi.com
 0.0.0.0 app.getresponse.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.hubspot.com
@@ -1031,6 +1032,7 @@
 0.0.0.0 collect.albacross.com
 0.0.0.0 collecte.audience.acpm.fr
 0.0.0.0 collect-eu-central-1.tealiumiq.com
+0.0.0.0 collector-1054.tvsquared.com
 0.0.0.0 collectorb.tvsquared.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
@@ -1261,6 +1263,7 @@
 0.0.0.0 data.appexnw.com
 0.0.0.0 datacloud.tealiumiq.com
 0.0.0.0 data.cmcore.com
+0.0.0.0 data.cnn.com
 0.0.0.0 datacollect6.abtasty.com
 0.0.0.0 data.coremetrics.com
 0.0.0.0 data.flurry.com
@@ -1306,6 +1309,7 @@
 0.0.0.0 des.smartclip.net
 0.0.0.0 desv383oqqc0.cloudfront.net
 0.0.0.0 detailedglue.com
+0.0.0.0 detwzgl8cvciv.cloudfront.net
 0.0.0.0 de.tynt.com
 0.0.0.0 deutschepostag1.d3.sc.omtrdc.net
 0.0.0.0 dev.appboy.com
@@ -2535,6 +2539,7 @@
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 reporting.aatkit.com
+0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 res1.applovin.com
@@ -2626,6 +2631,7 @@
 0.0.0.0 s3-eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
 0.0.0.0 s3.tradingview.com
+0.0.0.0 s3.us-east-1.amazonaws.com
 0.0.0.0 s3.us-east-2.amazonaws.com
 0.0.0.0 s62.mxcdn.net
 0.0.0.0 s7.addthis.com
@@ -2753,6 +2759,7 @@
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 servt.playbuzz.co
 0.0.0.0 sessions.bugsnag.com
+0.0.0.0 session.timecommerce.net
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
