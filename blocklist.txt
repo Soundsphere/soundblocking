@@ -3974,6 +3974,7 @@
 0.0.0.0 appdog.com
 0.0.0.0 app-e.marketo.com
 0.0.0.0 appflood.com
+0.0.0.0 app.gelirartisi.com
 0.0.0.0 app.getresponse.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 apphb.com
@@ -9222,6 +9223,7 @@
 0.0.0.0 detoxifyit.com
 0.0.0.0 detroitigers.com
 0.0.0.0 detskie-konstruktory.ru
+0.0.0.0 detwzgl8cvciv.cloudfront.net
 0.0.0.0 de.tynt.com
 0.0.0.0 deuscleaneronline.com
 0.0.0.0 deutchbank.net
@@ -19664,6 +19666,7 @@
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexware.net
 0.0.0.0 nf-cash.com
+0.0.0.0 nfl.demdex.net
 0.0.0.0 nfoo-server.com
 0.0.0.0 nf.outerinfo.com
 0.0.0.0 nfscars.net
@@ -23389,6 +23392,7 @@
 0.0.0.0 reportbucks.com
 0.0.0.0 reporting.aatkit.com
 0.0.0.0 reporting.cpxinteractive.com
+0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reportinstaller.random-logic.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 reportsearch.org
@@ -23870,6 +23874,7 @@
 0.0.0.0 s3.shinystat.com
 0.0.0.0 s3.shinystat.it
 0.0.0.0 s3.tradingview.com
+0.0.0.0 s3.us-east-1.amazonaws.com
 0.0.0.0 s3.us-east-2.amazonaws.com
 0.0.0.0 s4gsales.com
 0.0.0.0 s4.histats.com
