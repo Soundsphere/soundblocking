@@ -4427,6 +4427,7 @@
 0.0.0.0 as.webmd.com
 0.0.0.0 aswords.com
 0.0.0.0 aswpapius.com
+0.0.0.0 aswpsdkus.com
 0.0.0.0 asy.a8ww.net
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 atabey.k12.tr
@@ -6695,6 +6696,7 @@
 0.0.0.0 cd321.net
 0.0.0.0 cdata.carambo.la
 0.0.0.0 cd-com.cn
+0.0.0.0 cd.connatix.com
 0.0.0.0 cdegate.com
 0.0.0.0 c.devnull.biz
 0.0.0.0 cdgolf44.fr
@@ -6901,6 +6903,7 @@
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cdpuvbhfzz.com
 0.0.0.0 cds.adecn.com
+0.0.0.0 cds.connatix.com
 0.0.0.0 cds.j3z9t3p6.hwcdn.net
 0.0.0.0 cds.s5x3j6q5.hwcdn.net
 0.0.0.0 ce.83195900.cn
@@ -9449,6 +9452,7 @@
 0.0.0.0 displayad.layer-ad.org
 0.0.0.0 displayadsmedia.com
 0.0.0.0 display.apester.com
+0.0.0.0 display.bfmio.com
 0.0.0.0 displayf.tubemogul.com
 0.0.0.0 displaypagerank.com
 0.0.0.0 disqudurprotection.com
@@ -10304,6 +10308,7 @@
 0.0.0.0 east38.com
 0.0.0.0 eastcoastprintworks.com
 0.0.0.0 easttrust.biz
+0.0.0.0 eastwestmodels.de
 0.0.0.0 e.as-us.falkag.net
 0.0.0.0 easyantispy.com
 0.0.0.0 easy-antivirus.com
@@ -12835,6 +12840,7 @@
 0.0.0.0 gcxvvrg.com
 0.0.0.0 gdc.indeed.com
 0.0.0.0 gddlinea.com
+0.0.0.0 gde-default.hit.gemius.pl
 0.0.0.0 gdetr.hit.gemius.pl
 0.0.0.0 gdeua.hit.gemius.pl
 0.0.0.0 gdfcnt.info
@@ -22140,6 +22146,7 @@
 0.0.0.0 prebid.digitru.st
 0.0.0.0 prebid.districtm.ca
 0.0.0.0 prebid-match.dotomi.com
+0.0.0.0 prebid.media.net
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid.technoratimedia.com
 0.0.0.0 precenters.com
