@@ -794,6 +794,7 @@
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.zeit.de
 0.0.0.0 cdata.carambo.la
+0.0.0.0 cd.connatix.com
 0.0.0.0 cdn11.contentabc.com
 0.0.0.0 cdn1.ads.contentabc.com
 0.0.0.0 cdn1.inner-active.mobi
@@ -1331,6 +1332,7 @@
 0.0.0.0 dis.eu.criteo.com
 0.0.0.0 displayad.layer-ad.org
 0.0.0.0 display.apester.com
+0.0.0.0 display.bfmio.com
 0.0.0.0 displayf.tubemogul.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 districtm-match.dotomi.com
@@ -1598,6 +1600,7 @@
 0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gdc.indeed.com
+0.0.0.0 gde-default.hit.gemius.pl
 0.0.0.0 gdetr.hit.gemius.pl
 0.0.0.0 g.eclick.vn
 0.0.0.0 generaltracking.de
