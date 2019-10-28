@@ -2956,6 +2956,7 @@
 0.0.0.0 static.vertamedia.com
 0.0.0.0 static.verticalscope.com
 0.0.0.0 staticw2.yotpo.com
+0.0.0.0 static.wired.com
 0.0.0.0 static.woopra.com
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static.zanox.com
