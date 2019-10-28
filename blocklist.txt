@@ -2267,6 +2267,7 @@
 0.0.0.0 ads.smartfeedads.com
 0.0.0.0 ads.smartshoppingads.de
 0.0.0.0 ads.smartstream.tv
+0.0.0.0 ads.smrtb.com
 0.0.0.0 ads.soft32.com
 0.0.0.0 ads.softwareoutfit.com
 0.0.0.0 ads.space.com
@@ -7482,6 +7483,7 @@
 0.0.0.0 clk.solocpm.com
 0.0.0.0 clk.taptica.com
 0.0.0.0 clk.tradedoubler.com
+0.0.0.0 clkuk.tradedoubler.com
 0.0.0.0 clock-sync.com
 0.0.0.0 clocktime.hipdiary.com
 0.0.0.0 clone.apphb.com
@@ -23190,6 +23192,7 @@
 0.0.0.0 recdir.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 recepti.yoursalesmaster.com
+0.0.0.0 recipegirl.com
 0.0.0.0 recipe-network.com
 0.0.0.0 recitaldean.co.za
 0.0.0.0 reckinbuttiten.pro
@@ -23863,6 +23866,7 @@
 0.0.0.0 s2e-amazon.com
 0.0.0.0 s2.exocrew.com
 0.0.0.0 s2fnew.com
+0.0.0.0 s2.go-mpulse.net
 0.0.0.0 s2.hit.stat.pl
 0.0.0.0 s2k7tnzlhrpw.statuspage.io
 0.0.0.0 s2.kav.cc
@@ -24369,6 +24373,7 @@
 0.0.0.0 sdrive.skoda-auto.com
 0.0.0.0 sdry.com
 0.0.0.0 sdsauto.ru
+0.0.0.0 sdsbucket.s3.amazonaws.com
 0.0.0.0 sds.clrsch.com
 0.0.0.0 sds.qckads.com
 0.0.0.0 sdtweb.com
@@ -28710,6 +28715,7 @@
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.vcommission.com
 0.0.0.0 tracking.wisepops.com
+0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 tracking.yourfilehost.com
 0.0.0.0 track.jpost.com
 0.0.0.0 trackla.stackla.com
