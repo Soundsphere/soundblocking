@@ -360,6 +360,7 @@
 0.0.0.0 amazonservices.122.2o7.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 amazonwebstore.122.2o7.net
+0.0.0.0 a.mgid.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.outbrain.com
@@ -2127,6 +2128,7 @@
 0.0.0.0 metro.co.uk.102.122.2o7.net
 0.0.0.0 m.exactag.com
 0.0.0.0 mg.mgid.com
+0.0.0.0 michelintravelpartner.d3.sc.omtrdc.net
 0.0.0.0 microsoftwindows.112.2o7.net
 0.0.0.0 mid.rkdms.com
 0.0.0.0 milesandmore.d1.sc.omtrdc.net
@@ -2135,6 +2137,7 @@
 0.0.0.0 mlb.demdex.net
 0.0.0.0 mltrk.io
 0.0.0.0 mmtro.com
+0.0.0.0 mm.welt.de
 0.0.0.0 mobile.adfarm1.adition.com
 0.0.0.0 mobile.adsafeprotected.com
 0.0.0.0 mobileanalytics.us-east-1.amazonaws.com
@@ -2220,6 +2223,7 @@
 0.0.0.0 nxtck.com
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 nypost-d.openx.net
+0.0.0.0 nzz.d3.sc.omtrdc.net
 0.0.0.0 o1.qnsr.com
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 o.addthis.com
@@ -3031,6 +3035,7 @@
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.nuggad.net
 0.0.0.0 s-usweb.dotomi.com
+0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 svastx.moatads.com
 0.0.0.0 s.vertamedia.com
 0.0.0.0 swa.and.co.uk
@@ -3101,6 +3106,7 @@
 0.0.0.0 tag.mtrcs.samba.tv
 0.0.0.0 tag.perfectaudience.com
 0.0.0.0 tag.researchnow.com
+0.0.0.0 tag.rightmessage.com
 0.0.0.0 tag.rmp.rakuten.com
 0.0.0.0 tags.bkrtx.com
 0.0.0.0 tags.bluekai.com
@@ -3338,6 +3344,7 @@
 0.0.0.0 uir.uimserv.net
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.at.atwola.com
+0.0.0.0 ulogin-stats.ru
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulogs.umeng.com
 0.0.0.0 um2.eqads.com
