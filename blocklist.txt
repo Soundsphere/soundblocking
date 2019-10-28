@@ -278,6 +278,7 @@
 0.0.0.0 ads.smartfeedads.com
 0.0.0.0 ads.smartshoppingads.de
 0.0.0.0 ads.smartstream.tv
+0.0.0.0 ads.smrtb.com
 0.0.0.0 ads.stickyadstv.com
 0.0.0.0 ads.sunmaker.com
 0.0.0.0 ads.tapdaq.com
@@ -999,6 +1000,7 @@
 0.0.0.0 clkfeed.com
 0.0.0.0 clk.solocpm.com
 0.0.0.0 clk.tradedoubler.com
+0.0.0.0 clkuk.tradedoubler.com
 0.0.0.0 cloudapi.imrworldwide.com
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloud-observer.ip-label.net
@@ -2526,6 +2528,7 @@
 0.0.0.0 r.dlx.addthis.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 receptivereaction.com
+0.0.0.0 recipegirl.com
 0.0.0.0 reckinbuttiten.pro
 0.0.0.0 recommender.scarabresearch.com
 0.0.0.0 recreativ.ru
@@ -2703,6 +2706,7 @@
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.dpmsrv.com
+0.0.0.0 sdsbucket.s3.amazonaws.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 s.eclick.vn
@@ -3321,6 +3325,7 @@
 0.0.0.0 u.acuityplatform.com
 0.0.0.0 ua.hit.gemius.pl
 0.0.0.0 uaid-linkage.imrworldwide.com
+0.0.0.0 ubm.tt.omtrdc.net
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
