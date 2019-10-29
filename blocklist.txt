@@ -2669,6 +2669,7 @@
 0.0.0.0 samsungus.btttag.com
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sat101.webtrekk.net
+0.0.0.0 sat.sanoma.fi
 0.0.0.0 saxp.zedo.com
 0.0.0.0 sbhc.portalhc.com
 0.0.0.0 sb.monetate.net
@@ -3309,6 +3310,7 @@
 0.0.0.0 trk.connatix.com
 0.0.0.0 trker1.azalead.com
 0.0.0.0 trk.kissmetrics.com
+0.0.0.0 trk.klclick.com
 0.0.0.0 trkn.us
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.prod.vidible.tv
