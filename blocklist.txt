@@ -8507,6 +8507,7 @@
 0.0.0.0 customers.invoice-appmy.org
 0.0.0.0 customers-support-centre.wilibe.com
 0.0.0.0 customgamingworld.com
+0.0.0.0 customizations.fitanalytics.com
 0.0.0.0 customsecurityonline.com
 0.0.0.0 customsua.com.ua
 0.0.0.0 customtoolbar.com
@@ -16250,6 +16251,7 @@
 0.0.0.0 kino-fun.ru
 0.0.0.0 kino-key.info
 0.0.0.0 kinopolet.net
+0.0.0.0 kinoprogramm.bild.de
 0.0.0.0 kinoru.com
 0.0.0.0 kinosed.net
 0.0.0.0 kinostar.online
@@ -26746,6 +26748,7 @@
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 static.everyone.net
 0.0.0.0 static.exdynsrv.com
+0.0.0.0 static.exosrv.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.freecontentbuilder.com
 0.0.0.0 static.freeskreen.com
@@ -27886,6 +27889,7 @@
 0.0.0.0 tfcco.com
 0.0.0.0 tfil.com
 0.0.0.0 tfres.net
+0.0.0.0 t.gammaplatform.com
 0.0.0.0 tgd.timesonline.co.uk
 0.0.0.0 tg-electric.com.vn
 0.0.0.0 tgp16.com
@@ -28947,6 +28951,7 @@
 0.0.0.0 trk.freepik.com
 0.0.0.0 trk.helios.ligatus.com
 0.0.0.0 trk.kissmetrics.com
+0.0.0.0 trk.klclick.com
 0.0.0.0 trkn.us
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.prod.vidible.tv
@@ -30354,6 +30359,7 @@
 0.0.0.0 webts.adac.de
 0.0.0.0 web-url.de
 0.0.0.0 weburlopener.com
+0.0.0.0 web.ventunotech.com
 0.0.0.0 webvideomarketing.ru
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 web.vortex.data.microsoft.com
