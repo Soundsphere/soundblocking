@@ -244,6 +244,7 @@
 0.0.0.0 adserver.reklamstore.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 adservex.media.net
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
@@ -1143,6 +1144,7 @@
 0.0.0.0 culturedcrayon.com
 0.0.0.0 curse-d.openx.net
 0.0.0.0 customerevents.netflix.com
+0.0.0.0 customizations.fitanalytics.com
 0.0.0.0 custom-wrs.api.responsys.net
 0.0.0.0 cvision.media.net
 0.0.0.0 cw.addthis.com
@@ -1174,6 +1176,7 @@
 0.0.0.0 d24n15hnbwhuhn.cloudfront.net
 0.0.0.0 d26b395fwzu5fz.cloudfront.net
 0.0.0.0 d29usylhdk1xyu.cloudfront.net
+0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -2939,6 +2942,7 @@
 0.0.0.0 static.etracker.com
 0.0.0.0 static.eu.criteo.net
 0.0.0.0 static.exoclick.com
+0.0.0.0 static.exosrv.com
 0.0.0.0 static.fmpub.net
 0.0.0.0 static.freeskreen.com
 0.0.0.0 static.getclicky.com
@@ -3173,6 +3177,7 @@
 0.0.0.0 tesla.tt.omtrdc.net
 0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 tetu.com
+0.0.0.0 t.gammaplatform.com
 0.0.0.0 tg.socdm.com
 0.0.0.0 tharbadir.com
 0.0.0.0 thisiswaldo.com
@@ -3491,6 +3496,7 @@
 0.0.0.0 web-t.9gag.com
 0.0.0.0 webtrends.telegraph.co.uk
 0.0.0.0 webts.adac.de
+0.0.0.0 web.ventunotech.com
 0.0.0.0 webvideomarketing.ru
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 web.vortex.data.microsoft.com
