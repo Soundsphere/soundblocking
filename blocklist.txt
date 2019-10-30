@@ -386,6 +386,7 @@
 0.0.0.0 amzn.to
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
+0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.businessinsider.com
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccs.mcafee.com
@@ -1270,6 +1271,7 @@
 0.0.0.0 data68.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
+0.0.0.0 data.api.cnn.io
 0.0.0.0 data.appexnw.com
 0.0.0.0 datacloud.tealiumiq.com
 0.0.0.0 data.cmcore.com
@@ -1809,6 +1811,7 @@
 0.0.0.0 info.muxy.io
 0.0.0.0 informer.yandex.ru
 0.0.0.0 ing-district.clicktale.net
+0.0.0.0 ingest.vungle.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 inimage.carambo.la
 0.0.0.0 init.startappservice.com
@@ -2205,6 +2208,7 @@
 0.0.0.0 nervoussummer.com
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 netzwelt-gmbh-d.openx.net
+0.0.0.0 newjobs.d1.sc.omtrdc.net
 0.0.0.0 newsmaxmedia.demdex.net
 0.0.0.0 news.mirtesen.ru
 0.0.0.0 nextmillennium.liqwid.net
@@ -3330,6 +3334,7 @@
 0.0.0.0 tslomhfys.com
 0.0.0.0 t.svtrd.com
 0.0.0.0 tt3.zedo.com
+0.0.0.0 ttauri.techradar.com
 0.0.0.0 t.teads.tv
 0.0.0.0 tt.onthe.io
 0.0.0.0 t.trafmag.com
