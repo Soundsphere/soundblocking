@@ -336,6 +336,7 @@
 0.0.0.0 a.impactradius-go.com
 0.0.0.0 a.intentmedia.net
 0.0.0.0 airbrake.io
+0.0.0.0 airtel.d3.sc.omtrdc.net
 0.0.0.0 ak1s.abmr.net
 0.0.0.0 aka-cdn.adtech.de
 0.0.0.0 aka-cdn.adtechus.com
@@ -1051,6 +1052,7 @@
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collect.tealiumiq.com
+0.0.0.0 collect.usefathom.com
 0.0.0.0 combine.urbanairship.com
 0.0.0.0 comcluster.cxense.com
 0.0.0.0 common.duapps.com
@@ -1184,6 +1186,7 @@
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
+0.0.0.0 d2t2on23g4lty1.cloudfront.net
 0.0.0.0 d2uepos3ef6db0.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
@@ -1708,6 +1711,7 @@
 0.0.0.0 hbx.media.net
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 healte.de
+0.0.0.0 heartbeats.omtrdc.net
 0.0.0.0 heatmap.services
 0.0.0.0 h-ebay.online-metrix.net
 0.0.0.0 heise02.webtrekk.net
@@ -2227,6 +2231,7 @@
 0.0.0.0 now.eloqua.com
 0.0.0.0 nqs.nice264.com
 0.0.0.0 nqs-nl12-c3.youboranqs01.com
+0.0.0.0 nqs-nl-c5-c2.youboranqs01.com
 0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 ns.zdbb.net
@@ -2398,6 +2403,7 @@
 0.0.0.0 plugin.mediavoice.com
 0.0.0.0 pmc-d.openx.net
 0.0.0.0 pm.w55c.net
+0.0.0.0 pnytimes.chartbeat.net
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polarcdn-terrax.com
 0.0.0.0 polldaddy.com
@@ -2704,6 +2710,7 @@
 0.0.0.0 scripts.kiosked.com
 0.0.0.0 scripts.kissmetrics.com
 0.0.0.0 scripts.psyma.com
+0.0.0.0 scripts.sophus3.com
 0.0.0.0 scripttags.justuno.com
 0.0.0.0 s-cs.send.microad.jp
 0.0.0.0 sc-static.net
@@ -3229,6 +3236,7 @@
 0.0.0.0 t.powerreviews.com
 0.0.0.0 tps30.doubleverify.com
 0.0.0.0 tps.doubleverify.com
+0.0.0.0 t.pswec.com
 0.0.0.0 t.pubmatic.com
 0.0.0.0 tr1.admeira.ch
 0.0.0.0 tracelog.www.alibaba.com
