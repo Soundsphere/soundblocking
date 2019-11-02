@@ -512,6 +512,7 @@
 0.0.0.0 api.unbounce.com
 0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.usebutton.com
+0.0.0.0 api.userlike.com
 0.0.0.0 api.usersnap.com
 0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.viafoura.co
@@ -1495,9 +1496,11 @@
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventgw.twilio.com
 0.0.0.0 eventgw-us1-1378646237.us-east-1.elb.amazonaws.com
+0.0.0.0 event-listener.air.tv
 0.0.0.0 eventlogger.soundcloud.com
 0.0.0.0 events3.adcolony.com
 0.0.0.0 events3alt.adcolony.com
+0.0.0.0 events.air.tv
 0.0.0.0 events.apester.com
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.avantisvideo.com
@@ -3686,6 +3689,7 @@
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.pages03.net
+0.0.0.0 www.phun.org
 0.0.0.0 www.pinterest.com
 0.0.0.0 www.plista.com
 0.0.0.0 www.pornhub.com
@@ -3755,6 +3759,7 @@
 0.0.0.0 ynuf.alipay.com
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 yourporn.sexy
+0.0.0.0 youtu.be
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 yui.yahooapis.com
 0.0.0.0 z9q9kj37oy.kameleoon.eu
