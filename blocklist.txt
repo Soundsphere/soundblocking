@@ -3780,6 +3780,7 @@
 0.0.0.0 an.yandex.ru
 0.0.0.0 anycast.fw.adsafeprotected.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
+0.0.0.0 anycast.static.adsafeprotected.com
 0.0.0.0 anyclip-d.openx.net
 0.0.0.0 anycracks.com
 0.0.0.0 anydnserrors.com
@@ -8403,6 +8404,7 @@
 0.0.0.0 cscstar.in
 0.0.0.0 csebanking.com
 0.0.0.0 cse.google.com
+0.0.0.0 cs.emxdgt.com
 0.0.0.0 cserver.mii.instacontent.net
 0.0.0.0 csex.com
 0.0.0.0 csgladiatorgym.ro
@@ -8418,6 +8420,7 @@
 0.0.0.0 c.slimppc.com
 0.0.0.0 cslogger.media.net
 0.0.0.0 cs.media.net
+0.0.0.0 csm.fr.eu.criteo.net
 0.0.0.0 c.snnd.co
 0.0.0.0 cs.ns1p.net
 0.0.0.0 c.spiegel.de
@@ -11528,6 +11531,7 @@
 0.0.0.0 fast-antimalware-scan.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 fast-blocked-stats.com
+0.0.0.0 fast.bskyb.demdex.net
 0.0.0.0 fast.cbsi.demdex.net
 0.0.0.0 fastclick.com
 0.0.0.0 fastclick.com.edgesuite.net
@@ -20083,6 +20087,7 @@
 0.0.0.0 nyam-nyam.biz
 0.0.0.0 ny.contentmatch.net
 0.0.0.0 nyfan.net
+0.0.0.0 nyidt.adsafeprotected.com
 0.0.0.0 nyloncash.com
 0.0.0.0 nylonerotica.net
 0.0.0.0 nylonhome.com
@@ -21511,6 +21516,7 @@
 0.0.0.0 pixel3.about.com
 0.0.0.0 pixel.4pcdn.de
 0.0.0.0 pixel-a.basis.net
+0.0.0.0 pixel.adcrowd.com
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
@@ -21559,6 +21565,7 @@
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com
+0.0.0.0 pix.eu.criteo.net
 0.0.0.0 pixiedust.buzzfeed.com
 0.0.0.0 pix.impdesk.com
 0.0.0.0 pix.nbcuni.com
@@ -23104,6 +23111,7 @@
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcnchurch.com
+0.0.0.0 rcom.dynamicyield.com
 0.0.0.0 rcom.trafficz.com
 0.0.0.0 rcp.c.appier.net
 0.0.0.0 rcprograms.com
