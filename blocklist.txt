@@ -1728,6 +1728,7 @@
 0.0.0.0 hbx.media.net
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 healte.de
+0.0.0.0 healthline-d.openx.net
 0.0.0.0 heartbeats.omtrdc.net
 0.0.0.0 heatmap.services
 0.0.0.0 h-ebay.online-metrix.net
@@ -2331,6 +2332,7 @@
 0.0.0.0 pa.tns-ua.com
 0.0.0.0 pb.adriver.ru
 0.0.0.0 pb-assets.tedcdn.com
+0.0.0.0 pbid.pro-market.net
 0.0.0.0 p.bm23.com
 0.0.0.0 p.brsrvr.com
 0.0.0.0 p.cpx.to
