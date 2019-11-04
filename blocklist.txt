@@ -249,6 +249,7 @@
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
 0.0.0.0 ads.eu.criteo.com
+0.0.0.0 ads.everesttech.net
 0.0.0.0 ads.e-webtrack.net
 0.0.0.0 ads.eyeonx.ch
 0.0.0.0 ads.flurry.com
@@ -1138,6 +1139,7 @@
 0.0.0.0 cslogger.media.net
 0.0.0.0 cs.media.net
 0.0.0.0 csm.fr.eu.criteo.net
+0.0.0.0 csm.nl.eu.criteo.net
 0.0.0.0 c.spiegel.de
 0.0.0.0 cs.prd.msys.playstation.net
 0.0.0.0 csr.inspsearchapi.com
@@ -1742,6 +1744,7 @@
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 h.online-metrix.net
 0.0.0.0 horizon.sailthru.com
+0.0.0.0 hospitality-optimizer.com
 0.0.0.0 hp.myway.com
 0.0.0.0 hpsupport.qualtrics.com
 0.0.0.0 htlbid.com
@@ -1812,6 +1815,7 @@
 0.0.0.0 impes.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
+0.0.0.0 imp.tradedoubler.com
 0.0.0.0 imrk.net
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 in.api.glance.inmobi.com
@@ -1997,6 +2001,7 @@
 0.0.0.0 log.eclick.vn
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.foxitcloud.com
+0.0.0.0 logger.nerdwallet.com
 0.0.0.0 logger.unsplash.com
 0.0.0.0 logging.carambo.la
 0.0.0.0 logg.kiwi.com
@@ -2143,6 +2148,7 @@
 0.0.0.0 metrics-nl.fitanalytics.com
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
+0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.responsetap.com
 0.0.0.0 metrics.ryanair.com
 0.0.0.0 metric.volkswagen.com
@@ -2331,6 +2337,7 @@
 0.0.0.0 perf.mmstat.com
 0.0.0.0 performance.typekit.net
 0.0.0.0 perr.h-cdn.com
+0.0.0.0 personalcapital.go2cloud.org
 0.0.0.0 pfa.levexis.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phonograph2.voxmedia.com
@@ -2634,10 +2641,12 @@
 0.0.0.0 rtb.connatix.com
 0.0.0.0 rtb-csync.smartadserver.com
 0.0.0.0 rtb.gumgum.com
+0.0.0.0 rtb-lb-eu-west.tubemogul.com
 0.0.0.0 rtb-lb-event-tm-ams.tubemogul.com
 0.0.0.0 rtb.mfadsrvr.com
 0.0.0.0 rtb.nativeads.com
 0.0.0.0 rtb.openx.net
+0.0.0.0 rtd-tm.everesttech.net
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 r.teads.tv
 0.0.0.0 rtr.innovid.com
@@ -3053,6 +3062,7 @@
 0.0.0.0 st.top100.ru
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 stun.services.mozilla.com
+0.0.0.0 st-www.dynamicyield.com
 0.0.0.0 style2.ad6.fr
 0.0.0.0 s.tyxo.com
 0.0.0.0 su.addthis.com
@@ -3107,6 +3117,7 @@
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
 0.0.0.0 sync.teads.tv
+0.0.0.0 sync.technoratimedia.com
 0.0.0.0 sync.tidaltv.com
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.tubemogul.com
