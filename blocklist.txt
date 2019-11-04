@@ -364,6 +364,7 @@
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
 0.0.0.0 amazonwebstore.122.2o7.net
 0.0.0.0 a.mgid.com
+0.0.0.0 amidt.adsafeprotected.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.outbrain.com
@@ -1051,6 +1052,7 @@
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
+0.0.0.0 collector-pxoyox6vj7.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
@@ -1131,6 +1133,7 @@
 0.0.0.0 cs1137.wpc.gammacdn.net
 0.0.0.0 cs11.wpc.v0cdn.net
 0.0.0.0 cs.adingo.jp
+0.0.0.0 cs.admanmedia.com
 0.0.0.0 csc.beap.bc.yahoo.com
 0.0.0.0 cse.google.com
 0.0.0.0 cs.emxdgt.com
@@ -1278,6 +1281,7 @@
 0.0.0.0 data65.adlooxtracking.com
 0.0.0.0 data66.adlooxtracking.com
 0.0.0.0 data68.adlooxtracking.com
+0.0.0.0 data.ad-score.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
 0.0.0.0 data.api.cnn.io
@@ -2566,6 +2570,7 @@
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rdi.eu.criteo.com
 0.0.0.0 r.dlx.addthis.com
+0.0.0.0 reachms.bfmio.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 receptivereaction.com
 0.0.0.0 recipegirl.com
@@ -3048,6 +3053,7 @@
 0.0.0.0 stepstone.d1.sc.omtrdc.net
 0.0.0.0 stern.met.vgwort.de
 0.0.0.0 stetic.com
+0.0.0.0 st-euw1.dynamicyield.com
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 stiffstem.com
 0.0.0.0 st-n.ads1-adnow.com
@@ -3457,6 +3463,7 @@
 0.0.0.0 vars.hotjar.com
 0.0.0.0 vast.adsafeprotected.com
 0.0.0.0 vastcdn.outbrain.com
+0.0.0.0 vastlog.adsafeprotected.com
 0.0.0.0 vast.mathtag.com
 0.0.0.0 vast-pop-ams.mathtag.com
 0.0.0.0 vast-pop-zrh.mathtag.com
@@ -3510,6 +3517,7 @@
 0.0.0.0 vodafonenz.122.2o7.net
 0.0.0.0 vogelservices.122.2o7.net
 0.0.0.0 vop.sundaysky.com
+0.0.0.0 vpaid3.adsafeprotected.com
 0.0.0.0 vpaid.pubmatic.com
 0.0.0.0 vra.outbrain.com
 0.0.0.0 vrp.outbrain.com
@@ -3662,6 +3670,7 @@
 0.0.0.0 www.econda-monitor.de
 0.0.0.0 www.eisenberg-allgaeu.de
 0.0.0.0 www.emjcd.com
+0.0.0.0 www.etonline.com
 0.0.0.0 www.etracker.com
 0.0.0.0 www.etracker.de
 0.0.0.0 www.everestjs.net
