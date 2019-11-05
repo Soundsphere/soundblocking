@@ -1809,6 +1809,7 @@
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.outbrainimg.com
+0.0.0.0 images.paypal.com
 0.0.0.0 images.performgroup.com
 0.0.0.0 imagesrv.adition.com
 0.0.0.0 images.taboola.com
