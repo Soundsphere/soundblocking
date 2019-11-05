@@ -518,6 +518,7 @@
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.userlike.com
 0.0.0.0 api.usersnap.com
+0.0.0.0 apiv2.moengage.com
 0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.viafoura.co
 0.0.0.0 api.viglink.com
@@ -1053,8 +1054,10 @@
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
+0.0.0.0 collector-pxbecn7fqx.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
+0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collect.tealiumiq.com
@@ -1297,6 +1300,7 @@
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.livefyre.com
 0.0.0.0 data.logentries.com
+0.0.0.0 datam20.adlooxtracking.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.pokkinw.com
 0.0.0.0 data.queryly.com
@@ -3295,6 +3299,7 @@
 0.0.0.0 tracker.euroweb.net
 0.0.0.0 tracker.marinsm.com
 0.0.0.0 tracker.nbcuas.com
+0.0.0.0 tracker.nmp1.com
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 track.express.de
 0.0.0.0 track.eyeviewads.com
