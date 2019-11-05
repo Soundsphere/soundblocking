@@ -2017,6 +2017,7 @@
 0.0.0.0 ads.esmas.com
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 ads.eu.msn.com
+0.0.0.0 ads.everesttech.net
 0.0.0.0 ads.e-webtrack.net
 0.0.0.0 ads.exactdrive.com
 0.0.0.0 ad.sexcount.de
@@ -7671,7 +7672,9 @@
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector.newsx.cc
 0.0.0.0 collector.prod.expedia.com
+0.0.0.0 collector-pxbecn7fqx.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
+0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
 0.0.0.0 collector.richmond.com
 0.0.0.0 collector.schibsted.io
 0.0.0.0 collector.sspinc.io
@@ -8421,6 +8424,7 @@
 0.0.0.0 cslogger.media.net
 0.0.0.0 cs.media.net
 0.0.0.0 csm.fr.eu.criteo.net
+0.0.0.0 csm.nl.eu.criteo.net
 0.0.0.0 c.snnd.co
 0.0.0.0 cs.ns1p.net
 0.0.0.0 c.spiegel.de
@@ -8727,6 +8731,7 @@
 0.0.0.0 dakshinbanglacollege.edu.bd
 0.0.0.0 dalatngaynay.com
 0.0.0.0 dalbraut.top
+0.0.0.0 daldt.adsafeprotected.com
 0.0.0.0 dalpozzo.cl
 0.0.0.0 damagex.com
 0.0.0.0 damaturepics.com
@@ -8873,6 +8878,7 @@
 0.0.0.0 datalivescore.com
 0.0.0.0 data.logentries.com
 0.0.0.0 data.lovequintet.com
+0.0.0.0 datam20.adlooxtracking.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
 0.0.0.0 datanotary.com
@@ -15015,6 +15021,7 @@
 0.0.0.0 impro.cc
 0.0.0.0 impr.taboola.com
 0.0.0.0 impsa.com.mx
+0.0.0.0 imp.tradedoubler.com
 0.0.0.0 impulse.forkcdn.com
 0.0.0.0 impulseleads.com
 0.0.0.0 imrk.net
@@ -18200,6 +18207,7 @@
 0.0.0.0 melissabieber.com
 0.0.0.0 mellora.com
 0.0.0.0 meltdsp.com
+0.0.0.0 meltwaternews.com
 0.0.0.0 members-access.com
 0.0.0.0 members.accessmedia.tv
 0.0.0.0 members.homecareersearch.com
@@ -18298,6 +18306,7 @@
 0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.n-tv.de
 0.0.0.0 metrics.performancing.com
+0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.responsetap.com
 0.0.0.0 metrics.ryanair.com
 0.0.0.0 metrics.sdkbox.com
@@ -23736,6 +23745,7 @@
 0.0.0.0 rtbpopd.com
 0.0.0.0 rtb.tubemogul.com
 0.0.0.0 rtb-xa.openx.net
+0.0.0.0 rtd-tm.everesttech.net
 0.0.0.0 rtd.tubemogul.com
 0.0.0.0 r.teads.tv
 0.0.0.0 rtexport.net
@@ -26932,6 +26942,7 @@
 0.0.0.0 sterva.com
 0.0.0.0 stetic.com
 0.0.0.0 stetmail.com
+0.0.0.0 st-euw1.dynamicyield.com
 0.0.0.0 stevecashdollar.com
 0.0.0.0 steve-vale.com
 0.0.0.0 s.thebrighttag.com
@@ -27061,6 +27072,7 @@
 0.0.0.0 stuphome.com
 0.0.0.0 stupidcash.com
 0.0.0.0 stupidteenies.com
+0.0.0.0 st-www.dynamicyield.com
 0.0.0.0 style2.ad6.fr
 0.0.0.0 stylemodern.cn
 0.0.0.0 s.tyxo.com
@@ -28657,6 +28669,7 @@
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.netklix.com
 0.0.0.0 tracker.netmechanic.com
+0.0.0.0 tracker.nmp1.com
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.pythonvideo.com
 0.0.0.0 tracker.samplicio.us
