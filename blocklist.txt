@@ -2138,6 +2138,7 @@
 0.0.0.0 mediator.mail.ru
 0.0.0.0 mediav3.inq.com
 0.0.0.0 mediavine-d.openx.net
+0.0.0.0 meltwaternews.com
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 meraxes.polarmobile.com
 0.0.0.0 me-ssl.effectivemeasure.net
