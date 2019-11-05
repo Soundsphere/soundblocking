@@ -1663,6 +1663,7 @@
 0.0.0.0 g.ezoic.net
 0.0.0.0 gg.google.com
 0.0.0.0 gift-connect-d.openx.net
+0.0.0.0 gj.gds.mmstat.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
 0.0.0.0 gklfs-x8k98.ads.tremorhub.com
@@ -1676,6 +1677,7 @@
 0.0.0.0 global.ib-ibi.com
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 gmads.net
+0.0.0.0 gm.gds.mmstat.com
 0.0.0.0 gm.mmstat.com
 0.0.0.0 g.msn.com
 0.0.0.0 gnar.grammarly.com
@@ -1715,6 +1717,7 @@
 0.0.0.0 gwmtracking.com
 0.0.0.0 gwm.w-cdn.com
 0.0.0.0 h6.msn.com
+0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 hajoopteg.com
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 halc.iadvize.com
@@ -2519,6 +2522,7 @@
 0.0.0.0 pubpress.net
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 purch-match.dotomi.com
+0.0.0.0 pv-tm.everesttech.net
 0.0.0.0 p.vtracy.de
 0.0.0.0 pv.tubemogul.com
 0.0.0.0 px1.vtrtl.de
