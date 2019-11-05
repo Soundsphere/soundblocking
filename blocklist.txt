@@ -1,3 +1,4 @@
+0.0.0.0 0.gravatar.com
 0.0.0.0 1016557.fls.doubleclick.net
 0.0.0.0 112-tzm-766.mktoresp.com
 0.0.0.0 15.taboola.com
@@ -621,6 +622,7 @@
 0.0.0.0 assets.jetlore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
 0.0.0.0 assets.kromtech.net
+0.0.0.0 assets.pinterest.com
 0.0.0.0 assets.privy.com
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.servedby-buysellads.com
@@ -881,6 +883,7 @@
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
+0.0.0.0 cdn-images.mailchimp.com
 0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
@@ -2434,6 +2437,7 @@
 0.0.0.0 plarium.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.linkedin.com
+0.0.0.0 platform.stumbleupon.com
 0.0.0.0 platform.tumblr.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 player.adtelligent.com
@@ -3358,6 +3362,7 @@
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.tenjin.io
 0.0.0.0 track.thesaurus.com
+0.0.0.0 track.ultimate-guitar.com
 0.0.0.0 track.vdo.ai
 0.0.0.0 track.webgains.com
 0.0.0.0 track.ziprecruiter.com
