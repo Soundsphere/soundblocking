@@ -89,6 +89,7 @@
 0.0.0.0 a4411.casalemedia.com
 0.0.0.0 a4450.casalemedia.com
 0.0.0.0 a4500.casalemedia.com
+0.0.0.0 a4501.casalemedia.com
 0.0.0.0 a4550.casalemedia.com
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a6.smi2.ru
@@ -430,6 +431,7 @@
 0.0.0.0 analytics-udg.netdna-ssl.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.yomedia.vn
+0.0.0.0 and.co.uk.102.122.2o7.net
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 ani.adspruce.com
 0.0.0.0 animate.adobe.com
@@ -781,6 +783,7 @@
 0.0.0.0 c.algovid.com
 0.0.0.0 calotag.com
 0.0.0.0 c.amazon-adsystem.com
+0.0.0.0 capi.connatix.com
 0.0.0.0 c.apple.com
 0.0.0.0 capture.condenastdigital.com
 0.0.0.0 capture.trackjs.com
@@ -1362,6 +1365,7 @@
 0.0.0.0 displayad.layer-ad.org
 0.0.0.0 display.apester.com
 0.0.0.0 display.bfmio.com
+0.0.0.0 displayf-tm.everesttech.net
 0.0.0.0 displayf.tubemogul.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 districtm-match.dotomi.com
@@ -1818,6 +1822,7 @@
 0.0.0.0 img.alibaba.com
 0.0.0.0 img.bet-at-home.com
 0.0.0.0 imgcdn.brightinfo.com
+0.0.0.0 img.connatix.com
 0.0.0.0 img.en25.com
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.mediaplex.com.edgesuite.net
@@ -2129,6 +2134,7 @@
 0.0.0.0 m.do.co
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 med-api.admost.com
+0.0.0.0 med.heyzap.com
 0.0.0.0 media.admob.com
 0.0.0.0 media.adrcdn.com
 0.0.0.0 media.carambo.la
@@ -2349,6 +2355,7 @@
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pentos-cdn.polarmobile.com
+0.0.0.0 perf.gds.mmstat.com
 0.0.0.0 perf.logsss.com
 0.0.0.0 perf.mmstat.com
 0.0.0.0 performance.typekit.net
@@ -2863,6 +2870,7 @@
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 site-optimization-api.company-target.com
+0.0.0.0 sjedt.adsafeprotected.com
 0.0.0.0 s.jpush.cn
 0.0.0.0 sjrtp5-cdn.marketo.com
 0.0.0.0 sjrtp6-cdn.marketo.com
@@ -2921,6 +2929,7 @@
 0.0.0.0 s.pubmine.com
 0.0.0.0 sp.zalo.me
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 squirrelhands.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
 0.0.0.0 srvccnc.media.net
@@ -3061,6 +3070,7 @@
 0.0.0.0 status.discordapp.com
 0.0.0.0 st.core.polyad.net
 0.0.0.0 st.dynamicyield.com
+0.0.0.0 steadfastsound.com
 0.0.0.0 steadfastsystem.com
 0.0.0.0 stepan-fe.go.mail.ru
 0.0.0.0 stepstone.d1.sc.omtrdc.net
@@ -3505,6 +3515,7 @@
 0.0.0.0 vice-publishers-cdn.vice.com
 0.0.0.0 vidanalytics.taboola.com
 0.0.0.0 vidapi.expepp.de
+0.0.0.0 vid.connatix.com
 0.0.0.0 video-adserver.ibillboard.com
 0.0.0.0 video-ads.rubiconproject.com
 0.0.0.0 video-api.yql.yahoo.com
