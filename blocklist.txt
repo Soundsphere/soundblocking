@@ -839,6 +839,7 @@
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn-advert.smi2.net
+0.0.0.0 cdn.adx1.com
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.appdynamics.com
@@ -1260,6 +1261,7 @@
 0.0.0.0 data15.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
 0.0.0.0 data18.adlooxtracking.com
+0.0.0.0 data19.adlooxtracking.com
 0.0.0.0 data20.adlooxtracking.com
 0.0.0.0 data21.adlooxtracking.com
 0.0.0.0 data22.adlooxtracking.com
@@ -1696,6 +1698,7 @@
 0.0.0.0 go.ezoic.net
 0.0.0.0 goldbach-de-d.openx.net
 0.0.0.0 golf4.de.intellitxt.com
+0.0.0.0 go.mmstat.com
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -2064,6 +2067,7 @@
 0.0.0.0 lpm-lagardere.nuggad.net
 0.0.0.0 l.sharethis.com
 0.0.0.0 ls.hit.gemius.pl
+0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 lululemonathleticacanadainc.demdex.net
 0.0.0.0 l.yimg.com
 0.0.0.0 lynxbroker.de
@@ -2348,6 +2352,7 @@
 0.0.0.0 pass.1688.com
 0.0.0.0 patagonia.122.2o7.net
 0.0.0.0 pa.tns-ua.com
+0.0.0.0 paypal.112.2o7.net
 0.0.0.0 pb.adriver.ru
 0.0.0.0 pb-assets.tedcdn.com
 0.0.0.0 pbid.pro-market.net
@@ -2574,6 +2579,7 @@
 0.0.0.0 r.254a.com
 0.0.0.0 r2---sn-4g5e6n76.gvt1.com
 0.0.0.0 r2---sn-4g5ednsk.gvt1.com
+0.0.0.0 r2---sn-4g5ednsy.gvt1.com
 0.0.0.0 r3---sn-4g5ednee.gvt1.com
 0.0.0.0 r6---sn-4g5edne7.gvt1.com
 0.0.0.0 radar.cedexis.com
@@ -3171,6 +3177,7 @@
 0.0.0.0 tag.1rx.io
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tag.aticdn.net
+0.0.0.0 tag.aumago.com
 0.0.0.0 tag.bounceexchange.com
 0.0.0.0 tag.contextweb.com
 0.0.0.0 tag.crsspxl.com
@@ -3592,6 +3599,7 @@
 0.0.0.0 widget.as.criteo.com
 0.0.0.0 widget.criteo.com
 0.0.0.0 widget.eu.criteo.com
+0.0.0.0 widget.fitanalytics.com
 0.0.0.0 widget.fr.eu.criteo.com
 0.0.0.0 widget.marktjagd.de
 0.0.0.0 widgetmonitor.outbrain.com
@@ -3696,6 +3704,7 @@
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
 0.0.0.0 www.dianomi.com
+0.0.0.0 www.dpbolvw.net
 0.0.0.0 www.dwin1.com
 0.0.0.0 www.dwin2.com
 0.0.0.0 www.econda-monitor.de
@@ -3829,6 +3838,7 @@
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 z.gds.cnzz.com
+0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 zm232.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
