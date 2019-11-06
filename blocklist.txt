@@ -2767,6 +2767,7 @@
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 scripts.kiosked.com
 0.0.0.0 scripts.kissmetrics.com
+0.0.0.0 scripts.mediavine.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scripts.sophus3.com
 0.0.0.0 scripttags.justuno.com
@@ -2898,6 +2899,7 @@
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 s.logsss.com
 0.0.0.0 sm4xqadz4o.kameleoon.eu
+0.0.0.0 smallseotools.com
 0.0.0.0 smarticon.geotrust.com
 0.0.0.0 smarturl.it
 0.0.0.0 smct.co
@@ -2934,6 +2936,7 @@
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.zeotap.com
 0.0.0.0 s.po.st
+0.0.0.0 spot-im-d.openx.net
 0.0.0.0 spr.bild.de
 0.0.0.0 springer02.webtrekk.net
 0.0.0.0 spr.welt.de
@@ -3087,6 +3090,7 @@
 0.0.0.0 stepstone.d1.sc.omtrdc.net
 0.0.0.0 stern.met.vgwort.de
 0.0.0.0 stetic.com
+0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 st-euw1.dynamicyield.com
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 stiffstem.com
