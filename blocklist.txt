@@ -3870,3 +3870,7 @@
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z.webengage.co
+0.0.0.0 aax-us.amazon-adsystem.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
+0.0.0.0 fandango.com
+0.0.0.0 whitepages.com
