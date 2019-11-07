@@ -3325,6 +3325,7 @@
 0.0.0.0 amicodiieri.it
 0.0.0.0 amicusadr.com
 0.0.0.0 amidabuli.com
+0.0.0.0 amidt.adsafeprotected.com
 0.0.0.0 amigeek.com
 0.0.0.0 amihost.net
 0.0.0.0 amiiv.co.tz
@@ -4067,6 +4068,7 @@
 0.0.0.0 app-sj08.marketo.com
 0.0.0.0 app-sj09.marketo.com
 0.0.0.0 app-sj13.marketo.com
+0.0.0.0 app-sj15.marketo.com
 0.0.0.0 app-sj16.marketo.com
 0.0.0.0 app-sj17.marketo.com
 0.0.0.0 app-sj19.marketo.com
@@ -6467,6 +6469,7 @@
 0.0.0.0 canwest.112.2o7.net
 0.0.0.0 cap114.fr
 0.0.0.0 capecodfluteandguitar.com
+0.0.0.0 capi.connatix.com
 0.0.0.0 capilart.com.br
 0.0.0.0 capital-it.eu
 0.0.0.0 capitaloneonlineservices.com
@@ -6798,6 +6801,7 @@
 0.0.0.0 cdn.funnel.naturaltracking.com
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.geodns.tubemogul.com
+0.0.0.0 cdn.getsmartcontent.com
 0.0.0.0 cdn.gigya.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.heapanalytics.com
@@ -15037,6 +15041,7 @@
 0.0.0.0 imzahagents.com
 0.0.0.0 ina6iq.com
 0.0.0.0 ina6sk.com
+0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 inapi.posst.co
 0.0.0.0 inaughty.org
 0.0.0.0 inaugural05.com
@@ -15904,6 +15909,7 @@
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
 0.0.0.0 js.bizographics.com
+0.0.0.0 js.brealtime.com
 0.0.0.0 jsc.adskeeper.co.uk
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 jsc.idealmedia.io
@@ -20095,6 +20101,7 @@
 0.0.0.0 nxtck.com
 0.0.0.0 nyam-nyam.biz
 0.0.0.0 ny.contentmatch.net
+0.0.0.0 nycp-hlb.dvgtm.akadns.net
 0.0.0.0 nyfan.net
 0.0.0.0 nyidt.adsafeprotected.com
 0.0.0.0 nyloncash.com
@@ -24382,6 +24389,7 @@
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdk.starbolt.io
@@ -25728,6 +25736,7 @@
 0.0.0.0 sjafc.com
 0.0.0.0 sj.burstnet.com
 0.0.0.0 sjbypty.com
+0.0.0.0 sjedt.adsafeprotected.com
 0.0.0.0 s.jpush.cn
 0.0.0.0 sjrtp1.marketo.com
 0.0.0.0 sjrtp3-cdn.marketo.com
@@ -27362,6 +27371,7 @@
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync-tapi.admatrix.jp
 0.0.0.0 sync.teads.tv
+0.0.0.0 sync.technoratimedia.com
 0.0.0.0 sync.tidaltv.com
 0.0.0.0 sync-tm.everesttech.net
 0.0.0.0 sync.tubemogul.com
@@ -29745,6 +29755,7 @@
 0.0.0.0 vast.adsafeprotected.com
 0.0.0.0 vastcdn.outbrain.com
 0.0.0.0 vast.mathtag.com
+0.0.0.0 vastpixel2.adsafeprotected.com
 0.0.0.0 vastpixel.adsafeprotected.com
 0.0.0.0 vast-pop-ams.mathtag.com
 0.0.0.0 vast-pop-zrh.mathtag.com
@@ -33978,6 +33989,7 @@
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.statomatic.com
 0.0.0.0 www.statsector.hu
+0.0.0.0 www.stats.g.doubleclick.net
 0.0.0.0 www.statsmachine.com
 0.0.0.0 www.stbernard-school.com
 0.0.0.0 www.stcdistribuidor.com
