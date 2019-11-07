@@ -883,6 +883,7 @@
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.geodns.tubemogul.com
+0.0.0.0 cdn.getsmartcontent.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
@@ -2287,6 +2288,7 @@
 0.0.0.0 nr.taboola.com
 0.0.0.0 ns.zdbb.net
 0.0.0.0 nxtck.com
+0.0.0.0 nycp-hlb.dvgtm.akadns.net
 0.0.0.0 nyidt.adsafeprotected.com
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 nypost-d.openx.net
