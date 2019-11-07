@@ -1859,6 +1859,7 @@
 0.0.0.0 inimage.carambo.la
 0.0.0.0 init.startappservice.com
 0.0.0.0 init.supersonicads.com
+0.0.0.0 ink1001.com
 0.0.0.0 in.ml314.com
 0.0.0.0 inputs.alooma.com
 0.0.0.0 insight.adsrvr.org
@@ -2546,6 +2547,7 @@
 0.0.0.0 px2.moatads.com
 0.0.0.0 px.adhigh.net
 0.0.0.0 px.ads.linkedin.com
+0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 pxc.otto.de
 0.0.0.0 px-eu.adhigh.net
 0.0.0.0 px.gfycat.com
@@ -3358,6 +3360,7 @@
 0.0.0.0 tracking.omnitagjs.com
 0.0.0.0 tracking.rtl.de
 0.0.0.0 tracking.s24.com
+0.0.0.0 tracking.searchmarketing.com
 0.0.0.0 tracking.skyword.com
 0.0.0.0 tracking.srv2.de
 0.0.0.0 tracking.taboola.com
