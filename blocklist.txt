@@ -110,6 +110,7 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 abeagle-public.buzzfeed.com
@@ -1137,6 +1138,7 @@
 0.0.0.0 cpxl.golem.de
 0.0.0.0 crab.baidu.com
 0.0.0.0 crashdump.spotify.com
+0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
@@ -1560,6 +1562,7 @@
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 f7-de.adhigh.net
 0.0.0.0 faggrim.com
+0.0.0.0 fandango.com
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 farlex-d.openx.net
 0.0.0.0 farm-de.plista.com
@@ -2509,6 +2512,7 @@
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-js.aws.y-track.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 prof.estat.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile.localytics.com
@@ -3613,6 +3617,7 @@
 0.0.0.0 w.estat.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 whitelabel.media.net
+0.0.0.0 whitepages.com
 0.0.0.0 whos.amung.us
 0.0.0.0 widget.as.criteo.com
 0.0.0.0 widget.criteo.com
