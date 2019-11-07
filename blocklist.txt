@@ -575,6 +575,7 @@
 0.0.0.0 app-sj01.marketo.com
 0.0.0.0 app-sj05.marketo.com
 0.0.0.0 app-sj13.marketo.com
+0.0.0.0 app-sj15.marketo.com
 0.0.0.0 app-sj17.marketo.com
 0.0.0.0 app-sjh.marketo.com
 0.0.0.0 app-sji.marketo.com
@@ -2056,6 +2057,7 @@
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.dashlane.com
+0.0.0.0 logs.gaana.com
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logv31.xiti.com
 0.0.0.0 log.worldsoft-cms.info
@@ -2784,6 +2786,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdk.iad-01.braze.com
+0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdk.starbolt.io
@@ -2945,6 +2948,7 @@
 0.0.0.0 s.pubmine.com
 0.0.0.0 sp.zalo.me
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
@@ -3509,6 +3513,7 @@
 0.0.0.0 vastcdn.outbrain.com
 0.0.0.0 vastlog.adsafeprotected.com
 0.0.0.0 vast.mathtag.com
+0.0.0.0 vastpixel2.adsafeprotected.com
 0.0.0.0 vast-pop-ams.mathtag.com
 0.0.0.0 vast-pop-zrh.mathtag.com
 0.0.0.0 vast-test.mathtag.com
