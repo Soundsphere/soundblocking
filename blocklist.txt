@@ -540,6 +540,7 @@
 0.0.0.0 app-ab07.marketo.com
 0.0.0.0 app-ab13.marketo.com
 0.0.0.0 app-ab14.marketo.com
+0.0.0.0 app-ab17.marketo.com
 0.0.0.0 app-ab22.marketo.com
 0.0.0.0 app-ab23.marketo.com
 0.0.0.0 app-ab24.marketo.com
@@ -1832,6 +1833,7 @@
 0.0.0.0 imgcdn.brightinfo.com
 0.0.0.0 img.connatix.com
 0.0.0.0 img.en25.com
+0.0.0.0 img.macromill.com
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.mediaplex.com.edgesuite.net
 0.0.0.0 img.metaffiliation.com
@@ -1923,6 +1925,7 @@
 0.0.0.0 js-agent.newrelic.com
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
+0.0.0.0 js.brealtime.com
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
@@ -2239,6 +2242,7 @@
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.rtmark.net
 0.0.0.0 mytopf.com
+0.0.0.0 n01d05.cumulus-cloud.com
 0.0.0.0 n2.mouseflow.com
 0.0.0.0 nab.com.au
 0.0.0.0 nan.netmng.com
@@ -3791,6 +3795,7 @@
 0.0.0.0 www.smartredirect.de
 0.0.0.0 www.snapengage.com
 0.0.0.0 www.statcounter.com
+0.0.0.0 www.stats.g.doubleclick.net
 0.0.0.0 www.storygize.net
 0.0.0.0 www.streamate.com
 0.0.0.0 www.subzin.com
