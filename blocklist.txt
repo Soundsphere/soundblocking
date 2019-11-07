@@ -35415,3 +35415,7 @@
 0.0.0.0 zzgzs.cn
 0.0.0.0 zzkadra-kwbbelchatow.com.pl
 0.0.0.0 zzz.cn
+0.0.0.0 aax-us.amazon-adsystem.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
+0.0.0.0 fandango.com
+0.0.0.0 whitepages.com
