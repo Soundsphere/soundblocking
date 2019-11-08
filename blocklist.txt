@@ -952,6 +952,7 @@
 0.0.0.0 aax.amazon-adsystem.com
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 aaz.gosite.ws
@@ -5539,6 +5540,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.rtk.io
 0.0.0.0 biddr.brealtime.com
+0.0.0.0 biddr-cloud.brealtime.com
 0.0.0.0 bi-de-wisch.de
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bidr.trellian.com
@@ -6788,6 +6790,7 @@
 0.0.0.0 cdneast2-xch.media.net
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.engine.4dsply.com
+0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exelator.com
@@ -7677,6 +7680,7 @@
 0.0.0.0 collector.newsx.cc
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
+0.0.0.0 collector-pxrf8vapwa.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
 0.0.0.0 collector.richmond.com
@@ -8405,6 +8409,7 @@
 0.0.0.0 cs11.wpc.v0cdn.net
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.adingo.jp
+0.0.0.0 cs.admanmedia.com
 0.0.0.0 csaladikor.maltai.hu
 0.0.0.0 csbw.fr
 0.0.0.0 csc.beap.bc.yahoo.com
@@ -8641,6 +8646,7 @@
 0.0.0.0 d2o67tzzxkqap2.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
+0.0.0.0 d2uepos3ef6db0.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2xxq4ijfwetlm.cloudfront.net
@@ -10502,6 +10508,7 @@
 0.0.0.0 edailywinners.com
 0.0.0.0 edakgfvwql.ru
 0.0.0.0 edatasales.com
+0.0.0.0 edba.brealtime.com
 0.0.0.0 e-debtconsolidation.com
 0.0.0.0 edegrees.net
 0.0.0.0 eden21.net
@@ -11498,6 +11505,7 @@
 0.0.0.0 fanatik.net
 0.0.0.0 fanatticrecords.com
 0.0.0.0 fanclips.com
+0.0.0.0 fandango.com
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 fandesjinkderunha.com
 0.0.0.0 fandl.net
@@ -12948,6 +12956,7 @@
 0.0.0.0 getactive365.com
 0.0.0.0 getadsincomely.info
 0.0.0.0 get-a-life.org
+0.0.0.0 get.amplitude.com
 0.0.0.0 getaveteran.com
 0.0.0.0 getavideonow.com
 0.0.0.0 getavplusnow.com
@@ -15007,6 +15016,7 @@
 0.0.0.0 impactocontabil.com
 0.0.0.0 impactwrestling.com
 0.0.0.0 impde.tradedoubler.com
+0.0.0.0 imp.emxdgt.com
 0.0.0.0 imperiafilm.ru
 0.0.0.0 imperial-scape.com
 0.0.0.0 impetu.com.ve
@@ -20989,6 +20999,7 @@
 0.0.0.0 paypai-accounts.mp2.io
 0.0.0.0 paypai.com-fixbillingsetup.com.checkpayment-serviceuser.com
 0.0.0.0 paypai.user-restricted.com
+0.0.0.0 paypal.112.2o7.net
 0.0.0.0 paypal-account-bestellung.info
 0.0.0.0 paypal-account-security-service.mytelevisionprograms.com
 0.0.0.0 paypal.account-verification16.com
@@ -22320,6 +22331,7 @@
 0.0.0.0 prodexteam.net
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prodownloader.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 producm.ru
 0.0.0.0 productosdemicomarca.com
 0.0.0.0 products-gold.net
@@ -23128,6 +23140,7 @@
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcnchurch.com
 0.0.0.0 rcom.dynamicyield.com
+0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 rcom.trafficz.com
 0.0.0.0 rcp.c.appier.net
 0.0.0.0 rcprograms.com
@@ -26333,6 +26346,7 @@
 0.0.0.0 spotmarketing.com.au
 0.0.0.0 spotresults.com
 0.0.0.0 spotspyware.com
+0.0.0.0 spotx-match.dotomi.com
 0.0.0.0 s-power.info
 0.0.0.0 spr1t3.com
 0.0.0.0 spravka130.ru
@@ -26925,6 +26939,7 @@
 0.0.0.0 stcdistribuidor.com
 0.0.0.0 stcdistribuidor.com.br
 0.0.0.0 stchgt.com
+0.0.0.0 st.core.polyad.net
 0.0.0.0 stcroixlofts.com
 0.0.0.0 stc.za.zaloapp.com
 0.0.0.0 st.districtm.ca
@@ -30053,6 +30068,7 @@
 0.0.0.0 votkontakt.ru
 0.0.0.0 votreantivirys.com
 0.0.0.0 voxprivatelabel.com
+0.0.0.0 vpaid3.adsafeprotected.com
 0.0.0.0 vpaid.adsafeprotected.com
 0.0.0.0 vpaid.pubmatic.com
 0.0.0.0 vpdr.pl
@@ -30579,6 +30595,7 @@
 0.0.0.0 whitehat.ro
 0.0.0.0 whitelabel.media.net
 0.0.0.0 whitelolita.com
+0.0.0.0 whitepages.com
 0.0.0.0 white-pages.ws
 0.0.0.0 whitescat.com
 0.0.0.0 white.sexer.com
@@ -35415,7 +35432,3 @@
 0.0.0.0 zzgzs.cn
 0.0.0.0 zzkadra-kwbbelchatow.com.pl
 0.0.0.0 zzz.cn
-0.0.0.0 aax-us.amazon-adsystem.com
-0.0.0.0 prod.telemetry.ros.rockstargames.com
-0.0.0.0 fandango.com
-0.0.0.0 whitepages.com
