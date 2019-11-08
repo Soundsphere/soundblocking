@@ -110,6 +110,7 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 abeagle-public.buzzfeed.com
@@ -727,6 +728,7 @@
 0.0.0.0 bidder.criteo.com
 0.0.0.0 bidder.rtk.io
 0.0.0.0 biddr.brealtime.com
+0.0.0.0 biddr-cloud.brealtime.com
 0.0.0.0 bid.g.doubleclick.net
 0.0.0.0 bid.socdm.com
 0.0.0.0 bild01.webtrekk.net
@@ -877,6 +879,7 @@
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.embedly.com
 0.0.0.0 cdn.engine.4dsply.com
+0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exelator.com
@@ -1066,6 +1069,7 @@
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
+0.0.0.0 collector-pxrf8vapwa.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
 0.0.0.0 collector.roistat.com
@@ -1465,6 +1469,7 @@
 0.0.0.0 ed98512111bb19e5.in.net
 0.0.0.0 edaa.eu
 0.0.0.0 edatasales.com
+0.0.0.0 edba.brealtime.com
 0.0.0.0 edge.addthis.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.simplereach.com
@@ -1560,6 +1565,7 @@
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 f7-de.adhigh.net
 0.0.0.0 faggrim.com
+0.0.0.0 fandango.com
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 farlex-d.openx.net
 0.0.0.0 farm-de.plista.com
@@ -1669,6 +1675,7 @@
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
 0.0.0.0 geo.yahoo.com
 0.0.0.0 german-adult-news.com
+0.0.0.0 get.amplitude.com
 0.0.0.0 get.cryptobrowser.site
 0.0.0.0 get.mirando.de
 0.0.0.0 getrockerbox.com
@@ -1842,6 +1849,7 @@
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.sedoparking.com
 0.0.0.0 impde.tradedoubler.com
+0.0.0.0 imp.emxdgt.com
 0.0.0.0 impes.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
@@ -2373,6 +2381,7 @@
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pentos-cdn.polarmobile.com
+0.0.0.0 perf-events.cloud.unity3d.com
 0.0.0.0 perf.gds.mmstat.com
 0.0.0.0 perf.logsss.com
 0.0.0.0 perf.mmstat.com
@@ -2509,6 +2518,7 @@
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-js.aws.y-track.com
+0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 prof.estat.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile.localytics.com
@@ -2607,6 +2617,7 @@
 0.0.0.0 rcm-eu.amazon-adsystem.com
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcom.dynamicyield.com
+0.0.0.0 rcom-eu.dynamicyield.com
 0.0.0.0 rcp.c.appier.net
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rdi.eu.criteo.com
@@ -2948,6 +2959,7 @@
 0.0.0.0 spl.zeotap.com
 0.0.0.0 s.po.st
 0.0.0.0 spot-im-d.openx.net
+0.0.0.0 spotx-match.dotomi.com
 0.0.0.0 spr.bild.de
 0.0.0.0 springer02.webtrekk.net
 0.0.0.0 spr.welt.de
@@ -3613,6 +3625,7 @@
 0.0.0.0 w.estat.com
 0.0.0.0 wf.taboola.com
 0.0.0.0 whitelabel.media.net
+0.0.0.0 whitepages.com
 0.0.0.0 whos.amung.us
 0.0.0.0 widget.as.criteo.com
 0.0.0.0 widget.criteo.com
@@ -3870,7 +3883,3 @@
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z.webengage.co
-0.0.0.0 aax-us.amazon-adsystem.com
-0.0.0.0 prod.telemetry.ros.rockstargames.com
-0.0.0.0 fandango.com
-0.0.0.0 whitepages.com
