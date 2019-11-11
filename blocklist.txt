@@ -273,6 +273,7 @@
 0.0.0.0 ads.mopub.com
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.one.co.il
+0.0.0.0 ads.playground.xyz
 0.0.0.0 ads.programattik.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 adspsp.com
@@ -1150,6 +1151,7 @@
 0.0.0.0 cpxl.golem.de
 0.0.0.0 crab.baidu.com
 0.0.0.0 crashdump.spotify.com
+0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
