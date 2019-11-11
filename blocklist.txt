@@ -1145,6 +1145,7 @@
 0.0.0.0 actions-am.taboola.com
 0.0.0.0 actions-hk.taboola.com
 0.0.0.0 actions-latb.taboola.com
+0.0.0.0 actions-nj.taboola.com
 0.0.0.0 actionsplash.com
 0.0.0.0 actitudgrafica.com
 0.0.0.0 activaet-eset.com
@@ -2053,6 +2054,7 @@
 0.0.0.0 ads.ft.com
 0.0.0.0 ads.futurenet.com
 0.0.0.0 ads.gamecity.net
+0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.gameforgeads.de
 0.0.0.0 ads.gamershell.com
 0.0.0.0 ads.gamespyid.com
@@ -3422,6 +3424,7 @@
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics-collector-28944298.us-east-1.elb.amazonaws.com
+0.0.0.0 analyticsdcs.ccs.mcafee.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics.fairfax.com.au
@@ -4050,6 +4053,7 @@
 0.0.0.0 app-promo.com
 0.0.0.0 apprebates.com
 0.0.0.0 appredeem.com
+0.0.0.0 app.redretarget.com
 0.0.0.0 apprewards.xyz
 0.0.0.0 approstar.com
 0.0.0.0 appround.biz
@@ -5223,6 +5227,7 @@
 0.0.0.0 beaconsume.com
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
+0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 beacon.valeoip.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
@@ -7679,8 +7684,10 @@
 0.0.0.0 collector-medium.lightstep.com
 0.0.0.0 collector.newsx.cc
 0.0.0.0 collector.prod.expedia.com
+0.0.0.0 collector-px3vk96i6i.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
 0.0.0.0 collector-pxrf8vapwa.perimeterx.net
+0.0.0.0 collector-pxrw7m6iav.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
 0.0.0.0 collector.richmond.com
@@ -8446,6 +8453,7 @@
 0.0.0.0 cs.sexcounter.com
 0.0.0.0 cs-s.hi2.ro
 0.0.0.0 cs.shopperreports.com
+0.0.0.0 cstat.apple.com
 0.0.0.0 c.statcounter.com
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 csxiwwwcom.net
@@ -8888,6 +8896,7 @@
 0.0.0.0 datalivescore.com
 0.0.0.0 data.logentries.com
 0.0.0.0 data.lovequintet.com
+0.0.0.0 datam13.adlooxtracking.com
 0.0.0.0 datam20.adlooxtracking.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.mistat.xiaomi.com
@@ -12848,6 +12857,7 @@
 0.0.0.0 g-brush.com
 0.0.0.0 gbvip.com
 0.0.0.0 g.bw
+0.0.0.0 gcd.mmstat.com
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gcirm.citizen-times.com
 0.0.0.0 gcirm.dailyrecord.com
@@ -13020,6 +13030,7 @@
 0.0.0.0 get-sex.net
 0.0.0.0 getshealth11.cn
 0.0.0.0 getsoffertoday.com
+0.0.0.0 get.s-onetag.com
 0.0.0.0 getspecialdeals.com
 0.0.0.0 get-superb-block-checks.com
 0.0.0.0 getsupport.info.appield-attempts.com
@@ -13142,6 +13153,7 @@
 0.0.0.0 givemepornvids.com
 0.0.0.0 givetotuck.org
 0.0.0.0 gixx.ru
+0.0.0.0 gj.gds.mmstat.com
 0.0.0.0 gjhoa.hentaiwonderland.com
 0.0.0.0 gjj.biz
 0.0.0.0 gj.mmstat.com
@@ -13236,6 +13248,7 @@
 0.0.0.0 gmcraig.com
 0.0.0.0 gm-ebay.com
 0.0.0.0 gmfvalstfrancois.com
+0.0.0.0 gm.gds.mmstat.com
 0.0.0.0 gmkvideo.com
 0.0.0.0 gmldev.org
 0.0.0.0 gm.mmstat.com
@@ -17850,6 +17863,7 @@
 0.0.0.0 match.bnmla.com
 0.0.0.0 matchcom.js-freedom.com
 0.0.0.0 matchcraft.com
+0.0.0.0 match-eu-central-1.sharethrough.com
 0.0.0.0 matchingpromiserings.com
 0.0.0.0 matchpicture003.romanherrera.com
 0.0.0.0 match.prod.bidr.io
@@ -18312,6 +18326,7 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
+0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics.corus.ca
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrics.fitanalytics.com
@@ -20239,6 +20254,7 @@
 0.0.0.0 odiseea.com
 0.0.0.0 odmina.ru
 0.0.0.0 odr-1134265115.eu-central-1.elb.amazonaws.com
+0.0.0.0 odr.mookie1.com
 0.0.0.0 odsadsmobile.biz
 0.0.0.0 odsprojects.org
 0.0.0.0 odysseusmarketing.com
@@ -25664,6 +25680,7 @@
 0.0.0.0 simaq.com
 0.0.0.0 sim-dealer.ru
 0.0.0.0 simenrobertsen.com
+0.0.0.0 s-img.mgid.com
 0.0.0.0 similarsingles.com
 0.0.0.0 simoneanne.com
 0.0.0.0 simonkagyorgy.hu
@@ -26878,6 +26895,7 @@
 0.0.0.0 stats.esomniture.com
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.g.runescape.com.sd3.pw
@@ -27083,6 +27101,7 @@
 0.0.0.0 st.tmgrup.com.tr
 0.0.0.0 st.top100.ru
 0.0.0.0 stuartenergy.com
+0.0.0.0 stubhub.demdex.net
 0.0.0.0 stuckupstickers.com.au
 0.0.0.0 studentguide.ru
 0.0.0.0 studentlounge.pk
@@ -27287,6 +27306,7 @@
 0.0.0.0 s.vertamedia.com
 0.0.0.0 svetka.info
 0.0.0.0 svetoch.moscow
+0.0.0.0 svk-native.ru
 0.0.0.0 svoboduud.cn
 0.0.0.0 svp.contextuad.org
 0.0.0.0 swa.and.co.uk
@@ -28196,6 +28216,7 @@
 0.0.0.0 the-young-sex.com
 0.0.0.0 thezirius.com
 0.0.0.0 thietbihantbt.com
+0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thindivide.com
 0.0.0.0 think-adz2.com
 0.0.0.0 think-adz.com
@@ -29544,6 +29565,7 @@
 0.0.0.0 up.medbod.com
 0.0.0.0 up-north.us
 0.0.0.0 up.safenabsecur.cloudns.cx
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 upschools.net
 0.0.0.0 ups.demdex.net
 0.0.0.0 ups.inq.com
@@ -30981,6 +31003,7 @@
 0.0.0.0 ws.fxtornado.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws.ksmobile.net
+0.0.0.0 ws.mmstat.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws-na.amazon.adsystem.com
 0.0.0.0 ws.pusherapp.com
