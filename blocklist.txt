@@ -767,6 +767,7 @@
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 bsw.digitru.st
 0.0.0.0 bs.yandex.ru
+0.0.0.0 btlr-eu-central-1.sharethrough.com
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bttrack.com
@@ -875,6 +876,7 @@
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.cpnscdn.com
 0.0.0.0 cdn.cquotient.com
+0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
 0.0.0.0 cdn.cxense.com
 0.0.0.0 cdn.decibelinsight.net
 0.0.0.0 cdn.digitru.st
@@ -2347,6 +2349,7 @@
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
 0.0.0.0 onesignal.com
+0.0.0.0 onetag-geo.s-onetag.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 onscroll-d.openx.net
 0.0.0.0 ookla-d.openx.net
@@ -2472,6 +2475,7 @@
 0.0.0.0 pixel.staticworld.net
 0.0.0.0 pixel-sync.sitescout.com
 0.0.0.0 pixel.tapad.com
+0.0.0.0 pixeltrack.eyeviewads.com
 0.0.0.0 pixel-us-east.rubiconproject.com
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.wp.com
@@ -2527,6 +2531,7 @@
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 prd-collector-anon.playbuzz.com
+0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid.digitru.st
@@ -2534,6 +2539,7 @@
 0.0.0.0 prebid-match.dotomi.com
 0.0.0.0 prebid.media.net
 0.0.0.0 prebid-server.rubiconproject.com
+0.0.0.0 prebid.s-onetag.com
 0.0.0.0 prebid.technoratimedia.com
 0.0.0.0 preferences-mgr.truste.com
 0.0.0.0 prefix.hit.gemius.pl
@@ -3131,6 +3137,7 @@
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.tubemogul.com
+0.0.0.0 stats.viddler.com
 0.0.0.0 stats.wired.com
 0.0.0.0 stats.wordpress.com
 0.0.0.0 stats.wp.com
@@ -3245,6 +3252,7 @@
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 tag.digitaltarget.ru
+0.0.0.0 t.agentanalytics.com
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 tagger.opecloud.com
 0.0.0.0 tag.idsync.analytics.yahoo.com
