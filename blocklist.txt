@@ -1248,6 +1248,7 @@
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
+0.0.0.0 d3v27wwd40f0xu.cloudfront.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5p.de17a.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
@@ -2053,6 +2054,7 @@
 0.0.0.0 log.adaptv.advertising.com
 0.0.0.0 logc187.xiti.com
 0.0.0.0 logc279.xiti.com
+0.0.0.0 log.core.cloud.vewd.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 log.eclick.vn
 0.0.0.0 logger.dailymotion.com
@@ -3065,6 +3067,7 @@
 0.0.0.0 static-de.plista.com
 0.0.0.0 static.digidip.net
 0.0.0.0 static.doubleclick.net
+0.0.0.0 static.dynamicyield.com
 0.0.0.0 static-eb.media.net
 0.0.0.0 static.eclick.vn
 0.0.0.0 static.emsservice.de
