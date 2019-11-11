@@ -659,6 +659,7 @@
 0.0.0.0 autolinkmaker.itunes.apple.com
 0.0.0.0 aux-log1-sh.vertamedia.com
 0.0.0.0 aux-log2-sh.vertamedia.com
+0.0.0.0 aux-log.adtelligent.com
 0.0.0.0 avantlink.com
 0.0.0.0 a.visualrevenue.com
 0.0.0.0 a.volvelle.tech
@@ -1125,6 +1126,7 @@
 0.0.0.0 convhkmp.taboola.com
 0.0.0.0 conv.tubemogul.com
 0.0.0.0 cookie.brealtime.com
+0.0.0.0 cookiee1.veinteractive.com
 0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookie-matching.mediarithmics.com
 0.0.0.0 cookie-script.com
@@ -2188,6 +2190,7 @@
 0.0.0.0 mediav3.inq.com
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 meltwaternews.com
+0.0.0.0 memecrunch.com
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 meraxes.polarmobile.com
 0.0.0.0 me-ssl.effectivemeasure.net
@@ -2199,6 +2202,7 @@
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics-collector.s-onetag.com
+0.0.0.0 metrics-config.icloud.com
 0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
@@ -2270,6 +2274,7 @@
 0.0.0.0 n2.mouseflow.com
 0.0.0.0 nab.com.au
 0.0.0.0 nan.netmng.com
+0.0.0.0 nanorep.com
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 nativespot.com
@@ -2428,6 +2433,7 @@
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
 0.0.0.0 pixelappcollector.thesun.co.uk
+0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixelbox.uimserv.net
@@ -2713,6 +2719,7 @@
 0.0.0.0 rtb.com.ru
 0.0.0.0 rtb.connatix.com
 0.0.0.0 rtb-csync.smartadserver.com
+0.0.0.0 rtb.districtm.io
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtb-lb-eu-west.tubemogul.com
 0.0.0.0 rtb-lb-event-tm-ams.tubemogul.com
@@ -2765,6 +2772,7 @@
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 s.adroll.com
 0.0.0.0 s.adtelligent.com
+0.0.0.0 s.agentanalytics.com
 0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 salesviewer.org
 0.0.0.0 s.amazon-adsystem.com
