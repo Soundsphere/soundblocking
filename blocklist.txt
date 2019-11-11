@@ -1324,6 +1324,7 @@
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.livefyre.com
 0.0.0.0 data.logentries.com
+0.0.0.0 datam13.adlooxtracking.com
 0.0.0.0 datam20.adlooxtracking.com
 0.0.0.0 data.mistat.intl.xiaomi.com
 0.0.0.0 data.pokkinw.com
@@ -2191,6 +2192,7 @@
 0.0.0.0 meraxes.polarmobile.com
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 me.taboola.com
+0.0.0.0 meter-svc.nytimes.com
 0.0.0.0 metok-ccc.intl.xiaomi.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics-api.librato.com
@@ -3145,6 +3147,7 @@
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 strips.vidible.tv
 0.0.0.0 st.top100.ru
+0.0.0.0 stubhub.demdex.net
 0.0.0.0 studio-t.teads.tv
 0.0.0.0 stun.services.mozilla.com
 0.0.0.0 st-www.dynamicyield.com
