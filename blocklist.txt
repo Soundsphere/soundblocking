@@ -132,6 +132,7 @@
 0.0.0.0 action.metaffiliation.com
 0.0.0.0 actions-am.taboola.com
 0.0.0.0 actions-hk.taboola.com
+0.0.0.0 actions-nj.taboola.com
 0.0.0.0 activities.alibaba.com
 0.0.0.0 activity.windows.com
 0.0.0.0 act.webmasterplan.com
@@ -256,6 +257,7 @@
 0.0.0.0 ads.e-webtrack.net
 0.0.0.0 ads.eyeonx.ch
 0.0.0.0 ads.flurry.com
+0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.google.com
 0.0.0.0 ads.greengeeks.com
@@ -398,6 +400,7 @@
 0.0.0.0 analytics.ccs.mcafee.com
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cnd-motionmedia.de
+0.0.0.0 analyticsdcs.ccs.mcafee.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics.fairfax.com.au
@@ -574,6 +577,7 @@
 0.0.0.0 app-measurement.com
 0.0.0.0 app.miui.com
 0.0.0.0 app.pendo.io
+0.0.0.0 app.redretarget.com
 0.0.0.0 app-sj01.marketo.com
 0.0.0.0 app-sj05.marketo.com
 0.0.0.0 app-sj13.marketo.com
@@ -715,6 +719,7 @@
 0.0.0.0 beacon.sojern.com
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
+0.0.0.0 beacon-us-west.rubiconproject.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beap1.cb.g01.yahoodns.net
@@ -1066,10 +1071,12 @@
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
 0.0.0.0 collector-medium.lightstep.com
+0.0.0.0 collector-px3vk96i6i.perimeterx.net
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
 0.0.0.0 collector-pxrf8vapwa.perimeterx.net
+0.0.0.0 collector-pxrw7m6iav.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
 0.0.0.0 collector.roistat.com
@@ -1165,6 +1172,7 @@
 0.0.0.0 cs.prd.msys.playstation.net
 0.0.0.0 csr.inspsearchapi.com
 0.0.0.0 csr.onet.pl
+0.0.0.0 cstat.apple.com
 0.0.0.0 c.statcounter.com
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 c.t4ft.de
@@ -1189,6 +1197,7 @@
 0.0.0.0 cyberport.d3.sc.omtrdc.net
 0.0.0.0 cyberport.tt.omtrdc.net
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
+0.0.0.0 d12ulf131zb0yj.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d16xpr36wrmcmk.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
@@ -1650,6 +1659,7 @@
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gatr.hit.gemius.pl
+0.0.0.0 gcd.mmstat.com
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gdc.indeed.com
 0.0.0.0 gde-default.hit.gemius.pl
@@ -1679,6 +1689,7 @@
 0.0.0.0 get.cryptobrowser.site
 0.0.0.0 get.mirando.de
 0.0.0.0 getrockerbox.com
+0.0.0.0 get.s-onetag.com
 0.0.0.0 g.ezoic.net
 0.0.0.0 gg.google.com
 0.0.0.0 gift-connect-d.openx.net
@@ -2132,6 +2143,7 @@
 0.0.0.0 match.adsrvr.org
 0.0.0.0 match.basebanner.com
 0.0.0.0 match.bnmla.com
+0.0.0.0 match-eu-central-1.sharethrough.com
 0.0.0.0 match.prod.bidr.io
 0.0.0.0 match.rundsp.com
 0.0.0.0 match.sharethrough.com
@@ -2184,6 +2196,7 @@
 0.0.0.0 metrics-api.librato.com
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
+0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
@@ -2308,6 +2321,7 @@
 0.0.0.0 oascentral.consumerreports.org
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 odb.outbrain.com
+0.0.0.0 odr.mookie1.com
 0.0.0.0 offer.alibaba.com
 0.0.0.0 office-loesung.de.intellitxt.com
 0.0.0.0 ohcohz.stroeerdp.de
@@ -2894,6 +2908,7 @@
 0.0.0.0 silktide.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simage4.pubmatic.com
+0.0.0.0 s-img.mgid.com
 0.0.0.0 simonsignal.com
 0.0.0.0 sin.creativecdn.com
 0.0.0.0 s.infogram.com
@@ -3058,6 +3073,7 @@
 0.0.0.0 static.plista.com
 0.0.0.0 static.segment.com
 0.0.0.0 static.site24x7rum.com
+0.0.0.0 static.smi2.net
 0.0.0.0 statics.streamable.com
 0.0.0.0 static.vertamedia.com
 0.0.0.0 static.verticalscope.com
@@ -3083,6 +3099,7 @@
 0.0.0.0 stats.computecmedia.de
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 statsfe2.ws.microsoft.com
+0.0.0.0 statsf-tm.everesttech.net
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.kaltura.com
@@ -3149,6 +3166,7 @@
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 svastx.moatads.com
 0.0.0.0 s.vertamedia.com
+0.0.0.0 svk-native.ru
 0.0.0.0 swa.and.co.uk
 0.0.0.0 swa.metro.co.uk
 0.0.0.0 swisscom.demdex.net
@@ -3288,6 +3306,7 @@
 0.0.0.0 t.gammaplatform.com
 0.0.0.0 tg.socdm.com
 0.0.0.0 tharbadir.com
+0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 t.hoood.info
 0.0.0.0 thor.rtk.io
@@ -3478,6 +3497,7 @@
 0.0.0.0 uobsoe.com
 0.0.0.0 uop.umeng.com
 0.0.0.0 up.cm.ksmobile.com
+0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 ups.demdex.net
 0.0.0.0 ups.inq.com
 0.0.0.0 ups.ksmobile.net
@@ -3663,6 +3683,7 @@
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 w.sharethis.com
 0.0.0.0 ws.ksmobile.net
+0.0.0.0 ws.mmstat.com
 0.0.0.0 ws-na.amazon-adsystem.com
 0.0.0.0 ws.pusherapp.com
 0.0.0.0 ws.sharethis.com
@@ -3729,6 +3750,7 @@
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.blogads.de
 0.0.0.0 www.breakingnews.ie
+0.0.0.0 www.browser-statistik.de
 0.0.0.0 www.ccleaner.com
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clicktripz.com
