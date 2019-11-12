@@ -257,6 +257,7 @@
 0.0.0.0 ads.e-webtrack.net
 0.0.0.0 ads.eyeonx.ch
 0.0.0.0 ads.flurry.com
+0.0.0.0 ads.freeskreen.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
 0.0.0.0 ads.golem.de
 0.0.0.0 ads.google.com
@@ -606,6 +607,7 @@
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
 0.0.0.0 ase.clmbtech.com
+0.0.0.0 asf-tm.everesttech.net
 0.0.0.0 ash.creativecdn.com
 0.0.0.0 asia.creativecdn.com
 0.0.0.0 ask-d.openx.net
@@ -719,6 +721,7 @@
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacon.shazam.com
 0.0.0.0 beacon.sojern.com
+0.0.0.0 beacon.s-onetag.com
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 beacon-us-west.rubiconproject.com
@@ -1677,6 +1680,7 @@
 0.0.0.0 geni.us
 0.0.0.0 geo2.adobe.com
 0.0.0.0 geoapi.indiatimes.com
+0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geoip-db.com
@@ -2307,6 +2311,7 @@
 0.0.0.0 nfl.demdex.net
 0.0.0.0 nfl.hb.omtrdc.net
 0.0.0.0 nfoo-server.com
+0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 ninegag-d.openx.net
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ninja.onap.io
@@ -2650,6 +2655,7 @@
 0.0.0.0 rcm-na.amazon-adsystem.com
 0.0.0.0 rcom.dynamicyield.com
 0.0.0.0 rcom-eu.dynamicyield.com
+0.0.0.0 rcom-euw1.dynamicyield.com
 0.0.0.0 rcp.c.appier.net
 0.0.0.0 rc.rlcdn.com
 0.0.0.0 rdi.eu.criteo.com
@@ -2750,6 +2756,7 @@
 0.0.0.0 rules.atgsvcs.com
 0.0.0.0 rules.quantcount.com
 0.0.0.0 rum-collector-2.pingdom.net
+0.0.0.0 rumcollector.teslamotors.com
 0.0.0.0 rum.logsss.com
 0.0.0.0 rum.monitis.com
 0.0.0.0 rum-static.pingdom.net
@@ -3079,6 +3086,7 @@
 0.0.0.0 static.emsservice.de
 0.0.0.0 static.etracker.com
 0.0.0.0 static.eu.criteo.net
+0.0.0.0 static-euw1.dynamicyield.com
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.exosrv.com
 0.0.0.0 static.fmpub.net
@@ -3089,6 +3097,7 @@
 0.0.0.0 static.imrworldwide.com
 0.0.0.0 static.inq.com
 0.0.0.0 static.kameleoon.com
+0.0.0.0 static-lon1.dynamicyield.com
 0.0.0.0 static.mackeeper.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
