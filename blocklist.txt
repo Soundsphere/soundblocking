@@ -1164,6 +1164,7 @@
 0.0.0.0 creative.prf.hn
 0.0.0.0 credit-agricole.fr
 0.0.0.0 criteo-sync.teads.tv
+0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crunchmind-d.openx.net
 0.0.0.0 cs1137.wpc.gammacdn.net
 0.0.0.0 cs11.wpc.v0cdn.net
@@ -1611,6 +1612,7 @@
 0.0.0.0 feed.engage.im
 0.0.0.0 feed.mikle.com
 0.0.0.0 fei.pro-market.net
+0.0.0.0 fff.dailymail.co.uk
 0.0.0.0 fh.under9.co
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 find.api.micloud.xiaomi.net
@@ -3169,6 +3171,7 @@
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 stiffstem.com
 0.0.0.0 st-n.ads1-adnow.com
+0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 st.polyad.net
 0.0.0.0 s.tradingview.com
@@ -3319,6 +3322,7 @@
 0.0.0.0 technical-service.net
 0.0.0.0 technorati.com
 0.0.0.0 t.eclick.vn
+0.0.0.0 ted.dailymail.co.uk
 0.0.0.0 telecommand.telemetry.microsoft.com
 0.0.0.0 telegraph.grapeshot.co.uk
 0.0.0.0 telegraphmediagroup.d3.sc.omtrdc.net
