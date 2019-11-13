@@ -827,6 +827,7 @@
 0.0.0.0 cdata.carambo.la
 0.0.0.0 cd.connatix.com
 0.0.0.0 cdn11.contentabc.com
+0.0.0.0 cdn15.acloudimages.com
 0.0.0.0 cdn1.ads.contentabc.com
 0.0.0.0 cdn1.inner-active.mobi
 0.0.0.0 cdn1.smartadserver.com
@@ -2026,6 +2027,7 @@
 0.0.0.0 lenovo.demdex.net
 0.0.0.0 lenovo.tt.omtrdc.net
 0.0.0.0 lexip.4pcdn.de
+0.0.0.0 lg1.logging.admicro.vn
 0.0.0.0 lg3.media.net
 0.0.0.0 lgncal.media.net
 0.0.0.0 librato-collector.genius.com
