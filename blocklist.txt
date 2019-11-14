@@ -1315,6 +1315,7 @@
 0.0.0.0 data39.adlooxtracking.com
 0.0.0.0 data53.adlooxtracking.com
 0.0.0.0 data55.adlooxtracking.com
+0.0.0.0 data56.adlooxtracking.com
 0.0.0.0 data57.adlooxtracking.com
 0.0.0.0 data58.adlooxtracking.com
 0.0.0.0 data60.adlooxtracking.com
