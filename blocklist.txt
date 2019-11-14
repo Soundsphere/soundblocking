@@ -103,6 +103,7 @@
 0.0.0.0 a.adtng.com
 0.0.0.0 a-ams.1rx.io
 0.0.0.0 aan.amazon.com
+0.0.0.0 a.ants.vn
 0.0.0.0 a.applovin.com
 0.0.0.0 a.applvn.com
 0.0.0.0 a.audrte.com
@@ -1208,6 +1209,7 @@
 0.0.0.0 cxt.deutsche-bank.de
 0.0.0.0 cyberport.d3.sc.omtrdc.net
 0.0.0.0 cyberport.tt.omtrdc.net
+0.0.0.0 cyseal.cyveillance.com
 0.0.0.0 d10lpsik1i8c69.cloudfront.net
 0.0.0.0 d12ulf131zb0yj.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
@@ -1873,6 +1875,7 @@
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.mediaplex.com.edgesuite.net
 0.0.0.0 img.metaffiliation.com
+0.0.0.0 img.pulsemgr.com
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.sedoparking.com
@@ -3702,6 +3705,7 @@
 0.0.0.0 widget.perfectmarket.com
 0.0.0.0 widget.privy.com
 0.0.0.0 widgets.amung.us
+0.0.0.0 widgets.fie-data.co.uk
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
 0.0.0.0 widget.us.criteo.com
