@@ -399,6 +399,7 @@
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.archive.org
+0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.businessinsider.com
 0.0.0.0 analytics.carambo.la
 0.0.0.0 analytics.ccs.mcafee.com
@@ -834,6 +835,7 @@
 0.0.0.0 cdn1.inner-active.mobi
 0.0.0.0 cdn1.smartadserver.com
 0.0.0.0 cdn1.stickyadstv.com
+0.0.0.0 cdn.2app.lk
 0.0.0.0 cdn2.hubspot.net
 0.0.0.0 cdn2.inner-active.mobi
 0.0.0.0 cdn2.teads.tv
@@ -2923,6 +2925,7 @@
 0.0.0.0 services.serving-sys.com
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 servt.playbuzz.co
+0.0.0.0 sessionapi.veinteractive.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 session.timecommerce.net
 0.0.0.0 setting.rayjump.com
