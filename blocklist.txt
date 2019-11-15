@@ -766,6 +766,7 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 browser-update.org
 0.0.0.0 b.scorecardresearch.com
+0.0.0.0 b.sharethrough.com
 0.0.0.0 b.siftscience.com
 0.0.0.0 bskyb.demdex.net
 0.0.0.0 b.smartnews.be
@@ -811,6 +812,7 @@
 0.0.0.0 casale-match.dotomi.com
 0.0.0.0 cascade.madmimi.com
 0.0.0.0 cas.criteo.com
+0.0.0.0 cat.criteo.com
 0.0.0.0 cat.fr.eu.criteo.com
 0.0.0.0 cat.nl.eu.criteo.com
 0.0.0.0 ca.video-cdn.net
@@ -1286,6 +1288,7 @@
 0.0.0.0 data06.adlooxtracking.com
 0.0.0.0 data07.adlooxtracking.com
 0.0.0.0 data08.adlooxtracking.com
+0.0.0.0 data09.adlooxtracking.com
 0.0.0.0 data10.adlooxtracking.com
 0.0.0.0 data11.adlooxtracking.com
 0.0.0.0 data12.adlooxtracking.com
@@ -1777,6 +1780,7 @@
 0.0.0.0 handelsblatt01.webtrekk.net
 0.0.0.0 happyfoxchat.com
 0.0.0.0 hawk.pcgamer.com
+0.0.0.0 hb.adtelligent.com
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hb.emxdgt.com
 0.0.0.0 hbevents.1rx.io
@@ -2139,6 +2143,7 @@
 0.0.0.0 mads-eu.amazon.com
 0.0.0.0 m.adtiming.com
 0.0.0.0 mahimeta.com
+0.0.0.0 mail-ads.google.com
 0.0.0.0 mailchimp.com
 0.0.0.0 mailderef.web.de
 0.0.0.0 mailfoogae.appspot.com
@@ -2900,6 +2905,7 @@
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 segment-pixel.invitemedia.com
 0.0.0.0 segments.company-target.com
+0.0.0.0 seg.sharethis.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 semantiqo.com
@@ -3116,6 +3122,7 @@
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
 0.0.0.0 static.segment.com
+0.0.0.0 static.sharethrough.com
 0.0.0.0 static.site24x7rum.com
 0.0.0.0 static.smi2.net
 0.0.0.0 statics.streamable.com
