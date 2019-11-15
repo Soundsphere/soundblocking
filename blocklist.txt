@@ -1816,6 +1816,7 @@
 0.0.0.0 h.online-metrix.net
 0.0.0.0 horizon.sailthru.com
 0.0.0.0 hospitality-optimizer.com
+0.0.0.0 hp.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 hp.myway.com
 0.0.0.0 hpsupport.qualtrics.com
 0.0.0.0 htlbid.com
@@ -3268,6 +3269,7 @@
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 s.youtube.com
+0.0.0.0 s.zkcdn.net
 0.0.0.0 t13.intelliad.de
 0.0.0.0 t23.intelliad.de
 0.0.0.0 t4ft.de
