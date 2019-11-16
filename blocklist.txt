@@ -415,6 +415,7 @@
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.google.com
+0.0.0.0 analytics.headerbiddr.net
 0.0.0.0 analytics.hindustantimes.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -2598,6 +2599,7 @@
 0.0.0.0 p.skimresources.com
 0.0.0.0 p.smartertravel.com
 0.0.0.0 ps.ns-cdn.com
+0.0.0.0 ps-us.amazon-adsystem.com
 0.0.0.0 p.t.dps-reach.com
 0.0.0.0 p.teads.tv
 0.0.0.0 pt.ispot.tv
@@ -3079,6 +3081,7 @@
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.dealtime.com
 0.0.0.0 stat.flashtalking.com
+0.0.0.0 static1.squarespace.com
 0.0.0.0 static4.smi2.net
 0.0.0.0 static5.smi2.net
 0.0.0.0 static6.smi2.net
