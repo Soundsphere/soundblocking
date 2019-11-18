@@ -4322,6 +4322,7 @@
 0.0.0.0 asecurityview.com
 0.0.0.0 aserunhferuinjansedunkans.com
 0.0.0.0 asexvideo.com
+0.0.0.0 asf-tm.everesttech.net
 0.0.0.0 as.gettyservices.com
 0.0.0.0 ashaaudio.net
 0.0.0.0 ashaimarineintl.com
@@ -20443,6 +20444,7 @@
 0.0.0.0 onestoponlineshop.net
 0.0.0.0 onestopsoft.com
 0.0.0.0 onetag-geo-grouping.s-onetag.com
+0.0.0.0 onetag-geo.s-onetag.com
 0.0.0.0 onetag-sys.com
 0.0.0.0 onetimmaoasiz.web.app
 0.0.0.0 onevisualpb.com.br
@@ -21326,6 +21328,7 @@
 0.0.0.0 perfectseeker.com
 0.0.0.0 perfectsjob.com
 0.0.0.0 perfect-uninstall.com
+0.0.0.0 perf.gds.mmstat.com
 0.0.0.0 perfiliate.com
 0.0.0.0 perf.logsss.com
 0.0.0.0 perf.mmstat.com
@@ -26921,6 +26924,7 @@
 0.0.0.0 stats.cts-bv.nl
 0.0.0.0 stats.directnic.com
 0.0.0.0 statsd.zmags.com
+0.0.0.0 stats.ebuckler.com
 0.0.0.0 stats.esomniture.com
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 statsfe2.ws.microsoft.com
@@ -30680,6 +30684,7 @@
 0.0.0.0 widget.criteo.com
 0.0.0.0 widgetdata.tradingview.com
 0.0.0.0 widget.eu.criteo.com
+0.0.0.0 widget.fitanalytics.com
 0.0.0.0 widget.fr.eu.criteo.com
 0.0.0.0 widget.marktjagd.de
 0.0.0.0 widgetmonitor.outbrain.com
