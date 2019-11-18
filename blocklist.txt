@@ -1739,6 +1739,7 @@
 0.0.0.0 ads03.redtube.com
 0.0.0.0 ads10.speedbit.com
 0.0.0.0 ads180.com
+0.0.0.0 ads18.adtelligent.com
 0.0.0.0 ads18.vertamedia.com
 0.0.0.0 ads19.vertamedia.com
 0.0.0.0 ads1.canoe.ca
@@ -8479,6 +8480,7 @@
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ct.sddan.com
 0.0.0.0 ct.sexadnet.com
+0.0.0.0 cts.tradepub.com
 0.0.0.0 ctt.ec
 0.0.0.0 ctvsmokinggun.112.2o7.net
 0.0.0.0 ctxads.softure.com
@@ -8875,6 +8877,7 @@
 0.0.0.0 data68.adlooxtracking.com
 0.0.0.0 data.adsrvr.org
 0.0.0.0 data.alexa.com
+0.0.0.0 data.api.cnn.io
 0.0.0.0 data.appexnw.com
 0.0.0.0 data.as-eu.falkag.net
 0.0.0.0 data.as-us.falkag.net
@@ -11923,6 +11926,7 @@
 0.0.0.0 fiona.ai.net
 0.0.0.0 firatinsaat.com
 0.0.0.0 fireballftp.com
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebirdbanding.com
 0.0.0.0 firebucks.com
 0.0.0.0 fire-codec.net
@@ -13754,6 +13758,7 @@
 0.0.0.0 hackernuker.com
 0.0.0.0 hackru.net.ru
 0.0.0.0 hack-syndicate.org
+0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 hade.com.cn
 0.0.0.0 hafalimited.com
 0.0.0.0 hagnenbyggkonsult.se
@@ -17549,6 +17554,7 @@
 0.0.0.0 mail333.com
 0.0.0.0 mail.a24assistance.rs
 0.0.0.0 mail.administracionganadera.cl
+0.0.0.0 mail-ads.google.com
 0.0.0.0 mail.aelanidigital.com
 0.0.0.0 mail.afirehorse.com
 0.0.0.0 mail.alnaharsteel.com
@@ -22211,6 +22217,7 @@
 0.0.0.0 pr-corp.com
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 preach.ro
+0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 preamp.us
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid-a.rubiconproject.com
@@ -22227,6 +22234,7 @@
 0.0.0.0 precisionpop.com
 0.0.0.0 precoetabela.com
 0.0.0.0 predictad.com
+0.0.0.0 predictivdisplay.com
 0.0.0.0 predictivesearch.com
 0.0.0.0 predmety.in.ua
 0.0.0.0 prefabbricatipanozzo.it
@@ -23916,6 +23924,7 @@
 0.0.0.0 s1184.t.eloqua.com
 0.0.0.0 s11.flagcounter.com
 0.0.0.0 s12ds2.ewizard.cc
+0.0.0.0 s1.2mdn.net
 0.0.0.0 s1325.t.eloqua.com
 0.0.0.0 s13.dupx.cc
 0.0.0.0 s13.topx.cc
@@ -27004,6 +27013,7 @@
 0.0.0.0 sterva.com
 0.0.0.0 stetic.com
 0.0.0.0 stetmail.com
+0.0.0.0 st-eu.dynamicyield.com
 0.0.0.0 st-euw1.dynamicyield.com
 0.0.0.0 stevecashdollar.com
 0.0.0.0 steve-vale.com
@@ -27197,6 +27207,7 @@
 0.0.0.0 supaseek.com
 0.0.0.0 supashuri.com
 0.0.0.0 s.update.adsrvr.org
+0.0.0.0 s.update.fbsbx.com
 0.0.0.0 s.update.indexww.com
 0.0.0.0 s.update.rubiconproject.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
@@ -29035,6 +29046,7 @@
 0.0.0.0 trixscripts.com
 0.0.0.0 tri-z.com
 0.0.0.0 trk.connatix.com
+0.0.0.0 trk.email.dynect.net
 0.0.0.0 trker1.azalead.com
 0.0.0.0 trk.freepik.com
 0.0.0.0 trk.helios.ligatus.com
@@ -29170,6 +29182,7 @@
 0.0.0.0 tuningdom.ru
 0.0.0.0 tunnl.com
 0.0.0.0 tupataleta.com
+0.0.0.0 t.update.fbsbx.com
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 turbinemaham.com
 0.0.0.0 turboconnect.org
