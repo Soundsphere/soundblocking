@@ -75,6 +75,7 @@
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3290.casalemedia.com
 0.0.0.0 a3291.casalemedia.com
+0.0.0.0 a3301.casalemedia.com
 0.0.0.0 a3310.casalemedia.com
 0.0.0.0 a3320.casalemedia.com
 0.0.0.0 a3321.casalemedia.com
@@ -1628,6 +1629,7 @@
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fireads.online
+0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 flaconi02.webtrekk.net
 0.0.0.0 flapi1.rubiconproject.com
@@ -2566,6 +2568,7 @@
 0.0.0.0 prebid-server.rubiconproject.com
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 prebid.technoratimedia.com
+0.0.0.0 predictivdisplay.com
 0.0.0.0 preferences-mgr.truste.com
 0.0.0.0 prefix.hit.gemius.pl
 0.0.0.0 prf.hn
@@ -2790,6 +2793,7 @@
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s0.wp.com
 0.0.0.0 s10.histats.com
+0.0.0.0 s1.2mdn.net
 0.0.0.0 s1325.t.eloqua.com
 0.0.0.0 s1.adform.net
 0.0.0.0 s1.listrakbi.com
@@ -3469,6 +3473,7 @@
 0.0.0.0 tracking.taboola.com
 0.0.0.0 tracking.wisepops.com
 0.0.0.0 tracking.ws.eurosport.com
+0.0.0.0 trackla.stackla.com
 0.0.0.0 track.linksynergy.com
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mopo.de
@@ -3500,6 +3505,7 @@
 0.0.0.0 triggeredmail.appspot.com
 0.0.0.0 trivago.partner.intentmedia.net
 0.0.0.0 trk.connatix.com
+0.0.0.0 trk.email.dynect.net
 0.0.0.0 trker1.azalead.com
 0.0.0.0 trk.kissmetrics.com
 0.0.0.0 trk.klclick.com
@@ -3523,6 +3529,7 @@
 0.0.0.0 t.teads.tv
 0.0.0.0 tt.onthe.io
 0.0.0.0 t.trafmag.com
+0.0.0.0 t.update.fbsbx.com
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 t.wayfair.com
