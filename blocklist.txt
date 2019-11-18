@@ -210,6 +210,7 @@
 0.0.0.0 ad.outstream.today
 0.0.0.0 a.dpmsrv.com
 0.0.0.0 adquality.ch
+0.0.0.0 ads18.adtelligent.com
 0.0.0.0 ads18.vertamedia.com
 0.0.0.0 ads19.vertamedia.com
 0.0.0.0 ads2.servebom.com
@@ -543,6 +544,7 @@
 0.0.0.0 ap.lijit.com
 0.0.0.0 apn-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 apnx-match.dotomi.com
+0.0.0.0 a.postrelease.com
 0.0.0.0 app2.salesmanago.pl
 0.0.0.0 app4.kromtech.net
 0.0.0.0 app-ab01.marketo.com
@@ -3216,6 +3218,7 @@
 0.0.0.0 subpixel.4players.de
 0.0.0.0 sumo.com
 0.0.0.0 s.update.adsrvr.org
+0.0.0.0 s.update.fbsbx.com
 0.0.0.0 s.update.indexww.com
 0.0.0.0 s.update.rubiconproject.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
@@ -3838,6 +3841,7 @@
 0.0.0.0 www.etracker.com
 0.0.0.0 www.etracker.de
 0.0.0.0 www.everestjs.net
+0.0.0.0 www.ezoic.com
 0.0.0.0 www.facebook.com
 0.0.0.0 www.facebook.net
 0.0.0.0 www.fasthosts.co.uk
