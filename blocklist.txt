@@ -12936,6 +12936,7 @@
 0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geobytes.com
+0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
 0.0.0.0 geo.deepmetrix.com
 0.0.0.0 geo.digitalpoint.com
@@ -17161,6 +17162,7 @@
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logliberation.xiti.com
+0.0.0.0 log.mediacategory.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.musical.ly
 0.0.0.0 logo.affiliatebot.com
@@ -19756,6 +19758,7 @@
 0.0.0.0 ngc1976.net
 0.0.0.0 ngd.thesun.co.uk
 0.0.0.0 ngimmigration.com
+0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
 0.0.0.0 n-glx.s-redirect.com
 0.0.0.0 ngoisaoanbinh.com
 0.0.0.0 ngs.impress.co.jp
@@ -24426,6 +24429,7 @@
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 scripts.kiosked.com
 0.0.0.0 scripts.kissmetrics.com
+0.0.0.0 scripts.mediavine.com
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scripts.snowball.com
 0.0.0.0 scripts.sophus3.com
