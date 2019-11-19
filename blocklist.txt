@@ -507,6 +507,7 @@
 0.0.0.0 api.monetizer101.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
+0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.optmnstr.com
 0.0.0.0 api.parsely.com
 0.0.0.0 api.petametrics.com
@@ -649,6 +650,7 @@
 0.0.0.0 aswpapius.com
 0.0.0.0 aswpsdkus.com
 0.0.0.0 async-px.dynamicyield.com
+0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 a.teads.tv
 0.0.0.0 atemda.com
 0.0.0.0 atonato.de
@@ -2377,6 +2379,7 @@
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
+0.0.0.0 oneid.mmstat.com
 0.0.0.0 onesignal.com
 0.0.0.0 onetag-geo-grouping.s-onetag.com
 0.0.0.0 onetag-geo.s-onetag.com
@@ -3251,6 +3254,7 @@
 0.0.0.0 sync.aralego.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.clickonometrics.pl
+0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync-eu.connectad.io
 0.0.0.0 sync.extend.tv
@@ -3375,6 +3379,7 @@
 0.0.0.0 tetu.com
 0.0.0.0 t.gammaplatform.com
 0.0.0.0 tg.socdm.com
+0.0.0.0 thaliade02.webtrekk.net
 0.0.0.0 tharbadir.com
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thisiswaldo.com
@@ -3691,6 +3696,7 @@
 0.0.0.0 vuukle-analytics.appspot.com
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 warnerbros.112.2o7.net
+0.0.0.0 washingtonpost.com.102.112.2o7.net
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 waust.at
@@ -3774,6 +3780,7 @@
 0.0.0.0 ww50.smartadserver.com
 0.0.0.0 ww691.smartadserver.com
 0.0.0.0 www14.smartadserver.com
+0.0.0.0 www15.smartadserver.com
 0.0.0.0 www1.belboon.de
 0.0.0.0 www1.mpnrs.com
 0.0.0.0 www2.glam.com
