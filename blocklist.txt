@@ -2100,6 +2100,7 @@
 0.0.0.0 logitechlogitechglobal.112.2o7.net
 0.0.0.0 loglady.skypicker.com
 0.0.0.0 logliberation.xiti.com
+0.0.0.0 log.mediacategory.com
 0.0.0.0 log.mmstat.com
 0.0.0.0 log.olark.com
 0.0.0.0 log.outbrain.com
