@@ -3886,6 +3886,7 @@
 0.0.0.0 api.monetizer101.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
+0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.nextgen.guardianapps.co.uk
 0.0.0.0 api.optmnstr.com
 0.0.0.0 api.parsely.com
@@ -4444,6 +4445,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 asy.a8ww.net
 0.0.0.0 async-px.dynamicyield.com
+0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 atabey.k12.tr
 0.0.0.0 at-adserver.alltop.com
 0.0.0.0 atbpro.com
@@ -6147,6 +6149,7 @@
 0.0.0.0 bsearch.biz
 0.0.0.0 bsek5.ggsddup.com
 0.0.0.0 bsell.ru
+0.0.0.0 b.sharethrough.com
 0.0.0.0 b.siftscience.com
 0.0.0.0 bskyb.demdex.net
 0.0.0.0 b.sli-spark.com
@@ -13380,6 +13383,7 @@
 0.0.0.0 gomdaviet.vn
 0.0.0.0 gomelnaushnik.com
 0.0.0.0 go.mercatoradvisorygroup.com
+0.0.0.0 go.mmstat.com
 0.0.0.0 go-modaru.21.com1.ru
 0.0.0.0 go.monetizer.club
 0.0.0.0 gomsunganhang.com
@@ -20431,6 +20435,7 @@
 0.0.0.0 onedrvebx.xyz
 0.0.0.0 onefd.edu.dz.forexwinz.com
 0.0.0.0 oneharboursidedrive.com
+0.0.0.0 oneid.mmstat.com
 0.0.0.0 oneliker.com
 0.0.0.0 onelinebazar.com
 0.0.0.0 onemoresearch.net
@@ -22801,6 +22806,7 @@
 0.0.0.0 px.ads.linkedin.com
 0.0.0.0 pxc-coding.com
 0.0.0.0 pxciiruurw.cn
+0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 pxc.otto.de
 0.0.0.0 px.dynamicyield.com
 0.0.0.0 px-eu.adhigh.net
@@ -27419,6 +27425,7 @@
 0.0.0.0 sync.audtd.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.clickonometrics.pl
+0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync-eu.connectad.io
 0.0.0.0 sync.extend.tv
@@ -31119,6 +31126,7 @@
 0.0.0.0 www.13658bet.com
 0.0.0.0 www14.hotlog.ru
 0.0.0.0 www14.smartadserver.com
+0.0.0.0 www15.smartadserver.com
 0.0.0.0 www15.sua-semana-do-consumidor-esta-acabando.com
 0.0.0.0 www.1605hesterglobbrought.com
 0.0.0.0 www16.megacupomon2019.com
