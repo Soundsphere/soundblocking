@@ -8189,6 +8189,7 @@
 0.0.0.0 counters.vendio.com
 0.0.0.0 counter.theconversation.edu.au
 0.0.0.0 counter.top.ge
+0.0.0.0 counter.ukr.net
 0.0.0.0 counter.w3open.com
 0.0.0.0 counter.webmart.de
 0.0.0.0 counter.yadro.ru
@@ -9570,6 +9571,7 @@
 0.0.0.0 dl.twitchdl.com
 0.0.0.0 dlv4.com
 0.0.0.0 dlvr.it
+0.0.0.0 dlvr.t-online.de
 0.0.0.0 dl.web-nexus.net
 0.0.0.0 dl.woyo8g.com
 0.0.0.0 dl.yadio.com
@@ -12898,6 +12900,7 @@
 0.0.0.0 gdeua.hit.gemius.pl
 0.0.0.0 gdfcnt.info
 0.0.0.0 gdri.si
+0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 geads.us.publicus.com
 0.0.0.0 gearcraft.us
 0.0.0.0 gearsadspromo.club
@@ -13621,6 +13624,7 @@
 0.0.0.0 grigann.cn
 0.0.0.0 grindr2-d.openx.net
 0.0.0.0 grinta-page.com
+0.0.0.0 gr.linkwi.se
 0.0.0.0 grmtech.net
 0.0.0.0 grodno-online.com
 0.0.0.0 gronecert.com
@@ -17450,6 +17454,7 @@
 0.0.0.0 m1.webstats4u.com
 0.0.0.0 m2.2mdn.net
 0.0.0.0 m2d.m2.ai
+0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m.2mdn.net
 0.0.0.0 m32.media
 0.0.0.0 m3.abnad.net
@@ -21593,6 +21598,7 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel.bild.de
 0.0.0.0 pixelbox.uimserv.net
@@ -24455,6 +24461,7 @@
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdk-events.inner-active.mobi
 0.0.0.0 sdk.hockeyapp.net
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-03.braze.com
