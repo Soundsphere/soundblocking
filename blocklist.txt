@@ -1653,6 +1653,7 @@
 0.0.0.0 fls-eu.amazon.de
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
+0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net
 0.0.0.0 f.monetate.net
 0.0.0.0 fo-api.omnitagjs.com
 0.0.0.0 forbes.media.net
@@ -1840,6 +1841,7 @@
 0.0.0.0 ht.redtube.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 ht.youporn.com
+0.0.0.0 hubtraffic.com
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 iadsdk.apple.com
@@ -2466,6 +2468,7 @@
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 pingback.giphy.com
+0.0.0.0 pingback.issuu.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping-dot-acp-magento.appspot.com
 0.0.0.0 ping.getadblock.com
