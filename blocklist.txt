@@ -121,6 +121,7 @@
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abrtp1-cdn.marketo.com
 0.0.0.0 abrtp1.marketo.com
+0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 accounts.doubleclick.net
 0.0.0.0 accounts.eu1.gigya.com
 0.0.0.0 acdn.adnxs.com
@@ -1099,6 +1100,7 @@
 0.0.0.0 collector-px3vk96i6i.perimeterx.net
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
+0.0.0.0 collector-pxk6s8okp3.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
 0.0.0.0 collector-pxrf8vapwa.perimeterx.net
 0.0.0.0 collector-pxrw7m6iav.perimeterx.net
