@@ -362,6 +362,7 @@
 0.0.0.0 aktrack.pubmatic.com
 0.0.0.0 alb.reddit.com
 0.0.0.0 a.ligatus.com
+0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 alocdn.com
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alog.umeng.co
@@ -485,6 +486,7 @@
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
+0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.gameanalytics.com
@@ -792,6 +794,7 @@
 0.0.0.0 businessclick.ch
 0.0.0.0 by.uservoice.com
 0.0.0.0 c00.adobe.com
+0.0.0.0 c14.statcounter.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.rfihub.net
@@ -1833,6 +1836,7 @@
 0.0.0.0 ht.redtube.com
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 ht.youporn.com
+0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
@@ -2041,6 +2045,7 @@
 0.0.0.0 l96jc26jvj.kameleoon.eu
 0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 laas.americanexpress.com
+0.0.0.0 lasteventf-tm.everesttech.net
 0.0.0.0 launchpoint.marketo.com
 0.0.0.0 lb.apicit.net
 0.0.0.0 l.betrad.com
@@ -2139,6 +2144,7 @@
 0.0.0.0 lynxbroker.de
 0.0.0.0 lyr122000c.pubmatic.com
 0.0.0.0 m2d.m2.ai
+0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m.9gag.com
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 ma728-r.analytics.edgekey.net
@@ -2242,6 +2248,7 @@
 0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics-config.icloud.com
 0.0.0.0 metrics.fitanalytics.com
+0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
@@ -2876,6 +2883,7 @@
 0.0.0.0 sdk.beeketing.com
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
+0.0.0.0 sdk-events.inner-active.mobi
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk-ios.ad.smaato.net
@@ -3945,6 +3953,7 @@
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 x.fidelity-media.com
 0.0.0.0 x.ligatus.com
+0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xl-trk.com
 0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.blueparrot.media
