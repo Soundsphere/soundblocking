@@ -18366,6 +18366,7 @@
 0.0.0.0 metrics.corus.ca
 0.0.0.0 metricsdirect.com
 0.0.0.0 metrics.fitanalytics.com
+0.0.0.0 metrics.foxnews.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
@@ -25988,6 +25989,7 @@
 0.0.0.0 smetrics.aem.playstation.com
 0.0.0.0 smetrics.cnn.com
 0.0.0.0 smetrics.delta.com
+0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.marriott.com
 0.0.0.0 smetrics.mcafee.com
 0.0.0.0 smetrics.payback.de
