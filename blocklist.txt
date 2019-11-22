@@ -3031,6 +3031,7 @@
 0.0.0.0 alinabaniecka.pl
 0.0.0.0 alineonline.com
 0.0.0.0 alirezaamoon.ir
+0.0.0.0 ali-stats.jpush.cn
 0.0.0.0 aliteringenieria.mx
 0.0.0.0 alivegirls.com
 0.0.0.0 aliwirewire.com
@@ -3864,6 +3865,7 @@
 0.0.0.0 api.cortana.ai
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
+0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.gameanalytics.com
@@ -6338,6 +6340,7 @@
 0.0.0.0 c0.amazingcounters.com
 0.0.0.0 c0mo.com
 0.0.0.0 c10-ad-xw1.cnet.com
+0.0.0.0 c14.statcounter.com
 0.0.0.0 c1.adform.net
 0.0.0.0 c1.amazingcounters.com
 0.0.0.0 c1.homelevel.in
@@ -11143,6 +11146,7 @@
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eugeniosmfleiloes.com
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
+0.0.0.0 eu.groupondata.com
 0.0.0.0 eu-lon02.marketo.com
 0.0.0.0 eunigames.com
 0.0.0.0 euniverseads.com
@@ -11597,6 +11601,7 @@
 0.0.0.0 fastlearningforex.com
 0.0.0.0 fastlineonline.com
 0.0.0.0 fast-look.com
+0.0.0.0 fastly.evergage.com
 0.0.0.0 fast.marriottinternationa.demdex.net
 0.0.0.0 fastmediaservice.com
 0.0.0.0 fastmp3player.com
@@ -16620,6 +16625,7 @@
 0.0.0.0 lasertec-mi.com
 0.0.0.0 lass.gov.la
 0.0.0.0 lassolinks.com
+0.0.0.0 lasteventf-tm.everesttech.net
 0.0.0.0 last.freesexyhouse.com
 0.0.0.0 lastfriday.biz
 0.0.0.0 last-softwares.com
@@ -25924,6 +25930,7 @@
 0.0.0.0 smalllols.info
 0.0.0.0 smallnsexy.com
 0.0.0.0 smallphantom.meibu.com
+0.0.0.0 smallseotools.com
 0.0.0.0 smalltool.net
 0.0.0.0 sman1majenang.sch.id
 0.0.0.0 sma.punto.net
@@ -34740,6 +34747,7 @@
 0.0.0.0 xll-g.com
 0.0.0.0 xlocator.com
 0.0.0.0 xlog-va.byteoversea.com
+0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xlola.org
 0.0.0.0 xlolitas.biz
 0.0.0.0 xlsites.net
