@@ -1039,6 +1039,7 @@
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clickserve.dartsearch.net
 0.0.0.0 clicktotweet.com
+0.0.0.0 click.udimg.com
 0.0.0.0 click.virt.exacttarget.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client.a.pxi.pub
@@ -1656,6 +1657,7 @@
 0.0.0.0 forms.gle
 0.0.0.0 forms.ontraport.com
 0.0.0.0 forwrdnow.com
+0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 fp.msedge.net
 0.0.0.0 fptadtrue-d.openx.net
 0.0.0.0 fqtag.com
