@@ -3781,6 +3781,7 @@
 0.0.0.0 antt.co.in
 0.0.0.0 antyflu.net
 0.0.0.0 antyspywaressite.com
+0.0.0.0 antyweb.push-ad.com
 0.0.0.0 antz.co.in
 0.0.0.0 anunah.com
 0.0.0.0 anvietpro.com
@@ -8384,6 +8385,7 @@
 0.0.0.0 criticalinternet.com
 0.0.0.0 criticer.se
 0.0.0.0 crittercism.com
+0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 crm.arkof5.com
 0.0.0.0 crm.carsinia.com
 0.0.0.0 crm.datacheck.it
@@ -12909,6 +12911,7 @@
 0.0.0.0 geads.us.publicus.com
 0.0.0.0 gearcraft.us
 0.0.0.0 gearsadspromo.club
+0.0.0.0 gearwom.de
 0.0.0.0 gebr-wachs.de
 0.0.0.0 g.eclick.vn
 0.0.0.0 geekygames.com
@@ -25955,6 +25958,7 @@
 0.0.0.0 smarticon.geotrust.com
 0.0.0.0 smartjobshub.com
 0.0.0.0 smart.lce9v.com
+0.0.0.0 smartlock.google.com
 0.0.0.0 sma-rt.org
 0.0.0.0 smartpctools.com
 0.0.0.0 smartphonediscount.info
