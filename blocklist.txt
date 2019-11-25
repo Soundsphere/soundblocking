@@ -1714,6 +1714,7 @@
 0.0.0.0 g.adspeed.net
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 galleryapi.micloud.xiaomi.net
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
