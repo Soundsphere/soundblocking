@@ -1016,6 +1016,7 @@
 0.0.0.0 aboutwebservices.com
 0.0.0.0 aboutyourprivacy.com
 0.0.0.0 abp.smartadcheck.de
+0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abroadsoftware.com
 0.0.0.0 abrp.net
 0.0.0.0 abrtp1-cdn.marketo.com
@@ -5173,6 +5174,7 @@
 0.0.0.0 bbn-903.icu
 0.0.0.0 bbnaut.bbelements.com
 0.0.0.0 bbn.img.com.ua
+0.0.0.0 b.boyfriendtv.com
 0.0.0.0 bb.portalsacbb.app
 0.0.0.0 bb-search.com
 0.0.0.0 bb-security-mobile.cf
@@ -6765,6 +6767,7 @@
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adtrue.com
 0.0.0.0 cdn.advanseads.com
+0.0.0.0 cdn.advertserve.com
 0.0.0.0 cdn-advert.smi2.net
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 cdn.alooma.com
@@ -12798,6 +12801,7 @@
 0.0.0.0 gangherass.com
 0.0.0.0 gangxxxbang.com
 0.0.0.0 ganne-avocats.com
+0.0.0.0 ganon.yahoo.com
 0.0.0.0 gan-psifas.co.il
 0.0.0.0 gapl.hit.gemius.pl
 0.0.0.0 garabeza29.ru
@@ -16010,6 +16014,7 @@
 0.0.0.0 js.smartredirect.de
 0.0.0.0 js.smi2.ru
 0.0.0.0 jssocdn.indiatimes.com
+0.0.0.0 jsso.indiatimes.com
 0.0.0.0 js.spotx.tv
 0.0.0.0 js.statistici.ro
 0.0.0.0 js.stroeermediabrands.de
@@ -31557,6 +31562,7 @@
 0.0.0.0 www.arseguin-peru.com
 0.0.0.0 www.artesianwear.com
 0.0.0.0 www.ashaaudio.net
+0.0.0.0 www.ashemaletube.com
 0.0.0.0 www.a.shifen.com
 0.0.0.0 www.ashtary.com
 0.0.0.0 www.asiabiofuel.com
@@ -32946,6 +32952,7 @@
 0.0.0.0 www.kunstpris.dk
 0.0.0.0 www.lacasinaristorante.it
 0.0.0.0 www.lacocinadeanuska.com
+0.0.0.0 www.ladyboytube.tv
 0.0.0.0 www.ladylust.com
 0.0.0.0 www.larcano.it
 0.0.0.0 www.larint.com
@@ -34437,6 +34444,7 @@
 0.0.0.0 www.vivachistyle.com
 0.0.0.0 www.vivirenchina.com
 0.0.0.0 www.vjdisplay.com.cn
+0.0.0.0 www.vkmag.com
 0.0.0.0 www.vlengineer.com
 0.0.0.0 www.voddirect.com
 0.0.0.0 www.volparavini.it
@@ -34737,6 +34745,7 @@
 0.0.0.0 xihmequx.cn
 0.0.0.0 ximpayteam.emlnk.com
 0.0.0.0 xinchenfs.com
+0.0.0.0 xineday.com
 0.0.0.0 xingaide8.cn
 0.0.0.0 xise.cn
 0.0.0.0 xius.com
@@ -35489,6 +35498,7 @@
 0.0.0.0 zooshock.com
 0.0.0.0 zootoplist.com
 0.0.0.0 zoover.adtrackers.net
+0.0.0.0 z.opmnstr.com
 0.0.0.0 z-p42.graph.instagram.com
 0.0.0.0 z-p4.graph.instagram.com
 0.0.0.0 zpu.samsungelectronics.com
