@@ -82,6 +82,7 @@
 0.0.0.0 a3330.casalemedia.com
 0.0.0.0 a3340.casalemedia.com
 0.0.0.0 a3341.casalemedia.com
+0.0.0.0 a3351.casalemedia.com
 0.0.0.0 a3361.casalemedia.com
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3371.casalemedia.com
@@ -1183,6 +1184,7 @@
 0.0.0.0 creative.prf.hn
 0.0.0.0 credit-agricole.fr
 0.0.0.0 criteo-sync.teads.tv
+0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crunchmind-d.openx.net
 0.0.0.0 cs1137.wpc.gammacdn.net
@@ -1700,11 +1702,13 @@
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gatr.hit.gemius.pl
+0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 gcd.mmstat.com
 0.0.0.0 gcdn.2mdn.net
 0.0.0.0 gdc.indeed.com
 0.0.0.0 gde-default.hit.gemius.pl
 0.0.0.0 gdetr.hit.gemius.pl
+0.0.0.0 gearwom.de
 0.0.0.0 g.eclick.vn
 0.0.0.0 generaltracking.de
 0.0.0.0 geni.us
@@ -3015,6 +3019,7 @@
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 smallseotools.com
 0.0.0.0 smarticon.geotrust.com
+0.0.0.0 smartlock.google.com
 0.0.0.0 smarturl.it
 0.0.0.0 smct.co
 0.0.0.0 s-media-cache-ak0.pinimg.com
