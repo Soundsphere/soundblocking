@@ -430,6 +430,7 @@
 0.0.0.0 analytics.localytics.com
 0.0.0.0 analytics.logsss.com
 0.0.0.0 analytics.mailmunch.co
+0.0.0.0 analytics.moviepilot.de
 0.0.0.0 analytics.myfinance.com
 0.0.0.0 analytics.newscred.com
 0.0.0.0 analytics.ooyala.com
@@ -703,6 +704,7 @@
 0.0.0.0 b9-eu-imp.tribalfusion.com
 0.0.0.0 badges.instagram.com
 0.0.0.0 b.admedia.com
+0.0.0.0 b.aklamio.com
 0.0.0.0 bam.nr-data.net
 0.0.0.0 banner.congstar.de
 0.0.0.0 banner.immowelt.de
@@ -720,6 +722,7 @@
 0.0.0.0 bbc.gscontxt.net
 0.0.0.0 bbnaut.bbelements.com
 0.0.0.0 bbnaut.ibillboard.com
+0.0.0.0 b.boyfriendtv.com
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
 0.0.0.0 bc.marfeel.com
 0.0.0.0 bcp.crwdcntrl.net
@@ -878,6 +881,7 @@
 0.0.0.0 cdn.adsafeprotected.com
 0.0.0.0 cdn.adspirit.de
 0.0.0.0 cdn.adtrue.com
+0.0.0.0 cdn.advertserve.com
 0.0.0.0 cdn-advert.smi2.net
 0.0.0.0 cdn.adx1.com
 0.0.0.0 cdn-akamai.mookie1.com
@@ -1024,6 +1028,7 @@
 0.0.0.0 chimpstatic.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
+0.0.0.0 ci37.actonsoftware.com
 0.0.0.0 ci61.actonsoftware.com
 0.0.0.0 ci89.actonsoftware.com
 0.0.0.0 c.imedia.cz
@@ -1672,6 +1677,7 @@
 0.0.0.0 forms.gle
 0.0.0.0 forms.ontraport.com
 0.0.0.0 forwrdnow.com
+0.0.0.0 foxnews.demdex.net
 0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 fp.msedge.net
 0.0.0.0 fptadtrue-d.openx.net
@@ -2310,6 +2316,7 @@
 0.0.0.0 mogointeractive.com
 0.0.0.0 monitor.econda-monitor.de
 0.0.0.0 mormont.gamer-network.net
+0.0.0.0 movip.wps.com
 0.0.0.0 mp-https.info
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mproxy.banner.linksynergy.com
@@ -2972,6 +2979,7 @@
 0.0.0.0 server.cpmstar.com
 0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 serve.tercept.com
+0.0.0.0 service-api.kingsoft-office-service.com
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.maxymiser.net
@@ -3188,6 +3196,7 @@
 0.0.0.0 static.zotabox.com
 0.0.0.0 statistics.11880.com
 0.0.0.0 stat.media
+0.0.0.0 stat.onestat.com
 0.0.0.0 stat.pladform.ru
 0.0.0.0 stat.radar.imgsmail.ru
 0.0.0.0 stats01.20min.ch
@@ -3860,6 +3869,7 @@
 0.0.0.0 www.amobee.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.applift.com
+0.0.0.0 www.ashemaletube.com
 0.0.0.0 www.a.shifen.com
 0.0.0.0 www.assoc-amazon.com
 0.0.0.0 www.assoc-amazon.de
@@ -3915,6 +3925,7 @@
 0.0.0.0 www.inskinad.com
 0.0.0.0 www.ist-track.com
 0.0.0.0 www.kqzyfj.com
+0.0.0.0 www.ladyboytube.tv
 0.0.0.0 www.lduhtrp.net
 0.0.0.0 www.leanplum.com
 0.0.0.0 www.ligatus.com
@@ -3970,6 +3981,7 @@
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.upsellit.com
 0.0.0.0 www.usemax.de
+0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xiti.com
@@ -4031,5 +4043,6 @@
 0.0.0.0 znccpilcxlhy2kxod-godaddy.siteintercept.qualtrics.com
 0.0.0.0 znedscsenlrql0rxd-teslamotors.siteintercept.qualtrics.com
 0.0.0.0 zoopla-d.openx.net
+0.0.0.0 z.opmnstr.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z.webengage.co
