@@ -435,6 +435,7 @@
 0.0.0.0 analytics.ooyala.com
 0.0.0.0 analytics.pinpoll.com
 0.0.0.0 analytics.pokki.com
+0.0.0.0 analytics.praetor.im
 0.0.0.0 analytics-production.hapyak.com
 0.0.0.0 analytics.query.yahoo.com
 0.0.0.0 analytics.rayjump.com
@@ -587,6 +588,7 @@
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 appleglobal.102.112.2o7.net
+0.0.0.0 apple.tt.omtrdc.net
 0.0.0.0 app.link
 0.0.0.0 appload.ingest.crittercism.com
 0.0.0.0 applog.musical.ly
@@ -792,6 +794,7 @@
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bt.mediaimpact.de
 0.0.0.0 bttrack.com
+0.0.0.0 bucket.rtk.io
 0.0.0.0 buffer-media-uploads.s3.amazonaws.com
 0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 builder-assets.unbounce.com
@@ -988,6 +991,7 @@
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn.tt.omtrdc.net
 0.0.0.0 cdn.tynt.com
+0.0.0.0 cdn.uc.atwola.com
 0.0.0.0 cdn.undertone.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn-v3.conductrics.com
@@ -1359,6 +1363,7 @@
 0.0.0.0 data.cnn.com
 0.0.0.0 datacollect6.abtasty.com
 0.0.0.0 data.coremetrics.com
+0.0.0.0 data.ero-advertising.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.gosquared.com
 0.0.0.0 data.livefyre.com
@@ -1531,6 +1536,7 @@
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
 0.0.0.0 elr.sfr.fr
 0.0.0.0 e.mail.ru
+0.0.0.0 emxhb.emxdgt.com
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ensign.unbounce.com
 0.0.0.0 ens.nzz.ch
@@ -2028,6 +2034,7 @@
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.smartredirect.de
 0.0.0.0 jssocdn.indiatimes.com
+0.0.0.0 jsso.indiatimes.com
 0.0.0.0 js.spotx.tv
 0.0.0.0 js.stroeermediabrands.de
 0.0.0.0 js.trendmd.com
@@ -2303,6 +2310,7 @@
 0.0.0.0 mogointeractive.com
 0.0.0.0 monitor.econda-monitor.de
 0.0.0.0 mormont.gamer-network.net
+0.0.0.0 mp-https.info
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mproxy.banner.linksynergy.com
 0.0.0.0 mpsnare.iesnare.com
@@ -2577,6 +2585,7 @@
 0.0.0.0 popcash.net
 0.0.0.0 popup.taboola.com
 0.0.0.0 popup.wisepops.com
+0.0.0.0 pornsocket.com
 0.0.0.0 port01.com
 0.0.0.0 port.sec.intl.miui.com
 0.0.0.0 powerad.ai
@@ -2764,6 +2773,7 @@
 0.0.0.0 ro89.com
 0.0.0.0 route.carambo.la
 0.0.0.0 router.infolinks.com
+0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpt.cedexis.com
 0.0.0.0 rpxnow.com
@@ -3210,6 +3220,7 @@
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.tubemogul.com
+0.0.0.0 stats.united-domains.de
 0.0.0.0 stats.viddler.com
 0.0.0.0 stats.wired.com
 0.0.0.0 stats.wordpress.com
@@ -3577,6 +3588,7 @@
 0.0.0.0 u.acuityplatform.com
 0.0.0.0 ua.hit.gemius.pl
 0.0.0.0 uaid-linkage.imrworldwide.com
+0.0.0.0 uat-net.technoratimedia.com
 0.0.0.0 ubm.tt.omtrdc.net
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
@@ -3768,6 +3780,7 @@
 0.0.0.0 widget.privy.com
 0.0.0.0 widgets.amung.us
 0.0.0.0 widgets.fie-data.co.uk
+0.0.0.0 widgets.mozo.com.au
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
 0.0.0.0 widget.us.criteo.com
@@ -3970,6 +3983,7 @@
 0.0.0.0 xcp.go.sonobi.com
 0.0.0.0 x.dlx.addthis.com
 0.0.0.0 x.fidelity-media.com
+0.0.0.0 xineday.com
 0.0.0.0 x.ligatus.com
 0.0.0.0 xlog-va.musical.ly
 0.0.0.0 xl-trk.com
