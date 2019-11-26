@@ -616,6 +616,7 @@
 0.0.0.0 apu.samsungelectronics.com
 0.0.0.0 apvdr.com
 0.0.0.0 apx.moatads.com
+0.0.0.0 a.quora.com
 0.0.0.0 araman.kameleoon.com
 0.0.0.0 arc.msn.com
 0.0.0.0 a.remarketstats.com
@@ -677,6 +678,7 @@
 0.0.0.0 aufeminin-g-d.openx.net
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 auth.be.sec.miui.com
+0.0.0.0 authentication.taboola.com
 0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 autolinkmaker.itunes.apple.com
@@ -702,6 +704,7 @@
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
 0.0.0.0 b9-eu-imp.tribalfusion.com
+0.0.0.0 backstage.taboola.com
 0.0.0.0 badges.instagram.com
 0.0.0.0 b.admedia.com
 0.0.0.0 b.aklamio.com
