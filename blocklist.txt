@@ -846,6 +846,7 @@
 0.0.0.0 a2it.pt
 0.0.0.0 a2tv.org
 0.0.0.0 a2zlinks.com
+0.0.0.0 a3060.casalemedia.com
 0.0.0.0 a311.com
 0.0.0.0 a311.net
 0.0.0.0 a311.org
@@ -1030,6 +1031,7 @@
 0.0.0.0 abs.proxistore.com
 0.0.0.0 abstractcaptivism.com
 0.0.0.0 abtekin.com.tr
+0.0.0.0 abtest-va-tiktok.byteoversea.com
 0.0.0.0 abuz.org
 0.0.0.0 abx4.com
 0.0.0.0 abyssrecycling.co.uk
@@ -1279,6 +1281,7 @@
 0.0.0.0 ad8.bannerbank.ru
 0.0.0.0 ad8.speedbit.com
 0.0.0.0 ad.980x.com
+0.0.0.0 ad9.adfarm1.adition.com
 0.0.0.0 ad9.bannerbank.ru
 0.0.0.0 ad9.speedbit.com
 0.0.0.0 ad.a8.net
@@ -3429,6 +3432,7 @@
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics-collector-28944298.us-east-1.elb.amazonaws.com
 0.0.0.0 analyticsdcs.ccs.mcafee.com
+0.0.0.0 analytics.dpd.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics-eu.clickdimensions.com
 0.0.0.0 analytics.fairfax.com.au
@@ -3506,6 +3510,7 @@
 0.0.0.0 angelsdisciples.com
 0.0.0.0 angels.rankspace.com
 0.0.0.0 angelsvids.com
+0.0.0.0 angieslist.tt.omtrdc.net
 0.0.0.0 angpar.112.2o7.net
 0.0.0.0 ani.adspruce.com
 0.0.0.0 anilbhandari.com
@@ -4138,6 +4143,7 @@
 0.0.0.0 aqualoungecasino.com
 0.0.0.0 aquanova.co.nz
 0.0.0.0 aquantive.com
+0.0.0.0 a.quora.com
 0.0.0.0 aqw.grtry6.u678.ret.56576.gw.ret5y.q367.sdsd.q53g.clearpointsupplies.com
 0.0.0.0 ar4.net
 0.0.0.0 arab-hacker.org
@@ -7589,6 +7595,7 @@
 0.0.0.0 cmp.advertising.com
 0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmp.macworld.com
+0.0.0.0 cmp.mediavine.com
 0.0.0.0 cmpstar.com
 0.0.0.0 cm.revcontent.com
 0.0.0.0 cms1.net
@@ -7702,7 +7709,9 @@
 0.0.0.0 collector.prod.expedia.com
 0.0.0.0 collector-px3vk96i6i.perimeterx.net
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
+0.0.0.0 collector-px8la3oway.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
+0.0.0.0 collector-pxpkewm2nh.perimeterx.net
 0.0.0.0 collector-pxrf8vapwa.perimeterx.net
 0.0.0.0 collector-pxrw7m6iav.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
@@ -8020,6 +8029,7 @@
 0.0.0.0 conv.tubemogul.com
 0.0.0.0 conyc.com
 0.0.0.0 cookie.brealtime.com
+0.0.0.0 cookiee1.veinteractive.com
 0.0.0.0 cookieflight.com
 0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookie-law-enforcement-aa.xyz
@@ -9040,6 +9050,7 @@
 0.0.0.0 dcapps.disney.go.com
 0.0.0.0 dc.banggood.com
 0.0.0.0 dcdcapital.com
+0.0.0.0 dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com
 0.0.0.0 dce.nextstat.com
 0.0.0.0 dcfitusa.com
 0.0.0.0 dc-heater.com
@@ -12878,6 +12889,7 @@
 0.0.0.0 gaysporno.com
 0.0.0.0 gays-top.net
 0.0.0.0 gaytraffic.info
+0.0.0.0 gazeta.hit.gemius.pl
 0.0.0.0 gazetaszkolna.edu.pl
 0.0.0.0 gazipasha.ru
 0.0.0.0 gbanners.hornymatches.com
@@ -20623,6 +20635,7 @@
 0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 openx.angelsgroup.org.uk
 0.0.0.0 openx.blindferret.com
+0.0.0.0 openx.wayfareinteractive.com
 0.0.0.0 operacion-polvazo.com
 0.0.0.0 operanabuco.com
 0.0.0.0 operationkhanyisa.co.za
@@ -20658,6 +20671,7 @@
 0.0.0.0 optout.betrad.com
 0.0.0.0 optout.taboola.com
 0.0.0.0 optout.tt.omtrdc.net
+0.0.0.0 optout.tynt.com
 0.0.0.0 optsnab.com
 0.0.0.0 optsol.ru
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
@@ -25341,6 +25355,7 @@
 0.0.0.0 servuceinfolock.net
 0.0.0.0 sesdermausa.com
 0.0.0.0 seshark.com
+0.0.0.0 sessionapi.veinteractive.com
 0.0.0.0 sessionm.com
 0.0.0.0 sessions.bugsnag.com
 0.0.0.0 session.timecommerce.net
@@ -26658,6 +26673,7 @@
 0.0.0.0 srox.com
 0.0.0.0 srsf.com
 0.0.0.0 srs.targetpoint.com
+0.0.0.0 srtb.msn.com
 0.0.0.0 srv01.bashchelik.com
 0.0.0.0 srv02.bashchelik.com
 0.0.0.0 srv2cpt.com
@@ -27164,6 +27180,7 @@
 0.0.0.0 sts1.auiswiss.com
 0.0.0.0 st.sageanalyst.net
 0.0.0.0 stsearch.com
+0.0.0.0 sts.eccmp.com
 0.0.0.0 stsgroupbd.com
 0.0.0.0 st.targetix.net
 0.0.0.0 stthami.com
@@ -29864,6 +29881,7 @@
 0.0.0.0 vaserjungenfujinas.com
 0.0.0.0 vaskredskap.com
 0.0.0.0 vast.adsafeprotected.com
+0.0.0.0 vastcdn.adsafeprotected.com
 0.0.0.0 vastcdn.outbrain.com
 0.0.0.0 vastlog.adsafeprotected.com
 0.0.0.0 vast.mathtag.com
