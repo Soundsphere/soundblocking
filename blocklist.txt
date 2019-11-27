@@ -28,6 +28,7 @@
 0.0.0.0 4382365.fls.doubleclick.net
 0.0.0.0 4711400.fls.doubleclick.net
 0.0.0.0 4798542.fls.doubleclick.net
+0.0.0.0 479-jpy-230.mktoresp.com
 0.0.0.0 4878630.fls.doubleclick.net
 0.0.0.0 4.bp.blogspot.com
 0.0.0.0 4d.condenastdigital.com
@@ -543,6 +544,7 @@
 0.0.0.0 api.share.mob.com
 0.0.0.0 api.stathat.com
 0.0.0.0 api.taboola.com
+0.0.0.0 api.taplytics.com
 0.0.0.0 api.traversedlp.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.unbounce.com
@@ -612,6 +614,7 @@
 0.0.0.0 app-sj17.marketo.com
 0.0.0.0 app-sjh.marketo.com
 0.0.0.0 app-sji.marketo.com
+0.0.0.0 app-sjp.marketo.com
 0.0.0.0 app-sjqe.marketo.com
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 appuals.com
@@ -1061,6 +1064,7 @@
 0.0.0.0 click.plista.com
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clickserve.dartsearch.net
+0.0.0.0 clickserv.sitescout.com
 0.0.0.0 clicktotweet.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click.virt.exacttarget.com
@@ -1159,6 +1163,7 @@
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.truste.com
+0.0.0.0 consent.webmasterplan.com
 0.0.0.0 containertags.belboon.de
 0.0.0.0 content.adriver.ru
 0.0.0.0 content.aimatch.com
@@ -1553,6 +1558,7 @@
 0.0.0.0 eldamar03-loadbalanced.kameleoon.com
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
 0.0.0.0 elr.sfr.fr
+0.0.0.0 elsevier.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 e.mail.ru
 0.0.0.0 emxhb.emxdgt.com
 0.0.0.0 engine.adzerk.net
@@ -2276,6 +2282,7 @@
 0.0.0.0 mediav3.inq.com
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 meltwaternews.com
+0.0.0.0 members.cj.com
 0.0.0.0 memecrunch.com
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 meraxes.polarmobile.com
@@ -2672,6 +2679,7 @@
 0.0.0.0 pt.ispot.tv
 0.0.0.0 pt.peerius.com
 0.0.0.0 p.travelsmarter.net
+0.0.0.0 p.tvpixel.com
 0.0.0.0 p.typekit.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pub.lavanetwork.net
@@ -2827,6 +2835,7 @@
 0.0.0.0 rtb.districtm.io
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtb-lb-eu-west.tubemogul.com
+0.0.0.0 rtb-lb-event-tm-ams-tm.everesttech.net
 0.0.0.0 rtb-lb-event-tm-ams.tubemogul.com
 0.0.0.0 rtb.mfadsrvr.com
 0.0.0.0 rtb.nativeads.com
@@ -3165,6 +3174,7 @@
 0.0.0.0 static6.smi2.net
 0.0.0.0 static7.smi2.net
 0.0.0.0 static8.smi2.net
+0.0.0.0 static.adbutter.net
 0.0.0.0 static.adfarm1.adition.com
 0.0.0.0 static.adman.gr
 0.0.0.0 static.adsafeprotected.com
@@ -3375,6 +3385,7 @@
 0.0.0.0 t.agentanalytics.com
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 tagger.opecloud.com
+0.0.0.0 tag.getdrip.com
 0.0.0.0 tag.idsync.analytics.yahoo.com
 0.0.0.0 tag.leadplace.fr
 0.0.0.0 tag.marinsm.com
