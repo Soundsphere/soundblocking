@@ -856,6 +856,7 @@
 0.0.0.0 cbm02.webtrekk.net
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsi-d.openx.net
+0.0.0.0 cbsinteractive.hb.omtrdc.net
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 c.cnzz.com
@@ -1120,6 +1121,7 @@
 0.0.0.0 collect-eu-central-1.tealiumiq.com
 0.0.0.0 collector-1054.tvsquared.com
 0.0.0.0 collectorb.tvsquared.com
+0.0.0.0 collector.fitanalytics.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
 0.0.0.0 collector.leaddyno.com
@@ -1763,6 +1765,7 @@
 0.0.0.0 geo.qualaroo.com
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geoservice.curse.com
+0.0.0.0 geotags.w55c.net
 0.0.0.0 geo-um.btrll.com
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net
@@ -1883,6 +1886,7 @@
 0.0.0.0 httpkafka.unityads.unity3d.com
 0.0.0.0 ht.youporn.com
 0.0.0.0 hubtraffic.com
+0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.ytimg.com
 0.0.0.0 iadsdk.apple.com
@@ -1919,6 +1923,7 @@
 0.0.0.0 image4.pubmatic.com
 0.0.0.0 image5.pubmatic.com
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 image.ibb.co
 0.0.0.0 images.dmca.com
 0.0.0.0 images.intellitxt.com
 0.0.0.0 images.outbrain.com
