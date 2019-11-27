@@ -657,6 +657,7 @@
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.customer.io
 0.0.0.0 assets.deployads.com
+0.0.0.0 assets.hotjar.com
 0.0.0.0 assets.ipcdigital.co.uk
 0.0.0.0 assets.jetlore.com
 0.0.0.0 assets-jpcust.jwpsrv.com
@@ -1423,6 +1424,7 @@
 0.0.0.0 delivery.adnetwork.vn
 0.0.0.0 delivery.adrecover.com
 0.0.0.0 delivery-cdn-cf.adswizz.com
+0.0.0.0 delivery.clickonometrics.pl
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.yomedia.vn
@@ -2002,6 +2004,7 @@
 0.0.0.0 ipm-provider.ff.avast.com
 0.0.0.0 ip.nuggad.net
 0.0.0.0 i.po.st
+0.0.0.0 ipv6-wildcard.applovin.com.edgekey.net
 0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 0.0.0.0 i.r1-cdn.net
 0.0.0.0 ir2.beap.gemini.yahoo.com
@@ -2078,6 +2081,7 @@
 0.0.0.0 karma.mdpcdn.com
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 keytarget.adnet.lt
+0.0.0.0 keywords.mediavine.com
 0.0.0.0 kfw04.webtrekk.net
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kinesis.us-east-1.amazonaws.com
@@ -2147,6 +2151,7 @@
 0.0.0.0 log.core.cloud.vewd.com
 0.0.0.0 log.dmtry.com
 0.0.0.0 log.eclick.vn
+0.0.0.0 log.gds.mmstat.com
 0.0.0.0 logger.dailymotion.com
 0.0.0.0 logger.foxitcloud.com
 0.0.0.0 logger.nerdwallet.com
@@ -3418,6 +3423,7 @@
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 talos.adman.gr
 0.0.0.0 tapestry.tapad.com
+0.0.0.0 tapjoy.go2cloud.org
 0.0.0.0 t.appsflyer.com
 0.0.0.0 tappx.com
 0.0.0.0 tap.rubiconproject.com
