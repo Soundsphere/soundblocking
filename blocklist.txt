@@ -71,6 +71,7 @@
 0.0.0.0 a2210.casalemedia.com
 0.0.0.0 a2211.casalemedia.com
 0.0.0.0 a2220.casalemedia.com
+0.0.0.0 a2221.casalemedia.com
 0.0.0.0 a2231.casalemedia.com
 0.0.0.0 a2240.casalemedia.com
 0.0.0.0 a2.adform.net
@@ -900,6 +901,7 @@
 0.0.0.0 cdn-advert.smi2.net
 0.0.0.0 cdn.adx1.com
 0.0.0.0 cdn-akamai.mookie1.com
+0.0.0.0 cdn.alooma.com
 0.0.0.0 cdn.amplitude.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appsflyer.com
@@ -2031,6 +2033,7 @@
 0.0.0.0 itx5-secure.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
 0.0.0.0 i.w55c.net
+0.0.0.0 iwa.hit.interia.pl
 0.0.0.0 i.w.inmobi.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 jadserve.postrelease.com
@@ -3812,6 +3815,7 @@
 0.0.0.0 wd.adcolony.com
 0.0.0.0 web.adblade.com
 0.0.0.0 web-analytics.engagio.com
+0.0.0.0 webanalytics.localytics.com
 0.0.0.0 webed.dm.gg
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 webmdcom.tt.omtrdc.net
