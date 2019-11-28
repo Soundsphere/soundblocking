@@ -706,6 +706,7 @@
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 az1.qualtrics.com
 0.0.0.0 az416426.vo.msecnd.net
+0.0.0.0 azawebspace.com
 0.0.0.0 az-partners.net
 0.0.0.0 b0oqeyj7z5.kameleoon.eu
 0.0.0.0 b1img.com
@@ -1200,8 +1201,10 @@
 0.0.0.0 counter.ukr.net
 0.0.0.0 counter.yadro.ru
 0.0.0.0 countess.twitch.tv
+0.0.0.0 count.rtl.de
 0.0.0.0 count-server.sharethis.com
 0.0.0.0 count.spiegel.de
+0.0.0.0 c.parkingcrew.net
 0.0.0.0 c.paypal.com
 0.0.0.0 c.pub.network
 0.0.0.0 cpu.samsungelectronics.com
@@ -1377,6 +1380,7 @@
 0.0.0.0 data64.adlooxtracking.com
 0.0.0.0 data65.adlooxtracking.com
 0.0.0.0 data66.adlooxtracking.com
+0.0.0.0 data67.adlooxtracking.com
 0.0.0.0 data68.adlooxtracking.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.adsrvr.org
@@ -1541,6 +1545,7 @@
 0.0.0.0 ebayinc.demdex.net
 0.0.0.0 ebayukb-d.openx.net
 0.0.0.0 ebdr3.com
+0.0.0.0 ec83cce4c209447a2af3d62f2.litix.io
 0.0.0.0 ecdn.firstimpression.io
 0.0.0.0 ecdn.liveclicker.net
 0.0.0.0 ecommerce.iap.unity3d.com
@@ -1749,6 +1754,7 @@
 0.0.0.0 gdc.indeed.com
 0.0.0.0 gde-default.hit.gemius.pl
 0.0.0.0 gdetr.hit.gemius.pl
+0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 gearwom.de
 0.0.0.0 g.eclick.vn
 0.0.0.0 generaltracking.de
@@ -3082,6 +3088,7 @@
 0.0.0.0 smallseotools.com
 0.0.0.0 smarticon.geotrust.com
 0.0.0.0 smartlock.google.com
+0.0.0.0 smart.styria-digital.com
 0.0.0.0 smarturl.it
 0.0.0.0 smct.co
 0.0.0.0 s-media-cache-ak0.pinimg.com
@@ -3157,6 +3164,7 @@
 0.0.0.0 ssp.adriver.ru
 0.0.0.0 ssp-csync.smartadserver.com
 0.0.0.0 ssp.lkqd.net
+0.0.0.0 s.spolecznosci.net
 0.0.0.0 s.spoutable.com
 0.0.0.0 ssp.rambler.ru
 0.0.0.0 sstatic1.histats.com
@@ -3543,6 +3551,7 @@
 0.0.0.0 tracker.nmp1.com
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 track.express.de
 0.0.0.0 track.eyeviewads.com
 0.0.0.0 track.gaug.es
@@ -3730,6 +3739,7 @@
 0.0.0.0 vast-pop-ams.mathtag.com
 0.0.0.0 vast-pop-zrh.mathtag.com
 0.0.0.0 vast-test.mathtag.com
+0.0.0.0 vast.videocdn.tv
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 v.connatix.com
 0.0.0.0 venatusmedia-d.openx.net
@@ -4058,6 +4068,7 @@
 0.0.0.0 xtrapath2.izatcloud.net
 0.0.0.0 xtrapath3.izatcloud.net
 0.0.0.0 xtr.carambo.la
+0.0.0.0 xvideos.com
 0.0.0.0 x.vindicosuite.com
 0.0.0.0 yagiay.com
 0.0.0.0 yandex.st
@@ -4075,6 +4086,7 @@
 0.0.0.0 z9q9kj37oy.kameleoon.eu
 0.0.0.0 za-ads.de
 0.0.0.0 za-ssl.effectivemeasure.net
+0.0.0.0 z.cdn.braun634.com
 0.0.0.0 zdbb.net
 0.0.0.0 zdbb.netshelter.net
 0.0.0.0 zeit.met.vgwort.de
