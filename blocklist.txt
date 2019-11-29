@@ -307,6 +307,7 @@
 0.0.0.0 ads.travelaudience.com
 0.0.0.0 ads.twitter.com
 0.0.0.0 ads.undertone.com
+0.0.0.0 ads.up-value.de
 0.0.0.0 ads.us.e-planning.net
 0.0.0.0 ads.viber.com
 0.0.0.0 ads.videoadex.com
@@ -510,6 +511,7 @@
 0.0.0.0 api.hostip.info
 0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api-iam.intercom.io
+0.0.0.0 api.innomdc.com
 0.0.0.0 api.instabug.com
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.iperceptions.com
@@ -593,6 +595,7 @@
 0.0.0.0 app.crazyegg.com
 0.0.0.0 app.crossengage.io
 0.0.0.0 app-e.marketo.com
+0.0.0.0 appengage-video.fyber.com
 0.0.0.0 app.gelirartisi.com
 0.0.0.0 app.getresponse.com
 0.0.0.0 app.getsentry.com
@@ -747,6 +750,7 @@
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
 0.0.0.0 beacon.krxd.net
+0.0.0.0 beacon.livefyre.com
 0.0.0.0 beacon.netflix.com
 0.0.0.0 beacon-nf.rubiconproject.com
 0.0.0.0 beacon.riskified.com
@@ -1571,6 +1575,7 @@
 0.0.0.0 elr.sfr.fr
 0.0.0.0 elsevier.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 e.mail.ru
+0.0.0.0 em.dynamicyield.com
 0.0.0.0 emxhb.emxdgt.com
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ensign.unbounce.com
@@ -3479,6 +3484,7 @@
 0.0.0.0 tendertest.com
 0.0.0.0 tenor.com
 0.0.0.0 tesla.tt.omtrdc.net
+0.0.0.0 testlibs.coremetrics.com
 0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 tetu.com
 0.0.0.0 t.gammaplatform.com
