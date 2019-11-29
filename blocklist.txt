@@ -1576,6 +1576,7 @@
 0.0.0.0 elsevier.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 e.mail.ru
 0.0.0.0 em.dynamicyield.com
+0.0.0.0 emisja.contentstream.pl
 0.0.0.0 emxhb.emxdgt.com
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ensign.unbounce.com
@@ -2415,6 +2416,7 @@
 0.0.0.0 newjobs.d1.sc.omtrdc.net
 0.0.0.0 newsmaxmedia.demdex.net
 0.0.0.0 news.mirtesen.ru
+0.0.0.0 nextclick.pl
 0.0.0.0 nextmillennium.liqwid.net
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
@@ -2739,6 +2741,7 @@
 0.0.0.0 px.wayfair.com
 0.0.0.0 p.yotpo.com
 0.0.0.0 q14.cnzz.com
+0.0.0.0 q3.webtrekk.net
 0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
 0.0.0.0 qsearch.media.net
@@ -3805,6 +3808,7 @@
 0.0.0.0 vrp.outbrain.com
 0.0.0.0 vrt.outbrain.com
 0.0.0.0 vstats.digitaltrends.com
+0.0.0.0 vs.webtrekk.net
 0.0.0.0 vt.adition.com
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
