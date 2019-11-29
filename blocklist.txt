@@ -165,6 +165,7 @@
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 adadvisor.net
 0.0.0.0 adara.com
+0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adc3-assets.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
@@ -980,10 +981,12 @@
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
+0.0.0.0 cdn.pljs.ru
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.refersion.com
 0.0.0.0 cdn.revcontent.com
 0.0.0.0 cdn-s2s.buysellads.net
+0.0.0.0 cdn.sagent.io
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdns.connatix.com
@@ -3057,6 +3060,7 @@
 0.0.0.0 shallowsmile.com
 0.0.0.0 shared.iad.appboy.com
 0.0.0.0 share.pluso.ru
+0.0.0.0 share.yandex.ru
 0.0.0.0 shavar.services.mozilla.com
 0.0.0.0 shield.sitelock.com
 0.0.0.0 shopify.privy.com
