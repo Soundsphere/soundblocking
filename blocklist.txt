@@ -712,6 +712,7 @@
 0.0.0.0 az1.qualtrics.com
 0.0.0.0 az416426.vo.msecnd.net
 0.0.0.0 azawebspace.com
+0.0.0.0 a.zdbb.net
 0.0.0.0 az-partners.net
 0.0.0.0 b0oqeyj7z5.kameleoon.eu
 0.0.0.0 b1img.com
@@ -1141,6 +1142,7 @@
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-px8la3oway.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
+0.0.0.0 collector-pxk3bezzfo.perimeterx.net
 0.0.0.0 collector-pxk6s8okp3.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
 0.0.0.0 collector-pxpkewm2nh.perimeterx.net
@@ -3827,6 +3829,7 @@
 0.0.0.0 wcs.naver.com
 0.0.0.0 wct.link
 0.0.0.0 wd.adcolony.com
+0.0.0.0 web.53.localytics.com
 0.0.0.0 web.adblade.com
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 webanalytics.localytics.com
@@ -3847,6 +3850,7 @@
 0.0.0.0 wellsfargobankna.demdex.net
 0.0.0.0 weltonline01.webtrekk.net
 0.0.0.0 w.estat.com
+0.0.0.0 westernunion.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 wf.taboola.com
 0.0.0.0 whitelabel.media.net
 0.0.0.0 whitepages.com
