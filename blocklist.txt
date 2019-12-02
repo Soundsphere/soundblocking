@@ -167,6 +167,7 @@
 0.0.0.0 adara.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 ad.atdmt.com
+0.0.0.0 adbetnet.advertserve.com
 0.0.0.0 adc3-assets.adcolony.com
 0.0.0.0 adc3-launch.adcolony.com
 0.0.0.0 adc-ad-assets.adtilt.com
@@ -335,6 +336,7 @@
 0.0.0.0 adv.sec.intl.miui.com
 0.0.0.0 adv.sec.miui.com
 0.0.0.0 ad.wsod.com
+0.0.0.0 adx2.adform.net
 0.0.0.0 adx.adform.net
 0.0.0.0 adx.com.ru
 0.0.0.0 adx.g.doubleclick.net
@@ -810,6 +812,7 @@
 0.0.0.0 b.siftscience.com
 0.0.0.0 bskyb.demdex.net
 0.0.0.0 b.smartnews.be
+0.0.0.0 bsnj.eyeblaster.akadns.net
 0.0.0.0 bs.serving-sys.com
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 bsw.digitru.st
