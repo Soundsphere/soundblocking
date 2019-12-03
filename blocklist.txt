@@ -2698,6 +2698,7 @@
 0.0.0.0 adworx.nl
 0.0.0.0 ad.wsod.com
 0.0.0.0 ad.wz.cz
+0.0.0.0 adx2.adform.net
 0.0.0.0 adx.adform.net
 0.0.0.0 adx.adnxs.com
 0.0.0.0 adx.adrenaline.cz
@@ -4764,6 +4765,7 @@
 0.0.0.0 azaleaguesthouse.com
 0.0.0.0 azartclub.org
 0.0.0.0 azbukafree.com
+0.0.0.0 a.zdbb.net
 0.0.0.0 azebar.com
 0.0.0.0 azeronline.com
 0.0.0.0 a.zeroredirect1.com
@@ -5118,6 +5120,7 @@
 0.0.0.0 bardownload.com
 0.0.0.0 bard-real.com.ua
 0.0.0.0 barelylegalsite.com
+0.0.0.0 baremetrics.com
 0.0.0.0 bare.org
 0.0.0.0 bargainbetsy.com
 0.0.0.0 bargain-buddy.net
@@ -6815,6 +6818,7 @@
 0.0.0.0 cdn.download2013.net
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdneast2-xch.media.net
+0.0.0.0 cdneast-xch.media.net
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 cdn-eu.dynamicyield.com
@@ -7711,6 +7715,7 @@
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-px8la3oway.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
+0.0.0.0 collector-pxk3bezzfo.perimeterx.net
 0.0.0.0 collector-pxpkewm2nh.perimeterx.net
 0.0.0.0 collector-pxrf8vapwa.perimeterx.net
 0.0.0.0 collector-pxrw7m6iav.perimeterx.net
@@ -10223,6 +10228,7 @@
 0.0.0.0 dsm.xu.pl
 0.0.0.0 dsp.adfarm1.adition.com
 0.0.0.0 dsp.adkernel.com
+0.0.0.0 dsp.api.vungle.com
 0.0.0.0 dspcluster.adfarm1.adition.com
 0.0.0.0 ds.polyad.net
 0.0.0.0 ds.prod.vidible.tv
@@ -12086,6 +12092,7 @@
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
 0.0.0.0 fluendo.net
+0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net
 0.0.0.0 fluxtechsolutions.com
 0.0.0.0 flwassistant.com
 0.0.0.0 flyblog.xyz
@@ -12640,6 +12647,7 @@
 0.0.0.0 funcraftny.com
 0.0.0.0 function-factory.com
 0.0.0.0 fundacioniades.com.ar
+0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 funfactorybd.com
 0.0.0.0 fungaymen.com
 0.0.0.0 funjokes.com
@@ -12965,6 +12973,7 @@
 0.0.0.0 geobytes.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
+0.0.0.0 geocode.usefomo.com
 0.0.0.0 geo.deepmetrix.com
 0.0.0.0 geo.digitalpoint.com
 0.0.0.0 geoffmaydesign.com
@@ -15241,6 +15250,7 @@
 0.0.0.0 ing-district.clicktale.net
 0.0.0.0 ingenieriasabona.com
 0.0.0.0 ingenmulighetforvirus.com
+0.0.0.0 ingest.vungle.com
 0.0.0.0 in.getclicky.com
 0.0.0.0 ing.g-brush.com
 0.0.0.0 inglesmovil.cl
@@ -17163,6 +17173,7 @@
 0.0.0.0 logenlbb.dk
 0.0.0.0 log.fc.yahoo.com
 0.0.0.0 logformlatinomericacp.125mb.com
+0.0.0.0 log.gds.mmstat.com
 0.0.0.0 logger-06.vty.dailymotion.com
 0.0.0.0 logger.cloudmobi.net
 0.0.0.0 logger.dailymotion.com
@@ -23577,6 +23588,7 @@
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 retromus.ru
 0.0.0.0 retro-vintage.biz
+0.0.0.0 reuters.demdex.net
 0.0.0.0 rev0lt.net
 0.0.0.0 rev2pub.com
 0.0.0.0 reveal.clearbit.com
@@ -23841,6 +23853,7 @@
 0.0.0.0 rtb.gumgum.com
 0.0.0.0 rtbidder.net
 0.0.0.0 rtb-lb-eu-west.tubemogul.com
+0.0.0.0 rtb-lb-event-tm-ams-tm.everesttech.net
 0.0.0.0 rtb-lb-event-tm-ams.tubemogul.com
 0.0.0.0 rtb-lb-us-east.tubemogul.com
 0.0.0.0 rtb.metrigo.com
@@ -26424,6 +26437,7 @@
 0.0.0.0 sponsorships.spln.com
 0.0.0.0 sponsors.thoughtsmedia.com
 0.0.0.0 spookestreet.afraid.org
+0.0.0.0 spoor-api.asia.nikkei.com
 0.0.0.0 spootie.com
 0.0.0.0 spoptimalwwwdirectconn.com
 0.0.0.0 sportbooks-free4you.com
@@ -27009,6 +27023,7 @@
 0.0.0.0 stats.suite101.com
 0.0.0.0 stats.superstats.com
 0.0.0.0 stats.surfaid.ihost.com
+0.0.0.0 stats.tipser.com
 0.0.0.0 statstm.biz
 0.0.0.0 stats.townnews.com
 0.0.0.0 stats.trafficasap.com
@@ -29704,6 +29719,7 @@
 0.0.0.0 urr-he-blocked-us.com
 0.0.0.0 urs.cnet.com
 0.0.0.0 ursecure.com
+0.0.0.0 urs.zdnet.com
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 ururu.us
 0.0.0.0 us01.xmlsearch.findwhat.com
@@ -30355,6 +30371,7 @@
 0.0.0.0 web3192.cweb01.gamingweb.de
 0.0.0.0 web3193.cweb01.gamingweb.de
 0.0.0.0 web3200.cweb01.gamingweb.de
+0.0.0.0 web.53.localytics.com
 0.0.0.0 webaccupgrd.eg.vg
 0.0.0.0 web.adblade.com
 0.0.0.0 web.adknowledge.com
