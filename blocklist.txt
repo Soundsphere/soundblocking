@@ -164,6 +164,7 @@
 0.0.0.0 ad.ad-srv.net
 0.0.0.0 ad.adsrvr.org
 0.0.0.0 adadvisor.net
+0.0.0.0 ad.afy11.net
 0.0.0.0 adara.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 ad.atdmt.com
@@ -452,6 +453,7 @@
 0.0.0.0 analytics.rayjump.com
 0.0.0.0 analytics.shareaholic.com
 0.0.0.0 analytics.similarweb.com
+0.0.0.0 analytics.sitewit.com
 0.0.0.0 analytics.skyscanner.net
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.smallpdf.com
@@ -736,6 +738,7 @@
 0.0.0.0 bannersnack.com
 0.0.0.0 banners.webmasterplan.com
 0.0.0.0 banners.wunderground.com
+0.0.0.0 baremetrics.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batchgeo.com
 0.0.0.0 batchlogging4-noneu.truecaller.com
@@ -943,6 +946,7 @@
 0.0.0.0 cdn.doubleverify.com
 0.0.0.0 cdn.dynamicyield.com
 0.0.0.0 cdneast2-xch.media.net
+0.0.0.0 cdneast-xch.media.net
 0.0.0.0 cdn.elasticad.net
 0.0.0.0 cdn.embedly.com
 0.0.0.0 cdn.engine.4dsply.com
@@ -1779,6 +1783,7 @@
 0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
+0.0.0.0 geocode.usefomo.com
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geoip-db.com
 0.0.0.0 geo.kaloo.ga
@@ -1990,6 +1995,7 @@
 0.0.0.0 incoming.telemetry.mozilla.org
 0.0.0.0 index-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 infinityid.condenastdigital.com
+0.0.0.0 info.evidon.com
 0.0.0.0 info.kinoclub77.ru
 0.0.0.0 info.muxy.io
 0.0.0.0 informer.yandex.ru
@@ -2828,6 +2834,7 @@
 0.0.0.0 restapi.amap.com
 0.0.0.0 retcode.taobao.com
 0.0.0.0 retrack.q-divisioncdn.de
+0.0.0.0 reuters.demdex.net
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 rh.revolvermaps.com
 0.0.0.0 riafinancial.d2.sc.omtrdc.net
@@ -3144,6 +3151,7 @@
 0.0.0.0 spiegel.met.vgwort.de
 0.0.0.0 spixel.adsafeprotected.com
 0.0.0.0 spl.zeotap.com
+0.0.0.0 spoor-api.asia.nikkei.com
 0.0.0.0 s.po.st
 0.0.0.0 spot-im-d.openx.net
 0.0.0.0 spotx-match.dotomi.com
@@ -3265,6 +3273,7 @@
 0.0.0.0 static.zanox.com
 0.0.0.0 static.zotabox.com
 0.0.0.0 statistics.11880.com
+0.0.0.0 statistics.aldi-international.com
 0.0.0.0 stat.media
 0.0.0.0 stat.onestat.com
 0.0.0.0 stat.pladform.ru
@@ -3297,6 +3306,7 @@
 0.0.0.0 stat.sputnik.ru
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.smartclip.net
+0.0.0.0 stats.tipser.com
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.tubemogul.com
 0.0.0.0 stats.united-domains.de
@@ -3709,6 +3719,7 @@
 0.0.0.0 urbanmedia-d.openx.net
 0.0.0.0 urlaubspiraten.digidip.net
 0.0.0.0 urs.cnet.com
+0.0.0.0 urs.zdnet.com
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 us-ads.openx.net
 0.0.0.0 usage.trackjs.com
@@ -3763,6 +3774,7 @@
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 v.connatix.com
+0.0.0.0 vdna.exelator.com
 0.0.0.0 venatusmedia-d.openx.net
 0.0.0.0 vendorlist.consensu.org
 0.0.0.0 venetia.iad.appboy.com
@@ -3805,6 +3817,7 @@
 0.0.0.0 visit.digidip.net
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
+0.0.0.0 visualdna.com
 0.0.0.0 v.lkqd.net
 0.0.0.0 vmp.boldchat.com
 0.0.0.0 vmss.boldchat.com
@@ -4063,6 +4076,7 @@
 0.0.0.0 www.tracc.it
 0.0.0.0 www.ugdturner.com
 0.0.0.0 www.upsellit.com
+0.0.0.0 www.usefomo.com
 0.0.0.0 www.usemax.de
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
