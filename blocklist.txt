@@ -1253,6 +1253,7 @@
 0.0.0.0 cs.media.net
 0.0.0.0 csm.fr.eu.criteo.net
 0.0.0.0 csm.nl.eu.criteo.net
+0.0.0.0 cs.ns1p.net
 0.0.0.0 c.spiegel.de
 0.0.0.0 cs.prd.msys.playstation.net
 0.0.0.0 csr.inspsearchapi.com
@@ -2010,6 +2011,7 @@
 0.0.0.0 init.supersonicads.com
 0.0.0.0 ink1001.com
 0.0.0.0 in.ml314.com
+0.0.0.0 inmoment.com
 0.0.0.0 inputs.alooma.com
 0.0.0.0 insight.adsrvr.org
 0.0.0.0 insights.blogfoster.com
@@ -2565,6 +2567,7 @@
 0.0.0.0 ping.getadblock.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pings.vidpulse.com
+0.0.0.0 ping.taplytics.com
 0.0.0.0 pi.pardot.com
 0.0.0.0 pipedream.wistia.com
 0.0.0.0 pippio.com
