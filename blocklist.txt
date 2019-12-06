@@ -136,6 +136,7 @@
 0.0.0.0 acds.prod.vidible.tv
 0.0.0.0 a.collective-media.net
 0.0.0.0 acookie.alibaba.com
+0.0.0.0 acs.m.taobao.com
 0.0.0.0 action.media6degrees.com
 0.0.0.0 action.metaffiliation.com
 0.0.0.0 actions-am.taboola.com
@@ -222,9 +223,11 @@
 0.0.0.0 adquality.ch
 0.0.0.0 ads18.adtelligent.com
 0.0.0.0 ads18.vertamedia.com
+0.0.0.0 ads19.adtelligent.com
 0.0.0.0 ads19.vertamedia.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads30.adcolony.com
+0.0.0.0 ads7.vertamedia.com
 0.0.0.0 ads.adap.tv
 0.0.0.0 ads.adaptv.advertising.com
 0.0.0.0 ads-adaptv.vidible.tv
@@ -537,6 +540,7 @@
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.picsart.com
 0.0.0.0 api.pingstart.com
+0.0.0.0 api.popin.cc
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
 0.0.0.0 api-public.addthis.com
@@ -1606,6 +1610,7 @@
 0.0.0.0 ergoag.d3.sc.omtrdc.net
 0.0.0.0 errors.client.optimizely.com
 0.0.0.0 e.serverbid.com
+0.0.0.0 esimedia-d.openx.net
 0.0.0.0 esixtgmbhandcokg.d3.sc.omtrdc.net
 0.0.0.0 espndotcom.tt.omtrdc.net
 0.0.0.0 esprit-de01.webtrekk.net
@@ -3044,6 +3049,7 @@
 0.0.0.0 sejs.moatads.com
 0.0.0.0 self.events.data.microsoft.com
 0.0.0.0 semantiqo.com
+0.0.0.0 semi-cod.com
 0.0.0.0 se.monetate.net
 0.0.0.0 sendgrid.net
 0.0.0.0 sendpulse.com
@@ -3920,6 +3926,7 @@
 0.0.0.0 ws.pusherapp.com
 0.0.0.0 ws.sharethis.com
 0.0.0.0 ws.tapjoyads.com
+0.0.0.0 wtk.db.com
 0.0.0.0 wtpn.twenga.de
 0.0.0.0 w.uptolike.com
 0.0.0.0 w.usabilla.com
