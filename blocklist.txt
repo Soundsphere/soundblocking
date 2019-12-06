@@ -90,6 +90,7 @@
 0.0.0.0 a3361.casalemedia.com
 0.0.0.0 a3370.casalemedia.com
 0.0.0.0 a3371.casalemedia.com
+0.0.0.0 a3380.casalemedia.com
 0.0.0.0 a3390.casalemedia.com
 0.0.0.0 a3391.casalemedia.com
 0.0.0.0 a3400.casalemedia.com
@@ -120,6 +121,7 @@
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-iad.amazon.com
+0.0.0.0 abc.esprit.de
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 a.bf-ad.net
 0.0.0.0 abp.smartadcheck.de
@@ -417,6 +419,7 @@
 0.0.0.0 amzn.to
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
+0.0.0.0 analytics.analytics-egain.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
 0.0.0.0 analytics.businessinsider.com
@@ -800,6 +803,7 @@
 0.0.0.0 bitrix.info
 0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 bloggerei.de
+0.0.0.0 blogigo.de
 0.0.0.0 bms.adjarabet.com
 0.0.0.0 bnc.lt
 0.0.0.0 boards.4channel.org
@@ -1060,6 +1064,7 @@
 0.0.0.0 c.gumgum.com
 0.0.0.0 chatrouter-skyde.inq.com
 0.0.0.0 chatrouter-ups.inq.com
+0.0.0.0 chattestdu.de
 0.0.0.0 chaturbate.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 choices.trustarc.com
@@ -1963,6 +1968,7 @@
 0.0.0.0 image.ibb.co
 0.0.0.0 images.dmca.com
 0.0.0.0 images.intellitxt.com
+0.0.0.0 images.mxpnl.com
 0.0.0.0 images.outbrain.com
 0.0.0.0 images.outbrainimg.com
 0.0.0.0 images.paypal.com
@@ -2162,6 +2168,7 @@
 0.0.0.0 libs.outbrain.com
 0.0.0.0 license.piriform.com
 0.0.0.0 licensing.bitmovin.com
+0.0.0.0 liebessinn.de
 0.0.0.0 lifeandstylemag.com
 0.0.0.0 linkconnector.com
 0.0.0.0 links.services.disqus.com
@@ -2917,6 +2924,7 @@
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rxcdn.1rx.io
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s06.flagcounter.com
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s0.wp.com
 0.0.0.0 s10.histats.com
@@ -2978,6 +2986,7 @@
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
+0.0.0.0 script.leadboxer.com
 0.0.0.0 scripts.demandbase.com
 0.0.0.0 scripts.host.bannerflow.com
 0.0.0.0 scripts.kiosked.com
