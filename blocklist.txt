@@ -103,6 +103,7 @@
 0.0.0.0 a4p.adpartner.pro
 0.0.0.0 a6.smi2.ru
 0.0.0.0 a7.smi2.ru
+0.0.0.0 aa.adfarm1.adition.com
 0.0.0.0 aa.agkn.com
 0.0.0.0 a.ad.gt
 0.0.0.0 a.adroll.com
@@ -558,6 +559,7 @@
 0.0.0.0 apiservices.krxd.net
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
+0.0.0.0 api.smartredirect.de
 0.0.0.0 api.stathat.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.taplytics.com
@@ -1331,6 +1333,7 @@
 0.0.0.0 d31vxm9ubutrmw.cloudfront.net
 0.0.0.0 d32hwlnfiv2gyn.cloudfront.net
 0.0.0.0 d37gvrvc0wt4s1.cloudfront.net
+0.0.0.0 d38hmgjgf0kofx.cloudfront.net
 0.0.0.0 d3alqb8vzo7fun.cloudfront.net
 0.0.0.0 d3avqv6zaxegeu.cloudfront.net
 0.0.0.0 d3c3cq33003psk.cloudfront.net
