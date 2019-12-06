@@ -75,6 +75,7 @@
 0.0.0.0 a2231.casalemedia.com
 0.0.0.0 a2240.casalemedia.com
 0.0.0.0 a2.adform.net
+0.0.0.0 a2.chartboost.com
 0.0.0.0 a3060.casalemedia.com
 0.0.0.0 a3281.casalemedia.com
 0.0.0.0 a3290.casalemedia.com
@@ -877,6 +878,7 @@
 0.0.0.0 c.bigmir.net
 0.0.0.0 c.bing.com
 0.0.0.0 cbm02.webtrekk.net
+0.0.0.0 cb.mopub.com
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsi-d.openx.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
@@ -1779,6 +1781,7 @@
 0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
+0.0.0.0 gateway.foresee.com
 0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
 0.0.0.0 gazeta.hit.gemius.pl
@@ -3827,6 +3830,7 @@
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 video.moatads.com
 0.0.0.0 video.oms.eu
+0.0.0.0 video-shield.mediavine.com
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 vid-io-dub.springserve.com
 0.0.0.0 vid.pubmatic.com
