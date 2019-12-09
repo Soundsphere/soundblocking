@@ -5238,6 +5238,7 @@
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacon.scorecardresearch.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
@@ -7018,6 +7019,7 @@
 0.0.0.0 certifiedtranslations.ru
 0.0.0.0 certify.alexametrics.com
 0.0.0.0 certify-amp.alexametrics.com
+0.0.0.0 certify-js.alexametrics.com
 0.0.0.0 cert-services.com
 0.0.0.0 certumgroup.com
 0.0.0.0 cervatotal.servebeer.com
@@ -7597,6 +7599,7 @@
 0.0.0.0 cm.mgid.com
 0.0.0.0 cm.need2find.com
 0.0.0.0 cmp.advertising.com
+0.0.0.0 cmp-as-tm.everesttech.net
 0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmp.macworld.com
 0.0.0.0 cmp.mediavine.com
@@ -7716,6 +7719,7 @@
 0.0.0.0 collector-px8la3oway.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
 0.0.0.0 collector-pxk3bezzfo.perimeterx.net
+0.0.0.0 collector-pxk6s8okp3.perimeterx.net
 0.0.0.0 collector-pxpkewm2nh.perimeterx.net
 0.0.0.0 collector-pxrf8vapwa.perimeterx.net
 0.0.0.0 collector-pxrw7m6iav.perimeterx.net
