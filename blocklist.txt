@@ -775,6 +775,7 @@
 0.0.0.0 beacons3.gvt2.com
 0.0.0.0 beacons4.gvt2.com
 0.0.0.0 beacons5.gvt2.com
+0.0.0.0 beacons5.gvt3.com
 0.0.0.0 beacons.gcp.gvt2.com
 0.0.0.0 beacons.gvt2.com
 0.0.0.0 beacon.shazam.com
@@ -1130,6 +1131,7 @@
 0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.mgid.com
 0.0.0.0 cmp.advertising.com
+0.0.0.0 cmp-as-tm.everesttech.net
 0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmp.macworld.com
 0.0.0.0 cmp.mediavine.com
@@ -3958,6 +3960,7 @@
 0.0.0.0 www15.smartadserver.com
 0.0.0.0 www1.belboon.de
 0.0.0.0 www1.mpnrs.com
+0.0.0.0 www2.criteo.com
 0.0.0.0 www2.glam.com
 0.0.0.0 www2.mpnrs.com
 0.0.0.0 www.33across.com
