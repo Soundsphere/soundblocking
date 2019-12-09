@@ -13,6 +13,7 @@
 0.0.0.0 1.gmxnet.damoh.schneevonmorgen.com
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 2-01-2a40-0017.cdx.cdxcn.net
+0.0.0.0 243-mrr-459.mktoresp.com
 0.0.0.0 2507573.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2.chipde.damoh.schneevonmorgen.com
@@ -419,6 +420,7 @@
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-usadmm.dotomi.com
 0.0.0.0 amzn.to
+0.0.0.0 anaconda.org
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.analytics-egain.com
@@ -506,6 +508,7 @@
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.branch.io
 0.0.0.0 api.brs.intl.miui.com
+0.0.0.0 api.bttrack.com
 0.0.0.0 api.bufferapp.com
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api-cf.affirm.com
@@ -698,6 +701,7 @@
 0.0.0.0 a.trkme.net
 0.0.0.0 ats.otto.de
 0.0.0.0 a.twiago.com
+0.0.0.0 au1.qualtrics.com
 0.0.0.0 auction.unityads.unity3d.com
 0.0.0.0 audiag.112.2o7.net
 0.0.0.0 audible.tt.omtrdc.net
@@ -816,6 +820,7 @@
 0.0.0.0 bombora.com
 0.0.0.0 bonfire.spklw.com
 0.0.0.0 boss.berlinonline.de
+0.0.0.0 b.perimeterx.net
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 britishskybroadcasti.tt.omtrdc.net
@@ -1164,6 +1169,7 @@
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-px8la3oway.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
+0.0.0.0 collector-pxikkul2rm.perimeterx.net
 0.0.0.0 collector-pxk3bezzfo.perimeterx.net
 0.0.0.0 collector-pxk6s8okp3.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
@@ -1450,6 +1456,7 @@
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 dc.banggood.com
+0.0.0.0 dccss.banggood.com
 0.0.0.0 dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com
 0.0.0.0 dcinfos.abtasty.com
 0.0.0.0 dclk-match.dotomi.com
@@ -1640,6 +1647,7 @@
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
 0.0.0.0 eu.groupondata.com
+0.0.0.0 eulerian.sarenza.com
 0.0.0.0 eu.market-place.su
 0.0.0.0 eu.nuggad.net
 0.0.0.0 eu.qualtrics.com
@@ -2008,6 +2016,7 @@
 0.0.0.0 impes.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
+0.0.0.0 improving.duckduckgo.com
 0.0.0.0 imp.tradedoubler.com
 0.0.0.0 imrk.net
 0.0.0.0 imstore.bet365affiliates.com
@@ -2041,6 +2050,7 @@
 0.0.0.0 instant.page
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 instreamvideo.ru
+0.0.0.0 intg.snapchat.com
 0.0.0.0 intljs.rmtag.com
 0.0.0.0 inv-nets.admixer.net
 0.0.0.0 in.wzrkt.com
@@ -2543,6 +2553,7 @@
 0.0.0.0 pagead-googlehosted.l.google.com
 0.0.0.0 pagead.l.doubleclick.net
 0.0.0.0 page-events-ustats.udemy.com
+0.0.0.0 pages-stats.rbl.ms
 0.0.0.0 pages.taboola.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 pandoramedia.demdex.net
@@ -3024,6 +3035,7 @@
 0.0.0.0 sdsbucket.s3.amazonaws.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 seccdn-gl.imrworldwide.com
+0.0.0.0 sec.levexis.com
 0.0.0.0 s.eclick.vn
 0.0.0.0 sec.umeng.com
 0.0.0.0 secure.33across.com
@@ -3639,6 +3651,7 @@
 0.0.0.0 tracking.oe24.at
 0.0.0.0 tracking.olx-st.com
 0.0.0.0 tracking.omnitagjs.com
+0.0.0.0 tracking.retailrocket.net
 0.0.0.0 tracking.rtl.de
 0.0.0.0 tracking.s24.com
 0.0.0.0 tracking.searchmarketing.com
@@ -3714,6 +3727,7 @@
 0.0.0.0 ua.hit.gemius.pl
 0.0.0.0 uaid-linkage.imrworldwide.com
 0.0.0.0 uat-net.technoratimedia.com
+0.0.0.0 ubiquitousyard.com
 0.0.0.0 ubm.tt.omtrdc.net
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
@@ -3727,6 +3741,7 @@
 0.0.0.0 uir.uimserv.net
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.at.atwola.com
+0.0.0.0 uktc.ijento.com
 0.0.0.0 ulogin-stats.ru
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulogs.umeng.com
@@ -3754,6 +3769,7 @@
 0.0.0.0 urtracker.q-sis.de
 0.0.0.0 us-ads.openx.net
 0.0.0.0 usage.trackjs.com
+0.0.0.0 usasync01.admantx.com
 0.0.0.0 usc.adserver.snapads.com
 0.0.0.0 us-central1-firebase-wixapp.cloudfunctions.net
 0.0.0.0 usd.india-abc.com
