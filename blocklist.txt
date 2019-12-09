@@ -1186,6 +1186,7 @@
 0.0.0.0 comcluster.cxense.com
 0.0.0.0 common.duapps.com
 0.0.0.0 community.unbounce.com
+0.0.0.0 completion.amazon.com
 0.0.0.0 completion.amazon.co.uk
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condenast.demdex.net
@@ -1531,6 +1532,7 @@
 0.0.0.0 d.nativendo.de
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnssec-nd.gexperiments1.com
+0.0.0.0 dnsseed.bluematt.me
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 d.omsnative.de
 0.0.0.0 dot.wp.pl
@@ -3069,7 +3071,9 @@
 0.0.0.0 secure-uk.imrworldwide.com
 0.0.0.0 secure-us.imrworldwide.com
 0.0.0.0 securite.01net.com
+0.0.0.0 seed.bitcoin.jonasschnelli.ch
 0.0.0.0 seed.bitcoin.sipa.be
+0.0.0.0 seed.bitnodes.io
 0.0.0.0 s.effectivemeasure.net
 0.0.0.0 segment-data.zqtk.net
 0.0.0.0 segment-pixel.invitemedia.com
@@ -3347,6 +3351,7 @@
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stat.sputnik.ru
+0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.smartclip.net
 0.0.0.0 stats.tipser.com
