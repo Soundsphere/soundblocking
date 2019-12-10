@@ -6043,6 +6043,7 @@
 0.0.0.0 bozhinovco.com
 0.0.0.0 bp2.getredirect.com
 0.0.0.0 b.pcadvisor.co.uk
+0.0.0.0 b.perimeterx.net
 0.0.0.0 bpfq02.com
 0.0.0.0 bpl.kr
 0.0.0.0 bposur.com
@@ -6798,6 +6799,7 @@
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.branch.io
+0.0.0.0 cdn.braun634.com
 0.0.0.0 cdn.bttrack.com
 0.0.0.0 cdn.buysellads.com
 0.0.0.0 cdn.callrail.com
@@ -7718,12 +7720,15 @@
 0.0.0.0 collector-px8fcgygk4.perimeterx.net
 0.0.0.0 collector-px8la3oway.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
+0.0.0.0 collector-pxikkul2rm.perimeterx.net
+0.0.0.0 collector-pxjbdhncwl.perimeterx.net
 0.0.0.0 collector-pxk3bezzfo.perimeterx.net
 0.0.0.0 collector-pxk6s8okp3.perimeterx.net
 0.0.0.0 collector-pxpkewm2nh.perimeterx.net
 0.0.0.0 collector-pxrf8vapwa.perimeterx.net
 0.0.0.0 collector-pxrw7m6iav.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
+0.0.0.0 collector-pxur63h57z.perimeterx.net
 0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
 0.0.0.0 collector.richmond.com
 0.0.0.0 collector.schibsted.io
@@ -8870,6 +8875,7 @@
 0.0.0.0 data13.adlooxtracking.com
 0.0.0.0 data14.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
+0.0.0.0 data16.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
 0.0.0.0 data18.adlooxtracking.com
 0.0.0.0 data19.adlooxtracking.com
@@ -13000,6 +13006,7 @@
 0.0.0.0 georg-kuenzle.ch
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geo.settings.data.microsoft.com.akadns.net
+0.0.0.0 geotags.w55c.net
 0.0.0.0 geotarget.info
 0.0.0.0 geo-um.btrll.com
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
@@ -16781,6 +16788,7 @@
 0.0.0.0 lemion.com
 0.0.0.0 lenaruss.com
 0.0.0.0 lenovo.demdex.net
+0.0.0.0 lenovo.evergage.com
 0.0.0.0 lenovo.tt.omtrdc.net
 0.0.0.0 lenox-spares.com
 0.0.0.0 leogadgets.com
@@ -21642,6 +21650,7 @@
 0.0.0.0 pixel.adsafeprotected.com
 0.0.0.0 pixel.advertising.com
 0.0.0.0 pixel.anyclip.com
+0.0.0.0 pixelappcollector.thesun.co.uk
 0.0.0.0 pixel.app.returnpath.net
 0.0.0.0 pixel-a.sitescout.com
 0.0.0.0 pixel.bild.de
@@ -21735,6 +21744,7 @@
 0.0.0.0 plastikp.ru
 0.0.0.0 plastpell.com.br
 0.0.0.0 plateau.co.in
+0.0.0.0 platform-cdn.sharethrough.com
 0.0.0.0 platformiq-del.aquaplatform.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.linkedin.com
@@ -23258,6 +23268,7 @@
 0.0.0.0 rdt.screensaver.com
 0.0.0.0 re75.com
 0.0.0.0 reachjunction.com
+0.0.0.0 reachms.bfmio.com
 0.0.0.0 reachsearch.net
 0.0.0.0 reactx.com
 0.0.0.0 readagreement.net
@@ -25364,6 +25375,7 @@
 0.0.0.0 service.urchin.com
 0.0.0.0 servicwebuc.com
 0.0.0.0 servik.com
+0.0.0.0 serving.adbetclickin.pink
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 serving.bepolite.eu
 0.0.0.0 serving.rpowermedia.com
@@ -27630,6 +27642,7 @@
 0.0.0.0 t.agentanalytics.com
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 tagger.opecloud.com
+0.0.0.0 tag.getdrip.com
 0.0.0.0 taghahanastylol.com
 0.0.0.0 taghahasillynasty.com
 0.0.0.0 taghahawildcrazy.com
@@ -28382,6 +28395,7 @@
 0.0.0.0 tibssystems.com
 0.0.0.0 tibsystems.com
 0.0.0.0 tickerbar.info
+0.0.0.0 tidd.ly
 0.0.0.0 tideallstatefin.com
 0.0.0.0 tidelinecharter.com
 0.0.0.0 tiendasfull.com
@@ -31108,6 +31122,7 @@
 0.0.0.0 ws3.hotjar.com
 0.0.0.0 ws4.hotjar.com
 0.0.0.0 ws5.hotjar.com
+0.0.0.0 ws.audioeye.com
 0.0.0.0 wsb22.com
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 wsearchengine.com
