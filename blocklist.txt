@@ -1387,6 +1387,7 @@
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data14.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
+0.0.0.0 data16.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
 0.0.0.0 data18.adlooxtracking.com
 0.0.0.0 data19.adlooxtracking.com
@@ -4190,6 +4191,7 @@
 0.0.0.0 zm232.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
+0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 0.0.0.0 zn6sdb0uwojrglmmn-fandango.siteintercept.qualtrics.com
 0.0.0.0 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
