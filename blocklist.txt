@@ -26,6 +26,7 @@
 0.0.0.0 35ax3z5b4g.kameleoon.eu
 0.0.0.0 3797665.fls.doubleclick.net
 0.0.0.0 4228414.fls.doubleclick.net
+0.0.0.0 4345210.fls.doubleclick.net
 0.0.0.0 4382365.fls.doubleclick.net
 0.0.0.0 4711400.fls.doubleclick.net
 0.0.0.0 4798542.fls.doubleclick.net
@@ -1101,6 +1102,7 @@
 0.0.0.0 click.linksynergy.com
 0.0.0.0 clickmeter.com
 0.0.0.0 click.oneplus.com
+0.0.0.0 click.playstationmail.net
 0.0.0.0 click.plista.com
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clickserve.dartsearch.net
@@ -1161,6 +1163,7 @@
 0.0.0.0 collect-eu-central-1.tealiumiq.com
 0.0.0.0 collector-1054.tvsquared.com
 0.0.0.0 collectorb.tvsquared.com
+0.0.0.0 collector.bunchbox.co
 0.0.0.0 collector.fitanalytics.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
@@ -1914,6 +1917,7 @@
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hb.sekindo.com
 0.0.0.0 hb.vntsm.com
+0.0.0.0 hbxlp.media.net
 0.0.0.0 hbx.media.net
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 healte.de
@@ -3788,6 +3792,7 @@
 0.0.0.0 us-central1-firebase-wixapp.cloudfunctions.net
 0.0.0.0 usd.india-abc.com
 0.0.0.0 us-east-1.a.intentmedia.net
+0.0.0.0 useast.bfmio.com
 0.0.0.0 usemaxserver.de
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
