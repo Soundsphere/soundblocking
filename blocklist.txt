@@ -2280,6 +2280,7 @@
 0.0.0.0 m2d.m2.ai
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m.9gag.com
+0.0.0.0 ma180-r.analytics.edgekey.net
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 ma728-r.analytics.edgekey.net
 0.0.0.0 mab.chartbeat.com
@@ -2735,6 +2736,7 @@
 0.0.0.0 prf.hn
 0.0.0.0 p.rfihub.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
@@ -3887,6 +3889,7 @@
 0.0.0.0 visualdna.com
 0.0.0.0 v.lkqd.net
 0.0.0.0 vmp.boldchat.com
+0.0.0.0 vms.boldchat.com
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 vodafonenz.122.2o7.net
 0.0.0.0 vogelservices.122.2o7.net
@@ -3902,6 +3905,7 @@
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
 0.0.0.0 vz-cdn.trafficjunky.net
+0.0.0.0 vzuhe758ae.kameleoon.eu
 0.0.0.0 warnerbros.112.2o7.net
 0.0.0.0 washingtonpost.com.102.112.2o7.net
 0.0.0.0 watson.telemetry.microsoft.com
@@ -4123,6 +4127,7 @@
 0.0.0.0 www.queer.de
 0.0.0.0 www.querverweis.net
 0.0.0.0 www.ranking-hits.de
+0.0.0.0 www.rce-event.de
 0.0.0.0 www.redtube.com.br
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.roosterfirework.com
