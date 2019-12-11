@@ -26,6 +26,7 @@
 0.0.0.0 35ax3z5b4g.kameleoon.eu
 0.0.0.0 3797665.fls.doubleclick.net
 0.0.0.0 4228414.fls.doubleclick.net
+0.0.0.0 4345210.fls.doubleclick.net
 0.0.0.0 4382365.fls.doubleclick.net
 0.0.0.0 4711400.fls.doubleclick.net
 0.0.0.0 4798542.fls.doubleclick.net
@@ -66,6 +67,7 @@
 0.0.0.0 a2150.casalemedia.com
 0.0.0.0 a2151.casalemedia.com
 0.0.0.0 a2160.casalemedia.com
+0.0.0.0 a2170.casalemedia.com
 0.0.0.0 a2180.casalemedia.com
 0.0.0.0 a2181.casalemedia.com
 0.0.0.0 a2190.casalemedia.com
@@ -1100,6 +1102,7 @@
 0.0.0.0 click.linksynergy.com
 0.0.0.0 clickmeter.com
 0.0.0.0 click.oneplus.com
+0.0.0.0 click.playstationmail.net
 0.0.0.0 click.plista.com
 0.0.0.0 clicks.aweber.com
 0.0.0.0 clickserve.dartsearch.net
@@ -1160,6 +1163,7 @@
 0.0.0.0 collect-eu-central-1.tealiumiq.com
 0.0.0.0 collector-1054.tvsquared.com
 0.0.0.0 collectorb.tvsquared.com
+0.0.0.0 collector.bunchbox.co
 0.0.0.0 collector.fitanalytics.com
 0.0.0.0 collector.fiverr.com
 0.0.0.0 collector.githubapp.com
@@ -1170,6 +1174,7 @@
 0.0.0.0 collector-px8la3oway.perimeterx.net
 0.0.0.0 collector-pxbecn7fqx.perimeterx.net
 0.0.0.0 collector-pxikkul2rm.perimeterx.net
+0.0.0.0 collector-pxjbdhncwl.perimeterx.net
 0.0.0.0 collector-pxk3bezzfo.perimeterx.net
 0.0.0.0 collector-pxk6s8okp3.perimeterx.net
 0.0.0.0 collector-pxoyox6vj7.perimeterx.net
@@ -1177,6 +1182,7 @@
 0.0.0.0 collector-pxrf8vapwa.perimeterx.net
 0.0.0.0 collector-pxrw7m6iav.perimeterx.net
 0.0.0.0 collector-pxss13u803.perimeterx.net
+0.0.0.0 collector-pxur63h57z.perimeterx.net
 0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
@@ -1387,6 +1393,7 @@
 0.0.0.0 data134.adlooxtracking.com
 0.0.0.0 data14.adlooxtracking.com
 0.0.0.0 data15.adlooxtracking.com
+0.0.0.0 data16.adlooxtracking.com
 0.0.0.0 data17.adlooxtracking.com
 0.0.0.0 data18.adlooxtracking.com
 0.0.0.0 data19.adlooxtracking.com
@@ -1910,6 +1917,7 @@
 0.0.0.0 hbopenbid.pubmatic.com
 0.0.0.0 hb.sekindo.com
 0.0.0.0 hb.vntsm.com
+0.0.0.0 hbxlp.media.net
 0.0.0.0 hbx.media.net
 0.0.0.0 hc.uralweb.ru
 0.0.0.0 healte.de
@@ -2176,6 +2184,7 @@
 0.0.0.0 lddy25pglm.kameleoon.eu
 0.0.0.0 leadback.advertising.com
 0.0.0.0 lenovo.demdex.net
+0.0.0.0 lenovo.evergage.com
 0.0.0.0 lenovo.tt.omtrdc.net
 0.0.0.0 lexip.4pcdn.de
 0.0.0.0 lg1.logging.admicro.vn
@@ -2236,6 +2245,7 @@
 0.0.0.0 log.outbrain.com
 0.0.0.0 log.outbrainimg.com
 0.0.0.0 log.pinterest.com
+0.0.0.0 log-player.arte.tv
 0.0.0.0 logpostback.media.net
 0.0.0.0 log.prezi.com
 0.0.0.0 log.quora.com
@@ -2270,6 +2280,7 @@
 0.0.0.0 m2d.m2.ai
 0.0.0.0 m2m1.inner-active.mobi
 0.0.0.0 m.9gag.com
+0.0.0.0 ma180-r.analytics.edgekey.net
 0.0.0.0 ma312-r.analytics.edgesuite.net
 0.0.0.0 ma728-r.analytics.edgekey.net
 0.0.0.0 mab.chartbeat.com
@@ -2664,6 +2675,7 @@
 0.0.0.0 pix.telekom.de
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 plarium.com
+0.0.0.0 platform-cdn.sharethrough.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 platform.stumbleupon.com
@@ -2724,6 +2736,7 @@
 0.0.0.0 prf.hn
 0.0.0.0 p.rfihub.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
@@ -3104,6 +3117,7 @@
 0.0.0.0 service.maxymiser.net
 0.0.0.0 servicer.mgid.com
 0.0.0.0 services.serving-sys.com
+0.0.0.0 serving.adbetclickin.pink
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 servt.playbuzz.co
 0.0.0.0 sessionapi.veinteractive.com
@@ -3567,6 +3581,7 @@
 0.0.0.0 thor.rtk.io
 0.0.0.0 thrtle.com
 0.0.0.0 tia.timeinc.net
+0.0.0.0 tidd.ly
 0.0.0.0 timeanddate-d.openx.net
 0.0.0.0 time.izatcloud.net
 0.0.0.0 t.indeed.com
@@ -3779,6 +3794,7 @@
 0.0.0.0 us-central1-firebase-wixapp.cloudfunctions.net
 0.0.0.0 usd.india-abc.com
 0.0.0.0 us-east-1.a.intentmedia.net
+0.0.0.0 useast.bfmio.com
 0.0.0.0 usemaxserver.de
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
@@ -3873,6 +3889,7 @@
 0.0.0.0 visualdna.com
 0.0.0.0 v.lkqd.net
 0.0.0.0 vmp.boldchat.com
+0.0.0.0 vms.boldchat.com
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 vodafonenz.122.2o7.net
 0.0.0.0 vogelservices.122.2o7.net
@@ -3888,6 +3905,7 @@
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
 0.0.0.0 vz-cdn.trafficjunky.net
+0.0.0.0 vzuhe758ae.kameleoon.eu
 0.0.0.0 warnerbros.112.2o7.net
 0.0.0.0 washingtonpost.com.102.112.2o7.net
 0.0.0.0 watson.telemetry.microsoft.com
@@ -3956,6 +3974,7 @@
 0.0.0.0 ws3.hotjar.com
 0.0.0.0 ws4.hotjar.com
 0.0.0.0 ws5.hotjar.com
+0.0.0.0 ws.audioeye.com
 0.0.0.0 wsdk-files.webengage.com
 0.0.0.0 ws-eu.amazon-adsystem.com
 0.0.0.0 w.sharethis.com
@@ -4108,6 +4127,7 @@
 0.0.0.0 www.queer.de
 0.0.0.0 www.querverweis.net
 0.0.0.0 www.ranking-hits.de
+0.0.0.0 www.rce-event.de
 0.0.0.0 www.redtube.com.br
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.roosterfirework.com
@@ -4190,6 +4210,7 @@
 0.0.0.0 zm232.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
+0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 0.0.0.0 zn6sdb0uwojrglmmn-fandango.siteintercept.qualtrics.com
 0.0.0.0 zn_9nquvazst1xipkt-cbs.siteintercept.qualtrics.com
