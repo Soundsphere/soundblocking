@@ -756,6 +756,7 @@
 0.0.0.0 bannersnack.com
 0.0.0.0 banners.webmasterplan.com
 0.0.0.0 banners.wunderground.com
+0.0.0.0 b-api.facebook.com
 0.0.0.0 baremetrics.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batchgeo.com
