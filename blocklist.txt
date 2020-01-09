@@ -16732,7 +16732,6 @@
 0.0.0.0 lc.livefyre.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lcs.naver.com
-0.0.0.0 lct.salesforce.com
 0.0.0.0 lddy25pglm.kameleoon.eu
 0.0.0.0 ldgate.com
 0.0.0.0 ldkiekxc.rr.nu
@@ -24139,8 +24138,6 @@
 0.0.0.0 salabon.com
 0.0.0.0 salbum.com
 0.0.0.0 salemnet.com
-0.0.0.0 salesforce.com
-0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 salesguides.net
 0.0.0.0 sales.liveperson.net
 0.0.0.0 salestaxsimplification.org
