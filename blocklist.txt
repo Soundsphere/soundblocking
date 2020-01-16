@@ -26,6 +26,7 @@
 0.0.0.0 35ax3z5b4g.kameleoon.eu
 0.0.0.0 3797665.fls.doubleclick.net
 0.0.0.0 4228414.fls.doubleclick.net
+0.0.0.0 4258548.fls.doubleclick.net
 0.0.0.0 4345210.fls.doubleclick.net
 0.0.0.0 4382365.fls.doubleclick.net
 0.0.0.0 4711400.fls.doubleclick.net
@@ -370,6 +371,7 @@
 0.0.0.0 a.intentmedia.net
 0.0.0.0 airbrake.io
 0.0.0.0 airtel.d3.sc.omtrdc.net
+0.0.0.0 aj1616.online
 0.0.0.0 ak1s.abmr.net
 0.0.0.0 aka-cdn.adtech.de
 0.0.0.0 aka-cdn.adtechus.com
@@ -754,6 +756,7 @@
 0.0.0.0 bannersnack.com
 0.0.0.0 banners.webmasterplan.com
 0.0.0.0 banners.wunderground.com
+0.0.0.0 b-api.facebook.com
 0.0.0.0 baremetrics.com
 0.0.0.0 bat.bing.com
 0.0.0.0 batchgeo.com
@@ -1043,6 +1046,7 @@
 0.0.0.0 cdn.tercept.com
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.tradelab.fr
+0.0.0.0 cdn.treasuredata.com
 0.0.0.0 cdntrf.com
 0.0.0.0 cdn.tsyndicate.com
 0.0.0.0 cdn.tt.omtrdc.net
@@ -1373,6 +1377,7 @@
 0.0.0.0 dagda.vilynx.com
 0.0.0.0 d.agkn.com
 0.0.0.0 daimlerag.d2.sc.omtrdc.net
+0.0.0.0 daimlermobilityservices.d3.sc.omtrdc.net
 0.0.0.0 daldt.adsafeprotected.com
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 d.applovin.com
@@ -1708,6 +1713,7 @@
 0.0.0.0 exch.quantserve.com
 0.0.0.0 expedia.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 ext-inv-cdn.presage.io
+0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 eyeota-sync.dotomi.com
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 f7-de.adhigh.net
@@ -1798,6 +1804,7 @@
 0.0.0.0 ga.clearbit.com
 0.0.0.0 g.adspeed.net
 0.0.0.0 gads.pubmatic.com
+0.0.0.0 gahu.hit.gemius.pl
 0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 garu.hit.gemius.pl
@@ -1941,6 +1948,7 @@
 0.0.0.0 hm732.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hnbutton.appspot.com
+0.0.0.0 h.nexac.com
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 h.online-metrix.net
 0.0.0.0 horizon.sailthru.com
@@ -2096,6 +2104,7 @@
 0.0.0.0 itx5-itx4.smartadserver.com
 0.0.0.0 itx5-secure.smartadserver.com
 0.0.0.0 itx5.smartadserver.com
+0.0.0.0 i.viafoura.co
 0.0.0.0 i.w55c.net
 0.0.0.0 iwa.hit.interia.pl
 0.0.0.0 i.w.inmobi.com
@@ -2638,6 +2647,7 @@
 0.0.0.0 pixel-eu.rubiconproject.net.akadns.net
 0.0.0.0 pixel.everesttech.net
 0.0.0.0 pixel.facebook.com
+0.0.0.0 pixelg.adswizz.com
 0.0.0.0 pixel-geo.prfct.co
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.jumptap.com
@@ -2985,7 +2995,6 @@
 0.0.0.0 s.adroll.com
 0.0.0.0 s.adtelligent.com
 0.0.0.0 s.agentanalytics.com
-0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 salesviewer.org
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 samcm.ksmobile.com
@@ -3240,6 +3249,7 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 ssl.geoplugin.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.mousestats.com
@@ -3335,6 +3345,7 @@
 0.0.0.0 static.zotabox.com
 0.0.0.0 statistics.11880.com
 0.0.0.0 statistics.aldi-international.com
+0.0.0.0 statistics.riskommunal.net
 0.0.0.0 stat.media
 0.0.0.0 stat.onestat.com
 0.0.0.0 stat.pladform.ru
