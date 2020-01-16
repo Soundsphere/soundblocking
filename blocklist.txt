@@ -642,6 +642,7 @@
 0.0.0.0 app-sji.marketo.com
 0.0.0.0 app-sjp.marketo.com
 0.0.0.0 app-sjqe.marketo.com
+0.0.0.0 apps.nexus.bazaarvoice.com
 0.0.0.0 apps.shareaholic.com
 0.0.0.0 appuals.com
 0.0.0.0 app.unbounce.com
@@ -2108,6 +2109,7 @@
 0.0.0.0 i.w55c.net
 0.0.0.0 iwa.hit.interia.pl
 0.0.0.0 i.w.inmobi.com
+0.0.0.0 i.ytimg.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 java.com.ssl.d1.sc.omtrdc.net
@@ -2324,6 +2326,7 @@
 0.0.0.0 marketing.criteo.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.net.brillen.de
+0.0.0.0 mark.reevoo.com
 0.0.0.0 marriott.btttag.com
 0.0.0.0 marriottinternationa.demdex.net
 0.0.0.0 mastercard.demdex.net
@@ -2458,6 +2461,7 @@
 0.0.0.0 mybbc-analytics.files.bbci.co.uk
 0.0.0.0 mybestdc.com
 0.0.0.0 mybluemix.net
+0.0.0.0 mycliplister.com
 0.0.0.0 mydmp.exelator.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.rtmark.net
