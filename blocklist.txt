@@ -2110,7 +2110,6 @@
 0.0.0.0 i.w55c.net
 0.0.0.0 iwa.hit.interia.pl
 0.0.0.0 i.w.inmobi.com
-0.0.0.0 i.ytimg.com
 0.0.0.0 j.adlooxtracking.com
 0.0.0.0 jadserve.postrelease.com
 0.0.0.0 java.com.ssl.d1.sc.omtrdc.net
