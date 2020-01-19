@@ -814,6 +814,7 @@
 0.0.0.0 bilder.bild.de
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bit.do
+0.0.0.0 bit.ly
 0.0.0.0 bitrix.info
 0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 bloggerei.de
@@ -3205,6 +3206,7 @@
 0.0.0.0 snapsort-d.openx.net
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snippets.cdn.mozilla.net
+0.0.0.0 snoop.minecraft.net
 0.0.0.0 snrtp-cdn.marketo.com
 0.0.0.0 s.ntv.io
 0.0.0.0 sofia.trustx.org
