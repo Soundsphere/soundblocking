@@ -622,6 +622,7 @@
 0.0.0.0 app.getresponse.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.hubspot.com
+0.0.0.0 app.launchdarkly.com
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 apple.tt.omtrdc.net
 0.0.0.0 app.link
@@ -1828,6 +1829,7 @@
 0.0.0.0 generaltracking.de
 0.0.0.0 geni.us
 0.0.0.0 geo2.adobe.com
+0.0.0.0 geo3.ggpht.com
 0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geocdn.unityads.unity3d.com
 0.0.0.0 geoced.smartadserver.com
@@ -3904,6 +3906,7 @@
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visualdna.com
+0.0.0.0 vjs.zencdn.net
 0.0.0.0 v.lkqd.net
 0.0.0.0 vmp.boldchat.com
 0.0.0.0 vms.boldchat.com
