@@ -583,6 +583,7 @@
 0.0.0.0 api.viglink.com
 0.0.0.0 api.vungle.com
 0.0.0.0 api.vuukle.com
+0.0.0.0 api.whatsapp.com
 0.0.0.0 api.zanox.com
 0.0.0.0 api.zanox.ws
 0.0.0.0 ap.lijit.com
@@ -1718,6 +1719,7 @@
 0.0.0.0 expedia.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 extreme-ip-lookup.com
+0.0.0.0 extremetracking.com
 0.0.0.0 eyeota-sync.dotomi.com
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 f7-de.adhigh.net
@@ -4094,6 +4096,7 @@
 0.0.0.0 www.ezoic.com
 0.0.0.0 www.facebook.com
 0.0.0.0 www.facebook.net
+0.0.0.0 www.fastcounter.de
 0.0.0.0 www.fasthosts.co.uk
 0.0.0.0 www.fitforfun.de
 0.0.0.0 www.ftjcfx.com
