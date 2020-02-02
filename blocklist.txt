@@ -992,6 +992,7 @@
 0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
+0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cdn.krxd.net
@@ -3629,6 +3630,7 @@
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.nativendo.de
+0.0.0.0 tofu.dmcdn.net
 0.0.0.0 token.rubiconproject.com
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.rambler.ru
