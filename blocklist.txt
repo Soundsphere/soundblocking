@@ -1019,6 +1019,7 @@
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.pljs.ru
+0.0.0.0 cdn.pushwoosh.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.ravenjs.com
 0.0.0.0 cdn.refersion.com
@@ -2835,6 +2836,7 @@
 0.0.0.0 q.adrta.com
 0.0.0.0 qsearch.media.net
 0.0.0.0 qs.ioam.de
+0.0.0.0 q.stripe.com
 0.0.0.0 quantcast584928381.s.moatpixel.com
 0.0.0.0 quantcast.mgr.consensu.org
 0.0.0.0 query1.petametrics.com
