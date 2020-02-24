@@ -6562,6 +6562,7 @@
 0.0.0.0 carryarbitrage.com
 0.0.0.0 carryco.com
 0.0.0.0 carsands.com
+0.0.0.0 car.saturn.de
 0.0.0.0 carsinia.com
 0.0.0.0 carsrentals.net
 0.0.0.0 cartasionline.freeo.net
@@ -6763,6 +6764,7 @@
 0.0.0.0 cdn4.userzoom.com
 0.0.0.0 cdn5.userzoom.com
 0.0.0.0 cdn6.admatic.com.tr
+0.0.0.0 cdn6.mycliplister.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 cdn.adaptv.advertising.com
@@ -15136,6 +15138,7 @@
 0.0.0.0 ina6sk.com
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 inapi.posst.co
+0.0.0.0 in.appcenter.ms
 0.0.0.0 inaughty.org
 0.0.0.0 inaugural05.com
 0.0.0.0 in-automate.sendinblue.com
@@ -19164,6 +19167,7 @@
 0.0.0.0 mycheaptraffic.com
 0.0.0.0 myckck.in
 0.0.0.0 mycleanpc.biz
+0.0.0.0 mycliplister.com
 0.0.0.0 myclmavalue.com
 0.0.0.0 myclover.org
 0.0.0.0 my-community-bnk.com
