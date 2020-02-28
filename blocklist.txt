@@ -4003,6 +4003,7 @@
 0.0.0.0 apphb.com
 0.0.0.0 app.hubspot.com
 0.0.0.0 appia.com
+0.0.0.0 app.icontact.com
 0.0.0.0 appield-attempts.com
 0.0.0.0 appier.com
 0.0.0.0 app.launchdarkly.com
@@ -7952,6 +7953,7 @@
 0.0.0.0 consciousdirt.com
 0.0.0.0 consciousnessandbiofeedback.org
 0.0.0.0 conscorr.com
+0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.truste.com
 0.0.0.0 conspy.com
@@ -24553,6 +24555,7 @@
 0.0.0.0 s.dynad.net
 0.0.0.0 se34.com
 0.0.0.0 seaforestjp.com
+0.0.0.0 seal.godaddy.com
 0.0.0.0 sealofgod.com.au
 0.0.0.0 seal.ranking.com
 0.0.0.0 seal.validatedsite.com
@@ -26748,6 +26751,7 @@
 0.0.0.0 ssl.geoplugin.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.luckyorange.com
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 ssl-munchkin.marketo.net
@@ -30796,6 +30800,7 @@
 0.0.0.0 widget.siteheart.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
+0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 wiebeavswin.com
 0.0.0.0 wikia-ads.wikia.com
