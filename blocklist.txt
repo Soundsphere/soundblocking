@@ -624,6 +624,7 @@
 0.0.0.0 app.getresponse.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 app.hubspot.com
+0.0.0.0 app.icontact.com
 0.0.0.0 app.launchdarkly.com
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 apple.tt.omtrdc.net
@@ -1224,6 +1225,7 @@
 0.0.0.0 connect.ok.ru
 0.0.0.0 connect.rom.miui.com
 0.0.0.0 connect.tapjoy.com
+0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.truste.com
 0.0.0.0 consent.webmasterplan.com
@@ -2576,6 +2578,7 @@
 0.0.0.0 optout.tynt.com
 0.0.0.0 opx-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 oracle.112.2o7.net
+0.0.0.0 orbidder.otto.de
 0.0.0.0 orca.qubitproducts.com
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
@@ -3075,6 +3078,7 @@
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.dpmsrv.com
 0.0.0.0 sdsbucket.s3.amazonaws.com
+0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 sec.levexis.com
@@ -3271,6 +3275,7 @@
 0.0.0.0 ssl.geoplugin.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 ssl.vizury.com
@@ -3991,6 +3996,7 @@
 0.0.0.0 widgets.mozo.com.au
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
+0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
