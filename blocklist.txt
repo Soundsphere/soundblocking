@@ -1019,6 +1019,7 @@
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.pljs.ru
+0.0.0.0 cdn.polyfill.io
 0.0.0.0 cdn.pushwoosh.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.ravenjs.com
@@ -1976,6 +1977,7 @@
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.ytimg.com
+0.0.0.0 ia801605.us.archive.org
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ib.3lift.com
