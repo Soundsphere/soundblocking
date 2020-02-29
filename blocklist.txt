@@ -518,6 +518,7 @@
 0.0.0.0 api.c.avazunativeads.com
 0.0.0.0 api-cf.affirm.com
 0.0.0.0 api.chat.xiaomi.net
+0.0.0.0 api.cleverpush.com
 0.0.0.0 api.company-target.com
 0.0.0.0 api.content-ad.net
 0.0.0.0 api.cortana.ai
@@ -3429,6 +3430,7 @@
 0.0.0.0 stiffstem.com
 0.0.0.0 st-n.ads1-adnow.com
 0.0.0.0 storage.cloud.kargo.com
+0.0.0.0 storage.googleapis.com
 0.0.0.0 storage.outbrain.com
 0.0.0.0 st.polyad.net
 0.0.0.0 s.tradingview.com
