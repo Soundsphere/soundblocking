@@ -1980,6 +1980,7 @@
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.ytimg.com
+0.0.0.0 ia601205.us.archive.org
 0.0.0.0 ia801605.us.archive.org
 0.0.0.0 ia802604.us.archive.org
 0.0.0.0 iadsdk.apple.com
@@ -2223,6 +2224,7 @@
 0.0.0.0 libs.de.coremetrics.com
 0.0.0.0 lib.selfcampaign.com
 0.0.0.0 libs.outbrain.com
+0.0.0.0 licensebuttons.net
 0.0.0.0 license.piriform.com
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 liebessinn.de
