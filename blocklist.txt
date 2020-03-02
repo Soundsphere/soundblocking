@@ -29,6 +29,7 @@
 0.0.0.0 4258548.fls.doubleclick.net
 0.0.0.0 4345210.fls.doubleclick.net
 0.0.0.0 4382365.fls.doubleclick.net
+0.0.0.0 4-4-2.com
 0.0.0.0 4711400.fls.doubleclick.net
 0.0.0.0 4798542.fls.doubleclick.net
 0.0.0.0 479-jpy-230.mktoresp.com
@@ -1275,6 +1276,7 @@
 0.0.0.0 crab.baidu.com
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashlogs.whatsapp.net
+0.0.0.0 crash.steampowered.com
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
@@ -3793,6 +3795,7 @@
 0.0.0.0 uat-net.technoratimedia.com
 0.0.0.0 ubiquitousyard.com
 0.0.0.0 ubm.tt.omtrdc.net
+0.0.0.0 ucarecdn.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
