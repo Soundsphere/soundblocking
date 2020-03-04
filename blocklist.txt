@@ -358,6 +358,7 @@
 0.0.0.0 ad.yieldlab.net
 0.0.0.0 ad.yieldmanager.com
 0.0.0.0 ad.zanox.com
+0.0.0.0 ae01.alicdn.com
 0.0.0.0 aem.playstation.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 aexp.demdex.net
 0.0.0.0 a.farlex.com
@@ -1541,6 +1542,7 @@
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 dk-gmtdmp.mookie1.com
 0.0.0.0 d.ligatus.com
+0.0.0.0 dlvr.it
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dmdrogerie01.webtrekk.net
 0.0.0.0 dmg.digitaltarget.ru
@@ -3029,6 +3031,7 @@
 0.0.0.0 samcm.ksmobile.com
 0.0.0.0 samcmsec.ksmobile.com
 0.0.0.0 sam.msn.com
+0.0.0.0 samsclub.com
 0.0.0.0 samsung.demdex.net
 0.0.0.0 samsungelectronicsamericainc.demdex.net
 0.0.0.0 samsung-germany.demdex.net
@@ -3334,6 +3337,7 @@
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static-bp.kameleoon.com
 0.0.0.0 static.chartbeat.com
+0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clicktripz.com
 0.0.0.0 static.clmbtech.com
 0.0.0.0 static.criteo.com
@@ -3819,6 +3823,7 @@
 0.0.0.0 unconf.adkmob.com
 0.0.0.0 undefined.fls.doubleclick.net
 0.0.0.0 universal.iperceptions.com
+0.0.0.0 unpkg.com
 0.0.0.0 uobsoe.com
 0.0.0.0 u.openx.net
 0.0.0.0 uop.umeng.com
@@ -4004,7 +4009,9 @@
 0.0.0.0 widgets.amung.us
 0.0.0.0 widgets.fie-data.co.uk
 0.0.0.0 widgets.mozo.com.au
+0.0.0.0 widgets.opinary.com
 0.0.0.0 widgets.outbrain.com
+0.0.0.0 widgets.shopvote.de
 0.0.0.0 widgets.stackcommerce.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget.us.criteo.com
@@ -4085,6 +4092,7 @@
 0.0.0.0 www.adventori.com
 0.0.0.0 www.adwidecenter.com
 0.0.0.0 www.agkn.com
+0.0.0.0 www.aliexpress.com
 0.0.0.0 www.amobee.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.applift.com
