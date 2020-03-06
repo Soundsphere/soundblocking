@@ -1074,6 +1074,7 @@
 0.0.0.0 cdn.wbtrk.net
 0.0.0.0 cdnx.tribalfusion.com
 0.0.0.0 cdn.yldbt.com
+0.0.0.0 cdn.ywxi.net
 0.0.0.0 cdn.zarget.com
 0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 cdn.zopim.com
@@ -3089,6 +3090,7 @@
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.dpmsrv.com
 0.0.0.0 sdsbucket.s3.amazonaws.com
+0.0.0.0 seal.geotrust.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 seccdn-gl.imrworldwide.com
