@@ -2725,6 +2725,7 @@
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.h-cdn.com
 0.0.0.0 player.piksel.com
+0.0.0.0 players.brightcove.net
 0.0.0.0 playtime.tubemogul.com
 0.0.0.0 p.liadm.com
 0.0.0.0 pls.webtype.com
