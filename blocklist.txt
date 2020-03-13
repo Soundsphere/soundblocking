@@ -808,6 +808,7 @@
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 best.aliexpress.com
 0.0.0.0 betathome.glb.adtech.de
+0.0.0.0 bewerbung.net
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bia.brightinfo.com
 0.0.0.0 bid.contextweb.com
@@ -1542,6 +1543,7 @@
 0.0.0.0 djtflbt20bdde.cloudfront.net
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 dk-gmtdmp.mookie1.com
+0.0.0.0 dkuim.de
 0.0.0.0 d.ligatus.com
 0.0.0.0 dlvr.it
 0.0.0.0 dmd.metaservices.microsoft.com
@@ -1825,6 +1827,7 @@
 0.0.0.0 gads.pubmatic.com
 0.0.0.0 gahu.hit.gemius.pl
 0.0.0.0 galleryapi.micloud.xiaomi.net
+0.0.0.0 gallery.mailchimp.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 gate.datacaciques.com
@@ -1867,6 +1870,7 @@
 0.0.0.0 german-adult-news.com
 0.0.0.0 get.amplitude.com
 0.0.0.0 get.cryptobrowser.site
+0.0.0.0 gethatch.com
 0.0.0.0 get.mirando.de
 0.0.0.0 getrockerbox.com
 0.0.0.0 get.s-onetag.com
@@ -1924,6 +1928,7 @@
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gum.criteo.com
+0.0.0.0 gumroad.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gwmtracking.com
 0.0.0.0 gwm.w-cdn.com
@@ -2004,6 +2009,7 @@
 0.0.0.0 i.ctnsnet.com
 0.0.0.0 ic.tynt.com
 0.0.0.0 id5-sync.com
+0.0.0.0 idcdn.de
 0.0.0.0 id.google.com
 0.0.0.0 idguk1-d.openx.net
 0.0.0.0 idiagnostics.apple.com
@@ -2397,6 +2403,7 @@
 0.0.0.0 media.flixfacts.com
 0.0.0.0 media.go2speed.org
 0.0.0.0 media-lax1.inq.com
+0.0.0.0 media.licdn.com
 0.0.0.0 mediamath.digitru.st
 0.0.0.0 mediametrics.ru
 0.0.0.0 medianet-match.dotomi.com
@@ -2861,6 +2868,7 @@
 0.0.0.0 query.petametrics.com
 0.0.0.0 query-us-west1.petametrics.com
 0.0.0.0 queuer-prod-elb.53.localytics.com
+0.0.0.0 quiz.stroeermediabrands.de
 0.0.0.0 r1.computerbild.de
 0.0.0.0 r1---sn-4g5e6nz7.gvt1.com
 0.0.0.0 r1-t.trackedlink.net
@@ -3312,6 +3320,7 @@
 0.0.0.0 sstats.economist.com
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 stadtbremerhaven.digidip.net
 0.0.0.0 stags.bluekai.com
 0.0.0.0 s.tagsrvcs.com
 0.0.0.0 stan.xing.com
