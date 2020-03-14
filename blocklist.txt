@@ -1753,6 +1753,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fast.marriottinternationa.demdex.net
 0.0.0.0 fast.skydeutschland.demdex.net
+0.0.0.0 fast.wistia.com
 0.0.0.0 faultycanvas.com
 0.0.0.0 faz.met.vgwort.de
 0.0.0.0 fbc.wcfbc.net
