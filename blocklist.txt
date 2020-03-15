@@ -2072,6 +2072,7 @@
 0.0.0.0 imstore.bet365affiliates.com
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 inapi.posst.co
+0.0.0.0 in.appcenter.ms
 0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 includemodal.com
 0.0.0.0 incoming.telemetry.mozilla.org
