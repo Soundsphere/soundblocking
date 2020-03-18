@@ -1455,6 +1455,7 @@
 0.0.0.0 data68.adlooxtracking.com
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.adsrvr.org
+0.0.0.0 data.adxcel-ec2.com
 0.0.0.0 data.alexa.com
 0.0.0.0 data.api.cnn.io
 0.0.0.0 data.appexnw.com
@@ -2220,6 +2221,7 @@
 0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lasteventf-tm.everesttech.net
+0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchpoint.marketo.com
 0.0.0.0 lb.apicit.net
 0.0.0.0 l.betrad.com
@@ -2659,6 +2661,7 @@
 0.0.0.0 pingback.issuu.com
 0.0.0.0 ping.chartbeat.net
 0.0.0.0 ping-dot-acp-magento.appspot.com
+0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.getadblock.com
 0.0.0.0 pingma.qq.com
 0.0.0.0 pings.vidpulse.com
@@ -2727,6 +2730,7 @@
 0.0.0.0 pix.telekom.de
 0.0.0.0 placements.tapjoy.com
 0.0.0.0 plarium.com
+0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethrough.com
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.linkedin.com
@@ -3105,6 +3109,7 @@
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.dpmsrv.com
 0.0.0.0 sdsbucket.s3.amazonaws.com
+0.0.0.0 sd.sharethis.com
 0.0.0.0 seal.geotrust.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.verisign.com
@@ -3677,6 +3682,7 @@
 0.0.0.0 t.nativendo.de
 0.0.0.0 tofu.dmcdn.net
 0.0.0.0 token.rubiconproject.com
+0.0.0.0 toolbar.complex.com
 0.0.0.0 top100-images.rambler.ru
 0.0.0.0 top100.rambler.ru
 0.0.0.0 top-fwz1.mail.ru
