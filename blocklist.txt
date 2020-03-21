@@ -132,6 +132,7 @@
 0.0.0.0 abc.esprit.de
 0.0.0.0 abeagle-public.buzzfeed.com
 0.0.0.0 a.bf-ad.net
+0.0.0.0 a.bf-tools.net
 0.0.0.0 abp.smartadcheck.de
 0.0.0.0 abroad-ad.kingsoft-office-service.com
 0.0.0.0 abrtp1-cdn.marketo.com
@@ -3605,6 +3606,7 @@
 0.0.0.0 tbskip.taobao.com
 0.0.0.0 tbs.tradedoubler.com
 0.0.0.0 tc.airfrance.com
+0.0.0.0 t.castle.io
 0.0.0.0 t.cfjump.com
 0.0.0.0 t.channeladvisor.com
 0.0.0.0 tcheck.outbrainimg.com
