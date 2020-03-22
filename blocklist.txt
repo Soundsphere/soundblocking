@@ -1059,6 +1059,7 @@
 0.0.0.0 cdn.taplytics.com
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.tercept.com
+0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.trackjs.com
 0.0.0.0 cdn.tradelab.fr
 0.0.0.0 cdn.treasuredata.com
@@ -2657,6 +2658,7 @@
 0.0.0.0 pfa.levexis.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phonograph2.voxmedia.com
+0.0.0.0 phoronix.com
 0.0.0.0 p.imgur.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
@@ -3221,6 +3223,7 @@
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 site-optimization-api.company-target.com
+0.0.0.0 sixcooler.de
 0.0.0.0 sjedt.adsafeprotected.com
 0.0.0.0 s.jpush.cn
 0.0.0.0 sjrtp5-cdn.marketo.com
