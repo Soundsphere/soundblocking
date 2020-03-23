@@ -302,6 +302,7 @@
 0.0.0.0 ads.nexage.com
 0.0.0.0 ads.one.co.il
 0.0.0.0 ads.playground.xyz
+0.0.0.0 ad.spreaker.com
 0.0.0.0 ads.programattik.com
 0.0.0.0 ads.pro-market.net
 0.0.0.0 adspsp.com
@@ -1567,6 +1568,7 @@
 0.0.0.0 dnn506yrbagrg.cloudfront.net
 0.0.0.0 dnssec-nd.gexperiments1.com
 0.0.0.0 dnsseed.bluematt.me
+0.0.0.0 dn-staticdown.qbox.me
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 d.omsnative.de
 0.0.0.0 dot.wp.pl
@@ -4042,6 +4044,7 @@
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.shopvote.de
 0.0.0.0 widgets.stackcommerce.com
+0.0.0.0 widgets.trustedshops.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 wikia-d.openx.net
@@ -4199,6 +4202,7 @@
 0.0.0.0 www.media.net
 0.0.0.0 www.meltwater.com
 0.0.0.0 www.movable-ink-2183.com
+0.0.0.0 www.myspace.com
 0.0.0.0 www.newnownext.com
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
