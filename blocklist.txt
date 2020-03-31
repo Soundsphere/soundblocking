@@ -1161,6 +1161,7 @@
 0.0.0.0 cm.eyereturn.com
 0.0.0.0 cm.g.doubleclick.net
 0.0.0.0 c.mgid.com
+0.0.0.0 c.microsoft.com
 0.0.0.0 cmi.netseer.com
 0.0.0.0 cm.l.qq.com
 0.0.0.0 cm.mgid.com
