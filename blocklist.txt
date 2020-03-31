@@ -812,6 +812,7 @@
 0.0.0.0 bestbuy.com
 0.0.0.0 betathome.glb.adtech.de
 0.0.0.0 bewerbung.net
+0.0.0.0 b-graph.facebook.com
 0.0.0.0 bh.contextweb.com
 0.0.0.0 bia.brightinfo.com
 0.0.0.0 bid.contextweb.com
@@ -1928,6 +1929,7 @@
 0.0.0.0 grace.shareaholic.com
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
+0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 green.erne.co
 0.0.0.0 grmtech.net
@@ -2110,6 +2112,9 @@
 0.0.0.0 instant.page
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 instreamvideo.ru
+0.0.0.0 interngraph.prod.scgraph.facebook.com
+0.0.0.0 interngraph.scgraph.facebook.com
+0.0.0.0 interngraph.staging.scgraph.facebook.com
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intljs.rmtag.com
 0.0.0.0 inv-nets.admixer.net
@@ -2807,6 +2812,7 @@
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod-js.aws.y-track.com
+0.0.0.0 prod.scgraph.facebook.com
 0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 prof.estat.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
@@ -3079,6 +3085,7 @@
 0.0.0.0 sc-analytics.appspot.com
 0.0.0.0 scdn.cxense.com
 0.0.0.0 scdn.eclick.vn
+0.0.0.0 scgraph.facebook.com
 0.0.0.0 sc.iasds01.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.clickiocdn.com
@@ -3341,6 +3348,7 @@
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
 0.0.0.0 stadtbremerhaven.digidip.net
+0.0.0.0 staging.scgraph.facebook.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 s.tagsrvcs.com
 0.0.0.0 stan.xing.com
@@ -3481,6 +3489,7 @@
 0.0.0.0 s.tradingview.com
 0.0.0.0 stream1.livefyre.com
 0.0.0.0 streamamp-d.openx.net
+0.0.0.0 streaming-graph.facebook.com
 0.0.0.0 stream.useriq.com
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 strips.vidible.tv
@@ -4186,6 +4195,7 @@
 0.0.0.0 www-googletagmanager.l.google.com
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gotgayporn.com
+0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.i.matheranalytics.com
@@ -4307,6 +4317,7 @@
 0.0.0.0 z.gds.cnzz.com
 0.0.0.0 ziffdavis-d.openx.net
 0.0.0.0 zm232.com
+0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z.moatads.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
@@ -4319,5 +4330,8 @@
 0.0.0.0 znedscsenlrql0rxd-teslamotors.siteintercept.qualtrics.com
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 z.opmnstr.com
+0.0.0.0 z-p1-graph.facebook.com
+0.0.0.0 z-p3-graph.facebook.com
+0.0.0.0 z-p4-graph.facebook.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z.webengage.co
