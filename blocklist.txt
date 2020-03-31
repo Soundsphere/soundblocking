@@ -279,6 +279,7 @@
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.in
 0.0.0.0 adservice.google.com
+0.0.0.0 adservice.google.de
 0.0.0.0 ads.eu.criteo.com
 0.0.0.0 ads.everesttech.net
 0.0.0.0 ads.e-webtrack.net
@@ -2019,6 +2020,7 @@
 0.0.0.0 ic.tynt.com
 0.0.0.0 id5-sync.com
 0.0.0.0 idcdn.de
+0.0.0.0 ident.me
 0.0.0.0 id.google.com
 0.0.0.0 idguk1-d.openx.net
 0.0.0.0 idiagnostics.apple.com
@@ -2969,6 +2971,7 @@
 0.0.0.0 route.carambo.la
 0.0.0.0 router.infolinks.com
 0.0.0.0 router.utorrent.com
+0.0.0.0 rover.ebay.com
 0.0.0.0 rpc-php.trafficfactory.biz
 0.0.0.0 rpc.tapjoy.com
 0.0.0.0 rpt.cedexis.com
@@ -4252,6 +4255,7 @@
 0.0.0.0 www.upsellit.com
 0.0.0.0 www.usefomo.com
 0.0.0.0 www.usemax.de
+0.0.0.0 www.userreport.com
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
 0.0.0.0 www.xaxis.com
