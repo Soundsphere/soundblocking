@@ -5251,6 +5251,7 @@
 0.0.0.0 beacon-us-iad2.rubiconproject.com
 0.0.0.0 beacon-us-iad3.rubiconproject.com
 0.0.0.0 beacon-us-west.rubiconproject.com
+0.0.0.0 beacon-v2.helpscout.net
 0.0.0.0 beacon.valeoip.com
 0.0.0.0 beacon.walmart.com
 0.0.0.0 beacon.wikia-services.com
