@@ -2175,6 +2175,7 @@
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
 0.0.0.0 js.brealtime.com
+0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
