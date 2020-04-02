@@ -1658,6 +1658,7 @@
 0.0.0.0 elsevier.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 e.mail.ru
 0.0.0.0 em.dynamicyield.com
+0.0.0.0 emea-v3.tracking.justpremium.com
 0.0.0.0 emisja.contentstream.pl
 0.0.0.0 emxhb.emxdgt.com
 0.0.0.0 engine.adzerk.net
@@ -2239,6 +2240,7 @@
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lasteventf-tm.everesttech.net
 0.0.0.0 launches.appsflyer.com
+0.0.0.0 launchpadlibrarian.net
 0.0.0.0 launchpoint.marketo.com
 0.0.0.0 lb.apicit.net
 0.0.0.0 l.betrad.com
