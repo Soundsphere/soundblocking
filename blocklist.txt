@@ -3658,6 +3658,7 @@
 0.0.0.0 telekom01.webtrekk.net
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
