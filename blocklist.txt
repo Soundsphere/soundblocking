@@ -827,6 +827,7 @@
 0.0.0.0 bild01.webtrekk.net
 0.0.0.0 bilder.bild.de
 0.0.0.0 bingads.microsoft.com
+0.0.0.0 bitbucket.org
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
 0.0.0.0 bitrix.info
@@ -3130,6 +3131,7 @@
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 sdk.split.io
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com
 0.0.0.0 s.dpmsrv.com
