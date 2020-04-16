@@ -2222,6 +2222,7 @@
 0.0.0.0 kfw04.webtrekk.net
 0.0.0.0 kiks.yandex.ru
 0.0.0.0 kinesis.us-east-1.amazonaws.com
+0.0.0.0 kinja.com
 0.0.0.0 kinoprogramm.bild.de
 0.0.0.0 k.intellitxt.com
 0.0.0.0 kiosked-d.openx.net
