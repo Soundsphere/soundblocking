@@ -512,6 +512,7 @@
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.amplitude.com
 0.0.0.0 api-analytics.rozetka.com.ua
+0.0.0.0 api.appodealx.com
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 api.b2c.com
