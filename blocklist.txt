@@ -1548,6 +1548,7 @@
 0.0.0.0 display.bfmio.com
 0.0.0.0 displayf-tm.everesttech.net
 0.0.0.0 displayf.tubemogul.com
+0.0.0.0 disqus.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 distroscale-d.openx.net
@@ -4351,4 +4352,3 @@
 0.0.0.0 z-p4-graph.facebook.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z.webengage.co
-0.0.0.0 disqus.com
