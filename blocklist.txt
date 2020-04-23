@@ -2967,6 +2967,7 @@
 0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resources.infolinks.com
 0.0.0.0 resources.taboola.com
+0.0.0.0 responder.wt.heise.de
 0.0.0.0 responder.wt-safetag.com
 0.0.0.0 res.rbl.ms
 0.0.0.0 restapi.amap.com
@@ -3464,6 +3465,7 @@
 0.0.0.0 stats.monohost.com
 0.0.0.0 stats.mos.ru
 0.0.0.0 stats.mvilivestats.com
+0.0.0.0 stats.nextcloud.com
 0.0.0.0 stats.pagefair.com
 0.0.0.0 stats.pusher.com
 0.0.0.0 stat.sputnik.ru
@@ -3907,6 +3909,7 @@
 0.0.0.0 us-central1-firebase-wixapp.cloudfunctions.net
 0.0.0.0 usd.india-abc.com
 0.0.0.0 us-east-1.a.intentmedia.net
+0.0.0.0 us-east-1-decisionapi.lift.acquia.com
 0.0.0.0 useast.bfmio.com
 0.0.0.0 usemaxserver.de
 0.0.0.0 usermatch.krxd.net
