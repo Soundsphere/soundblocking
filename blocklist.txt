@@ -1733,6 +1733,7 @@
 0.0.0.0 events.mapbox.com
 0.0.0.0 events.privy.com
 0.0.0.0 events.redditmedia.com
+0.0.0.0 events.split.io
 0.0.0.0 events.streamrail.net
 0.0.0.0 events.tremorhub.com
 0.0.0.0 events.turbosquid.com
