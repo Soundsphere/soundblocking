@@ -938,6 +938,7 @@
 0.0.0.0 cdn4.mxpnl.com
 0.0.0.0 cdn4.userzoom.com
 0.0.0.0 cdn5.userzoom.com
+0.0.0.0 cdn6.mycliplister.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn.accelerator.arsdev.net
 0.0.0.0 cdn.adaptv.advertising.com
