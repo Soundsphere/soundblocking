@@ -2989,6 +2989,7 @@
 0.0.0.0 r.my.com
 0.0.0.0 r.nexac.com
 0.0.0.0 ro89.com
+0.0.0.0 rottentomatoes.com
 0.0.0.0 route.carambo.la
 0.0.0.0 router.infolinks.com
 0.0.0.0 router.utorrent.com
@@ -3226,6 +3227,7 @@
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sflogo.sourceforge.net
 0.0.0.0 sg.mmstat.com
 0.0.0.0 s.go-mpulse.net
 0.0.0.0 sgqcvfjvr.onet.pl
@@ -3300,6 +3302,7 @@
 0.0.0.0 solutions.nitro.bunchball.net
 0.0.0.0 soma.smaato.net
 0.0.0.0 sonyglobal.d1.sc.omtrdc.net
+0.0.0.0 sourceforge.net
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 sp1cluster.cxense.com
@@ -3455,6 +3458,7 @@
 0.0.0.0 stats.bannersnack.com
 0.0.0.0 stats.bluebillywig.com
 0.0.0.0 stats.buysellads.com
+0.0.0.0 stats.clickforknowledge.com
 0.0.0.0 stats.computecmedia.de
 0.0.0.0 stats.ebuckler.com
 0.0.0.0 statse.webtrendslive.com
