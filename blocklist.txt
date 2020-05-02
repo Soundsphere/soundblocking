@@ -3542,6 +3542,7 @@
 0.0.0.0 survey.euro.confirmit.com
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.nuggad.net
+0.0.0.0 susapi.lenovomm.com
 0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 svastx.moatads.com
