@@ -14790,6 +14790,7 @@
 0.0.0.0 iefjios.net
 0.0.0.0 iehelp.net
 0.0.0.0 ie.marketdart.com
+0.0.0.0 ieonline.microsoft.com
 0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 ieonlinews.trafficmanager.net
 0.0.0.0 ieplugin.com
@@ -23202,6 +23203,7 @@
 0.0.0.0 rareporn.net
 0.0.0.0 rarestonemuseum.com
 0.0.0.0 rarethumbs.com
+0.0.0.0 ra.revolvermaps.com
 0.0.0.0 rasha-alfaris.com
 0.0.0.0 rashetfustuk.com
 0.0.0.0 rasimple.ru
@@ -25952,6 +25954,7 @@
 0.0.0.0 sleazydream.com
 0.0.0.0 sledstvie-veli.net
 0.0.0.0 slempresas.com.br
+0.0.0.0 s.lenovo.com
 0.0.0.0 slftsdybbg.ru
 0.0.0.0 slicekitchen.com
 0.0.0.0 slickaffiliate.com
@@ -27420,6 +27423,7 @@
 0.0.0.0 survey.nuggad.net
 0.0.0.0 surveyrock.com
 0.0.0.0 susanrcordova.com
+0.0.0.0 susapi.lenovomm.com
 0.0.0.0 s-usc1c-nss-218.firebaseio.com
 0.0.0.0 suspended-account.com
 0.0.0.0 sussexweb.com
