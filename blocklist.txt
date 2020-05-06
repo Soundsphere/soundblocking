@@ -1791,6 +1791,7 @@
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fireads.online
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 flaconi02.webtrekk.net
 0.0.0.0 flapi1.rubiconproject.com
@@ -3435,6 +3436,7 @@
 0.0.0.0 static.mackeeper.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
+0.0.0.0 static.scroll.com
 0.0.0.0 static.segment.com
 0.0.0.0 static.sharethrough.com
 0.0.0.0 static.site24x7rum.com
@@ -4302,6 +4304,7 @@
 0.0.0.0 www.userreport.com
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
+0.0.0.0 www.worldometers.info
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xiti.com
 0.0.0.0 www.yceml.net
