@@ -2570,6 +2570,7 @@
 0.0.0.0 nfl.hb.omtrdc.net
 0.0.0.0 nfoo-server.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
+0.0.0.0 nike.com
 0.0.0.0 ninegag-d.openx.net
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ninja.onap.io
