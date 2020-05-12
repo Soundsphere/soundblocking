@@ -1303,6 +1303,7 @@
 0.0.0.0 crunchmind-d.openx.net
 0.0.0.0 cs1137.wpc.gammacdn.net
 0.0.0.0 cs11.wpc.v0cdn.net
+0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.adingo.jp
 0.0.0.0 cs.admanmedia.com
 0.0.0.0 csc.beap.bc.yahoo.com
@@ -1807,6 +1808,7 @@
 0.0.0.0 flury-ycpi.gycpi.b.yahoodns.net
 0.0.0.0 f.monetate.net
 0.0.0.0 fo-api.omnitagjs.com
+0.0.0.0 fonts.gstatic.com
 0.0.0.0 forbes.media.net
 0.0.0.0 forms.gle
 0.0.0.0 forms.ontraport.com
@@ -2599,6 +2601,7 @@
 0.0.0.0 o.addthis.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oascentral.consumerreports.org
+0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odr.mookie1.com
@@ -4239,6 +4242,7 @@
 0.0.0.0 www.gotgayporn.com
 0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.hlserve.com
+0.0.0.0 www.hopeman.de
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.i.matheranalytics.com
 0.0.0.0 www.increaserev.com
