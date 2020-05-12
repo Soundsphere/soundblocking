@@ -2014,6 +2014,7 @@
 0.0.0.0 hw-cdn.trafficjunky.net
 0.0.0.0 i1.services.social.microsoft.com
 0.0.0.0 i1.ytimg.com
+0.0.0.0 ia601203.us.archive.org
 0.0.0.0 ia601205.us.archive.org
 0.0.0.0 ia801605.us.archive.org
 0.0.0.0 ia802604.us.archive.org
@@ -2277,6 +2278,7 @@
 0.0.0.0 liebessinn.de
 0.0.0.0 lifeandstylemag.com
 0.0.0.0 linkconnector.com
+0.0.0.0 linkinghub.elsevier.com
 0.0.0.0 links.services.disqus.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 live.hyprmx.com
@@ -3398,6 +3400,7 @@
 0.0.0.0 static7.smi2.net
 0.0.0.0 static8.smi2.net
 0.0.0.0 static.adbutter.net
+0.0.0.0 static.addtoany.com
 0.0.0.0 static.adfarm1.adition.com
 0.0.0.0 static.adman.gr
 0.0.0.0 static.adsafeprotected.com
