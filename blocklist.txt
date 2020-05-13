@@ -977,6 +977,7 @@
 0.0.0.0 cdn.connatix.com
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.contentspread.net
+0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cpnscdn.com
 0.0.0.0 cdn.cquotient.com
 0.0.0.0 cdn-creatives-highwinds-prd.unityads.unity3d.com
@@ -1092,6 +1093,8 @@
 0.0.0.0 cdn.zopim.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cds.connatix.com
+0.0.0.0 cds.j3z9t3p6.hwcdn.net
+0.0.0.0 cds.s5x3j6q5.hwcdn.net
 0.0.0.0 ced.sascdn.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 certify.alexametrics.com
@@ -1185,6 +1188,7 @@
 0.0.0.0 code.etracker.com
 0.0.0.0 codefund.io
 0.0.0.0 code.ionicframework.com
+0.0.0.0 code.jquery.com
 0.0.0.0 code.murdoog.com
 0.0.0.0 coinmarketcap.com
 0.0.0.0 coinmarketcap-d.openx.net
@@ -1298,6 +1302,8 @@
 0.0.0.0 creative.prf.hn
 0.0.0.0 credit-agricole.fr
 0.0.0.0 criteo-sync.teads.tv
+0.0.0.0 crl3.digicert.com
+0.0.0.0 crl4.digicert.com
 0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crunchmind-d.openx.net
@@ -1369,6 +1375,7 @@
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
+0.0.0.0 d2k03kvdk5cku0.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
 0.0.0.0 d2t2on23g4lty1.cloudfront.net
@@ -2227,6 +2234,7 @@
 0.0.0.0 justapinch-com-d.openx.net
 0.0.0.0 justpremium-d.openx.net
 0.0.0.0 jwpltx.com
+0.0.0.0 kano.is
 0.0.0.0 karma.mdpcdn.com
 0.0.0.0 keymaker.go.sonobi.com
 0.0.0.0 keytarget.adnet.lt
@@ -2336,6 +2344,7 @@
 0.0.0.0 logs11.xiti.com
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs13.xiti.com
+0.0.0.0 logs1406.xiti.com
 0.0.0.0 logs3.xiti.com
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs.amap.com
@@ -2415,6 +2424,7 @@
 0.0.0.0 match.taboola.com
 0.0.0.0 mathid.mathtag.com
 0.0.0.0 mathid-origin.mathtag.com
+0.0.0.0 maxcdn.bootstrapcdn.com
 0.0.0.0 mazu.3g.qq.com
 0.0.0.0 mazu.sec.miui.com
 0.0.0.0 mbid.marfeelrev.com
@@ -2602,6 +2612,8 @@
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oascentral.consumerreports.org
 0.0.0.0 ocsp.digicert.com
+0.0.0.0 ocsp.godaddy.com
+0.0.0.0 ocsp.godaddy.com.akadns.net
 0.0.0.0 ocsp.sca1b.amazontrust.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odr.mookie1.com
@@ -3454,6 +3466,7 @@
 0.0.0.0 staticw2.yotpo.com
 0.0.0.0 static.wired.com
 0.0.0.0 static.woopra.com
+0.0.0.0 static.xx.fbcdn.net
 0.0.0.0 static.yieldmo.com
 0.0.0.0 static.zanox.com
 0.0.0.0 static.zotabox.com
@@ -3508,6 +3521,8 @@
 0.0.0.0 stat.tildacdn.com
 0.0.0.0 stat.uptodown.com
 0.0.0.0 status.discordapp.com
+0.0.0.0 status.geotrust.com
+0.0.0.0 status.thawte.com
 0.0.0.0 st.core.polyad.net
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 steadfastsound.com
