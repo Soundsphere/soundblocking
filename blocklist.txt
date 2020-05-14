@@ -832,6 +832,7 @@
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
 0.0.0.0 bitrix.info
+0.0.0.0 blocklists-settings.prod.mozaws.net
 0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 bloggerei.de
 0.0.0.0 blogigo.de
@@ -997,6 +998,7 @@
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exelator.com
+0.0.0.0 cdn.fbsbx.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.geodns.tubemogul.com
@@ -1796,6 +1798,7 @@
 0.0.0.0 fff.dailymail.co.uk
 0.0.0.0 fh.under9.co
 0.0.0.0 file.market.xiaomi.com
+0.0.0.0 files.constantcontact.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fireads.online
 0.0.0.0 firebaselogging.googleapis.com
@@ -2054,6 +2057,7 @@
 0.0.0.0 ieonline.microsoft.com
 0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 ieonlinews.trafficmanager.net
+0.0.0.0 ift.tt
 0.0.0.0 ih.adscale.de
 0.0.0.0 iias.eu
 0.0.0.0 i.kissmetrics.com
@@ -2096,6 +2100,7 @@
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.sedoparking.com
+0.0.0.0 imgssl.constantcontact.com
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 imp.emxdgt.com
 0.0.0.0 impes.tradedoubler.com
@@ -2934,6 +2939,7 @@
 0.0.0.0 r1.computerbild.de
 0.0.0.0 r1---sn-4g5e6nz7.gvt1.com
 0.0.0.0 r1-t.trackedlink.net
+0.0.0.0 r20.rs6.net
 0.0.0.0 r.254a.com
 0.0.0.0 r2---sn-4g5e6n76.gvt1.com
 0.0.0.0 r2---sn-4g5ednsk.gvt1.com
