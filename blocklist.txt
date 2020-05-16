@@ -3245,6 +3245,7 @@
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.maxymiser.net
 0.0.0.0 servicer.mgid.com
+0.0.0.0 services.bilsyndication.com
 0.0.0.0 services.serving-sys.com
 0.0.0.0 serving.adbetclickin.pink
 0.0.0.0 serving.ad.org.vn
