@@ -56,6 +56,7 @@
 0.0.0.0 883205.fls.doubleclick.net
 0.0.0.0 935-kke-240.mktoresp.com
 0.0.0.0 9to5google.com
+0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a01.korrelate.net
 0.0.0.0 a0.smi2.ru
 0.0.0.0 a1.adform.net
@@ -1765,6 +1766,7 @@
 0.0.0.0 ext-inv-cdn.presage.io
 0.0.0.0 extreme-ip-lookup.com
 0.0.0.0 extremetracking.com
+0.0.0.0 ext-sq.squarespace.com
 0.0.0.0 eyeota-sync.dotomi.com
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 f7-de.adhigh.net
@@ -3307,6 +3309,7 @@
 0.0.0.0 s.lenovo.com
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 s.logsss.com
+0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 smallseotools.com
 0.0.0.0 smarticon.geotrust.com
