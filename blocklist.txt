@@ -2364,6 +2364,7 @@
 0.0.0.0 logx.optimizely.com
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
+0.0.0.0 lookaside.facebook.com
 0.0.0.0 loopme.me
 0.0.0.0 l.ooyala.com
 0.0.0.0 lovetk-d.openx.net
