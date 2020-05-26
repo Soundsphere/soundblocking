@@ -1146,6 +1146,7 @@
 0.0.0.0 clicktotweet.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click.virt.exacttarget.com
+0.0.0.0 click.virt.s6.exacttarget.com
 0.0.0.0 client-analytics.braintreegateway.com
 0.0.0.0 client.a.pxi.pub
 0.0.0.0 clientcdn.pushengage.com
