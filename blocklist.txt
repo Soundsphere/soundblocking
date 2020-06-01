@@ -546,6 +546,7 @@
 0.0.0.0 api.iperceptions.com
 0.0.0.0 api.iris.tv
 0.0.0.0 api.keen.io
+0.0.0.0 api.leadpages.io
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.lever.co
 0.0.0.0 api.logmatic.io
@@ -2206,6 +2207,7 @@
 0.0.0.0 js.appboycdn.com
 0.0.0.0 js.brealtime.com
 0.0.0.0 jscdn.yieldbird.com
+0.0.0.0 js.center.io
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
@@ -2558,6 +2560,7 @@
 0.0.0.0 mycliplister.com
 0.0.0.0 mydmp.exelator.com
 0.0.0.0 my.hellobar.com
+0.0.0.0 my.leadpages.net
 0.0.0.0 my.rtmark.net
 0.0.0.0 mytopf.com
 0.0.0.0 myvolumio.firebaseio.com
@@ -2902,6 +2905,7 @@
 0.0.0.0 pubmatic-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 pubpress.net
 0.0.0.0 pugm22000nf.pubmatic.com
+0.0.0.0 pulsar.ebay.com
 0.0.0.0 purch-match.dotomi.com
 0.0.0.0 pv-tm.everesttech.net
 0.0.0.0 p.vtracy.de
@@ -3885,8 +3889,10 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.prod.vidible.tv
 0.0.0.0 trk.vidible.tv
+0.0.0.0 trmcdn.eu
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.snapchat.com
+0.0.0.0 tr.suedkurier.de
 0.0.0.0 trs.webprospector.de
 0.0.0.0 tru.am
 0.0.0.0 try.abtasty.com
@@ -3931,6 +3937,7 @@
 0.0.0.0 ulogin-stats.ru
 0.0.0.0 ulogs.umengcloud.com
 0.0.0.0 ulogs.umeng.com
+0.0.0.0 ultimate-guitar-d.openx.net
 0.0.0.0 um2.eqads.com
 0.0.0.0 ums.adtech.de
 0.0.0.0 um.simpli.fi
