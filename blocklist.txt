@@ -812,6 +812,7 @@
 0.0.0.0 beacon.wikia-services.com
 0.0.0.0 beap1.cb.g01.yahoodns.net
 0.0.0.0 beap-bc.yahoo.com
+0.0.0.0 beeg.com
 0.0.0.0 behacdn.ksmobile.net
 0.0.0.0 best.aliexpress.com
 0.0.0.0 bestbuy.com
@@ -1065,6 +1066,7 @@
 0.0.0.0 cdn-static.optimonk.com
 0.0.0.0 cdn.static.zdbb.net
 0.0.0.0 cdn.stat-rock.com
+0.0.0.0 cdn.steepto.com
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.stroeerdigitalmedia.de
 0.0.0.0 cdn.switchadhub.com
@@ -1085,6 +1087,7 @@
 0.0.0.0 cdn.undertone.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn-v3.conductrics.com
+0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.w55c.net
@@ -1501,6 +1504,7 @@
 0.0.0.0 data.queryly.com
 0.0.0.0 data.sec.intl.miui.com
 0.0.0.0 data.sec.miui.com
+0.0.0.0 datsgirl.com
 0.0.0.0 db5.vortex.data.microsoft.com.akadns.net
 0.0.0.0 dbg52463.moatads.com
 0.0.0.0 dbt.adition.com
@@ -1779,6 +1783,7 @@
 0.0.0.0 farm-de.plista.com
 0.0.0.0 farm.plista.com
 0.0.0.0 fast.adobe.demdex.net
+0.0.0.0 fast.a.klaviyo.com
 0.0.0.0 fast.appcues.com
 0.0.0.0 fast.bskyb.demdex.net
 0.0.0.0 fast.fonts.net
@@ -2368,6 +2373,7 @@
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 lookaside.facebook.com
+0.0.0.0 looperman.com
 0.0.0.0 loopme.me
 0.0.0.0 l.ooyala.com
 0.0.0.0 lovetk-d.openx.net
@@ -2632,6 +2638,7 @@
 0.0.0.0 odr.mookie1.com
 0.0.0.0 offer.alibaba.com
 0.0.0.0 office-loesung.de.intellitxt.com
+0.0.0.0 ofhappinyer.com
 0.0.0.0 ohcohz.stroeerdp.de
 0.0.0.0 okt.to
 0.0.0.0 om.dowjoneson.com
@@ -3257,6 +3264,7 @@
 0.0.0.0 servicer.mgid.com
 0.0.0.0 services.bilsyndication.com
 0.0.0.0 services.serving-sys.com
+0.0.0.0 servicesupport.hicloud.com
 0.0.0.0 serving.adbetclickin.pink
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 servt.playbuzz.co
@@ -3287,6 +3295,7 @@
 0.0.0.0 silktide.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simage4.pubmatic.com
+0.0.0.0 s-img.adskeeper.co.uk
 0.0.0.0 s-img.mgid.com
 0.0.0.0 simonsignal.com
 0.0.0.0 sin.creativecdn.com
@@ -3345,7 +3354,6 @@
 0.0.0.0 solutions.nitro.bunchball.net
 0.0.0.0 soma.smaato.net
 0.0.0.0 sonyglobal.d1.sc.omtrdc.net
-0.0.0.0 sourceforge.net
 0.0.0.0 sourcepoint.vice.com
 0.0.0.0 southwestairlines.tt.omtrdc.net
 0.0.0.0 sp1cluster.cxense.com
@@ -3377,6 +3385,7 @@
 0.0.0.0 srvccnc.media.net
 0.0.0.0 srv.clickfuse.com
 0.0.0.0 srv.de.ebayrtm.com
+0.0.0.0 srv.main.ebayrtm.com
 0.0.0.0 srvmath.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srv.stackadapt.com
@@ -3417,6 +3426,7 @@
 0.0.0.0 stags.bluekai.com
 0.0.0.0 s.tagsrvcs.com
 0.0.0.0 stan.xing.com
+0.0.0.0 star.c10r.facebook.com
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stas.outbrain.com
@@ -4277,6 +4287,7 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gotgayporn.com
 0.0.0.0 www.graph.facebook.com
+0.0.0.0 www.guitarworld.com
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hopeman.de
 0.0.0.0 www.hotjar.com
