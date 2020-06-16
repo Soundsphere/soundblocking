@@ -1775,6 +1775,7 @@
 0.0.0.0 ext-sq.squarespace.com
 0.0.0.0 eyeota-sync.dotomi.com
 0.0.0.0 f5.market.mi-img.com
+0.0.0.0 f69e.engage.squarespace-mail.com
 0.0.0.0 f7-de.adhigh.net
 0.0.0.0 faggrim.com
 0.0.0.0 fandango.com
@@ -1822,6 +1823,7 @@
 0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 fls-eu.amazon-adsystem.com
 0.0.0.0 fls-eu.amazon.com
+0.0.0.0 fls-eu.amazon.co.uk
 0.0.0.0 fls-eu.amazon.de
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.com
@@ -3421,6 +3423,7 @@
 0.0.0.0 sstats.economist.com
 0.0.0.0 ssum.casalemedia.com
 0.0.0.0 ssum-sec.casalemedia.com
+0.0.0.0 stackpath.bootstrapcdn.com
 0.0.0.0 stadtbremerhaven.digidip.net
 0.0.0.0 staging.scgraph.facebook.com
 0.0.0.0 stags.bluekai.com
@@ -3479,6 +3482,7 @@
 0.0.0.0 static.imrworldwide.com
 0.0.0.0 static.inq.com
 0.0.0.0 static.kameleoon.com
+0.0.0.0 static.licdn.com
 0.0.0.0 static-lon1.dynamicyield.com
 0.0.0.0 static.mackeeper.com
 0.0.0.0 static.parsely.com
