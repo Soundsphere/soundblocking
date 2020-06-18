@@ -3766,6 +3766,7 @@
 0.0.0.0 timeanddate-d.openx.net
 0.0.0.0 time.izatcloud.net
 0.0.0.0 t.indeed.com
+0.0.0.0 tinyurl.com
 0.0.0.0 tisoomi-services.com
 0.0.0.0 t.kck.st
 0.0.0.0 t.kctag.net
@@ -4345,6 +4346,7 @@
 0.0.0.0 www.smartadserver.com
 0.0.0.0 www.smartredirect.de
 0.0.0.0 www.snapengage.com
+0.0.0.0 www.socialmediadaily.com
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.stats.g.doubleclick.net
 0.0.0.0 www.storygize.net
