@@ -509,6 +509,8 @@
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api2.branch.io
+0.0.0.0 api3.siftscience.com
+0.0.0.0 api.accengage.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.adrtx.net
 0.0.0.0 api.amplitude.com
@@ -566,6 +568,7 @@
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
 0.0.0.0 api-public.addthis.com
+0.0.0.0 api.radar.io
 0.0.0.0 api.rlcdn.com
 0.0.0.0 api.rollbar.com
 0.0.0.0 api-s2s.taboola.com
@@ -1074,6 +1077,7 @@
 0.0.0.0 cdn.tagcommander.com
 0.0.0.0 cdn.taplytics.com
 0.0.0.0 cdn.teads.tv
+0.0.0.0 cdn.teamskeetimages.com
 0.0.0.0 cdn.tercept.com
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.trackjs.com
@@ -1124,6 +1128,7 @@
 0.0.0.0 ci37.actonsoftware.com
 0.0.0.0 ci61.actonsoftware.com
 0.0.0.0 ci89.actonsoftware.com
+0.0.0.0 ciksolre.net
 0.0.0.0 c.imedia.cz
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.madeleine.de
@@ -1405,6 +1410,7 @@
 0.0.0.0 d3dytsf4vrjn5x.cloudfront.net
 0.0.0.0 d3ezl4ajpp2zy8.cloudfront.net
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
+0.0.0.0 d3lu45piikoyqh.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
@@ -1542,6 +1548,7 @@
 0.0.0.0 des.smartclip.net
 0.0.0.0 desv383oqqc0.cloudfront.net
 0.0.0.0 detailedglue.com
+0.0.0.0 detect.rayjump.com
 0.0.0.0 detwzgl8cvciv.cloudfront.net
 0.0.0.0 de.tynt.com
 0.0.0.0 deutschepostag1.d3.sc.omtrdc.net
@@ -1780,6 +1787,7 @@
 0.0.0.0 faggrim.com
 0.0.0.0 fandango.com
 0.0.0.0 fandangollc.demdex.net
+0.0.0.0 faracoon.com
 0.0.0.0 farlex-d.openx.net
 0.0.0.0 farm-de.plista.com
 0.0.0.0 farm.plista.com
@@ -1963,6 +1971,7 @@
 0.0.0.0 go.shareaholic.com
 0.0.0.0 go.skimresources.com
 0.0.0.0 go.toutapp.com
+0.0.0.0 gounlimited.to
 0.0.0.0 grace.shareaholic.com
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
@@ -1986,6 +1995,7 @@
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 halc.iadvize.com
 0.0.0.0 handelsblatt01.webtrekk.net
+0.0.0.0 hanime.tv
 0.0.0.0 happyfoxchat.com
 0.0.0.0 hawk.pcgamer.com
 0.0.0.0 hb.adtelligent.com
@@ -2059,6 +2069,7 @@
 0.0.0.0 ic.tynt.com
 0.0.0.0 id5-sync.com
 0.0.0.0 idcdn.de
+0.0.0.0 identity.mparticle.com
 0.0.0.0 ident.me
 0.0.0.0 id.google.com
 0.0.0.0 idguk1-d.openx.net
@@ -2066,6 +2077,7 @@
 0.0.0.0 idpix.media6degrees.com
 0.0.0.0 id.rlcdn.com
 0.0.0.0 idsync.rlcdn.com
+0.0.0.0 ie8eamus.com
 0.0.0.0 ieonline.microsoft.com
 0.0.0.0 ieonlinews.microsoft.com
 0.0.0.0 ieonlinews.trafficmanager.net
@@ -2385,6 +2397,7 @@
 0.0.0.0 ls.hit.gemius.pl
 0.0.0.0 ls.srvcs.tumblr.com
 0.0.0.0 lululemonathleticacanadainc.demdex.net
+0.0.0.0 lyferere.pro
 0.0.0.0 l.yimg.com
 0.0.0.0 lynxbroker.de
 0.0.0.0 lyr122000c.pubmatic.com
@@ -2426,6 +2439,7 @@
 0.0.0.0 marketing.criteo.com
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.net.brillen.de
+0.0.0.0 marketplace-android-b234.hyprmx.com
 0.0.0.0 mark.reevoo.com
 0.0.0.0 marriott.btttag.com
 0.0.0.0 marriottinternationa.demdex.net
@@ -2459,6 +2473,7 @@
 0.0.0.0 mckinseyknowledge.122.2o7.net
 0.0.0.0 mc.webvisor.org
 0.0.0.0 mc.yandex.ru
+0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-i-s.apptimize.com
 0.0.0.0 m.dlx.addthis.com
 0.0.0.0 m.do.co
@@ -2569,6 +2584,7 @@
 0.0.0.0 mydmp.exelator.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.leadpages.net
+0.0.0.0 myrh8.watch-this.live
 0.0.0.0 my.rtmark.net
 0.0.0.0 mytopf.com
 0.0.0.0 myvolumio.firebaseio.com
@@ -2592,7 +2608,9 @@
 0.0.0.0 neckermannreisen.btttag.com
 0.0.0.0 nerdist.com
 0.0.0.0 nervoussummer.com
+0.0.0.0 net.rayjump.com
 0.0.0.0 network.bazaarvoice.com
+0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 netzwelt-gmbh-d.openx.net
 0.0.0.0 newjobs.d1.sc.omtrdc.net
 0.0.0.0 newsmaxmedia.demdex.net
@@ -2639,6 +2657,7 @@
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 offer.alibaba.com
+0.0.0.0 offerimage.com
 0.0.0.0 office-loesung.de.intellitxt.com
 0.0.0.0 ofhappinyer.com
 0.0.0.0 ohcohz.stroeerdp.de
@@ -2783,6 +2802,7 @@
 0.0.0.0 pixel.quantserve.com
 0.0.0.0 pixel.rubiconproject.com
 0.0.0.0 pixel.rubiconproject.net.akadns.net
+0.0.0.0 pixel.runative-syndicate.com
 0.0.0.0 pixel.s3xified.com
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.sojern.com
@@ -2841,6 +2861,7 @@
 0.0.0.0 popup.wisepops.com
 0.0.0.0 pornsocket.com
 0.0.0.0 port01.com
+0.0.0.0 portal.fb.com
 0.0.0.0 port.sec.intl.miui.com
 0.0.0.0 powerad.ai
 0.0.0.0 powr-counter.herokuapp.com
@@ -2907,6 +2928,7 @@
 0.0.0.0 p.typekit.net
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pub.lavanetwork.net
+0.0.0.0 publicagent.com
 0.0.0.0 public.vilynx.com
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 pubmatic2waycm-atl.netmng.com
@@ -3029,6 +3051,7 @@
 0.0.0.0 reveal.clearbit.com
 0.0.0.0 rh.revolvermaps.com
 0.0.0.0 riafinancial.d2.sc.omtrdc.net
+0.0.0.0 r.kelkoo.com
 0.0.0.0 rlog.9gag.com
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 r.logrocket.io
@@ -3097,6 +3120,7 @@
 0.0.0.0 rum-static.pingdom.net
 0.0.0.0 run.admost.com
 0.0.0.0 run.adrizer.com
+0.0.0.0 run-syndicate.com
 0.0.0.0 runtime.lemonpi.io
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rxcdn.1rx.io
@@ -3178,6 +3202,7 @@
 0.0.0.0 sc.tynt.com
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.adtiming.com
+0.0.0.0 sdk-android.ad.smaato.net
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 sdk.beeketing.com
@@ -3188,6 +3213,7 @@
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdkm.w.inmobi.com
+0.0.0.0 sdk.out.usbla.net
 0.0.0.0 sdk.split.io
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com
@@ -3278,6 +3304,7 @@
 0.0.0.0 settings.data.microsoft.com
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 sex-and-flirt.com
 0.0.0.0 sflogo.sourceforge.net
 0.0.0.0 sg.mmstat.com
 0.0.0.0 s.go-mpulse.net
@@ -3305,6 +3332,7 @@
 0.0.0.0 s.innovid.com
 0.0.0.0 si.nuggad.net
 0.0.0.0 sis.jpush.io
+0.0.0.0 sislovesme.com
 0.0.0.0 site.adform.com
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteintercept.qualtrics.com
@@ -3430,6 +3458,7 @@
 0.0.0.0 s.tagsrvcs.com
 0.0.0.0 stan.xing.com
 0.0.0.0 star.c10r.facebook.com
+0.0.0.0 star.facebook.com
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stas.outbrain.com
@@ -3573,6 +3602,7 @@
 0.0.0.0 storage.outbrain.com
 0.0.0.0 st.polyad.net
 0.0.0.0 s.tradingview.com
+0.0.0.0 strat-talk.com
 0.0.0.0 stream1.livefyre.com
 0.0.0.0 streamamp-d.openx.net
 0.0.0.0 streaming-graph.facebook.com
@@ -3652,6 +3682,7 @@
 0.0.0.0 sync.users-api.com
 0.0.0.0 sync.vertamedia.com
 0.0.0.0 syndicate.purch.com
+0.0.0.0 syndication.exoclick.com
 0.0.0.0 syndication.exosrv.com
 0.0.0.0 syndication.twitter.com
 0.0.0.0 s.youtube.com
@@ -3756,6 +3787,7 @@
 0.0.0.0 tg.socdm.com
 0.0.0.0 thaliade02.webtrekk.net
 0.0.0.0 tharbadir.com
+0.0.0.0 theporndude.com
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thisiswaldo.com
 0.0.0.0 t.hoood.info
@@ -4114,6 +4146,7 @@
 0.0.0.0 web-analytics.engagio.com
 0.0.0.0 webanalytics.localytics.com
 0.0.0.0 webed.dm.gg
+0.0.0.0 web.facebook.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
 0.0.0.0 webmdcom.tt.omtrdc.net
 0.0.0.0 websdk.moengage.com
@@ -4235,6 +4268,7 @@
 0.0.0.0 www.adventori.com
 0.0.0.0 www.adwidecenter.com
 0.0.0.0 www.agkn.com
+0.0.0.0 www.alexa.com
 0.0.0.0 www.aliexpress.com
 0.0.0.0 www.amobee.com
 0.0.0.0 www.anrdoezrs.net
@@ -4281,6 +4315,7 @@
 0.0.0.0 www.fitforfun.de
 0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.fullstory.com
+0.0.0.0 www.fuq.com
 0.0.0.0 www.fyber.com
 0.0.0.0 www.geoplugin.net
 0.0.0.0 www.getdrip.com
@@ -4329,6 +4364,7 @@
 0.0.0.0 www.plista.com
 0.0.0.0 www.pornhub.com
 0.0.0.0 www.pornhublive.com
+0.0.0.0 www.porntrex.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
@@ -4369,6 +4405,7 @@
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xiti.com
 0.0.0.0 www.yceml.net
+0.0.0.0 www.yoloselfie.com
 0.0.0.0 www.youporn.com
 0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 www.zergnet.com
@@ -4388,6 +4425,7 @@
 0.0.0.0 xpu.samsungelectronics.com
 0.0.0.0 xray.mail.ru
 0.0.0.0 x.skimresources.com
+0.0.0.0 xslt.alexa.com
 0.0.0.0 x.ss2.us
 0.0.0.0 x-traffic-director.videoplaza.tv
 0.0.0.0 xtrapath2.izatcloud.net
@@ -4395,6 +4433,7 @@
 0.0.0.0 xtr.carambo.la
 0.0.0.0 xvideos.com
 0.0.0.0 x.vindicosuite.com
+0.0.0.0 xxvideoss.org
 0.0.0.0 yagiay.com
 0.0.0.0 yandex.st
 0.0.0.0 yax-winners-eu-west-1-rtb.adroll.com
