@@ -345,6 +345,7 @@
 0.0.0.0 adventori.com
 0.0.0.0 advertiser.wbtrk.net
 0.0.0.0 advertising.amazon.co.uk
+0.0.0.0 advertising.amazon.de
 0.0.0.0 advertising.bbcworldwide.com
 0.0.0.0 advertising.ingame.de
 0.0.0.0 advertising.oriel.io
@@ -519,6 +520,7 @@
 0.0.0.0 api.apptentive.com
 0.0.0.0 api.autopilothq.com
 0.0.0.0 api.b2c.com
+0.0.0.0 api.bazaarvoice.com
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.branch.io
 0.0.0.0 api.brs.intl.miui.com
@@ -1043,6 +1045,7 @@
 0.0.0.0 cdn.petametrics.com
 0.0.0.0 cdn.pljs.ru
 0.0.0.0 cdn.polyfill.io
+0.0.0.0 cdn.pricespider.com
 0.0.0.0 cdn.pushwoosh.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.ravenjs.com
@@ -1104,6 +1107,7 @@
 0.0.0.0 cdn.zopim.com
 0.0.0.0 cdp.cloud.unity3d.com
 0.0.0.0 cds.connatix.com
+0.0.0.0 cds.d2s7q6s2.hwcdn.net
 0.0.0.0 cds.j3z9t3p6.hwcdn.net
 0.0.0.0 cds.s5x3j6q5.hwcdn.net
 0.0.0.0 ced.sascdn.com
@@ -1209,6 +1213,7 @@
 0.0.0.0 collect.albacross.com
 0.0.0.0 collecte.audience.acpm.fr
 0.0.0.0 collect-eu-central-1.tealiumiq.com
+0.0.0.0 collect-eu-west-1.tealiumiq.com
 0.0.0.0 collector-1054.tvsquared.com
 0.0.0.0 collectorb.tvsquared.com
 0.0.0.0 collector.bunchbox.co
@@ -1344,6 +1349,7 @@
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 c.t4ft.de
 0.0.0.0 cti.w55c.net
+0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 ct.pinterest.com
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ct.sddan.com
@@ -1573,6 +1579,7 @@
 0.0.0.0 display.bfmio.com
 0.0.0.0 displayf-tm.everesttech.net
 0.0.0.0 displayf.tubemogul.com
+0.0.0.0 display.ugc.bazaarvoice.com
 0.0.0.0 disqus.com
 0.0.0.0 distillery.wistia.com
 0.0.0.0 districtm-match.dotomi.com
@@ -1942,6 +1949,7 @@
 0.0.0.0 glb-ads.immobilienscout24.adtech.de
 0.0.0.0 gleam.io
 0.0.0.0 glitter.services.disqus.com
+0.0.0.0 g.live.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 global.ib-ibi.com
 0.0.0.0 glogger.inspcloud.com
@@ -3355,6 +3363,7 @@
 0.0.0.0 s.lenovo.com
 0.0.0.0 slipstream.skyscanner.net
 0.0.0.0 s.logsss.com
+0.0.0.0 slscr.update.microsoft.com
 0.0.0.0 sls.update.microsoft.com.akadns.net
 0.0.0.0 sm4xqadz4o.kameleoon.eu
 0.0.0.0 smallseotools.com
@@ -3838,6 +3847,7 @@
 0.0.0.0 t.pubmatic.com
 0.0.0.0 tr1.admeira.ch
 0.0.0.0 tracelog.www.alibaba.com
+0.0.0.0 trace.svc.ui.com
 0.0.0.0 track1.aniview.com
 0.0.0.0 track2.trbo.com
 0.0.0.0 track.addevent.com
@@ -4108,6 +4118,7 @@
 0.0.0.0 view.s7.exacttarget.com
 0.0.0.0 visit.digidip.net
 0.0.0.0 visitor-service-eu-central-1.tealiumiq.com
+0.0.0.0 visitor-service-eu-west-1.tealiumiq.com
 0.0.0.0 visitor-service.tealiumiq.com
 0.0.0.0 visualdna.com
 0.0.0.0 vjs.zencdn.net
@@ -4248,6 +4259,7 @@
 0.0.0.0 www8.smartadserver.com
 0.0.0.0 www91.intel.com
 0.0.0.0 www9.smartadserver.com
+0.0.0.0 www.abebooks.de
 0.0.0.0 www.acint.net
 0.0.0.0 www.acuityads.com
 0.0.0.0 www.ad4mat.de
@@ -4285,6 +4297,7 @@
 0.0.0.0 www.bilder-upload.eu
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.blogads.de
+0.0.0.0 www.bookdepository.com
 0.0.0.0 www.breakingnews.ie
 0.0.0.0 www.browser-statistik.de
 0.0.0.0 www.ccleaner.com
@@ -4395,6 +4408,7 @@
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tracc.it
 0.0.0.0 www.ugdturner.com
+0.0.0.0 www.updatestar.com
 0.0.0.0 www.upsellit.com
 0.0.0.0 www.usefomo.com
 0.0.0.0 www.usemax.de
