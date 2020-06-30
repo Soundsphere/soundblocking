@@ -1967,6 +1967,7 @@
 0.0.0.0 goldbach-de-d.openx.net
 0.0.0.0 golf4.de.intellitxt.com
 0.0.0.0 go.mmstat.com
+0.0.0.0 goo.gl
 0.0.0.0 googleadapis.l.google.com
 0.0.0.0 googleads4.g.doubleclick.net
 0.0.0.0 googleads.g.doubleclick.net
@@ -2854,6 +2855,7 @@
 0.0.0.0 polarcdn-pentos.com
 0.0.0.0 polarcdn-terrax.com
 0.0.0.0 polldaddy.com
+0.0.0.0 polyfill.io
 0.0.0.0 pool1.moatads.com
 0.0.0.0 pool2.moatads.com
 0.0.0.0 pool3.moatads.com
@@ -4342,7 +4344,6 @@
 0.0.0.0 www.graph.facebook.com
 0.0.0.0 www.guitarworld.com
 0.0.0.0 www.hlserve.com
-0.0.0.0 www.hopeman.de
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.i.matheranalytics.com
 0.0.0.0 www.increaserev.com
@@ -4490,4 +4491,3 @@
 0.0.0.0 z-p4-graph.facebook.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z.webengage.co
-0.0.0.0 polyfill.io
