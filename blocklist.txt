@@ -5625,6 +5625,7 @@
 0.0.0.0 bilbob.com
 0.0.0.0 bild01.webtrekk.net
 0.0.0.0 bilder.bild.de
+0.0.0.0 bildschirmarbeiter.com
 0.0.0.0 billboard.cz
 0.0.0.0 billbyphone.com
 0.0.0.0 bill-global.com
@@ -5806,6 +5807,7 @@
 0.0.0.0 blockcheih.com
 0.0.0.0 blockdelete.com
 0.0.0.0 block.ge
+0.0.0.0 blocklists-settings.prod.mozaws.net
 0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 blog1000.webcindario.com
 0.0.0.0 blog100.org
@@ -6954,6 +6956,7 @@
 0.0.0.0 cdpuvbhfzz.com
 0.0.0.0 cds.adecn.com
 0.0.0.0 cds.connatix.com
+0.0.0.0 cds.d2s7q6s2.hwcdn.net
 0.0.0.0 cds.j3z9t3p6.hwcdn.net
 0.0.0.0 cds.s5x3j6q5.hwcdn.net
 0.0.0.0 ce.83195900.cn
@@ -7474,6 +7477,7 @@
 0.0.0.0 clicktrade.com
 0.0.0.0 click.udimg.com
 0.0.0.0 click.virt.exacttarget.com
+0.0.0.0 click.virt.s6.exacttarget.com
 0.0.0.0 clickwwwsearch.com
 0.0.0.0 clickxchange.com
 0.0.0.0 clickyestoenter.net
@@ -8731,6 +8735,7 @@
 0.0.0.0 d3hmp0045zy3cs.cloudfront.net
 0.0.0.0 d3.kkkmfdy.com
 0.0.0.0 d3kyk5bao1crtw.cloudfront.net
+0.0.0.0 d3lu45piikoyqh.cloudfront.net
 0.0.0.0 d3m0n.biz
 0.0.0.0 d3nslu0hdya83q.cloudfront.net
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
@@ -11441,6 +11446,7 @@
 0.0.0.0 extrememoney.biz
 0.0.0.0 extremetracking.com
 0.0.0.0 extrime-list.com
+0.0.0.0 ext-sq.squarespace.com
 0.0.0.0 exwm.net
 0.0.0.0 exwp.com
 0.0.0.0 exxxotic.com
@@ -12985,6 +12991,7 @@
 0.0.0.0 genusskreuzfahrt.com
 0.0.0.0 geo113prod.kadserver.com
 0.0.0.0 geo2.adobe.com
+0.0.0.0 geo3.ggpht.com
 0.0.0.0 geoapi.indiatimes.com
 0.0.0.0 geobanner.adultfriendfinder.com
 0.0.0.0 geobytes.com
@@ -13758,6 +13765,7 @@
 0.0.0.0 guide-agrandissement-penis.com
 0.0.0.0 guide-feminin.com
 0.0.0.0 guidetopetersburg.com
+0.0.0.0 guitarworld.com
 0.0.0.0 gulentech-hk.com
 0.0.0.0 guletrubanionader.com
 0.0.0.0 gum.criteo.com
@@ -14301,6 +14309,7 @@
 0.0.0.0 honourableud.top
 0.0.0.0 hookersex.net
 0.0.0.0 hooo-i-was-being-blocked.com
+0.0.0.0 hopeman.de
 0.0.0.0 horizonpestcontrol.in
 0.0.0.0 horizon.sailthru.com
 0.0.0.0 horizonsecuritybank.com
@@ -17333,6 +17342,7 @@
 0.0.0.0 look-whos-blockin-you.com
 0.0.0.0 loomcompany.com
 0.0.0.0 loop-ads.net
+0.0.0.0 looperman.com
 0.0.0.0 loopme.biz
 0.0.0.0 loopme.me
 0.0.0.0 loosingvirginity.com
@@ -26729,6 +26739,7 @@
 0.0.0.0 srv.de.ebayrtm.com
 0.0.0.0 srv-fr.opistat.com
 0.0.0.0 srv.imonomy.com
+0.0.0.0 srv.main.ebayrtm.com
 0.0.0.0 srvmath.com
 0.0.0.0 srv.pixel.parsely.com
 0.0.0.0 srvr123.com
@@ -27184,6 +27195,7 @@
 0.0.0.0 s.tradingview.com
 0.0.0.0 straighttalkreviews.com
 0.0.0.0 strangewishes.com
+0.0.0.0 strat-talk.com
 0.0.0.0 strcodec.be.cx
 0.0.0.0 strcodec.com
 0.0.0.0 stream1000.babenet.com
@@ -28810,6 +28822,7 @@
 0.0.0.0 tr1.admeira.ch
 0.0.0.0 tracelog.www.alibaba.com
 0.0.0.0 traceremover.com
+0.0.0.0 trace.svc.ui.com
 0.0.0.0 tracezapper.com
 0.0.0.0 track1.aniview.com
 0.0.0.0 track1.viewdeos.com
