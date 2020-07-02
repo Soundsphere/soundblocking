@@ -1535,6 +1535,7 @@
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 dd6zx4ibq538k.cloudfront.net
 0.0.0.0 de.ads.justpremium.com
+0.0.0.0 de.aliexpress.com
 0.0.0.0 decide.mixpanel.com
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
@@ -2502,6 +2503,7 @@
 0.0.0.0 mediamath.digitru.st
 0.0.0.0 mediametrics.ru
 0.0.0.0 medianet-match.dotomi.com
+0.0.0.0 media.richrelevance.com
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 mediator.mail.ru
@@ -2618,6 +2620,7 @@
 0.0.0.0 neckermannreisen.btttag.com
 0.0.0.0 nerdist.com
 0.0.0.0 nervoussummer.com
+0.0.0.0 netdna.bootstrapcdn.com
 0.0.0.0 net.rayjump.com
 0.0.0.0 network.bazaarvoice.com
 0.0.0.0 networksdk.ssacdn.com
@@ -2707,6 +2710,7 @@
 0.0.0.0 oracle.112.2o7.net
 0.0.0.0 orbidder.otto.de
 0.0.0.0 orca.qubitproducts.com
+0.0.0.0 origin-images.wikia.com
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
 0.0.0.0 outcome-ssp.supersonicads.com
