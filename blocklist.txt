@@ -1810,6 +1810,7 @@
 0.0.0.0 fast.intelcorp.demdex.net
 0.0.0.0 fastlane-adv.rubiconproject.com
 0.0.0.0 fastlane.rubiconproject.com
+0.0.0.0 fastly-insights.com
 0.0.0.0 fast.marriottinternationa.demdex.net
 0.0.0.0 fast.skydeutschland.demdex.net
 0.0.0.0 fast.wistia.com
@@ -3061,6 +3062,7 @@
 0.0.0.0 responder.wt-safetag.com
 0.0.0.0 res.rbl.ms
 0.0.0.0 restapi.amap.com
+0.0.0.0 restions-planted.com
 0.0.0.0 retcode.taobao.com
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 reuters.demdex.net
@@ -3916,6 +3918,7 @@
 0.0.0.0 tracking.ws.eurosport.com
 0.0.0.0 trackla.stackla.com
 0.0.0.0 track.linksynergy.com
+0.0.0.0 track.lobby-x.eu
 0.0.0.0 track.mailerlite.com
 0.0.0.0 track.mopo.de
 0.0.0.0 track.noz.de
