@@ -713,6 +713,7 @@
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assistjs.skimresources.com
 0.0.0.0 a-ssl.ligatus.com
+0.0.0.0 asteriresearch.com
 0.0.0.0 aswpapius.com
 0.0.0.0 aswpsdkus.com
 0.0.0.0 async-px.dynamicyield.com
@@ -2011,6 +2012,7 @@
 0.0.0.0 hanime.tv
 0.0.0.0 happyfoxchat.com
 0.0.0.0 hawk.pcgamer.com
+0.0.0.0 hb.adscale.de
 0.0.0.0 hb.adtelligent.com
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hb.emxdgt.com
