@@ -730,6 +730,7 @@
 0.0.0.0 audiag.112.2o7.net
 0.0.0.0 audible.tt.omtrdc.net
 0.0.0.0 audit.quantcast.mgr.consensu.org
+0.0.0.0 au.download.windowsupdate.com.c.footprint.net
 0.0.0.0 aud.pubmatic.com
 0.0.0.0 aufeminin-e-d.openx.net
 0.0.0.0 aufeminin-g-d.openx.net
@@ -3183,6 +3184,7 @@
 0.0.0.0 samsungelectronicsamericainc.demdex.net
 0.0.0.0 samsung-germany.demdex.net
 0.0.0.0 samsungus.btttag.com
+0.0.0.0 sarah.ttnrd.com
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sat101.webtrekk.net
 0.0.0.0 sat.sanoma.fi
