@@ -1,6 +1,6 @@
 # soundblocking
 
-this list came to live due to a personal need and should not be used by you.
+this list came to life due to a personal need and should not be used by you.
 If you're looking for blocklists that are updated regularly, then check out these lists:
 - [Firebog](https://firebog.net/)
 - [StevenBlack](https://github.com/StevenBlack/hosts)
