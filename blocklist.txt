@@ -4544,6 +4544,7 @@
 0.0.0.0 audit.median.hu
 0.0.0.0 audit.quantcast.mgr.consensu.org
 0.0.0.0 audit.webinform.hu
+0.0.0.0 au.download.windowsupdate.com.c.footprint.net
 0.0.0.0 aud.pubmatic.com
 0.0.0.0 aufeminin-e-d.openx.net
 0.0.0.0 aufeminin-g-d.openx.net
@@ -12151,6 +12152,7 @@
 0.0.0.0 fomentocredito.es
 0.0.0.0 fomotors.com
 0.0.0.0 fonecta.leiki.com
+0.0.0.0 fonts.gstatic.com
 0.0.0.0 foobar.com
 0.0.0.0 foo.cosmocode.de
 0.0.0.0 food00.net
@@ -30818,6 +30820,7 @@
 0.0.0.0 widget.siteheart.com
 0.0.0.0 widgets.outbrain.com
 0.0.0.0 widgets.stackcommerce.com
+0.0.0.0 widgets.trustedshops.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 wiebeavswin.com
