@@ -2217,6 +2217,7 @@
 0.0.0.0 i.skimresources.com
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 i.trackmytarget.com
+0.0.0.0 its.tradelab.fr
 0.0.0.0 itx4-secure.smartadserver.com
 0.0.0.0 itx4.smartadserver.com
 0.0.0.0 itx5-itx4.smartadserver.com
@@ -3208,6 +3209,7 @@
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scout24-d.openx.net
 0.0.0.0 s.cpx.to
+0.0.0.0 screenrant.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
