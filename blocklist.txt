@@ -1946,6 +1946,7 @@
 0.0.0.0 g.ezoic.net
 0.0.0.0 gg.google.com
 0.0.0.0 gift-connect-d.openx.net
+0.0.0.0 g.ign.com
 0.0.0.0 gj.gds.mmstat.com
 0.0.0.0 gj.mmstat.com
 0.0.0.0 gklfs-idnhw.ads.tremorhub.com
@@ -2142,6 +2143,7 @@
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.sedoparking.com
 0.0.0.0 imgssl.constantcontact.com
+0.0.0.0 imp.control.kochava.com
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 imp.emxdgt.com
 0.0.0.0 impes.tradedoubler.com
