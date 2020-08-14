@@ -276,6 +276,7 @@
 0.0.0.0 adserver.reklamstore.com
 0.0.0.0 adserver.unityads.unity3d.com
 0.0.0.0 adserver-us.adtech.advertising.com
+0.0.0.0 adserver.veldsoft.eu
 0.0.0.0 adservex.media.net
 0.0.0.0 adservice.google.ca
 0.0.0.0 adservice.google.co.in
