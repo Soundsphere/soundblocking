@@ -3408,6 +3408,7 @@
 0.0.0.0 snoop.minecraft.net
 0.0.0.0 snrtp-cdn.marketo.com
 0.0.0.0 s.ntv.io
+0.0.0.0 socket.streamable.com
 0.0.0.0 sofia.trustx.org
 0.0.0.0 solarwindsworldwidellc.demdex.net
 0.0.0.0 solutions.nitro.bunchball.net
