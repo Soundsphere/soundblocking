@@ -451,6 +451,7 @@
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.faw.sky.com
 0.0.0.0 analytics.ff.avast.com
+0.0.0.0 analytics.ff.avast.com.soundsphere
 0.0.0.0 analytics.foresee.com
 0.0.0.0 analytics.freespee.com
 0.0.0.0 analytics.getshogun.com
