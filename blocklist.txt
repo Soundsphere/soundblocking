@@ -844,6 +844,7 @@
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
 0.0.0.0 bitrix.info
+0.0.0.0 blockchain.info
 0.0.0.0 blocklists-settings.prod.mozaws.net
 0.0.0.0 blocklists.settings.services.mozilla.com
 0.0.0.0 bloggerei.de
