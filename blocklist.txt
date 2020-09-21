@@ -3167,6 +3167,7 @@
 0.0.0.0 s1.listrakbi.com
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s2.go-mpulse.net
+0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.singular.net
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3-eu-central-1.amazonaws.com
@@ -3439,6 +3440,7 @@
 0.0.0.0 s.po.st
 0.0.0.0 spot-im-d.openx.net
 0.0.0.0 spotx-match.dotomi.com
+0.0.0.0 sp.pushsquare.com
 0.0.0.0 spr.bild.de
 0.0.0.0 springer02.webtrekk.net
 0.0.0.0 spr.welt.de
