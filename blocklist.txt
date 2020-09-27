@@ -1901,6 +1901,7 @@
 0.0.0.0 gahu.hit.gemius.pl
 0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gallery.mailchimp.com
+0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 garu.hit.gemius.pl
 0.0.0.0 gate.datacaciques.com
@@ -2833,6 +2834,7 @@
 0.0.0.0 pixel.rubiconproject.net.akadns.net
 0.0.0.0 pixel.runative-syndicate.com
 0.0.0.0 pixel.s3xified.com
+0.0.0.0 pixel.servebom.com
 0.0.0.0 pixel.sitescout.com
 0.0.0.0 pixel.sojern.com
 0.0.0.0 pixel.spotify.com
@@ -2869,6 +2871,7 @@
 0.0.0.0 p.liadm.com
 0.0.0.0 pls.webtype.com
 0.0.0.0 plugin.mediavoice.com
+0.0.0.0 plumbus.minutemediaservices.com
 0.0.0.0 pmc-d.openx.net
 0.0.0.0 pm.w55c.net
 0.0.0.0 pnytimes.chartbeat.net
@@ -2985,6 +2988,7 @@
 0.0.0.0 px.marchex.io
 0.0.0.0 px.moatads.com
 0.0.0.0 px.owneriq.net
+0.0.0.0 px.powerlinks.com
 0.0.0.0 px.spiceworks.com
 0.0.0.0 px.srvcs.tumblr.com
 0.0.0.0 px.steelhousemedia.com
