@@ -417,6 +417,7 @@
 0.0.0.0 amplifypixel.outbrain.com
 0.0.0.0 ams01-bfp01.mediaplex.com
 0.0.0.0 ams01-bfp02.mediaplex.com
+0.0.0.0 ams01-convex.dotomi.com
 0.0.0.0 ams01-usadmm.dotomi.com
 0.0.0.0 ams01-usadmm-ds.dotomi.com
 0.0.0.0 ams02-bfp01.mediaplex.com
@@ -425,6 +426,7 @@
 0.0.0.0 ams02-usadmm-ds.dotomi.com
 0.0.0.0 ams03-bfp01.mediaplex.com
 0.0.0.0 ams03-bfp02.mediaplex.com
+0.0.0.0 ams03-convex.dotomi.com
 0.0.0.0 ams03-usadmm.dotomi.com
 0.0.0.0 ams03-usadmm-ds.dotomi.com
 0.0.0.0 ams1-ib.adnxs.com
