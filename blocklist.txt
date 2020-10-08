@@ -1100,6 +1100,7 @@
 0.0.0.0 cdn.tynt.com
 0.0.0.0 cdn.uc.atwola.com
 0.0.0.0 cdn.undertone.com
+0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn-v3.conductrics.com
 0.0.0.0 cdn.vidible.tv
@@ -2603,6 +2604,7 @@
 0.0.0.0 msntrademarketing.112.2o7.net
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 mtrx.go.sonobi.com
+0.0.0.0 m.uberall.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mvconf.cloud.360safe.com
 0.0.0.0 mwzeom.zeotap.com
@@ -2650,6 +2652,7 @@
 0.0.0.0 nextmillennium.liqwid.net
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nfl.demdex.net
 0.0.0.0 nfl.hb.omtrdc.net
 0.0.0.0 nfoo-server.com
