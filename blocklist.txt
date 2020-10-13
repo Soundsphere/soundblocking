@@ -591,6 +591,7 @@
 0.0.0.0 api.taboola.com
 0.0.0.0 api.taplytics.com
 0.0.0.0 api.traversedlp.com
+0.0.0.0 api.twitter.com
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.unbounce.com
 0.0.0.0 api.uprivaladserver.net
@@ -3167,6 +3168,7 @@
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rxcdn.1rx.io
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 s06.flagcounter.com
 0.0.0.0 s0.doubleclick.net
 0.0.0.0 s0.wp.com
@@ -3259,6 +3261,7 @@
 0.0.0.0 sdk-ios.ad.smaato.net
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdk.out.usbla.net
+0.0.0.0 sdk.privacy-center.org
 0.0.0.0 sdk.split.io
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com
@@ -4457,6 +4460,7 @@
 0.0.0.0 www.userreport.com
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
+0.0.0.0 www.wikifeetx.com
 0.0.0.0 www.worldometers.info
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xiti.com
