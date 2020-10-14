@@ -851,7 +851,6 @@
 0.0.0.0 bild01.webtrekk.net
 0.0.0.0 bilder.bild.de
 0.0.0.0 bingads.microsoft.com
-0.0.0.0 bitbucket.org
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
 0.0.0.0 bitrix.info
