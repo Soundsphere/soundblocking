@@ -1,3 +1,10 @@
+0.0.0.0 bango.combango.org
+0.0.0.0 basic-check.disconnect.me
+0.0.0.0 burstly.com
+0.0.0.0 custom-blacklisted-tracking-example.com
+0.0.0.0 getexceptional.com
+0.0.0.0 supercell.net
+0.0.0.0 usergrid.com
 0.0.0.0 0.gravatar.com
 0.0.0.0 1016557.fls.doubleclick.net
 0.0.0.0 112-tzm-766.mktoresp.com
