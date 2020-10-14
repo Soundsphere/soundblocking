@@ -97,6 +97,7 @@
 0.0.0.0 118-oew-181.mktoresp.com
 0.0.0.0 11990.com
 0.0.0.0 11.rtcode.com
+0.0.0.0 11.tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 11zz.com
 0.0.0.0 121.64-5-48.reverse.theplanet.com
 0.0.0.0 1234.2bro.com
@@ -343,6 +344,7 @@
 0.0.0.0 3a3ab5f6-03c5-4769-94fd-df2782ca307c.htmlpasta.com
 0.0.0.0 3-a.net
 0.0.0.0 3arduino.com
+0.0.0.0 3.au.download.windowsupdate.com
 0.0.0.0 3-best-seo.com
 0.0.0.0 3cinteractive.com
 0.0.0.0 3danimaldreams.com
@@ -3363,6 +3365,7 @@
 0.0.0.0 amricanwastus.com
 0.0.0.0 ams01-bfp01.mediaplex.com
 0.0.0.0 ams01-bfp02.mediaplex.com
+0.0.0.0 ams01-convex.dotomi.com
 0.0.0.0 ams01-login.dotomi.com
 0.0.0.0 ams01-login-ds.dotomi.com
 0.0.0.0 ams01-usadmm.dotomi.com
@@ -3375,6 +3378,7 @@
 0.0.0.0 ams02-usadmm-ds.dotomi.com
 0.0.0.0 ams03-bfp01.mediaplex.com
 0.0.0.0 ams03-bfp02.mediaplex.com
+0.0.0.0 ams03-convex.dotomi.com
 0.0.0.0 ams03-login.dotomi.com
 0.0.0.0 ams03-login-ds.dotomi.com
 0.0.0.0 ams03-usadmm.dotomi.com
@@ -3929,6 +3933,7 @@
 0.0.0.0 api.unbounce.com
 0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.usebutton.com
+0.0.0.0 api.userlike.com
 0.0.0.0 api.usersnap.com
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 api.vanilla.futurecdn.net
@@ -5702,6 +5707,7 @@
 0.0.0.0 bitads.net
 0.0.0.0 bitatour.khayyamnameh.ir
 0.0.0.0 bitballoon.com
+0.0.0.0 bitbucket.org
 0.0.0.0 bitbytesoft.com
 0.0.0.0 bitchbrat.com
 0.0.0.0 bitchmovies.com
@@ -8522,6 +8528,7 @@
 0.0.0.0 c.thinktarget.com
 0.0.0.0 cti.w55c.net
 0.0.0.0 ctix8.cheaptickets.com
+0.0.0.0 ctldl.windowsupdate.com
 0.0.0.0 ctnetwork.hu
 0.0.0.0 c.t-online.de
 0.0.0.0 ct.pinterest.com
@@ -11984,6 +11991,7 @@
 0.0.0.0 firatinsaat.com
 0.0.0.0 fireballftp.com
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firebirdbanding.com
 0.0.0.0 firebucks.com
 0.0.0.0 fire-codec.net
@@ -13267,6 +13275,7 @@
 0.0.0.0 glite.thejermanis.com
 0.0.0.0 glitter.services.disqus.com
 0.0.0.0 glit-usa.com
+0.0.0.0 g.live.com
 0.0.0.0 glo3q.biz
 0.0.0.0 globaisourcing.ca
 0.0.0.0 global-acces.com
@@ -13548,6 +13557,7 @@
 0.0.0.0 gosmrtprt.com
 0.0.0.0 gosnellspodiatry.com.au
 0.0.0.0 gosomescan.com
+0.0.0.0 go.sonnenbatterie.de
 0.0.0.0 go.sparkpostmail1.com
 0.0.0.0 goss.ru
 0.0.0.0 gostats.com
@@ -16707,6 +16717,7 @@
 0.0.0.0 latos.co.kr
 0.0.0.0 laufwerkcleaner.com
 0.0.0.0 launcher.mojang.com
+0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchpadlibrarian.net
 0.0.0.0 launchpoint.marketo.com
 0.0.0.0 laurahanly.robhanly.com
@@ -18957,6 +18968,7 @@
 0.0.0.0 mpx.mopub.com
 0.0.0.0 mpzone.net
 0.0.0.0 mqbol.com
+0.0.0.0 mqtt-mini.facebook.com
 0.0.0.0 m.quantcount.com
 0.0.0.0 mr-a1ex90.freehostia.com
 0.0.0.0 mrbloodhound.com
@@ -19824,6 +19836,7 @@
 0.0.0.0 nexttoyersinghph3.club
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
+0.0.0.0 nexusrules.officeapps.live.com
 0.0.0.0 nexware.net
 0.0.0.0 nf-cash.com
 0.0.0.0 nfl.demdex.net
@@ -20345,8 +20358,10 @@
 0.0.0.0 ocrservice.biz
 0.0.0.0 ocscanner.com
 0.0.0.0 ocsff.com
+0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.godaddy.com.akadns.net
 0.0.0.0 ocsp.sca1b.amazontrust.com
+0.0.0.0 ocsp.starfieldtech.com
 0.0.0.0 octaviacentral.org
 0.0.0.0 octemad.com
 0.0.0.0 oc.umeng.com
@@ -24018,6 +24033,7 @@
 0.0.0.0 ryxmkxkka.php0h.com
 0.0.0.0 s01.flagcounter.com
 0.0.0.0 s0.2mdn.net
+0.0.0.0 s0-2mdn-net.l.google.com
 0.0.0.0 s05.flagcounter.com
 0.0.0.0 s07.flagcounter.com
 0.0.0.0 s0.doubleclick.net
@@ -25423,6 +25439,7 @@
 0.0.0.0 setting3.9999mb.com
 0.0.0.0 setting.rayjump.com
 0.0.0.0 settings.crashlytics.com
+0.0.0.0 settingsfd-geo.trafficmanager.net
 0.0.0.0 settings.luckyorange.net
 0.0.0.0 settings.myhomeplace.hk
 0.0.0.0 settings-win.data.microsoft.com
@@ -26764,6 +26781,7 @@
 0.0.0.0 ssl2.glhserver.com
 0.0.0.0 ssl3.adhost.com
 0.0.0.0 ssl4all.com
+0.0.0.0 ssl.bblck.me
 0.0.0.0 sslconnection.cobk-online.com
 0.0.0.0 ssl.geoplugin.net
 0.0.0.0 ssl.google-analytics.com
@@ -27093,6 +27111,7 @@
 0.0.0.0 statuscake.com
 0.0.0.0 status.discordapp.com
 0.0.0.0 status.qckads.com
+0.0.0.0 status.rapidssl.com
 0.0.0.0 stat.webmedia.pl
 0.0.0.0 statxpress.com
 0.0.0.0 stat.zenon.net
@@ -34596,6 +34615,7 @@
 0.0.0.0 www.wheezesequestergoddess.com
 0.0.0.0 www.whenu.com.edgesuite.net
 0.0.0.0 www.widespace.com
+0.0.0.0 www.wikifeetx.com
 0.0.0.0 www.wildtangent.com
 0.0.0.0 www.wimbou.be
 0.0.0.0 www.winadiscount.com
