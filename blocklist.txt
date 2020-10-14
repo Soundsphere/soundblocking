@@ -3698,6 +3698,7 @@
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 svastx.moatads.com
 0.0.0.0 s.vertamedia.com
+0.0.0.0 s.vi-serve.com
 0.0.0.0 svk-native.ru
 0.0.0.0 swa.and.co.uk
 0.0.0.0 swa.metro.co.uk
