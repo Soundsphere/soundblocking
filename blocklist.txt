@@ -1,13 +1,7 @@
-0.0.0.0 bango.combango.org
-0.0.0.0 basic-check.disconnect.me
-0.0.0.0 burstly.com
-0.0.0.0 custom-blacklisted-tracking-example.com
-0.0.0.0 getexceptional.com
-0.0.0.0 supercell.net
-0.0.0.0 usergrid.com
 0.0.0.0 0.gravatar.com
 0.0.0.0 1016557.fls.doubleclick.net
 0.0.0.0 112-tzm-766.mktoresp.com
+0.0.0.0 11.tlu.dl.delivery.mp.microsoft.com
 0.0.0.0 15.taboola.com
 0.0.0.0 1681.engine.mobileapptracking.com
 0.0.0.0 168logger.com
@@ -32,6 +26,7 @@
 0.0.0.0 3573281.fls.doubleclick.net
 0.0.0.0 35ax3z5b4g.kameleoon.eu
 0.0.0.0 3797665.fls.doubleclick.net
+0.0.0.0 3.au.download.windowsupdate.com
 0.0.0.0 4228414.fls.doubleclick.net
 0.0.0.0 4258548.fls.doubleclick.net
 0.0.0.0 4345210.fls.doubleclick.net
@@ -782,6 +777,7 @@
 0.0.0.0 b.admedia.com
 0.0.0.0 b.aklamio.com
 0.0.0.0 bam.nr-data.net
+0.0.0.0 bango.combango.org
 0.0.0.0 banner.congstar.de
 0.0.0.0 banner.immowelt.de
 0.0.0.0 bannernetwork.net
@@ -792,6 +788,7 @@
 0.0.0.0 banners.wunderground.com
 0.0.0.0 b-api.facebook.com
 0.0.0.0 baremetrics.com
+0.0.0.0 basic-check.disconnect.me
 0.0.0.0 bat.bing.com
 0.0.0.0 batchgeo.com
 0.0.0.0 batchlogging4-noneu.truecaller.com
@@ -893,6 +890,7 @@
 0.0.0.0 build-cdn.liftoff.io
 0.0.0.0 builder-assets.unbounce.com
 0.0.0.0 builfico.de
+0.0.0.0 burstly.com
 0.0.0.0 businessclick.ch
 0.0.0.0 by.uservoice.com
 0.0.0.0 c00.adobe.com
@@ -1373,6 +1371,7 @@
 0.0.0.0 cts.tradepub.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 curse-d.openx.net
+0.0.0.0 custom-blacklisted-tracking-example.com
 0.0.0.0 customerevents.netflix.com
 0.0.0.0 customizations.fitanalytics.com
 0.0.0.0 custom-wrs.api.responsys.net
@@ -1956,6 +1955,7 @@
 0.0.0.0 gestern-nacht-im-taxi.de
 0.0.0.0 get.amplitude.com
 0.0.0.0 get.cryptobrowser.site
+0.0.0.0 getexceptional.com
 0.0.0.0 gethatch.com
 0.0.0.0 get.mirando.de
 0.0.0.0 getrockerbox.com
@@ -2696,6 +2696,7 @@
 0.0.0.0 ocsp.godaddy.com
 0.0.0.0 ocsp.godaddy.com.akadns.net
 0.0.0.0 ocsp.sca1b.amazontrust.com
+0.0.0.0 ocsp.starfieldtech.com
 0.0.0.0 odb.outbrain.com
 0.0.0.0 odr.mookie1.com
 0.0.0.0 offer.alibaba.com
@@ -3485,6 +3486,7 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 ssl.bblck.me
 0.0.0.0 ssl.geoplugin.net
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
@@ -3642,6 +3644,7 @@
 0.0.0.0 stat.uptodown.com
 0.0.0.0 status.discordapp.com
 0.0.0.0 status.geotrust.com
+0.0.0.0 status.rapidssl.com
 0.0.0.0 status.thawte.com
 0.0.0.0 st.core.polyad.net
 0.0.0.0 st.dynamicyield.com
@@ -3684,6 +3687,7 @@
 0.0.0.0 s.update.indexww.com
 0.0.0.0 s.update.rubiconproject.com
 0.0.0.0 s.update.wtag.adaptv.advertising.com
+0.0.0.0 supercell.net
 0.0.0.0 supersonicads-a.akamaihd.net
 0.0.0.0 survey.122.2o7.net
 0.0.0.0 survey.euro.confirmit.com
@@ -4081,6 +4085,7 @@
 0.0.0.0 us-east-1-decisionapi.lift.acquia.com
 0.0.0.0 useast.bfmio.com
 0.0.0.0 usemaxserver.de
+0.0.0.0 usergrid.com
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 user-sync.adhese.com
