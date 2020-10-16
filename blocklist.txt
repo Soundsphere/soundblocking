@@ -57,7 +57,6 @@
 0.0.0.0 8468614.fls.doubleclick.net
 0.0.0.0 883205.fls.doubleclick.net
 0.0.0.0 935-kke-240.mktoresp.com
-0.0.0.0 9to5google.com
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a01.korrelate.net
 0.0.0.0 a0.smi2.ru
@@ -437,7 +436,6 @@
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-usadmm.dotomi.com
 0.0.0.0 amzn.to
-0.0.0.0 anaconda.org
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
 0.0.0.0 analytics.analytics-egain.com
@@ -1442,6 +1440,7 @@
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5p.de17a.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
+0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9hhrg4mnvzow.cloudfront.net
@@ -1813,7 +1812,6 @@
 0.0.0.0 f7-de.adhigh.net
 0.0.0.0 facebook.de
 0.0.0.0 faggrim.com
-0.0.0.0 fandango.com
 0.0.0.0 fandangollc.demdex.net
 0.0.0.0 faracoon.com
 0.0.0.0 farlex-d.openx.net
@@ -2665,7 +2663,6 @@
 0.0.0.0 nfl.hb.omtrdc.net
 0.0.0.0 nfoo-server.com
 0.0.0.0 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
-0.0.0.0 nike.com
 0.0.0.0 ninegag-d.openx.net
 0.0.0.0 nineto5mac-d.openx.net
 0.0.0.0 ninja.onap.io
@@ -2792,7 +2789,6 @@
 0.0.0.0 pfa.levexis.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phonograph2.voxmedia.com
-0.0.0.0 phoronix.com
 0.0.0.0 p.imgur.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
@@ -3238,7 +3234,6 @@
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scout24-d.openx.net
 0.0.0.0 s.cpx.to
-0.0.0.0 screenrant.com
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
@@ -4430,16 +4425,12 @@
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.pages03.net
-0.0.0.0 www.phun.org
-0.0.0.0 www.pinterest.com
 0.0.0.0 www.plista.com
-0.0.0.0 www.pornhub.com
 0.0.0.0 www.pornhublive.com
 0.0.0.0 www.porntrex.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
-0.0.0.0 www.queer.de
 0.0.0.0 www.querverweis.net
 0.0.0.0 www.ranking-hits.de
 0.0.0.0 www.rce-event.de
@@ -4473,13 +4464,11 @@
 0.0.0.0 www.userreport.com
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
-0.0.0.0 www.wikifeetx.com
 0.0.0.0 www.worldometers.info
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xiti.com
 0.0.0.0 www.yceml.net
 0.0.0.0 www.yoloselfie.com
-0.0.0.0 www.youporn.com
 0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 www.zergnet.com
 0.0.0.0 x9vql09shn.kameleoon.eu
@@ -4517,7 +4506,6 @@
 0.0.0.0 ynuf.alipay.com
 0.0.0.0 y.one.impact-ad.jp
 0.0.0.0 yourporn.sexy
-0.0.0.0 youtu.be
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 yui.yahooapis.com
 0.0.0.0 z9q9kj37oy.kameleoon.eu
