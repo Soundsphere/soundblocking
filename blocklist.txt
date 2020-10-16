@@ -4334,8 +4334,6 @@
 0.0.0.0 www.adventori.com
 0.0.0.0 www.adwidecenter.com
 0.0.0.0 www.agkn.com
-0.0.0.0 www.alexa.com
-0.0.0.0 www.aliexpress.com
 0.0.0.0 www.amobee.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.applift.com
@@ -4354,7 +4352,6 @@
 0.0.0.0 www.bookdepository.com
 0.0.0.0 www.breakingnews.ie
 0.0.0.0 www.browser-statistik.de
-0.0.0.0 www.ccleaner.com
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clicktripz.com
 0.0.0.0 www.counter-gratis.com
@@ -4368,7 +4365,6 @@
 0.0.0.0 www.dwin1.com
 0.0.0.0 www.dwin2.com
 0.0.0.0 www.econda-monitor.de
-0.0.0.0 www.eisenberg-allgaeu.de
 0.0.0.0 www.emjcd.com
 0.0.0.0 www.etonline.com
 0.0.0.0 www.etracker.com
@@ -4394,7 +4390,6 @@
 0.0.0.0 www.googletagservices.com
 0.0.0.0 www.gotgayporn.com
 0.0.0.0 www.graph.facebook.com
-0.0.0.0 www.guitarworld.com
 0.0.0.0 www.hlserve.com
 0.0.0.0 www.hotjar.com
 0.0.0.0 www.i.matheranalytics.com
@@ -4417,8 +4412,6 @@
 0.0.0.0 www.media.net
 0.0.0.0 www.meltwater.com
 0.0.0.0 www.movable-ink-2183.com
-0.0.0.0 www.musiciansfriend.com
-0.0.0.0 www.myspace.com
 0.0.0.0 www.newnownext.com
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
