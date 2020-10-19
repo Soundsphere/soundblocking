@@ -1411,6 +1411,7 @@
 0.0.0.0 d2k03kvdk5cku0.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
 0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
+0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
 0.0.0.0 d2qmp7jjpd79k7.cloudfront.net
 0.0.0.0 d2t2on23g4lty1.cloudfront.net
 0.0.0.0 d2uepos3ef6db0.cloudfront.net
@@ -1440,7 +1441,6 @@
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
 0.0.0.0 d5p.de17a.com
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
-0.0.0.0 d2p3zdq8vjvnxd.cloudfront.net
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
 0.0.0.0 d9hhrg4mnvzow.cloudfront.net
@@ -2422,6 +2422,7 @@
 0.0.0.0 lonrtp1-cdn.marketo.com
 0.0.0.0 lonrtp1.marketo.com
 0.0.0.0 lookaside.facebook.com
+0.0.0.0 lookaside.fbsbx.com
 0.0.0.0 looperman.com
 0.0.0.0 loopme.me
 0.0.0.0 l.ooyala.com
