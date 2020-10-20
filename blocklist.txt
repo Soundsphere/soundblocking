@@ -626,6 +626,7 @@
 0.0.0.0 app-ab27.marketo.com
 0.0.0.0 app-aba.marketo.com
 0.0.0.0 app-abb.marketo.com
+0.0.0.0 app-abc.marketo.com
 0.0.0.0 app-abj.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
@@ -4203,6 +4204,7 @@
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 waust.at
 0.0.0.0 waves.retentionscience.com
+0.0.0.0 wbtrkk.teufel.de
 0.0.0.0 w.cnzz.com
 0.0.0.0 wcs.naver.com
 0.0.0.0 wct.link
