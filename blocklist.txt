@@ -2022,6 +2022,7 @@
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gwmtracking.com
 0.0.0.0 gwm.w-cdn.com
+0.0.0.0 gzhls.at
 0.0.0.0 h6.msn.com
 0.0.0.0 h-adashx.ut.taobao.com
 0.0.0.0 hajoopteg.com
@@ -4422,6 +4423,7 @@
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.pages03.net
+0.0.0.0 www.phun.org
 0.0.0.0 www.plista.com
 0.0.0.0 www.pornhublive.com
 0.0.0.0 www.porntrex.com
