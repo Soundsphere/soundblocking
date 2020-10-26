@@ -630,6 +630,8 @@
 0.0.0.0 app-abj.marketo.com
 0.0.0.0 app.adjust.com
 0.0.0.0 app.adjust.io
+0.0.0.0 app.adjust.net.in
+0.0.0.0 app.adjust.world
 0.0.0.0 app.adroll.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 app.box.com
@@ -3218,6 +3220,7 @@
 0.0.0.0 sa.scorecardresearch.com
 0.0.0.0 sat101.webtrekk.net
 0.0.0.0 sat.sanoma.fi
+0.0.0.0 sats.spiegel.de
 0.0.0.0 saxp.zedo.com
 0.0.0.0 sbhc.portalhc.com
 0.0.0.0 sb.monetate.net
