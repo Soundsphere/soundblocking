@@ -996,6 +996,7 @@
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.chitika.net
 0.0.0.0 cdn.c-i.as
+0.0.0.0 cdn.clicktale.net
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.connatix.com
 0.0.0.0 cdn.connectad.io
@@ -2683,6 +2684,7 @@
 0.0.0.0 nqs-nl-c5-c2.youboranqs01.com
 0.0.0.0 nrdp.nccp.netflix.com
 0.0.0.0 nr.taboola.com
+0.0.0.0 nsm.dell.com
 0.0.0.0 ns.zdbb.net
 0.0.0.0 nxtck.com
 0.0.0.0 nycp-hlb.dvgtm.akadns.net
@@ -3423,6 +3425,7 @@
 0.0.0.0 smart.styria-digital.com
 0.0.0.0 smarturl.it
 0.0.0.0 smct.co
+0.0.0.0 sm.dell.com
 0.0.0.0 s-media-cache-ak0.pinimg.com
 0.0.0.0 s.media-imdb.com
 0.0.0.0 smetrics.aem.playstation.com
@@ -3674,6 +3677,7 @@
 0.0.0.0 s.tribalfusion.com
 0.0.0.0 strips.vidible.tv
 0.0.0.0 sts.eccmp.com
+0.0.0.0 stt.dell.com
 0.0.0.0 st.top100.ru
 0.0.0.0 stubhub.demdex.net
 0.0.0.0 studio-t.teads.tv
