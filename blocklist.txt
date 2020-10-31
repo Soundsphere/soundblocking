@@ -572,6 +572,7 @@
 0.0.0.0 api.picsart.com
 0.0.0.0 api.pingstart.com
 0.0.0.0 api.popin.cc
+0.0.0.0 api.pornhub.com
 0.0.0.0 api.primecaster.net
 0.0.0.0 api.privy.com
 0.0.0.0 api-public.addthis.com
@@ -1150,6 +1151,7 @@
 0.0.0.0 ci89.actonsoftware.com
 0.0.0.0 ciksolre.net
 0.0.0.0 c.imedia.cz
+0.0.0.0 ci.phncdn.com
 0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.madeleine.de
 0.0.0.0 c.jsrdn.com
@@ -1264,6 +1266,7 @@
 0.0.0.0 community.unbounce.com
 0.0.0.0 completion.amazon.com
 0.0.0.0 completion.amazon.co.uk
+0.0.0.0 completion.amazon.de
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condenast.demdex.net
 0.0.0.0 conductor.clicktale.net
@@ -1381,6 +1384,7 @@
 0.0.0.0 cw.addthis.com
 0.0.0.0 c.webengage.com
 0.0.0.0 c.wort-suche.com
+0.0.0.0 cw.phncdn.com
 0.0.0.0 cws.conviva.com
 0.0.0.0 cx.atdmt.com
 0.0.0.0 c.x.oanda.com
@@ -1592,6 +1596,7 @@
 0.0.0.0 diapi.webgains.com
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 d.impactradius-event.com
+0.0.0.0 di.phncdn.com
 0.0.0.0 di.rlcdn.com
 0.0.0.0 dis.as.criteo.com
 0.0.0.0 dis.criteo.com
@@ -1669,6 +1674,7 @@
 0.0.0.0 d.turn.com
 0.0.0.0 dtxtngytz5im1.cloudfront.net
 0.0.0.0 dumontnet.d3.sc.omtrdc.net
+0.0.0.0 dw.phncdn.com
 0.0.0.0 d.xp1.ru4.com
 0.0.0.0 dx.steelhousemedia.com
 0.0.0.0 dy.adserve.io
@@ -2797,6 +2803,7 @@
 0.0.0.0 pfa.levexis.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phonograph2.voxmedia.com
+0.0.0.0 pics.wikifeet.com
 0.0.0.0 p.imgur.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
@@ -3865,6 +3872,7 @@
 0.0.0.0 t.hoood.info
 0.0.0.0 thor.rtk.io
 0.0.0.0 thrtle.com
+0.0.0.0 thumbs.wikifeet.com
 0.0.0.0 tia.timeinc.net
 0.0.0.0 tidd.ly
 0.0.0.0 timeanddate-d.openx.net
@@ -4470,6 +4478,7 @@
 0.0.0.0 www.userreport.com
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
+0.0.0.0 www.wikifeetx.com
 0.0.0.0 www.worldometers.info
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xiti.com
