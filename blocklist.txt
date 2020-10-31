@@ -2169,6 +2169,7 @@
 0.0.0.0 imgraovat.vnecdn.net
 0.0.0.0 img.revcontent.com
 0.0.0.0 img.sedoparking.com
+0.0.0.0 imgs.signifyd.com
 0.0.0.0 imgssl.constantcontact.com
 0.0.0.0 imp.control.kochava.com
 0.0.0.0 impde.tradedoubler.com
@@ -2647,6 +2648,7 @@
 0.0.0.0 nativesdks.mparticle.com
 0.0.0.0 native.sharethrough.com
 0.0.0.0 nativespot.com
+0.0.0.0 nats.xing.com
 0.0.0.0 navdmp.com
 0.0.0.0 navvy.media.net
 0.0.0.0 nba.demdex.net
@@ -2692,6 +2694,7 @@
 0.0.0.0 nr.taboola.com
 0.0.0.0 nsm.dell.com
 0.0.0.0 ns.zdbb.net
+0.0.0.0 ntp.msn.com
 0.0.0.0 nxtck.com
 0.0.0.0 nycp-hlb.dvgtm.akadns.net
 0.0.0.0 nyidt.adsafeprotected.com
