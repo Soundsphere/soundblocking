@@ -128,6 +128,8 @@
 0.0.0.0 aax-cpm.amazon-adsystem.com
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
+0.0.0.0 aax-eu.amazon.de
+0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
 0.0.0.0 aax-us-iad.amazon.com
