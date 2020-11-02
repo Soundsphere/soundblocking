@@ -1453,6 +1453,7 @@
 0.0.0.0 d7d3cf2e81d293050033-3dfc0615b0fd7b49143049256703bfce.ssl.cf1.rackcdn.com
 0.0.0.0 d81mfvml8p5ml.cloudfront.net
 0.0.0.0 d8rk54i4mohrb.cloudfront.net
+0.0.0.0 d9.flashtalking.com
 0.0.0.0 d9hhrg4mnvzow.cloudfront.net
 0.0.0.0 d.adroll.com
 0.0.0.0 d.adtriba.com
@@ -1921,6 +1922,7 @@
 0.0.0.0 gahu.hit.gemius.pl
 0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gallery.mailchimp.com
+0.0.0.0 gameplayapi.intel.com
 0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 garu.hit.gemius.pl
@@ -2215,6 +2217,7 @@
 0.0.0.0 instant.page
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 instreamvideo.ru
+0.0.0.0 intel11.edgekey.net
 0.0.0.0 interngraph.prod.scgraph.facebook.com
 0.0.0.0 interngraph.scgraph.facebook.com
 0.0.0.0 interngraph.staging.scgraph.facebook.com
@@ -4170,6 +4173,7 @@
 0.0.0.0 vg08.met.vgwort.de
 0.0.0.0 vg09.met.vgwort.de
 0.0.0.0 vht.tradedoubler.com
+0.0.0.0 via.batch.com
 0.0.0.0 vice.demdex.net
 0.0.0.0 vice.hb.omtrdc.net
 0.0.0.0 vice-publishers-cdn.vice.com
@@ -4191,6 +4195,7 @@
 0.0.0.0 vidstatb.taboola.com
 0.0.0.0 vidstat.taboola.com
 0.0.0.0 vidutils.taboola.com
+0.0.0.0 view.adjust.com
 0.0.0.0 view.atdmt.com
 0.0.0.0 view.autoscout24.de
 0.0.0.0 view.s7.exacttarget.com
