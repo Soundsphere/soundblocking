@@ -983,6 +983,7 @@
 0.0.0.0 cdn-akamai.mookie1.com
 0.0.0.0 cdn.alooma.com
 0.0.0.0 cdn.amplitude.com
+0.0.0.0 cdnapisec.kaltura.com
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.apvdr.com
