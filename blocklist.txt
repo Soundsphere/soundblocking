@@ -1005,6 +1005,7 @@
 0.0.0.0 cdn.concert.io
 0.0.0.0 cdn.connatix.com
 0.0.0.0 cdn.connectad.io
+0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cpnscdn.com
@@ -3327,6 +3328,7 @@
 0.0.0.0 secure.leadback.advertising.com
 0.0.0.0 secure.leadforensics.com
 0.0.0.0 securemetrics.apple.com
+0.0.0.0 securemvt.apple.com
 0.0.0.0 secure-nz.imrworldwide.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secure.quantserve.com
