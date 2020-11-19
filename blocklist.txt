@@ -1291,6 +1291,7 @@
 0.0.0.0 connect.tapjoy.com
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
+0.0.0.0 consent.cookiebot.com.edgekey.net
 0.0.0.0 consent.truste.com
 0.0.0.0 consent.webmasterplan.com
 0.0.0.0 containertags.belboon.de
@@ -2019,6 +2020,7 @@
 0.0.0.0 go.redirectingat.com
 0.0.0.0 go.shareaholic.com
 0.0.0.0 go.skimresources.com
+0.0.0.0 go.sonnenbatterie.de
 0.0.0.0 go.toutapp.com
 0.0.0.0 gounlimited.to
 0.0.0.0 grace.shareaholic.com
