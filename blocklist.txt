@@ -1686,6 +1686,7 @@
 0.0.0.0 dx.steelhousemedia.com
 0.0.0.0 dy.adserve.io
 0.0.0.0 dyn.emetriq.de
+0.0.0.0 e-10220.adzerk.net
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
 0.0.0.0 e1.extreme-dm.com
