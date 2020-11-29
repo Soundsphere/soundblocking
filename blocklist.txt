@@ -570,6 +570,7 @@
 0.0.0.0 api.newsfeed.intl.miui.com
 0.0.0.0 api.optmnstr.com
 0.0.0.0 api.parsely.com
+0.0.0.0 api.permutive.com
 0.0.0.0 api.petametrics.com
 0.0.0.0 api.picsart.com
 0.0.0.0 api.pingstart.com
@@ -1650,6 +1651,7 @@
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dove.saymedia.com
 0.0.0.0 downdetector.com
+0.0.0.0 downloadcenter.intel.com
 0.0.0.0 download.gamestar.de
 0.0.0.0 downloads.intercomcdn.com
 0.0.0.0 dp2.33across.com
@@ -2820,6 +2822,7 @@
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 pics.wikifeet.com
 0.0.0.0 p.imgur.com
+0.0.0.0 pim-media.intel.com
 0.0.0.0 pingback.giphy.com
 0.0.0.0 pingback.issuu.com
 0.0.0.0 ping.chartbeat.net
@@ -3470,6 +3473,7 @@
 0.0.0.0 solarwindsworldwidellc.demdex.net
 0.0.0.0 solutions.nitro.bunchball.net
 0.0.0.0 soma.smaato.net
+0.0.0.0 somniture.chip.de
 0.0.0.0 sonyglobal.d1.sc.omtrdc.net
 0.0.0.0 sourcepoint.mgr.consensu.org
 0.0.0.0 sourcepoint.vice.com
