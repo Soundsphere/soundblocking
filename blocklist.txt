@@ -2771,6 +2771,7 @@
 0.0.0.0 origin-images.wikia.com
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
+0.0.0.0 otnolatrnup.com
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ow-gateway.supersonicads.com
@@ -4463,6 +4464,7 @@
 0.0.0.0 www.pages03.net
 0.0.0.0 www.phun.org
 0.0.0.0 www.plista.com
+0.0.0.0 www.pornhub.com
 0.0.0.0 www.pornhublive.com
 0.0.0.0 www.porntrex.com
 0.0.0.0 www.qualcomm.cn
