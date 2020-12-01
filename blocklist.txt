@@ -48,6 +48,7 @@
 0.0.0.0 5d0b6.v.fwmrm.net
 0.0.0.0 5fd74.v.fwmrm.net
 0.0.0.0 6124109.fls.doubleclick.net
+0.0.0.0 6543402.fls.doubleclick.net
 0.0.0.0 709-nxn-706.mktoresp.com
 0.0.0.0 71i.nuggad.net
 0.0.0.0 727-zqe-044.mktoresp.com
@@ -1295,6 +1296,7 @@
 0.0.0.0 consent.cookiebot.com.edgekey.net
 0.0.0.0 consent.truste.com
 0.0.0.0 consent.webmasterplan.com
+0.0.0.0 consumer.krxd.net
 0.0.0.0 containertags.belboon.de
 0.0.0.0 content.adriver.ru
 0.0.0.0 content.aimatch.com
@@ -2535,6 +2537,7 @@
 0.0.0.0 mcdp-nydc1.outbrain.com
 0.0.0.0 mckinseyknowledge.122.2o7.net
 0.0.0.0 mc.webvisor.org
+0.0.0.0 mc.yandex.com
 0.0.0.0 mc.yandex.ru
 0.0.0.0 md-a-c.apptimize.com
 0.0.0.0 md-i-s.apptimize.com
