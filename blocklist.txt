@@ -557,6 +557,7 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.iperceptions.com
+0.0.0.0 api.ipstack.com
 0.0.0.0 api.iris.tv
 0.0.0.0 api.keen.io
 0.0.0.0 api.leadpages.io
