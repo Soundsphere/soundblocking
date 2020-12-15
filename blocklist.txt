@@ -2318,6 +2318,7 @@
 0.0.0.0 js.pusher.com
 0.0.0.0 js.revsci.net
 0.0.0.0 js.sddan.com
+0.0.0.0 js-sec.casalemedia.com.edgekey.net
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.smartredirect.de
 0.0.0.0 jssocdn.indiatimes.com
@@ -3299,6 +3300,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdk-events.inner-active.mobi
+0.0.0.0 sdkgw.us1.twilio.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-03.braze.com
 0.0.0.0 sdk-ios.ad.smaato.net
