@@ -871,6 +871,7 @@
 0.0.0.0 boards.greenhouse.io
 0.0.0.0 bombora.com
 0.0.0.0 bonfire.spklw.com
+0.0.0.0 boomerang.dell.com
 0.0.0.0 boss.berlinonline.de
 0.0.0.0 b.perimeterx.net
 0.0.0.0 bpu.samsungelectronics.com
@@ -2041,6 +2042,7 @@
 0.0.0.0 grunerandjahr.112.2o7.net
 0.0.0.0 gscounters.eu1.gigya.com
 0.0.0.0 gscounters.us1.gigya.com
+0.0.0.0 gslb-2.demdex.net
 0.0.0.0 gslbeacon.lijit.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gum.criteo.com
