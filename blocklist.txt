@@ -319,6 +319,7 @@
 0.0.0.0 ads.samsungads.com
 0.0.0.0 ads.scorecardresearch.com
 0.0.0.0 ads.servebom.com
+0.0.0.0 ads.servenobid.com
 0.0.0.0 ads.simpli.fi
 0.0.0.0 ads.smartfeedads.com
 0.0.0.0 ads.smartshoppingads.de
@@ -563,6 +564,7 @@
 0.0.0.0 api.leadpages.io
 0.0.0.0 api.leanplum.com
 0.0.0.0 api.lever.co
+0.0.0.0 api-location-prd.pelcro.com
 0.0.0.0 api.logmatic.io
 0.0.0.0 api.mixpanel.com
 0.0.0.0 api-mobi.soundcloud.com
@@ -726,6 +728,7 @@
 0.0.0.0 assets.pinterest.com
 0.0.0.0 assets.privy.com
 0.0.0.0 assets.purch.com
+0.0.0.0 assets.revcontent.com
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assistjs.skimresources.com
 0.0.0.0 a-ssl.ligatus.com
@@ -993,6 +996,7 @@
 0.0.0.0 cdn.appdynamics.com
 0.0.0.0 cdn.appsflyer.com
 0.0.0.0 cdn.apvdr.com
+0.0.0.0 cdn.avantisvideo.com
 0.0.0.0 cdn.avazutracking.net
 0.0.0.0 cdn.avmws.com
 0.0.0.0 cdn.avocet.io
@@ -1886,6 +1890,7 @@
 0.0.0.0 fls-eu.amazon.com
 0.0.0.0 fls-eu.amazon.co.uk
 0.0.0.0 fls-eu.amazon.de
+0.0.0.0 fls-eu.amazon.fr
 0.0.0.0 fls-na.amazon-adsystem.com
 0.0.0.0 fls-na.amazon.ca
 0.0.0.0 fls-na.amazon.com
@@ -2103,6 +2108,8 @@
 0.0.0.0 hp.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 hp.myway.com
 0.0.0.0 hpsupport.qualtrics.com
+0.0.0.0 htlb.casalemedia.com
+0.0.0.0 htlb.casalemedia.com.edgekey.net
 0.0.0.0 htlbid.com
 0.0.0.0 html5.adsrvr.org
 0.0.0.0 ht.redtube.com
@@ -3016,6 +3023,7 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 publicagent.com
+0.0.0.0 public.servenobid.com
 0.0.0.0 public.vilynx.com
 0.0.0.0 publisher-config.unityads.unity3d.com
 0.0.0.0 pubmatic2waycm-atl.netmng.com
