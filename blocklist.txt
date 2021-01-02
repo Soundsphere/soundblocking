@@ -1076,6 +1076,7 @@
 0.0.0.0 cdn.pljs.ru
 0.0.0.0 cdn.polyfill.io
 0.0.0.0 cdn.pricespider.com
+0.0.0.0 cdn.privacy-mgmt.com
 0.0.0.0 cdn.pushwoosh.com
 0.0.0.0 cdn.quantummetric.com
 0.0.0.0 cdn.ravenjs.com
