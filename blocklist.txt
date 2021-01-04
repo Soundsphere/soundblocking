@@ -1142,6 +1142,7 @@
 0.0.0.0 cds.d2s7q6s2.hwcdn.net
 0.0.0.0 cds.j3z9t3p6.hwcdn.net
 0.0.0.0 cds.s5x3j6q5.hwcdn.net
+0.0.0.0 cds.taboola.com
 0.0.0.0 ced.sascdn.com
 0.0.0.0 ce.lijit.com
 0.0.0.0 certify.alexametrics.com
@@ -1364,6 +1365,7 @@
 0.0.0.0 crunchmind-d.openx.net
 0.0.0.0 cs1137.wpc.gammacdn.net
 0.0.0.0 cs11.wpc.v0cdn.net
+0.0.0.0 cs4.wettercomassets.com
 0.0.0.0 cs9.wac.phicdn.net
 0.0.0.0 cs.adingo.jp
 0.0.0.0 cs.admanmedia.com
@@ -4420,6 +4422,7 @@
 0.0.0.0 www.breakingnews.ie
 0.0.0.0 www.browser-statistik.de
 0.0.0.0 www.civicscience.com
+0.0.0.0 www.clarity.ms
 0.0.0.0 www.clicktripz.com
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.counter-kostenlos.net
