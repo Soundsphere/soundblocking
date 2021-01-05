@@ -1016,6 +1016,7 @@
 0.0.0.0 cdn.connectad.io
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.contentspread.net
+0.0.0.0 cdn.conversant.mgr.consensu.org
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cpnscdn.com
 0.0.0.0 cdn.cquotient.com
@@ -3796,6 +3797,7 @@
 0.0.0.0 sync.smartadserver.com
 0.0.0.0 sync.sxp.smartclip.net
 0.0.0.0 sync-t1.taboola.com
+0.0.0.0 sync.taboola.com
 0.0.0.0 sync-tapi.admatrix.jp
 0.0.0.0 sync.teads.tv
 0.0.0.0 sync.technoratimedia.com
