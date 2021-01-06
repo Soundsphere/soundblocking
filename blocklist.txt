@@ -455,6 +455,7 @@
 0.0.0.0 analytics.dpd.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics-eu.clickdimensions.com
+0.0.0.0 analytics.example.com
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.faw.sky.com
 0.0.0.0 analytics.ff.avast.com
@@ -3609,6 +3610,7 @@
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clicktripz.com
 0.0.0.0 static.clmbtech.com
+0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.com
 0.0.0.0 static.criteo.net
 0.0.0.0 static-de.plista.com
@@ -4264,6 +4266,7 @@
 0.0.0.0 vt.adition.com
 0.0.0.0 vt.myvisualiq.net
 0.0.0.0 vuukle-analytics.appspot.com
+0.0.0.0 v.w-x.co
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vzuhe758ae.kameleoon.eu
 0.0.0.0 warnerbros.112.2o7.net
