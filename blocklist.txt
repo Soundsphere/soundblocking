@@ -1053,6 +1053,7 @@
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdnjs.cloudflare.com
+0.0.0.0 cdn.jwplayer.com
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn-lb.vungle.com
 0.0.0.0 cdn.livechatinc.com
