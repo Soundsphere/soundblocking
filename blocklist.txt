@@ -1908,6 +1908,7 @@
 0.0.0.0 forms.gle
 0.0.0.0 forms.ontraport.com
 0.0.0.0 forwrdnow.com
+0.0.0.0 fota5p.adups.com
 0.0.0.0 foxnews.demdex.net
 0.0.0.0 foxnews.hb.omtrdc.net
 0.0.0.0 fp.msedge.net
@@ -2150,6 +2151,7 @@
 0.0.0.0 identity.mparticle.com
 0.0.0.0 ident.me
 0.0.0.0 id.google.com
+0.0.0.0 id.google.de
 0.0.0.0 idguk1-d.openx.net
 0.0.0.0 idiagnostics.apple.com
 0.0.0.0 idpix.media6degrees.com
@@ -3127,6 +3129,7 @@
 0.0.0.0 redirect.viglink.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
+0.0.0.0 register.appsflyer.com
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 relap.io
 0.0.0.0 reliancecorporateit.tt.omtrdc.net
@@ -4420,6 +4423,7 @@
 0.0.0.0 www.audiencemanager.de
 0.0.0.0 www.awin.com
 0.0.0.0 www.awltovhc.com
+0.0.0.0 www.baidu.com
 0.0.0.0 www.barilliance.net
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bilder-upload.eu
