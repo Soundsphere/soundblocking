@@ -2992,6 +2992,7 @@
 0.0.0.0 prf.hn
 0.0.0.0 p.rfihub.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
