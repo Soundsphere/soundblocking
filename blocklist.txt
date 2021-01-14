@@ -2402,6 +2402,7 @@
 0.0.0.0 licensing.bitmovin.com
 0.0.0.0 liebessinn.de
 0.0.0.0 lifeandstylemag.com
+0.0.0.0 linkangood.com
 0.0.0.0 linkconnector.com
 0.0.0.0 linkinghub.elsevier.com
 0.0.0.0 links.services.disqus.com
