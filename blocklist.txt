@@ -4338,6 +4338,7 @@
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget.us.criteo.com
 0.0.0.0 wikia-d.openx.net
+0.0.0.0 wildcard.cdn.optimizely.com.edgekey.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 wileypublishing.sc.omtrdc.net
 0.0.0.0 win8.ipv6.microsoft.com
