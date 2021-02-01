@@ -1881,6 +1881,7 @@
 0.0.0.0 fh.under9.co
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 files.constantcontact.com
+0.0.0.0 files.slack.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fireads.online
 0.0.0.0 firebaselogging.googleapis.com
@@ -1980,6 +1981,7 @@
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geo.moatads.com
+0.0.0.0 geo.ngtv.io
 0.0.0.0 geo-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.qualaroo.com
 0.0.0.0 geo.query.yahoo.com
