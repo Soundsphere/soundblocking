@@ -1054,6 +1054,7 @@
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdnjs.cloudflare.com
 0.0.0.0 cdn.jwplayer.com
+0.0.0.0 cdn.keywee.co
 0.0.0.0 cdn.krxd.net
 0.0.0.0 cdn-lb.vungle.com
 0.0.0.0 cdn.livechatinc.com
@@ -1289,6 +1290,7 @@
 0.0.0.0 concertads-configs.vox-cdn.com
 0.0.0.0 condenast.demdex.net
 0.0.0.0 conductor.clicktale.net
+0.0.0.0 confiant-integrations.global.ssl.fastly.net
 0.0.0.0 config1.veinteractive.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 config.inmobi.com
@@ -3500,6 +3502,7 @@
 0.0.0.0 smetrics.sky.com
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 s.mopub.com
+0.0.0.0 snap.licdn.com
 0.0.0.0 snapsort-d.openx.net
 0.0.0.0 snigel-d.openx.net
 0.0.0.0 snippets.cdn.mozilla.net
@@ -4448,6 +4451,7 @@
 0.0.0.0 www.crazyegg.com
 0.0.0.0 www.criteo.com
 0.0.0.0 www.crunchbase.com
+0.0.0.0 www.datadoghq-browser-agent.com
 0.0.0.0 www.demdex.net
 0.0.0.0 www.dianomi.com
 0.0.0.0 www.dpbolvw.net
