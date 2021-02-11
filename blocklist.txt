@@ -1887,6 +1887,7 @@
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fireads.online
 0.0.0.0 firebaselogging.googleapis.com
+0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 firefox.settings.services.mozilla.com
 0.0.0.0 flaconi02.webtrekk.net
