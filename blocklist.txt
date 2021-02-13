@@ -1233,6 +1233,7 @@
 0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmp.macworld.com
 0.0.0.0 cmp.mediavine.com
+0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 cm.revcontent.com
 0.0.0.0 cms.analytics.yahoo.com
 0.0.0.0 c.msn.com
@@ -1357,6 +1358,7 @@
 0.0.0.0 crashdump.spotify.com
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crash.steampowered.com
+0.0.0.0 crb.kargo.com
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
@@ -1391,6 +1393,7 @@
 0.0.0.0 cstat.apple.com
 0.0.0.0 c.statcounter.com
 0.0.0.0 cstatic.weborama.fr
+0.0.0.0 csync.loopme.me
 0.0.0.0 c.t4ft.de
 0.0.0.0 cti.w55c.net
 0.0.0.0 ctldl.windowsupdate.com
@@ -1837,6 +1840,7 @@
 0.0.0.0 ex.banner.t-online.de
 0.0.0.0 exch.quantcount.com
 0.0.0.0 exch.quantserve.com
+0.0.0.0 exmarketplace.com
 0.0.0.0 expedia.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 experience.tinypass.com
 0.0.0.0 external.xx.fbcdn.net
@@ -3199,6 +3203,7 @@
 0.0.0.0 rt.applovin.com
 0.0.0.0 rt.applvn.com
 0.0.0.0 rtax.criteo.com
+0.0.0.0 rtb0.doubleverify.com
 0.0.0.0 rtb123.com
 0.0.0.0 rtb7.adscience.nl
 0.0.0.0 rtb.adentifi.com
@@ -3556,6 +3561,7 @@
 0.0.0.0 srv.stackadapt.com
 0.0.0.0 srv-us.znaptag.com
 0.0.0.0 srx.main.ebayrtm.com
+0.0.0.0 ssbsync.smartadserver.com
 0.0.0.0 ssc.33across.com
 0.0.0.0 ssc.api.bbc.com
 0.0.0.0 ssc-cms.33across.com
@@ -3979,7 +3985,9 @@
 0.0.0.0 t.paypal.com
 0.0.0.0 tpc.googlesyndication.com
 0.0.0.0 t.powerreviews.com
+0.0.0.0 tps10213.doubleverify.com
 0.0.0.0 tps30.doubleverify.com
+0.0.0.0 tps626.doubleverify.com
 0.0.0.0 tps.doubleverify.com
 0.0.0.0 t.pswec.com
 0.0.0.0 t.pubmatic.com
@@ -4091,6 +4099,7 @@
 0.0.0.0 tr.suedkurier.de
 0.0.0.0 trs.webprospector.de
 0.0.0.0 tru.am
+0.0.0.0 trustx.digitru.st
 0.0.0.0 try.abtasty.com
 0.0.0.0 t.sf14g.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
@@ -4140,6 +4149,7 @@
 0.0.0.0 uncoached-d.openx.net
 0.0.0.0 unconf.adkmob.com
 0.0.0.0 undefined.fls.doubleclick.net
+0.0.0.0 unilever2.demdex.net
 0.0.0.0 universal.iperceptions.com
 0.0.0.0 unpkg.com
 0.0.0.0 uobsoe.com
