@@ -1898,6 +1898,7 @@
 0.0.0.0 flapi1.rubiconproject.com
 0.0.0.0 flash.sec.miui.com
 0.0.0.0 flex.atdmt.com
+0.0.0.0 flingo.tv
 0.0.0.0 f-log-at.grammarly.io
 0.0.0.0 f-log-extension.grammarly.io
 0.0.0.0 fls-eu.amazon-adsystem.com
@@ -2939,6 +2940,7 @@
 0.0.0.0 plarium.com
 0.0.0.0 platform-api.sharethis.com
 0.0.0.0 platform-cdn.sharethrough.com
+0.0.0.0 platform.cid.samba.tv
 0.0.0.0 platform.iteratehq.com
 0.0.0.0 platform.linkedin.com
 0.0.0.0 platform.stumbleupon.com
