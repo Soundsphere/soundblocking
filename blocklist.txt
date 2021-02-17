@@ -452,6 +452,7 @@
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analyticsdcs.ccs.mcafee.com
+0.0.0.0 analytics.deutscher-apotheker-verlag.de
 0.0.0.0 analytics.dpd.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics-eu.clickdimensions.com
@@ -552,6 +553,7 @@
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.getdrip.com
 0.0.0.0 api.getvero.com
+0.0.0.0 api-global.netflix.com
 0.0.0.0 api.hostip.info
 0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api-iam.intercom.io
@@ -644,6 +646,7 @@
 0.0.0.0 app.adjust.world
 0.0.0.0 app.adroll.com
 0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 appboot.netflix.com
 0.0.0.0 app.box.com
 0.0.0.0 appboy-images.com
 0.0.0.0 app.brightinfo.com
@@ -3143,6 +3146,7 @@
 0.0.0.0 redirect.viglink.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
+0.0.0.0 reg.biv.sony.tv
 0.0.0.0 register.appsflyer.com
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 relap.io
