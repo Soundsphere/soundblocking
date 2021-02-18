@@ -260,6 +260,7 @@
 0.0.0.0 ads.betweendigital.com
 0.0.0.0 ads-bid.l.doubleclick.net
 0.0.0.0 ads.bing.com
+0.0.0.0 ads.blogherads.com
 0.0.0.0 ads.businessclick.com
 0.0.0.0 ads.cc
 0.0.0.0 ads.celtra.com
@@ -466,6 +467,7 @@
 0.0.0.0 analytics.getshogun.com
 0.0.0.0 analytics.google.com
 0.0.0.0 analytics.headerbiddr.net
+0.0.0.0 analytics.headerbiddr.net.soundsphere
 0.0.0.0 analytics.hindustantimes.com
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
@@ -521,6 +523,7 @@
 0.0.0.0 a.optnmstr.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 apex.go.sonobi.com
+0.0.0.0 api-2-0.spot.im
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.siftscience.com
 0.0.0.0 api.accengage.com
@@ -3388,6 +3391,7 @@
 0.0.0.0 secure.leadforensics.com
 0.0.0.0 securemetrics.apple.com
 0.0.0.0 securemvt.apple.com
+0.0.0.0 secure.netflix.com
 0.0.0.0 secure-nz.imrworldwide.com
 0.0.0.0 securepubads.g.doubleclick.net
 0.0.0.0 secure.quantserve.com
@@ -4553,6 +4557,7 @@
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.stats.g.doubleclick.net
 0.0.0.0 www.storygize.net
+0.0.0.0 www.strat-talk.com
 0.0.0.0 www.streamate.com
 0.0.0.0 www.subzin.com
 0.0.0.0 www.summerhamster.com
