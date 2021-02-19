@@ -529,6 +529,7 @@
 0.0.0.0 api.accengage.com
 0.0.0.0 api.ad.intl.xiaomi.com
 0.0.0.0 api.adrtx.net
+0.0.0.0 api.airbrake.io
 0.0.0.0 api.amplitude.com
 0.0.0.0 api-analytics.rozetka.com.ua
 0.0.0.0 api.appodealx.com
@@ -3555,6 +3556,7 @@
 0.0.0.0 springer02.webtrekk.net
 0.0.0.0 spr.welt.de
 0.0.0.0 s.pubmine.com
+0.0.0.0 sputniknews.com
 0.0.0.0 sp.zalo.me
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 squeakzinc.com
