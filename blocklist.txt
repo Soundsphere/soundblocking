@@ -1436,6 +1436,7 @@
 0.0.0.0 d1cr9zxt7u0sgu.cloudfront.net
 0.0.0.0 d1eoo1tco6rr5e.cloudfront.net
 0.0.0.0 d1fc8wv8zag5ca.cloudfront.net
+0.0.0.0 d1gwclp1pmzk26.cloudfront.net
 0.0.0.0 d1l6p2sc9645hc.cloudfront.net
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
