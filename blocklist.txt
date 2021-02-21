@@ -1374,6 +1374,7 @@
 0.0.0.0 criteo-sync.teads.tv
 0.0.0.0 crl3.digicert.com
 0.0.0.0 crl4.digicert.com
+0.0.0.0 crl.verisign.com
 0.0.0.0 crm-analytics.imweb.ru
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crunchmind-d.openx.net
@@ -1757,6 +1758,7 @@
 0.0.0.0 eldamar02-loadbalanced.kameleoon.com
 0.0.0.0 eldamar03-loadbalanced.kameleoon.com
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
+0.0.0.0 electrumx.ddns.net
 0.0.0.0 elr.sfr.fr
 0.0.0.0 elsevier.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 e.mail.ru
@@ -4114,6 +4116,7 @@
 0.0.0.0 tru.am
 0.0.0.0 trustx.digitru.st
 0.0.0.0 try.abtasty.com
+0.0.0.0 ts-crl.ws.symantec.com
 0.0.0.0 t.sf14g.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 t.sharethis.com
