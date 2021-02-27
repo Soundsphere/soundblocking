@@ -1826,6 +1826,7 @@
 0.0.0.0 events.appsflyer.com
 0.0.0.0 events.avantisvideo.com
 0.0.0.0 events.browsiprod.com
+0.0.0.0 events.cid.samba.tv
 0.0.0.0 events-collector.spot.im
 0.0.0.0 events.demoup.com
 0.0.0.0 events.godaddy.com
@@ -4496,6 +4497,7 @@
 0.0.0.0 www.fastcounter.de
 0.0.0.0 www.fasthosts.co.uk
 0.0.0.0 www.fitforfun.de
+0.0.0.0 www.flingo.tv
 0.0.0.0 www.ftjcfx.com
 0.0.0.0 www.fullstory.com
 0.0.0.0 www.fuq.com
