@@ -2787,6 +2787,7 @@
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 oms.expedia.com
 0.0.0.0 oms.nuggad.net
+0.0.0.0 omtr2.partners.salesforce.com
 0.0.0.0 onclickads.net
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 oneclient.sfx.ms
@@ -3433,6 +3434,7 @@
 0.0.0.0 server-us.imrworldwide.com
 0.0.0.0 serve.tercept.com
 0.0.0.0 service-api.kingsoft-office-service.com
+0.0.0.0 service.biv.sony.tv
 0.0.0.0 service.cmp.oath.com
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.maxymiser.net
