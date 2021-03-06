@@ -2435,6 +2435,7 @@
 0.0.0.0 lmyd3iz3qn.kameleoon.eu
 0.0.0.0 lnkd.demdex.net
 0.0.0.0 load77.exelator.com
+0.0.0.0 loada.exelator.com
 0.0.0.0 loader.engage.gsfn.us
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 load.instinctiveads.com
@@ -3672,6 +3673,7 @@
 0.0.0.0 static.imrworldwide.com
 0.0.0.0 static.inq.com
 0.0.0.0 static.kameleoon.com
+0.0.0.0 static.klaviyo.com
 0.0.0.0 static.licdn.com
 0.0.0.0 static-lon1.dynamicyield.com
 0.0.0.0 static.mackeeper.com
