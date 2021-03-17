@@ -866,6 +866,7 @@
 0.0.0.0 bid.socdm.com
 0.0.0.0 bild01.webtrekk.net
 0.0.0.0 bilder.bild.de
+0.0.0.0 bildschirmarbeiter.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
@@ -1299,6 +1300,7 @@
 0.0.0.0 condenast.demdex.net
 0.0.0.0 conductor.clicktale.net
 0.0.0.0 confiant-integrations.global.ssl.fastly.net
+0.0.0.0 confiant.msn.com
 0.0.0.0 config1.veinteractive.com
 0.0.0.0 config2.mparticle.com
 0.0.0.0 config.inmobi.com
@@ -1677,6 +1679,7 @@
 0.0.0.0 dn-staticdown.qbox.me
 0.0.0.0 dojx47ab4dyxi.cloudfront.net
 0.0.0.0 d.omsnative.de
+0.0.0.0 do-not-tracker.org
 0.0.0.0 dot.wp.pl
 0.0.0.0 doug1izaerwt3.cloudfront.net
 0.0.0.0 dove.saymedia.com
@@ -1842,6 +1845,7 @@
 0.0.0.0 events.turbosquid.com
 0.0.0.0 events.whisk.com
 0.0.0.0 event.yoochoose.net
+0.0.0.0 eviltracker.net
 0.0.0.0 ev.kck.st
 0.0.0.0 evolvemedia-d.openx.net
 0.0.0.0 evt.klarna.com
@@ -4037,6 +4041,7 @@
 0.0.0.0 tracker.nmp1.com
 0.0.0.0 tracker.opentrackr.org
 0.0.0.0 tracker.samplicio.us
+0.0.0.0 trackersimulator.org
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 track.express.de
 0.0.0.0 track.eyeviewads.com
