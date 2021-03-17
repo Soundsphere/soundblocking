@@ -866,6 +866,7 @@ bid.g.doubleclick.net
 bid.socdm.com
 bild01.webtrekk.net
 bilder.bild.de
+bildschirmarbeiter.com
 bingads.microsoft.com
 bit.do
 bit.ly
@@ -1299,6 +1300,7 @@ concertads-configs.vox-cdn.com
 condenast.demdex.net
 conductor.clicktale.net
 confiant-integrations.global.ssl.fastly.net
+confiant.msn.com
 config1.veinteractive.com
 config2.mparticle.com
 config.inmobi.com
@@ -1677,6 +1679,7 @@ dnsseed.bluematt.me
 dn-staticdown.qbox.me
 dojx47ab4dyxi.cloudfront.net
 d.omsnative.de
+do-not-tracker.org
 dot.wp.pl
 doug1izaerwt3.cloudfront.net
 dove.saymedia.com
@@ -1826,6 +1829,7 @@ events.apester.com
 events.appsflyer.com
 events.avantisvideo.com
 events.browsiprod.com
+events.cid.samba.tv
 events-collector.spot.im
 events.demoup.com
 events.godaddy.com
@@ -1841,6 +1845,7 @@ events.tremorhub.com
 events.turbosquid.com
 events.whisk.com
 event.yoochoose.net
+eviltracker.net
 ev.kck.st
 evolvemedia-d.openx.net
 evt.klarna.com
@@ -2434,6 +2439,7 @@ live.sekindo.com
 lmyd3iz3qn.kameleoon.eu
 lnkd.demdex.net
 load77.exelator.com
+loada.exelator.com
 loader.engage.gsfn.us
 loadeu.exelator.com
 load.instinctiveads.com
@@ -2786,6 +2792,7 @@ omniture.chip.de
 omns.americanexpress.com
 oms.expedia.com
 oms.nuggad.net
+omtr2.partners.salesforce.com
 onclickads.net
 oneadvertising-d.openx.net
 oneclient.sfx.ms
@@ -3432,6 +3439,7 @@ server.cpmstar.com
 server-us.imrworldwide.com
 serve.tercept.com
 service-api.kingsoft-office-service.com
+service.biv.sony.tv
 service.cmp.oath.com
 service.idsync.analytics.yahoo.com
 service.maxymiser.net
@@ -3669,6 +3677,7 @@ static.hubspot.com
 static.imrworldwide.com
 static.inq.com
 static.kameleoon.com
+static.klaviyo.com
 static.licdn.com
 static-lon1.dynamicyield.com
 static.mackeeper.com
@@ -4032,6 +4041,7 @@ tracker.nbcuas.com
 tracker.nmp1.com
 tracker.opentrackr.org
 tracker.samplicio.us
+trackersimulator.org
 tracker.unbxdapi.com
 track.express.de
 track.eyeviewads.com
@@ -4496,6 +4506,7 @@ www.facebook.net
 www.fastcounter.de
 www.fasthosts.co.uk
 www.fitforfun.de
+www.flingo.tv
 www.ftjcfx.com
 www.fullstory.com
 www.fuq.com
