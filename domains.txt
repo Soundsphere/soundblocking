@@ -784,6 +784,7 @@ az416426.vo.msecnd.net
 azawebspace.com
 a.zdbb.net
 az-partners.net
+azwancan.trafficmanager.net
 b0oqeyj7z5.kameleoon.eu
 b1img.com
 b1sync.zemanta.com
@@ -2068,6 +2069,7 @@ go.redirectingat.com
 go.shareaholic.com
 go.skimresources.com
 go.sonnenbatterie.de
+go.sonnen.de
 go.toutapp.com
 gounlimited.to
 grace.shareaholic.com
@@ -3944,6 +3946,7 @@ telegraphmediagroup.d3.sc.omtrdc.net
 telegraph.sdk.beemray.com
 telekom01.webtrekk.net
 telemetry.allrecipes.com
+telemetry.api.playstation.com
 telemetry.api.swiftkey.com
 telemetry.dropbox.com
 telemetry-in.battle.net
