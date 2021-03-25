@@ -784,6 +784,7 @@
 0.0.0.0 azawebspace.com
 0.0.0.0 a.zdbb.net
 0.0.0.0 az-partners.net
+0.0.0.0 azwancan.trafficmanager.net
 0.0.0.0 b0oqeyj7z5.kameleoon.eu
 0.0.0.0 b1img.com
 0.0.0.0 b1sync.zemanta.com
@@ -2068,6 +2069,7 @@
 0.0.0.0 go.shareaholic.com
 0.0.0.0 go.skimresources.com
 0.0.0.0 go.sonnenbatterie.de
+0.0.0.0 go.sonnen.de
 0.0.0.0 go.toutapp.com
 0.0.0.0 gounlimited.to
 0.0.0.0 grace.shareaholic.com
@@ -3945,6 +3947,7 @@
 0.0.0.0 telegraph.sdk.beemray.com
 0.0.0.0 telekom01.webtrekk.net
 0.0.0.0 telemetry.allrecipes.com
+0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry-in.battle.net
