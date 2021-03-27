@@ -3351,6 +3351,7 @@
 0.0.0.0 s-cs.send.microad.jp
 0.0.0.0 sc-static.net
 0.0.0.0 sc.tynt.com
+0.0.0.0 s.deepl.com
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk-android.ad.smaato.net
