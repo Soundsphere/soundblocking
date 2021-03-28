@@ -3350,6 +3350,7 @@ scripttags.justuno.com
 s-cs.send.microad.jp
 sc-static.net
 sc.tynt.com
+s.deepl.com
 sdk.accountkit.com
 sdk.adtiming.com
 sdk-android.ad.smaato.net
@@ -4503,6 +4504,7 @@ www.etonline.com
 www.etracker.com
 www.etracker.de
 www.everestjs.net
+www.express.co.uk
 www.ezoic.com
 www.facebook.com
 www.facebook.net
