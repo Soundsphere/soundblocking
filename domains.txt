@@ -580,6 +580,7 @@ api.monetizer101.com
 api.nanigans.com
 api.native.ai
 api.newsfeed.intl.miui.com
+api.ning.com
 api.optmnstr.com
 api.parsely.com
 api.permutive.com
@@ -1337,6 +1338,7 @@ control.kochava.com
 controller.intl.xiaomi.com
 convammp.taboola.com
 conversions.adaptv.advertising.com
+conversions.appsflyer.com
 convhkmp.taboola.com
 conv.tubemogul.com
 cookie.brealtime.com
