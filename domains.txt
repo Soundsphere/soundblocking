@@ -607,6 +607,7 @@ api.smartredirect.de
 api.stathat.com
 api.taboola.com
 api.taplytics.com
+api.theadex.com
 api.traversedlp.com
 api.twitter.com
 api.uca.cloud.unity3d.com
