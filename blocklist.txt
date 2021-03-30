@@ -607,6 +607,7 @@
 0.0.0.0 api.stathat.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.taplytics.com
+0.0.0.0 api.theadex.com
 0.0.0.0 api.traversedlp.com
 0.0.0.0 api.twitter.com
 0.0.0.0 api.uca.cloud.unity3d.com
