@@ -3288,6 +3288,7 @@ s2s.singular.net
 s3.buysellads.com
 s3-eu-central-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
+s3-iad-2.cf.dash.row.aiv-cdn.net
 s3.tradingview.com
 s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
