@@ -2279,6 +2279,7 @@ inskinad.com
 instant.page
 insticator-d.openx.net
 instreamvideo.ru
+intake-analytics.wikimedia.org
 intel11.edgekey.net
 interngraph.prod.scgraph.facebook.com
 interngraph.scgraph.facebook.com
