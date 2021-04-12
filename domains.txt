@@ -1241,6 +1241,7 @@ cm.l.qq.com
 cm.mgid.com
 cmp.advertising.com
 cmp-as-tm.everesttech.net
+cmp.bz-berlin.de
 cmp-cdn.ghostery.com
 cmp.macworld.com
 cmp.mediavine.com
@@ -1465,6 +1466,7 @@ d2p3zdq8vjvnxd.cloudfront.net
 d2qmp7jjpd79k7.cloudfront.net
 d2t2on23g4lty1.cloudfront.net
 d2uepos3ef6db0.cloudfront.net
+d2v02itv0y9u9t.cloudfront.net
 d2vig74li2resi.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
@@ -2358,6 +2360,7 @@ js.hsleadflows.net
 js.hs-scripts.com
 js.hubspot.com
 js.idio.co
+js.intercomcdn.com
 js.matheranalytics.com
 js.maxmind.com
 js.moatads.com
