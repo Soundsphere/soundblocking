@@ -1620,6 +1620,7 @@
 0.0.0.0 dellinc.tt.omtrdc.net
 0.0.0.0 deloplen.com
 0.0.0.0 deltaairlines.tt.omtrdc.net
+0.0.0.0 de.pornhub.com
 0.0.0.0 deryjobmeetin.info
 0.0.0.0 de.sitestat.com
 0.0.0.0 des.smartclip.net
@@ -1778,6 +1779,7 @@
 0.0.0.0 engine.adzerk.net
 0.0.0.0 ensign.unbounce.com
 0.0.0.0 ens.nzz.ch
+0.0.0.0 entertainmentie.bbvms.com
 0.0.0.0 entitlements.jwplayer.com
 0.0.0.0 epicunitscan.info
 0.0.0.0 epidm.edgesuite.net
@@ -4316,6 +4318,7 @@
 0.0.0.0 vk.com
 0.0.0.0 v.lkqd.net
 0.0.0.0 vmp.boldchat.com
+0.0.0.0 vms.bluebillywig.com
 0.0.0.0 vms.boldchat.com
 0.0.0.0 vmss.boldchat.com
 0.0.0.0 vodafonenz.122.2o7.net
