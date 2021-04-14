@@ -1644,6 +1644,7 @@
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 di.phncdn.com
+0.0.0.0 direct-events-collector.spot.im
 0.0.0.0 di.rlcdn.com
 0.0.0.0 dis.as.criteo.com
 0.0.0.0 dis.criteo.com

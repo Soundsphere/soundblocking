@@ -1644,6 +1644,7 @@ diapi.webgains.com
 diff.smartadserver.com
 d.impactradius-event.com
 di.phncdn.com
+direct-events-collector.spot.im
 di.rlcdn.com
 dis.as.criteo.com
 dis.criteo.com
