@@ -2888,6 +2888,7 @@
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 personalcapital.go2cloud.org
 0.0.0.0 pfa.levexis.com
+0.0.0.0 pf.newegg.com
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 pics.wikifeet.com
@@ -3647,6 +3648,7 @@
 0.0.0.0 stat3.moneycontrol.com
 0.0.0.0 stat.alibaba.com
 0.0.0.0 stat.dealtime.com
+0.0.0.0 states.newegg.com
 0.0.0.0 stat.flashtalking.com
 0.0.0.0 static1.squarespace.com
 0.0.0.0 static4.smi2.net

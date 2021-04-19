@@ -2887,6 +2887,7 @@ performance.typekit.net
 perr.h-cdn.com
 personalcapital.go2cloud.org
 pfa.levexis.com
+pf.newegg.com
 phar.gu-web.net
 phonograph2.voxmedia.com
 pics.wikifeet.com
@@ -3646,6 +3647,7 @@ stat1.moneycontrol.com
 stat3.moneycontrol.com
 stat.alibaba.com
 stat.dealtime.com
+states.newegg.com
 stat.flashtalking.com
 static1.squarespace.com
 static4.smi2.net
