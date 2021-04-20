@@ -2625,6 +2625,7 @@
 0.0.0.0 mediation.adnxs.com
 0.0.0.0 mediator.imgsmail.ru
 0.0.0.0 mediator.mail.ru
+0.0.0.0 media.trafficjunky.net
 0.0.0.0 mediav3.inq.com
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 meltwaternews.com
@@ -2716,6 +2717,7 @@
 0.0.0.0 mydmp.exelator.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.leadpages.net
+0.0.0.0 my.mobfox.com
 0.0.0.0 myrh8.watch-this.live
 0.0.0.0 my.rtmark.net
 0.0.0.0 mytopf.com
@@ -3373,6 +3375,7 @@
 0.0.0.0 sdkconfig.ad.intl.xiaomi.com
 0.0.0.0 sdkconfig.ad.xiaomi.com
 0.0.0.0 sdk-events.inner-active.mobi
+0.0.0.0 sdk.fra-01.braze.eu
 0.0.0.0 sdkgw.us1.twilio.com
 0.0.0.0 sdk.iad-01.braze.com
 0.0.0.0 sdk.iad-03.braze.com
@@ -3457,6 +3460,7 @@
 0.0.0.0 service-api.kingsoft-office-service.com
 0.0.0.0 service.biv.sony.tv
 0.0.0.0 service.cmp.oath.com
+0.0.0.0 service.fyber.com
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.maxymiser.net
 0.0.0.0 servicer.mgid.com
@@ -4409,6 +4413,7 @@
 0.0.0.0 wms-na.amazon-adsystem.com
 0.0.0.0 wolve.pro
 0.0.0.0 wpfc.ml
+0.0.0.0 wrapper-api.sp-prod.net
 0.0.0.0 writer.smartlook.com
 0.0.0.0 ws1.hotjar.com
 0.0.0.0 ws2.hotjar.com
@@ -4433,6 +4438,7 @@
 0.0.0.0 wv.inner-active.mobi
 0.0.0.0 ww1097.smartadserver.com
 0.0.0.0 ww13.smartadserver.com
+0.0.0.0 ww16.thomnan.de
 0.0.0.0 ww1.smartadserver.com
 0.0.0.0 ww2060.smartadserver.com
 0.0.0.0 ww251.smartadserver.com
@@ -4585,6 +4591,7 @@
 0.0.0.0 www.roosterfirework.com
 0.0.0.0 www.sc.pages02.net
 0.0.0.0 www.sdad.guru
+0.0.0.0 www.sedoparking.com
 0.0.0.0 www.semrush.com
 0.0.0.0 www.shortenurl.live
 0.0.0.0 www.smartadserver.com

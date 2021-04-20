@@ -2624,6 +2624,7 @@ media.richrelevance.com
 mediation.adnxs.com
 mediator.imgsmail.ru
 mediator.mail.ru
+media.trafficjunky.net
 mediav3.inq.com
 mediavine-d.openx.net
 meltwaternews.com
@@ -2715,6 +2716,7 @@ mycliplister.com
 mydmp.exelator.com
 my.hellobar.com
 my.leadpages.net
+my.mobfox.com
 myrh8.watch-this.live
 my.rtmark.net
 mytopf.com
@@ -3372,6 +3374,7 @@ sdk.beeketing.com
 sdkconfig.ad.intl.xiaomi.com
 sdkconfig.ad.xiaomi.com
 sdk-events.inner-active.mobi
+sdk.fra-01.braze.eu
 sdkgw.us1.twilio.com
 sdk.iad-01.braze.com
 sdk.iad-03.braze.com
@@ -3456,6 +3459,7 @@ serve.tercept.com
 service-api.kingsoft-office-service.com
 service.biv.sony.tv
 service.cmp.oath.com
+service.fyber.com
 service.idsync.analytics.yahoo.com
 service.maxymiser.net
 servicer.mgid.com
@@ -4408,6 +4412,7 @@ wms-eu.amazon-adsystem.com
 wms-na.amazon-adsystem.com
 wolve.pro
 wpfc.ml
+wrapper-api.sp-prod.net
 writer.smartlook.com
 ws1.hotjar.com
 ws2.hotjar.com
@@ -4432,6 +4437,7 @@ w.usabilla.com
 wv.inner-active.mobi
 ww1097.smartadserver.com
 ww13.smartadserver.com
+ww16.thomnan.de
 ww1.smartadserver.com
 ww2060.smartadserver.com
 ww251.smartadserver.com
@@ -4584,6 +4590,7 @@ www.reimageplus.com
 www.roosterfirework.com
 www.sc.pages02.net
 www.sdad.guru
+www.sedoparking.com
 www.semrush.com
 www.shortenurl.live
 www.smartadserver.com
