@@ -821,6 +821,7 @@
 0.0.0.0 bbnaut.ibillboard.com
 0.0.0.0 b.boyfriendtv.com
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
+0.0.0.0 bc.marfeelcache.com
 0.0.0.0 bc.marfeel.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bea4.v.fwmrm.net
@@ -4054,6 +4055,7 @@
 0.0.0.0 track.cordial.io
 0.0.0.0 track.customer.io
 0.0.0.0 track.dictionary.com
+0.0.0.0 track.eadv.it
 0.0.0.0 tracker.affirm.com
 0.0.0.0 tracker-api.my.com
 0.0.0.0 tracker.departapp.com
