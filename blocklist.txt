@@ -13,6 +13,7 @@
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
 0.0.0.0 1.gmxnet.damoh.schneevonmorgen.com
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
+0.0.0.0 1x1.a-mo.net
 0.0.0.0 2-01-2a40-0017.cdx.cdxcn.net
 0.0.0.0 243-mrr-459.mktoresp.com
 0.0.0.0 2507573.fls.doubleclick.net
@@ -418,6 +419,7 @@
 0.0.0.0 a.mgid.com
 0.0.0.0 amidt.adsafeprotected.com
 0.0.0.0 amp.casalemedia.com
+0.0.0.0 ampcid.google.com
 0.0.0.0 amp-error-reporting.appspot.com
 0.0.0.0 amplify-imp.outbrain.com
 0.0.0.0 amplify.outbrain.com
@@ -498,6 +500,7 @@
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics-udg.netdna-ssl.com
 0.0.0.0 analytics.webgains.io
+0.0.0.0 analytics.webpushr.com
 0.0.0.0 analytics.yomedia.vn
 0.0.0.0 and.co.uk.102.122.2o7.net
 0.0.0.0 android.bugly.qq.com
@@ -744,6 +747,7 @@
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 asteriresearch.com
 0.0.0.0 aswpapius.com
+0.0.0.0 aswpsdkeu.com
 0.0.0.0 aswpsdkus.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 async-px-eu.dynamicyield.com
@@ -907,6 +911,7 @@
 0.0.0.0 b.stats.paypal.com
 0.0.0.0 bsw.digitru.st
 0.0.0.0 bs.yandex.ru
+0.0.0.0 btloader.com
 0.0.0.0 btlr-eu-central-1.sharethrough.com
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bt.mediaimpact.de
@@ -936,6 +941,7 @@
 0.0.0.0 c.ad6media.fr
 0.0.0.0 c.adskeeper.co.uk
 0.0.0.0 cafemedia-d.openx.net
+0.0.0.0 ca.iadsdk.apple.com
 0.0.0.0 ca.intentmedia.net
 0.0.0.0 c.algovid.com
 0.0.0.0 calotag.com
@@ -1374,6 +1380,7 @@
 0.0.0.0 crashlogs.whatsapp.net
 0.0.0.0 crash.steampowered.com
 0.0.0.0 crb.kargo.com
+0.0.0.0 crcdn09.adnxs.com
 0.0.0.0 creative.360yield.com
 0.0.0.0 creativecdn.com
 0.0.0.0 creative.metalyzer.com
@@ -2061,6 +2068,7 @@
 0.0.0.0 gocm.c.appier.net
 0.0.0.0 go.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 gocp.stroeermediabrands.de
+0.0.0.0 go.ezodn.com
 0.0.0.0 go.ezoic.net
 0.0.0.0 goldbach-de-d.openx.net
 0.0.0.0 golf4.de.intellitxt.com
@@ -2317,8 +2325,10 @@
 0.0.0.0 irqs.ioam.de
 0.0.0.0 is-gateway.supersonicads.com
 0.0.0.0 i.simpli.fi
+0.0.0.0 i.singular.net
 0.0.0.0 isi-tracking.eventim.com
 0.0.0.0 i.skimresources.com
+0.0.0.0 i.sng.link
 0.0.0.0 is-tracking-pixel-api-prod.appspot.com
 0.0.0.0 i.trackmytarget.com
 0.0.0.0 its.tradelab.fr
@@ -3025,6 +3035,7 @@
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 prebid.adnxs.com
+0.0.0.0 prebid.a-mo.net
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid.digitru.st
 0.0.0.0 prebid.districtm.ca
@@ -3052,6 +3063,7 @@
 0.0.0.0 profile.localytics.com
 0.0.0.0 profiles.segment.com
 0.0.0.0 pro.hit.gemius.pl
+0.0.0.0 pro.ip-api.com
 0.0.0.0 projectagora.net
 0.0.0.0 promoted.soundcloud.com
 0.0.0.0 propermedia-d.openx.net
@@ -3088,6 +3100,7 @@
 0.0.0.0 pubmatic-match.dotomi.com
 0.0.0.0 pubmatic-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 pubpress.net
+0.0.0.0 pub-sdk-cfg.criteo.com
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 purch-match.dotomi.com
@@ -3293,10 +3306,12 @@
 0.0.0.0 s1325.t.eloqua.com
 0.0.0.0 s1.adform.net
 0.0.0.0 s1.listrakbi.com
+0.0.0.0 s240.mxcdn.net
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s2.go-mpulse.net
 0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.singular.net
+0.0.0.0 s385.mxcdn.net
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3-eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
@@ -3344,6 +3359,7 @@
 0.0.0.0 scdn.eclick.vn
 0.0.0.0 scgraph.facebook.com
 0.0.0.0 sc.iasds01.com
+0.0.0.0 sc.lfeeder.com
 0.0.0.0 s.click.aliexpress.com
 0.0.0.0 s.clickiocdn.com
 0.0.0.0 scomcluster.cxense.com
@@ -3819,6 +3835,7 @@
 0.0.0.0 s.update.wtag.adaptv.advertising.com
 0.0.0.0 supercell.net
 0.0.0.0 supersonicads-a.akamaihd.net
+0.0.0.0 supportmetrics.apple.com
 0.0.0.0 survey.122.2o7.net
 0.0.0.0 survey.euro.confirmit.com
 0.0.0.0 survey.g.doubleclick.net
@@ -3981,6 +3998,7 @@
 0.0.0.0 tesla.tt.omtrdc.net
 0.0.0.0 testlibs.coremetrics.com
 0.0.0.0 test-script.dotmetrics.net
+0.0.0.0 te.technical-service.net
 0.0.0.0 tetu.com
 0.0.0.0 t.gammaplatform.com
 0.0.0.0 tg.socdm.com
@@ -4117,6 +4135,7 @@
 0.0.0.0 track.vdo.ai
 0.0.0.0 track.webgains.com
 0.0.0.0 track.ziprecruiter.com
+0.0.0.0 traffic.emsservice.de
 0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafforsrv.com
@@ -4266,6 +4285,7 @@
 0.0.0.0 vast.adsafeprotected.com
 0.0.0.0 vastcdn.adsafeprotected.com
 0.0.0.0 vastcdn.outbrain.com
+0.0.0.0 vast.doubleverify.com
 0.0.0.0 vastlog.adsafeprotected.com
 0.0.0.0 vast.mathtag.com
 0.0.0.0 vastpixel2.adsafeprotected.com
@@ -4572,6 +4592,7 @@
 0.0.0.0 www.media.net
 0.0.0.0 www.meltwater.com
 0.0.0.0 www.movable-ink-2183.com
+0.0.0.0 www.msn.com
 0.0.0.0 www.newnownext.com
 0.0.0.0 www.nexus.ensighten.com
 0.0.0.0 www.ojrq.net
@@ -4601,6 +4622,7 @@
 0.0.0.0 www.smartredirect.de
 0.0.0.0 www.snapengage.com
 0.0.0.0 www.socialmediadaily.com
+0.0.0.0 www.stack-sonar.com
 0.0.0.0 www.statcounter.com
 0.0.0.0 www.stats.g.doubleclick.net
 0.0.0.0 www.storygize.net

@@ -13,6 +13,7 @@
 1.chipde.damoh.schneevonmorgen.com
 1.gmxnet.damoh.schneevonmorgen.com
 1und1internetag.d3.sc.omtrdc.net
+1x1.a-mo.net
 2-01-2a40-0017.cdx.cdxcn.net
 243-mrr-459.mktoresp.com
 2507573.fls.doubleclick.net
@@ -418,6 +419,7 @@ amcdn.vn
 a.mgid.com
 amidt.adsafeprotected.com
 amp.casalemedia.com
+ampcid.google.com
 amp-error-reporting.appspot.com
 amplify-imp.outbrain.com
 amplify.outbrain.com
@@ -498,6 +500,7 @@ analytics.tradedoubler.com
 analytics.twitter.com
 analytics-udg.netdna-ssl.com
 analytics.webgains.io
+analytics.webpushr.com
 analytics.yomedia.vn
 and.co.uk.102.122.2o7.net
 android.bugly.qq.com
@@ -744,6 +747,7 @@ assistjs.skimresources.com
 a-ssl.ligatus.com
 asteriresearch.com
 aswpapius.com
+aswpsdkeu.com
 aswpsdkus.com
 async-px.dynamicyield.com
 async-px-eu.dynamicyield.com
@@ -907,6 +911,7 @@ bs.serving-sys.com
 b.stats.paypal.com
 bsw.digitru.st
 bs.yandex.ru
+btloader.com
 btlr-eu-central-1.sharethrough.com
 btlr.sharethrough.com
 bt.mediaimpact.de
@@ -936,6 +941,7 @@ cache-ssl.celtra.com
 c.ad6media.fr
 c.adskeeper.co.uk
 cafemedia-d.openx.net
+ca.iadsdk.apple.com
 ca.intentmedia.net
 c.algovid.com
 calotag.com
@@ -1374,6 +1380,7 @@ crashdump.spotify.com
 crashlogs.whatsapp.net
 crash.steampowered.com
 crb.kargo.com
+crcdn09.adnxs.com
 creative.360yield.com
 creativecdn.com
 creative.metalyzer.com
@@ -2061,6 +2068,7 @@ go.automatad.com
 gocm.c.appier.net
 go.com.ssl.d1.sc.omtrdc.net
 gocp.stroeermediabrands.de
+go.ezodn.com
 go.ezoic.net
 goldbach-de-d.openx.net
 golf4.de.intellitxt.com
@@ -2317,8 +2325,10 @@ ir-na.amazon-adsystem.com
 irqs.ioam.de
 is-gateway.supersonicads.com
 i.simpli.fi
+i.singular.net
 isi-tracking.eventim.com
 i.skimresources.com
+i.sng.link
 is-tracking-pixel-api-prod.appspot.com
 i.trackmytarget.com
 its.tradelab.fr
@@ -3024,6 +3034,7 @@ pr-bh.ybp.yahoo.com
 prd-collector-anon.playbuzz.com
 pre.ads.justpremium.com
 prebid.adnxs.com
+prebid.a-mo.net
 prebid-a.rubiconproject.com
 prebid.digitru.st
 prebid.districtm.ca
@@ -3051,6 +3062,7 @@ profile-api-prod-elb.53.localytics.com
 profile.localytics.com
 profiles.segment.com
 pro.hit.gemius.pl
+pro.ip-api.com
 projectagora.net
 promoted.soundcloud.com
 propermedia-d.openx.net
@@ -3087,6 +3099,7 @@ pubmatic2waycm-atl.netmng.com
 pubmatic-match.dotomi.com
 pubmatic-winners-eu-west-1-rtb.adroll.com
 pubpress.net
+pub-sdk-cfg.criteo.com
 pugm22000nf.pubmatic.com
 pulsar.ebay.com
 purch-match.dotomi.com
@@ -3292,10 +3305,12 @@ s1.2mdn.net
 s1325.t.eloqua.com
 s1.adform.net
 s1.listrakbi.com
+s240.mxcdn.net
 s290.mxcdn.net
 s2.go-mpulse.net
 s2s.adjust.com
 s2s.singular.net
+s385.mxcdn.net
 s3.buysellads.com
 s3-eu-central-1.amazonaws.com
 s3-eu-west-1.amazonaws.com
@@ -3343,6 +3358,7 @@ scdn.cxense.com
 scdn.eclick.vn
 scgraph.facebook.com
 sc.iasds01.com
+sc.lfeeder.com
 s.click.aliexpress.com
 s.clickiocdn.com
 scomcluster.cxense.com
@@ -3818,6 +3834,7 @@ s.update.rubiconproject.com
 s.update.wtag.adaptv.advertising.com
 supercell.net
 supersonicads-a.akamaihd.net
+supportmetrics.apple.com
 survey.122.2o7.net
 survey.euro.confirmit.com
 survey.g.doubleclick.net
@@ -3980,6 +3997,7 @@ tenor.com
 tesla.tt.omtrdc.net
 testlibs.coremetrics.com
 test-script.dotmetrics.net
+te.technical-service.net
 tetu.com
 t.gammaplatform.com
 tg.socdm.com
@@ -4116,6 +4134,7 @@ track.ultimate-guitar.com
 track.vdo.ai
 track.webgains.com
 track.ziprecruiter.com
+traffic.emsservice.de
 trafficmanager.anyclip.com
 traffic.outbrain.com
 trafforsrv.com
@@ -4265,6 +4284,7 @@ vars.hotjar.com
 vast.adsafeprotected.com
 vastcdn.adsafeprotected.com
 vastcdn.outbrain.com
+vast.doubleverify.com
 vastlog.adsafeprotected.com
 vast.mathtag.com
 vastpixel2.adsafeprotected.com
@@ -4571,6 +4591,7 @@ www.mb103.com
 www.media.net
 www.meltwater.com
 www.movable-ink-2183.com
+www.msn.com
 www.newnownext.com
 www.nexus.ensighten.com
 www.ojrq.net
@@ -4600,6 +4621,7 @@ www.smartadserver.com
 www.smartredirect.de
 www.snapengage.com
 www.socialmediadaily.com
+www.stack-sonar.com
 www.statcounter.com
 www.stats.g.doubleclick.net
 www.storygize.net
