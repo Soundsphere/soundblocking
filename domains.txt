@@ -386,6 +386,7 @@ a.hstrck.com
 a.idio.co
 a.impactradius-go.com
 a.intentmedia.net
+ai.phncdn.com
 airbrake.io
 airtel.d3.sc.omtrdc.net
 aj1616.online
@@ -884,6 +885,7 @@ blocklists-settings.prod.mozaws.net
 blocklists.settings.services.mozilla.com
 bloggerei.de
 blogigo.de
+bmedia.justservingfiles.net
 bms.adjarabet.com
 bnc.lt
 boards.4channel.org
@@ -898,6 +900,7 @@ bpu.samsungelectronics.com
 brain.foresee.com
 britishskybroadcasti.tt.omtrdc.net
 browser.events.data.msn.com
+browser-http-intake.logs.datadoghq.com
 browser.pipe.aria.microsoft.com
 browser.sentry-cdn.com
 browser-update.org
@@ -978,7 +981,9 @@ cd.connatix.com
 cdn11.contentabc.com
 cdn15.acloudimages.com
 cdn1.ads.contentabc.com
+cdn1d-static-shared.phncdn.com
 cdn1.inner-active.mobi
+cdn1-smallimg.phncdn.com
 cdn1.smartadserver.com
 cdn1.stickyadstv.com
 cdn.2app.lk
@@ -1127,6 +1132,7 @@ cdn.static.zdbb.net
 cdn.stat-rock.com
 cdn.steepto.com
 cdn.stickyadstv.com
+cdn.stripst.com
 cdn.stroeerdigitalmedia.de
 cdn.switchadhub.com
 cdn.taboola.com
@@ -1253,6 +1259,7 @@ cmp-cdn.ghostery.com
 cmp.macworld.com
 cmp.mediavine.com
 cmp.teads.mgr.consensu.org
+cmp.uniconsent.com
 cm.revcontent.com
 cms.analytics.yahoo.com
 c.msn.com
@@ -1813,6 +1820,7 @@ etl.tindersparks.com
 et.nytimes.com
 et.twyn.com
 eu-aa.online-metrix.net
+eu-adsrv.rtbsuperhub.com
 euasync01.admantx.com
 eu.a.volvelle.tech
 eu-dmpsync.3lift.com
@@ -1826,6 +1834,10 @@ eu.qualtrics.com
 eur-ukp.adsrvr.org
 eu-sonar.sociomantic.com
 eus.rubiconproject.com
+eu-tlp01.kameleoon.eu
+eu-tlp05.kameleoon.eu
+eu-tlp06.kameleoon.eu
+eu-tlp07.kameleoon.eu
 eu-tlx.3lift.com
 eu-u.openx.net
 euw.adserver.snapads.com
@@ -2166,7 +2178,9 @@ html5.adsrvr.org
 ht.redtube.com
 httpkafka.unityads.unity3d.com
 ht.youporn.com
+hubt.pornhub.com
 hubtraffic.com
+hw-cdn-ap.trafficjunky.net
 hw-cdn.trafficjunky.net
 i1.services.social.microsoft.com
 i1.ytimg.com
@@ -2635,6 +2649,7 @@ media.richrelevance.com
 mediation.adnxs.com
 mediator.imgsmail.ru
 mediator.mail.ru
+media.trafficjunky.com
 media.trafficjunky.net
 mediav3.inq.com
 mediavine-d.openx.net
@@ -2760,6 +2775,7 @@ network.bazaarvoice.com
 networksdk.ssacdn.com
 netzwelt-gmbh-d.openx.net
 newjobs.d1.sc.omtrdc.net
+newrrb.bid
 newsmaxmedia.demdex.net
 news.mirtesen.ru
 nextclick.pl
@@ -4135,6 +4151,7 @@ track.vdo.ai
 track.webgains.com
 track.ziprecruiter.com
 traffic.emsservice.de
+trafficjunky.com
 trafficmanager.anyclip.com
 traffic.outbrain.com
 trafforsrv.com
@@ -4420,6 +4437,7 @@ widgets.opinary.com
 widgets.outbrain.com
 widgets.shopvote.de
 widgets.stackcommerce.com
+widgets.stripst.com
 widgets.trustedshops.com
 widget.trustpilot.com
 widget.us.criteo.com
