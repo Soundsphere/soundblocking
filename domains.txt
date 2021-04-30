@@ -1743,6 +1743,7 @@ dw.phncdn.com
 d.xp1.ru4.com
 dx.steelhousemedia.com
 dy.adserve.io
+dynamic.criteo.com
 dyn.emetriq.de
 e-10220.adzerk.net
 e1151.e12.akamaiedge.net
@@ -1835,6 +1836,7 @@ eur-ukp.adsrvr.org
 eu-sonar.sociomantic.com
 eus.rubiconproject.com
 eu-tlp01.kameleoon.eu
+eu-tlp04.kameleoon.eu
 eu-tlp05.kameleoon.eu
 eu-tlp06.kameleoon.eu
 eu-tlp07.kameleoon.eu
@@ -2815,6 +2817,7 @@ o2.mouseflow.com
 o.addthis.com
 oasc05.247realmedia.com
 oascentral.consumerreports.org
+ocsp.apple.com
 ocsp.digicert.com
 ocsp.godaddy.com
 ocsp.godaddy.com.akadns.net
@@ -3773,6 +3776,7 @@ stats.ebuckler.com
 statse.webtrendslive.com
 statsfe2.ws.microsoft.com
 statsf-tm.everesttech.net
+stats.gc.apple.com
 stats.g.doubleclick.net
 stats.jpush.cn
 stats.kaltura.com
@@ -4223,6 +4227,7 @@ uip.semasio.net
 uir.uimserv.net
 uk-ads.openx.net
 uk.at.atwola.com
+uk-script.dotmetrics.net
 uktc.ijento.com
 ulogin-stats.ru
 ulogs.umengcloud.com
@@ -4529,6 +4534,7 @@ www.amobee.com
 www.anker-skateparks.com
 www.anrdoezrs.net
 www.applift.com
+www.asadcdn.com
 www.ashemaletube.com
 www.a.shifen.com
 www.assoc-amazon.com

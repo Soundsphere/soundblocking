@@ -1743,6 +1743,7 @@
 0.0.0.0 d.xp1.ru4.com
 0.0.0.0 dx.steelhousemedia.com
 0.0.0.0 dy.adserve.io
+0.0.0.0 dynamic.criteo.com
 0.0.0.0 dyn.emetriq.de
 0.0.0.0 e-10220.adzerk.net
 0.0.0.0 e1151.e12.akamaiedge.net
@@ -1835,6 +1836,7 @@
 0.0.0.0 eu-sonar.sociomantic.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eu-tlp01.kameleoon.eu
+0.0.0.0 eu-tlp04.kameleoon.eu
 0.0.0.0 eu-tlp05.kameleoon.eu
 0.0.0.0 eu-tlp06.kameleoon.eu
 0.0.0.0 eu-tlp07.kameleoon.eu
@@ -2816,6 +2818,7 @@
 0.0.0.0 o.addthis.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oascentral.consumerreports.org
+0.0.0.0 ocsp.apple.com
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.godaddy.com
 0.0.0.0 ocsp.godaddy.com.akadns.net
@@ -3774,6 +3777,7 @@
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsf-tm.everesttech.net
+0.0.0.0 stats.gc.apple.com
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.kaltura.com
@@ -4224,6 +4228,7 @@
 0.0.0.0 uir.uimserv.net
 0.0.0.0 uk-ads.openx.net
 0.0.0.0 uk.at.atwola.com
+0.0.0.0 uk-script.dotmetrics.net
 0.0.0.0 uktc.ijento.com
 0.0.0.0 ulogin-stats.ru
 0.0.0.0 ulogs.umengcloud.com
@@ -4530,6 +4535,7 @@
 0.0.0.0 www.anker-skateparks.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.applift.com
+0.0.0.0 www.asadcdn.com
 0.0.0.0 www.ashemaletube.com
 0.0.0.0 www.a.shifen.com
 0.0.0.0 www.assoc-amazon.com
