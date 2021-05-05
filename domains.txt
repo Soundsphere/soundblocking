@@ -409,6 +409,7 @@ alocdn.com
 alogs.umeng.com
 alog.umeng.co
 alog.umeng.com
+aloofvest.com
 als-svc.nytimes.com
 altfarm.mediaplex.com
 am.adlooxtracking.com
@@ -521,6 +522,7 @@ aoa.demdex.net
 aol-match.dotomi.com
 aol-winners-eu-west-1-rtb.adroll.com
 aol-winners-us-east-1-rtb.adroll.com
+a.omappapi.com
 a.opmnstr.com
 a.optinmonster.com
 a.optnmnstr.com
@@ -2280,6 +2282,7 @@ imstore.bet365affiliates.com
 in.api.glance.inmobi.com
 inapi.posst.co
 in.appcenter.ms
+inapps.appsflyer.com
 in-automate.sendinblue.com
 includemodal.com
 incoming.telemetry.mozilla.org
@@ -4549,6 +4552,7 @@ www.bet365.com
 www.bilder-upload.eu
 www.bizographics.com
 www.blogads.de
+www.bloggerei.de
 www.bookdepository.com
 www.breakingnews.ie
 www.browser-statistik.de

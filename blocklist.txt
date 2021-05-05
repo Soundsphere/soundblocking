@@ -409,6 +409,7 @@
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alog.umeng.co
 0.0.0.0 alog.umeng.com
+0.0.0.0 aloofvest.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 altfarm.mediaplex.com
 0.0.0.0 am.adlooxtracking.com
@@ -521,6 +522,7 @@
 0.0.0.0 aol-match.dotomi.com
 0.0.0.0 aol-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 aol-winners-us-east-1-rtb.adroll.com
+0.0.0.0 a.omappapi.com
 0.0.0.0 a.opmnstr.com
 0.0.0.0 a.optinmonster.com
 0.0.0.0 a.optnmnstr.com
@@ -2280,6 +2282,7 @@
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 inapi.posst.co
 0.0.0.0 in.appcenter.ms
+0.0.0.0 inapps.appsflyer.com
 0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 includemodal.com
 0.0.0.0 incoming.telemetry.mozilla.org
@@ -4550,6 +4553,7 @@
 0.0.0.0 www.bilder-upload.eu
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.blogads.de
+0.0.0.0 www.bloggerei.de
 0.0.0.0 www.bookdepository.com
 0.0.0.0 www.breakingnews.ie
 0.0.0.0 www.browser-statistik.de
