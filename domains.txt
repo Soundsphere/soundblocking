@@ -1700,7 +1700,9 @@ dna8twue3dlxq.cloudfront.net
 d.nativendo.de
 dnn506yrbagrg.cloudfront.net
 dnssec-nd.gexperiments1.com
+dnsseed.bitcoin.dashjr.org
 dnsseed.bluematt.me
+dnsseed.emzy.de
 dn-staticdown.qbox.me
 dojx47ab4dyxi.cloudfront.net
 d.omsnative.de
@@ -3470,7 +3472,9 @@ secure-us.imrworldwide.com
 securite.01net.com
 seed.bitcoin.jonasschnelli.ch
 seed.bitcoin.sipa.be
+seed.bitcoin.sprovoost.nl
 seed.bitnodes.io
+seed.btc.petertodd.org
 s.effectivemeasure.net
 segment-data.zqtk.net
 segment-pixel.invitemedia.com
