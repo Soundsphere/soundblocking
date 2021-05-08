@@ -2599,6 +2599,7 @@ marketing.criteo.com
 marketing.dropbox.com
 marketing.net.brillen.de
 marketplace-android-b234.hyprmx.com
+marketplace-ios-b189.hyprmx.com
 mark.reevoo.com
 marriott.btttag.com
 marriottinternationa.demdex.net
@@ -2894,6 +2895,7 @@ pages-stats.rbl.ms
 pages.taboola.com
 paid.outbrain.com
 pandoramedia.demdex.net
+pangolin16.isnssdk.com
 papi.mynativeplatform.com
 partnerad.l.doubleclick.net
 partner.googleadservices.com
@@ -3123,6 +3125,7 @@ publisher-config.unityads.unity3d.com
 pubmatic2waycm-atl.netmng.com
 pubmatic-match.dotomi.com
 pubmatic-winners-eu-west-1-rtb.adroll.com
+pubnative.info
 pubpress.net
 pub-sdk-cfg.criteo.com
 pugm22000nf.pubmatic.com
@@ -3336,6 +3339,7 @@ s2.go-mpulse.net
 s2s.adjust.com
 s2s.singular.net
 s385.mxcdn.net
+s3-analytics-events.easybrain.com
 s3.buysellads.com
 s3-eu-central-1.amazonaws.com
 s3-eu-west-1.amazonaws.com

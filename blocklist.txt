@@ -2600,6 +2600,7 @@
 0.0.0.0 marketing.dropbox.com
 0.0.0.0 marketing.net.brillen.de
 0.0.0.0 marketplace-android-b234.hyprmx.com
+0.0.0.0 marketplace-ios-b189.hyprmx.com
 0.0.0.0 mark.reevoo.com
 0.0.0.0 marriott.btttag.com
 0.0.0.0 marriottinternationa.demdex.net
@@ -2895,6 +2896,7 @@
 0.0.0.0 pages.taboola.com
 0.0.0.0 paid.outbrain.com
 0.0.0.0 pandoramedia.demdex.net
+0.0.0.0 pangolin16.isnssdk.com
 0.0.0.0 papi.mynativeplatform.com
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
@@ -3124,6 +3126,7 @@
 0.0.0.0 pubmatic2waycm-atl.netmng.com
 0.0.0.0 pubmatic-match.dotomi.com
 0.0.0.0 pubmatic-winners-eu-west-1-rtb.adroll.com
+0.0.0.0 pubnative.info
 0.0.0.0 pubpress.net
 0.0.0.0 pub-sdk-cfg.criteo.com
 0.0.0.0 pugm22000nf.pubmatic.com
@@ -3337,6 +3340,7 @@
 0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.singular.net
 0.0.0.0 s385.mxcdn.net
+0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 s3.buysellads.com
 0.0.0.0 s3-eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
