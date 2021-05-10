@@ -1387,6 +1387,7 @@ cpxl.golem.de
 crab.baidu.com
 crashdump.spotify.com
 crashlogs.whatsapp.net
+crashlyticsreports-pa.googleapis.com
 crash.steampowered.com
 crb.kargo.com
 crcdn09.adnxs.com
