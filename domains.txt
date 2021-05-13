@@ -1841,6 +1841,7 @@ eur-ukp.adsrvr.org
 eu-sonar.sociomantic.com
 eus.rubiconproject.com
 eu-tlp01.kameleoon.eu
+eu-tlp02.kameleoon.eu
 eu-tlp04.kameleoon.eu
 eu-tlp05.kameleoon.eu
 eu-tlp06.kameleoon.eu

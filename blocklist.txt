@@ -1841,6 +1841,7 @@
 0.0.0.0 eu-sonar.sociomantic.com
 0.0.0.0 eus.rubiconproject.com
 0.0.0.0 eu-tlp01.kameleoon.eu
+0.0.0.0 eu-tlp02.kameleoon.eu
 0.0.0.0 eu-tlp04.kameleoon.eu
 0.0.0.0 eu-tlp05.kameleoon.eu
 0.0.0.0 eu-tlp06.kameleoon.eu
