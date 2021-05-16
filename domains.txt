@@ -377,6 +377,7 @@ aem.playstation.com.ssl.d1.sc.omtrdc.net
 aexp.demdex.net
 a.farlex.com
 aff.bstatic.com
+affiliates.bhphotovideo.com
 afiles.webengage.com
 afs.googleusercontent.com
 agentanalytics.com
@@ -1853,6 +1854,7 @@ eu-west.load.exelator.com
 event-analytics.yesware.com
 event.api.drift.com
 eventapi.libring.com
+event-api.reverb.com
 event-collector.udsrv.com
 eventgateway.soundcloud.com
 eventgw.twilio.com
@@ -2408,6 +2410,7 @@ js.ptengine.cn
 js.pusher.com
 js.revsci.net
 js.sddan.com
+jssdkcdns.mparticle.com
 js-sec.casalemedia.com.edgekey.net
 js-sec.indexww.com
 js.smartredirect.de
@@ -2684,6 +2687,7 @@ metrics.foxnews.com
 metrics.gfycat.com
 metrics.icloud.com
 metrics.makemytrip.com
+metrics.mzstatic.com
 metrics.nfl.com
 metrics-nl.fitanalytics.com
 metrics.nt.vc
@@ -3073,11 +3077,13 @@ prebid-server.rubiconproject.com
 prebid.s-onetag.com
 prebid.technoratimedia.com
 predictivdisplay.com
+preferences.cid.samba.tv
 preferences-mgr.truste.com
 prefix.hit.gemius.pl
 prf.hn
 p.rfihub.com
 prg.smartadserver.com
+prism.app-us1.com
 privatestats.whatsapp.net
 priv-policy.imrworldwide.com
 privymktg.com
@@ -3641,6 +3647,7 @@ sp.zalo.me
 sqm.telemetry.microsoft.com.nsatc.net
 squeakzinc.com
 squirrelhands.com
+src.ebay-us.com
 srtb.msn.com
 srv.buysellads.com
 srv.carbonads.net

@@ -377,6 +377,7 @@
 0.0.0.0 aexp.demdex.net
 0.0.0.0 a.farlex.com
 0.0.0.0 aff.bstatic.com
+0.0.0.0 affiliates.bhphotovideo.com
 0.0.0.0 afiles.webengage.com
 0.0.0.0 afs.googleusercontent.com
 0.0.0.0 agentanalytics.com
@@ -1853,6 +1854,7 @@
 0.0.0.0 event-analytics.yesware.com
 0.0.0.0 event.api.drift.com
 0.0.0.0 eventapi.libring.com
+0.0.0.0 event-api.reverb.com
 0.0.0.0 event-collector.udsrv.com
 0.0.0.0 eventgateway.soundcloud.com
 0.0.0.0 eventgw.twilio.com
@@ -2408,6 +2410,7 @@
 0.0.0.0 js.pusher.com
 0.0.0.0 js.revsci.net
 0.0.0.0 js.sddan.com
+0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 js-sec.casalemedia.com.edgekey.net
 0.0.0.0 js-sec.indexww.com
 0.0.0.0 js.smartredirect.de
@@ -2685,6 +2688,7 @@
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics.makemytrip.com
+0.0.0.0 metrics.mzstatic.com
 0.0.0.0 metrics.nfl.com
 0.0.0.0 metrics-nl.fitanalytics.com
 0.0.0.0 metrics.nt.vc
@@ -3074,11 +3078,13 @@
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 prebid.technoratimedia.com
 0.0.0.0 predictivdisplay.com
+0.0.0.0 preferences.cid.samba.tv
 0.0.0.0 preferences-mgr.truste.com
 0.0.0.0 prefix.hit.gemius.pl
 0.0.0.0 prf.hn
 0.0.0.0 p.rfihub.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 prism.app-us1.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privymktg.com
@@ -3642,6 +3648,7 @@
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
+0.0.0.0 src.ebay-us.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.buysellads.com
 0.0.0.0 srv.carbonads.net
