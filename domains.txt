@@ -2165,6 +2165,7 @@ heredeutschlandgmbh.d1.sc.omtrdc.net
 hertz.122.2o7.net
 hexagon-analytics.com
 hi.hellobar.com
+h.imedia.cz
 history.google.com
 hit.dogannet.tv
 hits.europuls.eu
@@ -2903,6 +2904,7 @@ paid.outbrain.com
 pandoramedia.demdex.net
 pangolin16.isnssdk.com
 papi.mynativeplatform.com
+par02p.wns.windows.com
 partnerad.l.doubleclick.net
 partner.googleadservices.com
 partners.cmptch.com
@@ -3360,6 +3362,7 @@ s7.addthis.com
 s8.addthis.com
 s8t.teads.tv
 s9.addthis.com
+saa.cnet.com
 sa.api.intl.miui.com
 sa.bbc.co.uk
 s.adroll.com
