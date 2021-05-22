@@ -1932,6 +1932,7 @@ fbc.wcfbc.net
 fc.vodafone.de
 fc.webmasterpro.de
 fc.yahoo.com
+fdts.ebay-kleinanzeigen.de
 feedback.adrecover.com
 feedburner.google.com
 feed.engage.im
@@ -2200,6 +2201,7 @@ ia601205.us.archive.org
 ia801503.us.archive.org
 ia801605.us.archive.org
 ia802604.us.archive.org
+iabmap.evidon.com
 iadsdk.apple.com
 i-am3p-cor004.api.p001.1drv.com
 iam-agof-app.irquest.com

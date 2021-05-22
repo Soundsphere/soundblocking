@@ -1932,6 +1932,7 @@
 0.0.0.0 fc.vodafone.de
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fc.yahoo.com
+0.0.0.0 fdts.ebay-kleinanzeigen.de
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedburner.google.com
 0.0.0.0 feed.engage.im
@@ -2200,6 +2201,7 @@
 0.0.0.0 ia801503.us.archive.org
 0.0.0.0 ia801605.us.archive.org
 0.0.0.0 ia802604.us.archive.org
+0.0.0.0 iabmap.evidon.com
 0.0.0.0 iadsdk.apple.com
 0.0.0.0 i-am3p-cor004.api.p001.1drv.com
 0.0.0.0 iam-agof-app.irquest.com
