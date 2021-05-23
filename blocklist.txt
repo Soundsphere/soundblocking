@@ -2024,6 +2024,7 @@
 0.0.0.0 gazeta.hit.gemius.pl
 0.0.0.0 gcd.mmstat.com
 0.0.0.0 gcdn.2mdn.net
+0.0.0.0 gcdsdk.appsflyer.com
 0.0.0.0 gdc.indeed.com
 0.0.0.0 gde-default.hit.gemius.pl
 0.0.0.0 gdetr.hit.gemius.pl
@@ -2488,6 +2489,7 @@
 0.0.0.0 live.hyprmx.com
 0.0.0.0 live.rezync.com
 0.0.0.0 live.sekindo.com
+0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 lmyd3iz3qn.kameleoon.eu
 0.0.0.0 lnkd.demdex.net
 0.0.0.0 load77.exelator.com

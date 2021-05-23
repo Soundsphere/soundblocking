@@ -2024,6 +2024,7 @@ gaua.hit.gemius.pl
 gazeta.hit.gemius.pl
 gcd.mmstat.com
 gcdn.2mdn.net
+gcdsdk.appsflyer.com
 gdc.indeed.com
 gde-default.hit.gemius.pl
 gdetr.hit.gemius.pl
@@ -2488,6 +2489,7 @@ live.chartboost.com
 live.hyprmx.com
 live.rezync.com
 live.sekindo.com
+lm.licenses.adobe.com
 lmyd3iz3qn.kameleoon.eu
 lnkd.demdex.net
 load77.exelator.com
