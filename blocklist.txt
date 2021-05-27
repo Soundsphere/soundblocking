@@ -2391,6 +2391,7 @@
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
+0.0.0.0 js.driftt.com
 0.0.0.0 js.genieessp.com
 0.0.0.0 js.gleam.io
 0.0.0.0 js.gumgum.com

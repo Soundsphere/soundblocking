@@ -2391,6 +2391,7 @@ js.center.io
 jsc.idealmedia.io
 jsc.marketgid.com
 jsc.mgid.com
+js.driftt.com
 js.genieessp.com
 js.gleam.io
 js.gumgum.com
