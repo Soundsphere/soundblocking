@@ -675,6 +675,7 @@ app.getsentry.com
 app.hubspot.com
 app.icontact.com
 app.launchdarkly.com
+apple.comscoreresearch.com
 appleglobal.102.112.2o7.net
 apple.tt.omtrdc.net
 app.link
@@ -1636,6 +1637,7 @@ delivery.clickonometrics.pl
 delivery.content-recommendation.net
 delivery.g.switchadhub.com
 delivery.yomedia.vn
+dell.demdex.net
 dellinc.tt.omtrdc.net
 deloplen.com
 deltaairlines.tt.omtrdc.net
@@ -2929,6 +2931,7 @@ p.brsrvr.com
 p.cpx.to
 pde.lp4.io
 pdn.applovin.com
+pdw-usr.userreport.com
 pebed.dm-event.net
 pebed.dm.gg
 pentos-cdn.polarmobile.com
@@ -3362,6 +3365,7 @@ s3-iad-2.cf.dash.row.aiv-cdn.net
 s3.tradingview.com
 s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
+s400.mxcdn.net
 s62.mxcdn.net
 s7.addthis.com
 s8.addthis.com

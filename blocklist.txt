@@ -675,6 +675,7 @@
 0.0.0.0 app.hubspot.com
 0.0.0.0 app.icontact.com
 0.0.0.0 app.launchdarkly.com
+0.0.0.0 apple.comscoreresearch.com
 0.0.0.0 appleglobal.102.112.2o7.net
 0.0.0.0 apple.tt.omtrdc.net
 0.0.0.0 app.link
@@ -1636,6 +1637,7 @@
 0.0.0.0 delivery.content-recommendation.net
 0.0.0.0 delivery.g.switchadhub.com
 0.0.0.0 delivery.yomedia.vn
+0.0.0.0 dell.demdex.net
 0.0.0.0 dellinc.tt.omtrdc.net
 0.0.0.0 deloplen.com
 0.0.0.0 deltaairlines.tt.omtrdc.net
@@ -2930,6 +2932,7 @@
 0.0.0.0 p.cpx.to
 0.0.0.0 pde.lp4.io
 0.0.0.0 pdn.applovin.com
+0.0.0.0 pdw-usr.userreport.com
 0.0.0.0 pebed.dm-event.net
 0.0.0.0 pebed.dm.gg
 0.0.0.0 pentos-cdn.polarmobile.com
@@ -3363,6 +3366,7 @@
 0.0.0.0 s3.tradingview.com
 0.0.0.0 s3.us-east-1.amazonaws.com
 0.0.0.0 s3.us-east-2.amazonaws.com
+0.0.0.0 s400.mxcdn.net
 0.0.0.0 s62.mxcdn.net
 0.0.0.0 s7.addthis.com
 0.0.0.0 s8.addthis.com
