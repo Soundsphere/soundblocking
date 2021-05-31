@@ -876,6 +876,7 @@ bidder.rtk.io
 biddr.brealtime.com
 biddr-cloud.brealtime.com
 bid.g.doubleclick.net
+bid.glass
 bid.socdm.com
 bild01.webtrekk.net
 bilder.bild.de
