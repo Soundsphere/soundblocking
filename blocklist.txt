@@ -25,6 +25,7 @@
 0.0.0.0 341800575.log.optimizely.com
 0.0.0.0 347-iat-677.mktoresp.com
 0.0.0.0 3573281.fls.doubleclick.net
+0.0.0.0 3589079.fls.doubleclick.net
 0.0.0.0 35ax3z5b4g.kameleoon.eu
 0.0.0.0 3797665.fls.doubleclick.net
 0.0.0.0 3.au.download.windowsupdate.com
@@ -4754,6 +4755,7 @@
 0.0.0.0 z.cdn.braun634.com
 0.0.0.0 zdbb.net
 0.0.0.0 zdbb.netshelter.net
+0.0.0.0 zd.map.fastly.net
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zem.outbrainimg.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
