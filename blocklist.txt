@@ -2289,6 +2289,7 @@
 0.0.0.0 impes.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
+0.0.0.0 impression.link
 0.0.0.0 improving.duckduckgo.com
 0.0.0.0 imp.tradedoubler.com
 0.0.0.0 imrk.net
@@ -3509,6 +3510,7 @@
 0.0.0.0 seg.sharethis.com
 0.0.0.0 sejs.moatads.com
 0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 selfishsnake.com
 0.0.0.0 semantiqo.com
 0.0.0.0 semi-cod.com
 0.0.0.0 se.monetate.net
@@ -4615,6 +4617,7 @@
 0.0.0.0 www.facebook.net
 0.0.0.0 www.fastcounter.de
 0.0.0.0 www.fasthosts.co.uk
+0.0.0.0 www.fastly-insights.com
 0.0.0.0 www.fitforfun.de
 0.0.0.0 www.flingo.tv
 0.0.0.0 www.ftjcfx.com

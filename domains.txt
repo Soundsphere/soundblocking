@@ -2289,6 +2289,7 @@ imp.emxdgt.com
 impes.tradedoubler.com
 imprammp.taboola.com
 impression.appsflyer.com
+impression.link
 improving.duckduckgo.com
 imp.tradedoubler.com
 imrk.net
@@ -3508,6 +3509,7 @@ segments.company-target.com
 seg.sharethis.com
 sejs.moatads.com
 self.events.data.microsoft.com
+selfishsnake.com
 semantiqo.com
 semi-cod.com
 se.monetate.net
@@ -4614,6 +4616,7 @@ www.facebook.com
 www.facebook.net
 www.fastcounter.de
 www.fasthosts.co.uk
+www.fastly-insights.com
 www.fitforfun.de
 www.flingo.tv
 www.ftjcfx.com
