@@ -2837,6 +2837,7 @@ nym1-ib.adnxs.com
 nypost-d.openx.net
 nzz.d3.sc.omtrdc.net
 o1.qnsr.com
+o278969.ingest.sentry.io
 o2.mouseflow.com
 o.addthis.com
 oasc05.247realmedia.com
