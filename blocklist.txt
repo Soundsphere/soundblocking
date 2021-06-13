@@ -944,6 +944,7 @@
 0.0.0.0 c4d-cdn.adcolony.com
 0.0.0.0 ca1.qualtrics.com
 0.0.0.0 c.aaxads.com
+0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.betweendigital.com
 0.0.0.0 cache.soso.com
 0.0.0.0 cache-ssl.celtra.com
