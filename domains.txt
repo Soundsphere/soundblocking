@@ -18,6 +18,7 @@
 243-mrr-459.mktoresp.com
 2507573.fls.doubleclick.net
 2542116.fls.doubleclick.net
+2c3e38dc6508c4aa245fa4eeaca9f953.safeframe.googlesyndication.com
 2.chipde.damoh.schneevonmorgen.com
 311c47d7.webengage.co
 3276817.fls.doubleclick.net
@@ -28,6 +29,7 @@
 3589079.fls.doubleclick.net
 35ax3z5b4g.kameleoon.eu
 3797665.fls.doubleclick.net
+387bd331f74169dc0369fb558d18e621.safeframe.googlesyndication.com
 3.au.download.windowsupdate.com
 4228414.fls.doubleclick.net
 4258548.fls.doubleclick.net
@@ -52,6 +54,7 @@
 5fd74.v.fwmrm.net
 6124109.fls.doubleclick.net
 6543402.fls.doubleclick.net
+688012155290337.mateti.net
 709-nxn-706.mktoresp.com
 71i.nuggad.net
 727-zqe-044.mktoresp.com
@@ -1090,6 +1093,7 @@ cdn-lb.vungle.com
 cdn.livechatinc.com
 cdn.livefyre.com
 cdn.marketgid.com
+cdn.mateti.net
 cdn.mediavoice.com
 cdn.mgid.com
 cdn.moengage.com
@@ -2228,6 +2232,7 @@ id5-sync.com
 idcdn.de
 identity.mparticle.com
 ident.me
+idg.amp.permutive.com
 id.google.com
 id.google.de
 idguk1-d.openx.net
@@ -4474,6 +4479,7 @@ widget.marktjagd.de
 widgetmonitor.outbrain.com
 widget.nl.eu.criteo.com
 widget.perfectmarket.com
+widget-pixels.outbrain.com
 widget.privy.com
 widgets.amung.us
 widgets.fie-data.co.uk
@@ -4705,6 +4711,7 @@ www.updatestar.com
 www.upsellit.com
 www.usefomo.com
 www.usemax.de
+www.usemaxserver.de
 www.userreport.com
 www.vkmag.com
 www.vungle.com
