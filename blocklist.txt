@@ -1495,6 +1495,7 @@
 0.0.0.0 d2uepos3ef6db0.cloudfront.net
 0.0.0.0 d2v02itv0y9u9t.cloudfront.net
 0.0.0.0 d2vig74li2resi.cloudfront.net
+0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
@@ -2743,6 +2744,7 @@
 0.0.0.0 moevideo.biz
 0.0.0.0 mogointeractive.com
 0.0.0.0 monitor.econda-monitor.de
+0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 movip.wps.com
 0.0.0.0 mp-https.info

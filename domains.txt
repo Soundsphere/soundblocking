@@ -1495,6 +1495,7 @@ d2t2on23g4lty1.cloudfront.net
 d2uepos3ef6db0.cloudfront.net
 d2v02itv0y9u9t.cloudfront.net
 d2vig74li2resi.cloudfront.net
+d2wu036mkcz52n.cloudfront.net
 d2wy8f7a9ursnm.cloudfront.net
 d2zah9y47r7bi2.cloudfront.net
 d31bfnnwekbny6.cloudfront.net
@@ -2742,6 +2743,7 @@ moe.video
 moevideo.biz
 mogointeractive.com
 monitor.econda-monitor.de
+mon-va.byteoversea.com
 mormont.gamer-network.net
 movip.wps.com
 mp-https.info
