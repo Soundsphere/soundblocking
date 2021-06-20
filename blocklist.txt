@@ -4446,6 +4446,7 @@
 0.0.0.0 wcs.naver.com
 0.0.0.0 wct.link
 0.0.0.0 wd.adcolony.com
+0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 web.53.localytics.com
 0.0.0.0 web.adblade.com
 0.0.0.0 web-analytics.engagio.com

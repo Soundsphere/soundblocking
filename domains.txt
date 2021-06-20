@@ -4445,6 +4445,7 @@ w.cnzz.com
 wcs.naver.com
 wct.link
 wd.adcolony.com
+weather-analytics-events.apple.com
 web.53.localytics.com
 web.adblade.com
 web-analytics.engagio.com
