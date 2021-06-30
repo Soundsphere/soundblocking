@@ -588,6 +588,7 @@ api.mixpanel.com
 api-mobi.soundcloud.com
 api.moengage.com
 api.monetizer101.com
+api.msn.com
 api.nanigans.com
 api.native.ai
 api.newsfeed.intl.miui.com
@@ -1177,6 +1178,7 @@ cdn.zarget.com
 cdn.ziffstatic.com
 cdn.zopim.com
 cdp.cloud.unity3d.com
+cdp.thawte.com
 cds.connatix.com
 cds.d2s7q6s2.hwcdn.net
 cds.j3z9t3p6.hwcdn.net
@@ -2168,6 +2170,7 @@ healte.de
 healthline-d.openx.net
 heartbeats.omtrdc.net
 heatmap.services
+heauty-viesected.com
 h-ebay.online-metrix.net
 heise02.webtrekk.net
 hello.lov.net
@@ -4083,6 +4086,7 @@ time.izatcloud.net
 t.indeed.com
 tinyurl.com
 tisoomi-services.com
+tk6if76q.ab1n.net
 t.kck.st
 t.kctag.net
 tk.kaufda.de
@@ -4335,6 +4339,7 @@ us-u.openx.net
 us.wa.ui-portal.com
 utraff.com
 v10.events.data.microsoft.com
+v1.addthisedge.com.edgekey.net
 v20.events.data.microsoft.com
 v2.zopim.com
 v4.moatads.com

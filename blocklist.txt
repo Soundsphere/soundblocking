@@ -588,6 +588,7 @@
 0.0.0.0 api-mobi.soundcloud.com
 0.0.0.0 api.moengage.com
 0.0.0.0 api.monetizer101.com
+0.0.0.0 api.msn.com
 0.0.0.0 api.nanigans.com
 0.0.0.0 api.native.ai
 0.0.0.0 api.newsfeed.intl.miui.com
@@ -1177,6 +1178,7 @@
 0.0.0.0 cdn.ziffstatic.com
 0.0.0.0 cdn.zopim.com
 0.0.0.0 cdp.cloud.unity3d.com
+0.0.0.0 cdp.thawte.com
 0.0.0.0 cds.connatix.com
 0.0.0.0 cds.d2s7q6s2.hwcdn.net
 0.0.0.0 cds.j3z9t3p6.hwcdn.net
@@ -2168,6 +2170,7 @@
 0.0.0.0 healthline-d.openx.net
 0.0.0.0 heartbeats.omtrdc.net
 0.0.0.0 heatmap.services
+0.0.0.0 heauty-viesected.com
 0.0.0.0 h-ebay.online-metrix.net
 0.0.0.0 heise02.webtrekk.net
 0.0.0.0 hello.lov.net
@@ -4084,6 +4087,7 @@
 0.0.0.0 t.indeed.com
 0.0.0.0 tinyurl.com
 0.0.0.0 tisoomi-services.com
+0.0.0.0 tk6if76q.ab1n.net
 0.0.0.0 t.kck.st
 0.0.0.0 t.kctag.net
 0.0.0.0 tk.kaufda.de
@@ -4336,6 +4340,7 @@
 0.0.0.0 us.wa.ui-portal.com
 0.0.0.0 utraff.com
 0.0.0.0 v10.events.data.microsoft.com
+0.0.0.0 v1.addthisedge.com.edgekey.net
 0.0.0.0 v20.events.data.microsoft.com
 0.0.0.0 v2.zopim.com
 0.0.0.0 v4.moatads.com
