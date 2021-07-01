@@ -2243,6 +2243,7 @@
 0.0.0.0 idiagnostics.apple.com
 0.0.0.0 idpix.media6degrees.com
 0.0.0.0 id.rlcdn.com
+0.0.0.0 id.sv.rkdms.com
 0.0.0.0 idsync.rlcdn.com
 0.0.0.0 ie8eamus.com
 0.0.0.0 ieonline.microsoft.com
@@ -4440,6 +4441,7 @@
 0.0.0.0 v.w-x.co
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vzuhe758ae.kameleoon.eu
+0.0.0.0 w7.berlin.de
 0.0.0.0 warnerbros.112.2o7.net
 0.0.0.0 washingtonpost.com.102.112.2o7.net
 0.0.0.0 watson.telemetry.microsoft.com

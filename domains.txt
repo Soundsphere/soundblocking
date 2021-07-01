@@ -2243,6 +2243,7 @@ idguk1-d.openx.net
 idiagnostics.apple.com
 idpix.media6degrees.com
 id.rlcdn.com
+id.sv.rkdms.com
 idsync.rlcdn.com
 ie8eamus.com
 ieonline.microsoft.com
@@ -4439,6 +4440,7 @@ vuukle-analytics.appspot.com
 v.w-x.co
 vz-cdn.trafficjunky.net
 vzuhe758ae.kameleoon.eu
+w7.berlin.de
 warnerbros.112.2o7.net
 washingtonpost.com.102.112.2o7.net
 watson.telemetry.microsoft.com
