@@ -466,6 +466,7 @@
 0.0.0.0 analytics.dpd.com
 0.0.0.0 analytics.ecosia.org
 0.0.0.0 analytics-eu.clickdimensions.com
+0.0.0.0 analytics.evehome.com
 0.0.0.0 analytics.example.com
 0.0.0.0 analytics.fairfax.com.au
 0.0.0.0 analytics.faw.sky.com
