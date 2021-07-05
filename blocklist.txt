@@ -1325,6 +1325,7 @@
 0.0.0.0 comcluster.cxense.com
 0.0.0.0 common.duapps.com
 0.0.0.0 community.unbounce.com
+0.0.0.0 compass.pressekompass.net
 0.0.0.0 completion.amazon.com
 0.0.0.0 completion.amazon.co.uk
 0.0.0.0 completion.amazon.de
@@ -1347,6 +1348,7 @@
 0.0.0.0 connect.ok.ru
 0.0.0.0 connect.rom.miui.com
 0.0.0.0 connect.tapjoy.com
+0.0.0.0 consent.apotheken-umschau.de
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.cookiebot.com.edgekey.net
@@ -1909,6 +1911,7 @@
 0.0.0.0 exch.quantserve.com
 0.0.0.0 exmarketplace.com
 0.0.0.0 expedia.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 experience.contextly.com
 0.0.0.0 experience.tinypass.com
 0.0.0.0 external.xx.fbcdn.net
 0.0.0.0 ext-inv-cdn.presage.io
@@ -2960,6 +2963,7 @@
 0.0.0.0 performance.typekit.net
 0.0.0.0 perr.h-cdn.com
 0.0.0.0 personalcapital.go2cloud.org
+0.0.0.0 petiteumbrella.com
 0.0.0.0 pfa.levexis.com
 0.0.0.0 pf.newegg.com
 0.0.0.0 phar.gu-web.net
@@ -3391,6 +3395,7 @@
 0.0.0.0 s9.addthis.com
 0.0.0.0 saa.cnet.com
 0.0.0.0 sa.api.intl.miui.com
+0.0.0.0 saa.zdnet.com
 0.0.0.0 sa.bbc.co.uk
 0.0.0.0 s.adroll.com
 0.0.0.0 s.adtelligent.com

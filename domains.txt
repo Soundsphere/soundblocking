@@ -1325,6 +1325,7 @@ combine.urbanairship.com
 comcluster.cxense.com
 common.duapps.com
 community.unbounce.com
+compass.pressekompass.net
 completion.amazon.com
 completion.amazon.co.uk
 completion.amazon.de
@@ -1347,6 +1348,7 @@ connect.facebook.net
 connect.ok.ru
 connect.rom.miui.com
 connect.tapjoy.com
+consent.apotheken-umschau.de
 consent.cmp.oath.com
 consent.cookiebot.com
 consent.cookiebot.com.edgekey.net
@@ -1909,6 +1911,7 @@ exch.quantcount.com
 exch.quantserve.com
 exmarketplace.com
 expedia.com.ssl.d1.sc.omtrdc.net
+experience.contextly.com
 experience.tinypass.com
 external.xx.fbcdn.net
 ext-inv-cdn.presage.io
@@ -2959,6 +2962,7 @@ perf.mmstat.com
 performance.typekit.net
 perr.h-cdn.com
 personalcapital.go2cloud.org
+petiteumbrella.com
 pfa.levexis.com
 pf.newegg.com
 phar.gu-web.net
@@ -3390,6 +3394,7 @@ s8t.teads.tv
 s9.addthis.com
 saa.cnet.com
 sa.api.intl.miui.com
+saa.zdnet.com
 sa.bbc.co.uk
 s.adroll.com
 s.adtelligent.com
