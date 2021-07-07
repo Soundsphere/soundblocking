@@ -1766,6 +1766,7 @@
 0.0.0.0 dy.adserve.io
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dyn.emetriq.de
+0.0.0.0 dyv1bugovvq1g.cloudfront.net
 0.0.0.0 e-10220.adzerk.net
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
@@ -2058,6 +2059,7 @@
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geoip-db.com
 0.0.0.0 geo.kaloo.ga
+0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.onetrust.com
 0.0.0.0 geolocation.stroeerdp.de
 0.0.0.0 geo.moatads.com
@@ -2225,6 +2227,7 @@
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ib.3lift.com
 0.0.0.0 ib.adnxs.com
+0.0.0.0 ib.adnxs-simple.com
 0.0.0.0 ibclick.stream
 0.0.0.0 i.bigmir.net
 0.0.0.0 ib.mookie1.com
@@ -2337,6 +2340,7 @@
 0.0.0.0 insights.blogfoster.com
 0.0.0.0 insights.hotjar.com
 0.0.0.0 insights.plista.com
+0.0.0.0 insights.sitesearch360.com
 0.0.0.0 insitez.blob.core.windows.net
 0.0.0.0 inskinad.com
 0.0.0.0 instant.page
@@ -3708,6 +3712,7 @@
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.mousestats.com
+0.0.0.0 ssl.o.webmd.com
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 ssl.vizury.com
 0.0.0.0 sslwidget.criteo.com
@@ -4170,6 +4175,7 @@
 0.0.0.0 tracking1.firstimpression.io
 0.0.0.0 tracking2.channeladvisor.com
 0.0.0.0 tracking.aatkit.com
+0.0.0.0 tracking.adalliance.io
 0.0.0.0 trackingapi.kaufda.de
 0.0.0.0 tracking.bloomberg.com
 0.0.0.0 tracking.eurosport.com
@@ -4752,6 +4758,7 @@
 0.0.0.0 xl-trk.com
 0.0.0.0 xml.ad-maven.com
 0.0.0.0 xml.blueparrot.media
+0.0.0.0 xp.apple.com
 0.0.0.0 xpl.theadex.com
 0.0.0.0 xpu.samsungelectronics.com
 0.0.0.0 xray.mail.ru

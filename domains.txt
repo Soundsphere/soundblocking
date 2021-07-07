@@ -1766,6 +1766,7 @@ dx.steelhousemedia.com
 dy.adserve.io
 dynamic.criteo.com
 dyn.emetriq.de
+dyv1bugovvq1g.cloudfront.net
 e-10220.adzerk.net
 e1151.e12.akamaiedge.net
 e1.emxdgt.com
@@ -2058,6 +2059,7 @@ geocode.usefomo.com
 geo.gorillanation.com
 geoip-db.com
 geo.kaloo.ga
+geolocation-db.com
 geolocation.onetrust.com
 geolocation.stroeerdp.de
 geo.moatads.com
@@ -2225,6 +2227,7 @@ i-am3p-cor004.api.p001.1drv.com
 iam-agof-app.irquest.com
 ib.3lift.com
 ib.adnxs.com
+ib.adnxs-simple.com
 ibclick.stream
 i.bigmir.net
 ib.mookie1.com
@@ -2337,6 +2340,7 @@ insight.adsrvr.org
 insights.blogfoster.com
 insights.hotjar.com
 insights.plista.com
+insights.sitesearch360.com
 insitez.blob.core.windows.net
 inskinad.com
 instant.page
@@ -3707,6 +3711,7 @@ ssl.google-analytics.com
 ssl-google-analytics.l.google.com
 ssl.kaptcha.com
 ssl.mousestats.com
+ssl.o.webmd.com
 ssl-vg03.met.vgwort.de
 ssl.vizury.com
 sslwidget.criteo.com
@@ -4169,6 +4174,7 @@ track.hubspot.com
 tracking1.firstimpression.io
 tracking2.channeladvisor.com
 tracking.aatkit.com
+tracking.adalliance.io
 trackingapi.kaufda.de
 tracking.bloomberg.com
 tracking.eurosport.com
@@ -4751,6 +4757,7 @@ xlog-va.musical.ly
 xl-trk.com
 xml.ad-maven.com
 xml.blueparrot.media
+xp.apple.com
 xpl.theadex.com
 xpu.samsungelectronics.com
 xray.mail.ru
