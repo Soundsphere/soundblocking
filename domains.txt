@@ -617,6 +617,7 @@ apiservices.krxd.net
 api.setting.intl.miui.com
 api.share.mob.com
 api.smartredirect.de
+apis.quantcast.mgr.consensu.org
 api.stathat.com
 api.taboola.com
 api.taplytics.com
@@ -1085,6 +1086,7 @@ cdn-images.mailchimp.com
 cdn.inskinad.com
 cdn.inspectlet.com
 cdn.interactivemedia.net
+cdn.intergient.com
 cdn.iubenda.com
 cdn.izooto.com
 cdnjs.cloudflare.com
@@ -4077,6 +4079,7 @@ tendertest.com
 tenor.com
 tesla.tt.omtrdc.net
 testlibs.coremetrics.com
+test.quantcast.mgr.consensu.org
 test-script.dotmetrics.net
 te.technical-service.net
 tetu.com
@@ -4227,6 +4230,7 @@ tr.blismedia.com
 trck.bdi-services.de
 trck.cyberport.de
 trck.spoteffects.net
+trc.pushnami.com
 trc.taboola.com
 trendmd.s3.amazonaws.com
 trends.revcontent.com

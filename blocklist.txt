@@ -617,6 +617,7 @@
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
 0.0.0.0 api.smartredirect.de
+0.0.0.0 apis.quantcast.mgr.consensu.org
 0.0.0.0 api.stathat.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.taplytics.com
@@ -1085,6 +1086,7 @@
 0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
+0.0.0.0 cdn.intergient.com
 0.0.0.0 cdn.iubenda.com
 0.0.0.0 cdn.izooto.com
 0.0.0.0 cdnjs.cloudflare.com
@@ -4078,6 +4080,7 @@
 0.0.0.0 tenor.com
 0.0.0.0 tesla.tt.omtrdc.net
 0.0.0.0 testlibs.coremetrics.com
+0.0.0.0 test.quantcast.mgr.consensu.org
 0.0.0.0 test-script.dotmetrics.net
 0.0.0.0 te.technical-service.net
 0.0.0.0 tetu.com
@@ -4228,6 +4231,7 @@
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.cyberport.de
 0.0.0.0 trck.spoteffects.net
+0.0.0.0 trc.pushnami.com
 0.0.0.0 trc.taboola.com
 0.0.0.0 trendmd.s3.amazonaws.com
 0.0.0.0 trends.revcontent.com
