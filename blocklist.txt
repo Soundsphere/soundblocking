@@ -2849,6 +2849,7 @@
 0.0.0.0 nqs-nl12-c3.youboranqs01.com
 0.0.0.0 nqs-nl-c5-c2.youboranqs01.com
 0.0.0.0 nrdp.nccp.netflix.com
+0.0.0.0 nrdp.prod.ftl.netflix.com
 0.0.0.0 nr.taboola.com
 0.0.0.0 nsm.dell.com
 0.0.0.0 ns.zdbb.net
@@ -3063,6 +3064,7 @@
 0.0.0.0 player.adtelligent.com
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.h-cdn.com
+0.0.0.0 player.ooyala.com
 0.0.0.0 player.piksel.com
 0.0.0.0 players.brightcove.net
 0.0.0.0 playtime.tubemogul.com

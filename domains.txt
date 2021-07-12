@@ -2848,6 +2848,7 @@ nqs.nice264.com
 nqs-nl12-c3.youboranqs01.com
 nqs-nl-c5-c2.youboranqs01.com
 nrdp.nccp.netflix.com
+nrdp.prod.ftl.netflix.com
 nr.taboola.com
 nsm.dell.com
 ns.zdbb.net
@@ -3062,6 +3063,7 @@ platform.twitter.com
 player.adtelligent.com
 player-feedback-v1.glomex.com
 player.h-cdn.com
+player.ooyala.com
 player.piksel.com
 players.brightcove.net
 playtime.tubemogul.com
