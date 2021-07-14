@@ -124,6 +124,7 @@ a.adroll.com
 a.adsrvr.org
 a.adtech.de
 a.adtng.com
+aamapi.com
 a-ams.1rx.io
 aan.amazon.com
 a.ants.vn
@@ -287,6 +288,7 @@ adserver.pressboard.ca
 adserver.reklamstore.com
 adserver.unityads.unity3d.com
 adserver-us.adtech.advertising.com
+adserver.us-east1.prod.chicoryapp.com
 adserver.veldsoft.eu
 adservex.media.net
 adservice.google.ca
@@ -743,6 +745,7 @@ assets1.adroll.com
 assets.adobedtm.com
 assets.adstage.io
 assets.applovin.com
+assets.bounceexchange.com
 assets.customer.io
 assets.deployads.com
 assets.hotjar.com
@@ -1116,6 +1119,7 @@ cdn.perfdrive.com
 cdn.permutive.com
 cdn.petametrics.com
 cdn.pljs.ru
+cdn.p-n.io
 cdn.polyfill.io
 cdn.pricespider.com
 cdn.privacy-mgmt.com
@@ -1138,6 +1142,7 @@ cdns.gigya.com
 cdn-sic.33across.com
 cdn.siftscience.com
 cdn.simpleanalytics.io
+cdn.snigelweb.com
 cdn.special-offers.online
 cdn.speedcurve.com
 cdn.springserve.com
@@ -1639,6 +1644,7 @@ dcinfos-cache.abtasty.com
 dclk-match.dotomi.com
 dc.services.visualstudio.com
 dd6zx4ibq538k.cloudfront.net
+ddff39a5e611c51827407a377f503780.safeframe.googlesyndication.com
 de.ads.justpremium.com
 de.aliexpress.com
 decide.mixpanel.com
@@ -1678,6 +1684,7 @@ dh.serving-sys.com
 dialogue.sp-prod.net
 diapi.webgains.com
 diff.smartadserver.com
+digicertwc.rubiconproject.com.edgekey.net
 d.impactradius-event.com
 di.phncdn.com
 direct-events-collector.spot.im
@@ -1925,6 +1932,7 @@ eyeota-sync.dotomi.com
 f5.market.mi-img.com
 f69e.engage.squarespace-mail.com
 f7-de.adhigh.net
+f9bf7c1803a65eb67d7b0dc451f1d169.safeframe.googlesyndication.com
 facebook.de
 faggrim.com
 fandangollc.demdex.net
@@ -2086,6 +2094,8 @@ getrockerbox.com
 get.s-onetag.com
 g.ezoic.net
 gg.google.com
+ghb1.adtelligent.com
+ghb.adtelligent.com
 gift-connect-d.openx.net
 g.ign.com
 gj.gds.mmstat.com
@@ -2107,6 +2117,7 @@ gm.gds.mmstat.com
 gm.mmstat.com
 g.msn.com
 gnar.grammarly.com
+go1.aniview.com
 go.affec.tv
 go.automatad.com
 gocm.c.appier.net
@@ -2139,6 +2150,7 @@ graph.facebook.com
 graph.facebook.com
 graph.instagram.com
 green.erne.co
+grid.bidswitch.net
 grmtech.net
 grunerandjahr.112.2o7.net
 gscounters.eu1.gigya.com
@@ -2233,6 +2245,8 @@ ib.adnxs-simple.com
 ibclick.stream
 i.bigmir.net
 ib.mookie1.com
+ibt-d.openx.net
+ice.360yield.com
 ichnaea.netflix.com
 i.clean.gg
 icompass.insightexpressai.com
@@ -2591,6 +2605,7 @@ lptag.liveperson.net
 ls2web.redmond.corp.microsoft.com
 l.sharethis.com
 ls.hit.gemius.pl
+ls.skimresources.com
 ls.srvcs.tumblr.com
 lululemonathleticacanadainc.demdex.net
 lyferere.pro
@@ -2718,6 +2733,7 @@ metrics.fitanalytics.com
 metrics.foxnews.com
 metrics.gfycat.com
 metrics.icloud.com
+metrics-logger.spot.im
 metrics.makemytrip.com
 metrics.mzstatic.com
 metrics.nfl.com
@@ -2733,6 +2749,7 @@ metro.co.uk.102.122.2o7.net
 m.exactag.com
 mg.mgid.com
 michelintravelpartner.d3.sc.omtrdc.net
+micro.rubiconproject.com
 microsoftwindows.112.2o7.net
 mid.rkdms.com
 milesandmore.d1.sc.omtrdc.net
@@ -3004,6 +3021,7 @@ pixelappcollector.thesun.co.uk
 pixel.app.returnpath.net
 pixel-a.sitescout.com
 pixel.bild.de
+pixel.bilinmedia.net
 pixelbox.uimserv.net
 pixel.cdnwidget.com
 pixel.condenastdigital.com
@@ -3061,6 +3079,7 @@ platform.stumbleupon.com
 platform.tumblr.com
 platform.twitter.com
 player.adtelligent.com
+player.aniview.com
 player-feedback-v1.glomex.com
 player.h-cdn.com
 player.ooyala.com
@@ -3108,6 +3127,7 @@ pre.ads.justpremium.com
 prebid.adnxs.com
 prebid.a-mo.net
 prebid-a.rubiconproject.com
+prebid.deepintent.com
 prebid.digitru.st
 prebid.districtm.ca
 prebid-match.dotomi.com
@@ -3212,6 +3232,7 @@ q.stripe.com
 quantcast584928381.s.moatpixel.com
 quantcast.mgr.consensu.org
 query1.petametrics.com
+query.fqtag.com
 query.network
 query.petametrics.com
 query-us-west1.petametrics.com
@@ -4116,6 +4137,7 @@ tlp-03.kameleoon.com
 tlp-04.kameleoon.com
 tl.tradetracker.net
 tlx.3lift.com
+tmbi.demdex.net
 tmk-eqx-geoloc.smartadserver.com
 tmk-secure.smartadserver.com
 tmk.smartadserver.com
@@ -4499,6 +4521,7 @@ whitelabel.media.net
 whitepages.com
 whos.amung.us
 widget.as.criteo.com
+widget.beop.io
 widget.criteo.com
 widget.eu.criteo.com
 widget.fitanalytics.com
