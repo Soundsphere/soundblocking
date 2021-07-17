@@ -1,3 +1,4 @@
+00be678ee7b58a1dc18187d35908bfb7.safeframe.googlesyndication.com
 0.gravatar.com
 1016557.fls.doubleclick.net
 112-tzm-766.mktoresp.com
@@ -20,6 +21,7 @@
 2542116.fls.doubleclick.net
 2c3e38dc6508c4aa245fa4eeaca9f953.safeframe.googlesyndication.com
 2.chipde.damoh.schneevonmorgen.com
+2ciy2-9kbup.ads.tremorhub.com
 311c47d7.webengage.co
 3276817.fls.doubleclick.net
 33across-d.openx.net
@@ -67,6 +69,7 @@
 a-0003.a-msedge.net
 a01.korrelate.net
 a0.smi2.ru
+a17126690382.cdn.optimizely.com
 a1.adform.net
 a1.seadform.net
 a1.vdna-assets.com
@@ -3551,6 +3554,7 @@ seed.bitcoin.sprovoost.nl
 seed.bitnodes.io
 seed.btc.petertodd.org
 s.effectivemeasure.net
+seg.ad.gt
 segment-data.zqtk.net
 segment-pixel.invitemedia.com
 segments.company-target.com
