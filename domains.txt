@@ -1972,6 +1972,7 @@ fff.dailymail.co.uk
 fh.under9.co
 file.market.xiaomi.com
 files.constantcontact.com
+files.drivers-logitech.com
 files.slack.com
 find.api.micloud.xiaomi.net
 fireads.online
@@ -2586,6 +2587,7 @@ logs11.xiti.com
 logs1242.xiti.com
 logs13.xiti.com
 logs1406.xiti.com
+logs1413.xiti.com
 logs3.xiti.com
 logs4.xiti.com
 logs.amap.com

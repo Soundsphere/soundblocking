@@ -1972,6 +1972,7 @@
 0.0.0.0 fh.under9.co
 0.0.0.0 file.market.xiaomi.com
 0.0.0.0 files.constantcontact.com
+0.0.0.0 files.drivers-logitech.com
 0.0.0.0 files.slack.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fireads.online
@@ -2586,6 +2587,7 @@
 0.0.0.0 logs1242.xiti.com
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1406.xiti.com
+0.0.0.0 logs1413.xiti.com
 0.0.0.0 logs3.xiti.com
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs.amap.com
