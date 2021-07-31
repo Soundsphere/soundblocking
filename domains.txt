@@ -1297,6 +1297,7 @@ codefund.io
 code.ionicframework.com
 code.jquery.com
 code.murdoog.com
+c.office.com
 coinmarketcap.com
 coinmarketcap-d.openx.net
 col.eum-appdynamics.com
