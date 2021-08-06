@@ -788,6 +788,7 @@ aufeminin-g-d.openx.net
 authbe.sec.intl.miui.com
 auth.be.sec.miui.com
 authentication.taboola.com
+auth.split.io
 autocomplete.demandbase.com
 autocontext.begun.ru
 autolinkmaker.itunes.apple.com
@@ -2431,6 +2432,7 @@ js-agent.newrelic.com
 js.agkn.com
 js.appboycdn.com
 js.brealtime.com
+js-cdn.dynatrace.com
 jscdn.yieldbird.com
 js.center.io
 jsc.idealmedia.io

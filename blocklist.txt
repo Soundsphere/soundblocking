@@ -788,6 +788,7 @@
 0.0.0.0 authbe.sec.intl.miui.com
 0.0.0.0 auth.be.sec.miui.com
 0.0.0.0 authentication.taboola.com
+0.0.0.0 auth.split.io
 0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 autolinkmaker.itunes.apple.com
@@ -2431,6 +2432,7 @@
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
 0.0.0.0 js.brealtime.com
+0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 js.center.io
 0.0.0.0 jsc.idealmedia.io
