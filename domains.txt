@@ -174,6 +174,7 @@ act.webmasterplan.com
 acuityads.com
 acuityplatform.com
 ad11.adfarm1.adition.com
+ad13.adfarm1.adition.com
 ad1.adfarm1.adition.com
 ad2.adfarm1.adition.com
 ad.360yield.com
@@ -1807,6 +1808,7 @@ ecomm.events
 e.connectad.io
 e.crashlytics.com
 ec-track.com
+ec.walkme.com
 ed98512111bb19e5.in.net
 edaa.eu
 edatasales.com
@@ -4016,6 +4018,7 @@ s.youtube.com
 s.zkcdn.net
 sz.met.vgwort.de
 t13.intelliad.de
+t1.extreme-dm.com
 t23.intelliad.de
 t4ft.de
 t.9gag.com
