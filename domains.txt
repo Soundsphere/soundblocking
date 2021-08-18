@@ -19,6 +19,7 @@
 243-mrr-459.mktoresp.com
 2507573.fls.doubleclick.net
 2542116.fls.doubleclick.net
+29db4693976aa94f88edf08d3238099c.safeframe.googlesyndication.com
 2c3e38dc6508c4aa245fa4eeaca9f953.safeframe.googlesyndication.com
 2.chipde.damoh.schneevonmorgen.com
 2ciy2-9kbup.ads.tremorhub.com
@@ -779,6 +780,7 @@ ats.otto.de
 a.twiago.com
 au1.qualtrics.com
 auction.unityads.unity3d.com
+audev.zeit.de
 audiag.112.2o7.net
 audible.tt.omtrdc.net
 audit.quantcast.mgr.consensu.org
@@ -893,6 +895,7 @@ biddr-cloud.brealtime.com
 bid.g.doubleclick.net
 bid.glass
 bid.socdm.com
+bid.sxp.smartclip.net
 bild01.webtrekk.net
 bilder.bild.de
 bildschirmarbeiter.com
@@ -3153,6 +3156,7 @@ prf.hn
 p.rfihub.com
 prg.smartadserver.com
 prism.app-us1.com
+privacyportal.onetrust.com
 privatestats.whatsapp.net
 priv-policy.imrworldwide.com
 privymktg.com
