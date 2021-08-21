@@ -67,6 +67,7 @@
 0.0.0.0 8468614.fls.doubleclick.net
 0.0.0.0 883205.fls.doubleclick.net
 0.0.0.0 935-kke-240.mktoresp.com
+0.0.0.0 96b7287f96e31b46a5034264400943a5.safeframe.googlesyndication.com
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a01.korrelate.net
 0.0.0.0 a0.smi2.ru
@@ -3427,6 +3428,7 @@
 0.0.0.0 s3-eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
 0.0.0.0 s3-iad-2.cf.dash.row.aiv-cdn.net
+0.0.0.0 s3.ll.videorolls.row.aiv-cdn.net
 0.0.0.0 s3.tradingview.com
 0.0.0.0 s3.us-east-1.amazonaws.com
 0.0.0.0 s3.us-east-2.amazonaws.com
@@ -4838,6 +4840,7 @@
 0.0.0.0 zd.map.fastly.net
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zem.outbrainimg.com
+0.0.0.0 z-eu.amazon-adsystem.com
 0.0.0.0 zeus.ad.intl.xiaomi.com
 0.0.0.0 z.gds.cnzz.com
 0.0.0.0 ziffdavis-d.openx.net
