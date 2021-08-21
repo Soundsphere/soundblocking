@@ -3747,6 +3747,7 @@ ssc.api.bbc.com
 ssc-cms.33across.com
 sshowads.pubmatic.com
 s.skimresources.com
+ssl.1.damoh.chip.de
 ssl.bblck.me
 ssl.geoplugin.net
 ssl.google-analytics.com
@@ -3962,6 +3963,7 @@ survey.122.2o7.net
 survey.euro.confirmit.com
 survey.g.doubleclick.net
 survey.nuggad.net
+survey.survicate.com
 susapi.lenovomm.com
 s-usweb.dotomi.com
 s-v6exp1-v4.metric.gstatic.com

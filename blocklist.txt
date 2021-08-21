@@ -3748,6 +3748,7 @@
 0.0.0.0 ssc-cms.33across.com
 0.0.0.0 sshowads.pubmatic.com
 0.0.0.0 s.skimresources.com
+0.0.0.0 ssl.1.damoh.chip.de
 0.0.0.0 ssl.bblck.me
 0.0.0.0 ssl.geoplugin.net
 0.0.0.0 ssl.google-analytics.com
@@ -3963,6 +3964,7 @@
 0.0.0.0 survey.euro.confirmit.com
 0.0.0.0 survey.g.doubleclick.net
 0.0.0.0 survey.nuggad.net
+0.0.0.0 survey.survicate.com
 0.0.0.0 susapi.lenovomm.com
 0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
