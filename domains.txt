@@ -1152,6 +1152,7 @@ cdn-sic.33across.com
 cdn.siftscience.com
 cdn.simpleanalytics.io
 cdn.snigelweb.com
+cdn.socialannex.com
 cdn.special-offers.online
 cdn.speedcurve.com
 cdn.springserve.com
@@ -1465,6 +1466,7 @@ ct.pinterest.com
 ctrack.trafficjunky.net
 ct.sddan.com
 cts.tradepub.com
+ctxtfl.com
 culturedcrayon.com
 curse-d.openx.net
 custom-blacklisted-tracking-example.com
@@ -3201,6 +3203,7 @@ p.typekit.net
 pubads.g.doubleclick.net
 pub.lavanetwork.net
 publicagent.com
+public.profitwell.com
 public.servenobid.com
 public.vilynx.com
 publisher-config.unityads.unity3d.com

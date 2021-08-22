@@ -1152,6 +1152,7 @@
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.snigelweb.com
+0.0.0.0 cdn.socialannex.com
 0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.speedcurve.com
 0.0.0.0 cdn.springserve.com
@@ -1465,6 +1466,7 @@
 0.0.0.0 ctrack.trafficjunky.net
 0.0.0.0 ct.sddan.com
 0.0.0.0 cts.tradepub.com
+0.0.0.0 ctxtfl.com
 0.0.0.0 culturedcrayon.com
 0.0.0.0 curse-d.openx.net
 0.0.0.0 custom-blacklisted-tracking-example.com
@@ -3202,6 +3204,7 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 publicagent.com
+0.0.0.0 public.profitwell.com
 0.0.0.0 public.servenobid.com
 0.0.0.0 public.vilynx.com
 0.0.0.0 publisher-config.unityads.unity3d.com
