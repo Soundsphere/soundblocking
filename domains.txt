@@ -3485,6 +3485,7 @@ scontent-iad3-1.cdninstagram.com
 scontent.xx.fbcdn.net
 scout24-d.openx.net
 s.cpx.to
+script.4dex.io
 script.crazyegg.com
 script.hotjar.com
 script.ioam.de

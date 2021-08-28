@@ -3486,6 +3486,7 @@
 0.0.0.0 scontent.xx.fbcdn.net
 0.0.0.0 scout24-d.openx.net
 0.0.0.0 s.cpx.to
+0.0.0.0 script.4dex.io
 0.0.0.0 script.crazyegg.com
 0.0.0.0 script.hotjar.com
 0.0.0.0 script.ioam.de
