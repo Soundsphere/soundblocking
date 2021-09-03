@@ -16,6 +16,7 @@
 1und1internetag.d3.sc.omtrdc.net
 1x1.a-mo.net
 2-01-2a40-0017.cdx.cdxcn.net
+2-01-2c3e-005c.cdx.cedexis.net
 243-mrr-459.mktoresp.com
 2507573.fls.doubleclick.net
 2542116.fls.doubleclick.net
@@ -1102,6 +1103,7 @@ cdn.intergient.com
 cdn.iubenda.com
 cdn.izooto.com
 cdnjs.cloudflare.com
+cdn.jsdelivr.net
 cdn.jwplayer.com
 cdn.keywee.co
 cdn.krxd.net
@@ -2992,6 +2994,7 @@ p.cpx.to
 pde.lp4.io
 pdn.applovin.com
 pdw-usr.userreport.com
+pdx-col.eum-appdynamics.com
 pebed.dm-event.net
 pebed.dm.gg
 pentos-cdn.polarmobile.com
