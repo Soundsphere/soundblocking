@@ -2034,6 +2034,7 @@ frog.wix.com
 front.optimonk.com
 frontpage-stats.rbl.ms
 fs.microsoft.com
+fs.pushsquare.com
 fundingchoicesmessages.google.com
 fw.adsafeprotected.com
 fwapi.adsafeprotected.com
@@ -4040,6 +4041,7 @@ t.9gag.com
 t.a3cloud.net
 taboola-d.openx.net
 tacoda.at.atwola.com
+t.adcell.com
 tag.1rx.io
 tagan.adlightning.com
 tag.aticdn.net

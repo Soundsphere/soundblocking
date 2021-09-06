@@ -2034,6 +2034,7 @@
 0.0.0.0 front.optimonk.com
 0.0.0.0 frontpage-stats.rbl.ms
 0.0.0.0 fs.microsoft.com
+0.0.0.0 fs.pushsquare.com
 0.0.0.0 fundingchoicesmessages.google.com
 0.0.0.0 fw.adsafeprotected.com
 0.0.0.0 fwapi.adsafeprotected.com
@@ -4041,6 +4042,7 @@
 0.0.0.0 t.a3cloud.net
 0.0.0.0 taboola-d.openx.net
 0.0.0.0 tacoda.at.atwola.com
+0.0.0.0 t.adcell.com
 0.0.0.0 tag.1rx.io
 0.0.0.0 tagan.adlightning.com
 0.0.0.0 tag.aticdn.net
