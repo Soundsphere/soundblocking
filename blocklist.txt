@@ -3526,6 +3526,7 @@
 0.0.0.0 sdkm.w.inmobi.com
 0.0.0.0 sdk.out.usbla.net
 0.0.0.0 sdk.privacy-center.org
+0.0.0.0 sdk.qikify.com
 0.0.0.0 sdk.split.io
 0.0.0.0 sdk.starbolt.io
 0.0.0.0 sdk.streamrail.com

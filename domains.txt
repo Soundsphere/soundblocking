@@ -3525,6 +3525,7 @@ sdk-ios.ad.smaato.net
 sdkm.w.inmobi.com
 sdk.out.usbla.net
 sdk.privacy-center.org
+sdk.qikify.com
 sdk.split.io
 sdk.starbolt.io
 sdk.streamrail.com
