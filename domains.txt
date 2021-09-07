@@ -2717,6 +2717,7 @@ media.adrcdn.com
 media.carambo.la
 media.complex.com
 media-eu1.inq.com
+media-exp1.licdn.com
 media.flixfacts.com
 media.go2speed.org
 media-lax1.inq.com
@@ -2959,6 +2960,7 @@ otnolatrnup.com
 outcome-ssp.supersonicads.com
 ovc2-ustokyyneikyfasnm.stackpathdns.com
 ow-gateway.supersonicads.com
+p11.techlab-cdn.com
 p.ad.gt
 p.adsymptotic.com
 pad-v3.presage.io
@@ -3921,6 +3923,7 @@ status.discordapp.com
 status.geotrust.com
 status.rapidssl.com
 status.thawte.com
+st.bahn.de
 st.core.polyad.net
 st.dynamicyield.com
 steadfastsound.com

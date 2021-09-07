@@ -2718,6 +2718,7 @@
 0.0.0.0 media.carambo.la
 0.0.0.0 media.complex.com
 0.0.0.0 media-eu1.inq.com
+0.0.0.0 media-exp1.licdn.com
 0.0.0.0 media.flixfacts.com
 0.0.0.0 media.go2speed.org
 0.0.0.0 media-lax1.inq.com
@@ -2960,6 +2961,7 @@
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ow-gateway.supersonicads.com
+0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 p.ad.gt
 0.0.0.0 p.adsymptotic.com
 0.0.0.0 pad-v3.presage.io
@@ -3922,6 +3924,7 @@
 0.0.0.0 status.geotrust.com
 0.0.0.0 status.rapidssl.com
 0.0.0.0 status.thawte.com
+0.0.0.0 st.bahn.de
 0.0.0.0 st.core.polyad.net
 0.0.0.0 st.dynamicyield.com
 0.0.0.0 steadfastsound.com
