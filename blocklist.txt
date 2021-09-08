@@ -674,6 +674,7 @@
 0.0.0.0 app.adjust.net.in
 0.0.0.0 app.adjust.world
 0.0.0.0 app.adroll.com
+0.0.0.0 appanalysis.banggood.com
 0.0.0.0 app-analytics.snapchat.com
 0.0.0.0 appboot.netflix.com
 0.0.0.0 app.box.com
@@ -3222,6 +3223,7 @@
 0.0.0.0 pub-sdk-cfg.criteo.com
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 pulsar.ebay.com
+0.0.0.0 pulsar.ebay.de
 0.0.0.0 purch-match.dotomi.com
 0.0.0.0 pv-tm.everesttech.net
 0.0.0.0 p.vtracy.de
@@ -3505,6 +3507,7 @@
 0.0.0.0 scripts.psyma.com
 0.0.0.0 scripts.sophus3.com
 0.0.0.0 scripttags.justuno.com
+0.0.0.0 script.tapfiliate.com
 0.0.0.0 s-cs.send.microad.jp
 0.0.0.0 sc-static.net
 0.0.0.0 sc.tynt.com
@@ -4608,6 +4611,7 @@
 0.0.0.0 ws.tapjoyads.com
 0.0.0.0 wtk.db.com
 0.0.0.0 wtpn.twenga.de
+0.0.0.0 wt.soundestlink.com
 0.0.0.0 w.uptolike.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 wv.inner-active.mobi

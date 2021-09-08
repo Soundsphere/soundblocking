@@ -674,6 +674,7 @@ app.adjust.io
 app.adjust.net.in
 app.adjust.world
 app.adroll.com
+appanalysis.banggood.com
 app-analytics.snapchat.com
 appboot.netflix.com
 app.box.com
@@ -3221,6 +3222,7 @@ pubpress.net
 pub-sdk-cfg.criteo.com
 pugm22000nf.pubmatic.com
 pulsar.ebay.com
+pulsar.ebay.de
 purch-match.dotomi.com
 pv-tm.everesttech.net
 p.vtracy.de
@@ -3504,6 +3506,7 @@ scripts.mediavine.com
 scripts.psyma.com
 scripts.sophus3.com
 scripttags.justuno.com
+script.tapfiliate.com
 s-cs.send.microad.jp
 sc-static.net
 sc.tynt.com
@@ -4607,6 +4610,7 @@ ws.sharethis.com
 ws.tapjoyads.com
 wtk.db.com
 wtpn.twenga.de
+wt.soundestlink.com
 w.uptolike.com
 w.usabilla.com
 wv.inner-active.mobi
