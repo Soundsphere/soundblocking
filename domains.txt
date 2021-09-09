@@ -3172,6 +3172,7 @@ priv-policy.imrworldwide.com
 privymktg.com
 probe.yieldlab.net
 prod-a.applovin.com
+prod.cm.publishers.advertising.a2z.com
 prod-js.aws.y-track.com
 prod.scgraph.facebook.com
 prod.telemetry.ros.rockstargames.com

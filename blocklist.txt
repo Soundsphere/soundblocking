@@ -3173,6 +3173,7 @@
 0.0.0.0 privymktg.com
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
+0.0.0.0 prod.cm.publishers.advertising.a2z.com
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod.scgraph.facebook.com
 0.0.0.0 prod.telemetry.ros.rockstargames.com
