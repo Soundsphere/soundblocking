@@ -573,6 +573,7 @@
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.device.xiaomi.net
+0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.gameanalytics.com
@@ -2129,6 +2130,7 @@
 0.0.0.0 g.live.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 global.ib-ibi.com
+0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 gmads.net
 0.0.0.0 gm.gds.mmstat.com

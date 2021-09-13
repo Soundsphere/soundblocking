@@ -573,6 +573,7 @@ api.cortana.ai
 api.crittercism.com
 api.demandbase.com
 api.device.xiaomi.net
+api.eu-west-1.aiv-delivery.net
 api.exc.mob.com
 api.flocktory.com
 api.gameanalytics.com
@@ -2129,6 +2130,7 @@ glitter.services.disqus.com
 g.live.com
 globalapi.ad.xiaomi.com
 global.ib-ibi.com
+global.telemetry.insights.video.a2z.com
 glogger.inspcloud.com
 gmads.net
 gm.gds.mmstat.com
