@@ -926,6 +926,7 @@ b.perimeterx.net
 bpu.samsungelectronics.com
 brain.foresee.com
 britishskybroadcasti.tt.omtrdc.net
+browser.events.data.microsoft.com
 browser.events.data.msn.com
 browser-http-intake.logs.datadoghq.com
 browser.pipe.aria.microsoft.com
@@ -1020,6 +1021,7 @@ cdn2.inner-active.mobi
 cdn2.teads.tv
 cdn-3.convertexperiments.com
 cdn3.doubleverify.com
+cdn3.optimizely.com
 cdn3.userzoom.com
 cdn4.buysellads.net
 cdn4.mxpnl.com

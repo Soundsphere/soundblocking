@@ -926,6 +926,7 @@
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 brain.foresee.com
 0.0.0.0 britishskybroadcasti.tt.omtrdc.net
+0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.events.data.msn.com
 0.0.0.0 browser-http-intake.logs.datadoghq.com
 0.0.0.0 browser.pipe.aria.microsoft.com
@@ -1020,6 +1021,7 @@
 0.0.0.0 cdn2.teads.tv
 0.0.0.0 cdn-3.convertexperiments.com
 0.0.0.0 cdn3.doubleverify.com
+0.0.0.0 cdn3.optimizely.com
 0.0.0.0 cdn3.userzoom.com
 0.0.0.0 cdn4.buysellads.net
 0.0.0.0 cdn4.mxpnl.com
