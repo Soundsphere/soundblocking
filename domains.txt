@@ -3033,6 +3033,7 @@ ping.taplytics.com
 pi.pardot.com
 pipedream.wistia.com
 pippio.com
+piwik.openstreetmap.org
 piwik.up.welt.de
 pix04.revsci.net
 pix.btrll.com
