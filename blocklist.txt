@@ -999,6 +999,7 @@
 0.0.0.0 cbsi.demdex.net
 0.0.0.0 cbsi-d.openx.net
 0.0.0.0 cbsinteractive.hb.omtrdc.net
+0.0.0.0 cc-api-data.adobe.io
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 c.cnzz.com
@@ -2947,6 +2948,7 @@
 0.0.0.0 openx.wayfareinteractive.com
 0.0.0.0 ophan.theguardian.com
 0.0.0.0 opps.taboola.com
+0.0.0.0 optanon.blob.core.windows.net
 0.0.0.0 opt-east.media.net
 0.0.0.0 optimized-by.rubiconproject.com
 0.0.0.0 optimize-stats.voxmedia.com

@@ -999,6 +999,7 @@ cb.mopub.com
 cbsi.demdex.net
 cbsi-d.openx.net
 cbsinteractive.hb.omtrdc.net
+cc-api-data.adobe.io
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 c.cnzz.com
@@ -2946,6 +2947,7 @@ openx2-match.dotomi.com
 openx.wayfareinteractive.com
 ophan.theguardian.com
 opps.taboola.com
+optanon.blob.core.windows.net
 opt-east.media.net
 optimized-by.rubiconproject.com
 optimize-stats.voxmedia.com
