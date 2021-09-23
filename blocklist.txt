@@ -1281,6 +1281,7 @@
 0.0.0.0 cluster006.ovh.net
 0.0.0.0 cm.adform.net
 0.0.0.0 cm.adgrx.com
+0.0.0.0 cm.adsafety.net
 0.0.0.0 cmap.alibaba.com
 0.0.0.0 cm.everesttech.net
 0.0.0.0 cm.eyereturn.com
@@ -1667,6 +1668,7 @@
 0.0.0.0 de.ads.justpremium.com
 0.0.0.0 de.aliexpress.com
 0.0.0.0 decide.mixpanel.com
+0.0.0.0 de-config.sensic.net
 0.0.0.0 de-gmtdmp.mookie1.com
 0.0.0.0 de.ioam.de
 0.0.0.0 del.icio.us
@@ -2235,6 +2237,7 @@
 0.0.0.0 h.nexac.com
 0.0.0.0 hn.inspectlet.com
 0.0.0.0 h.online-metrix.net
+0.0.0.0 hopeman.de
 0.0.0.0 horizon.sailthru.com
 0.0.0.0 hospitality-optimizer.com
 0.0.0.0 hp.com.ssl.d1.sc.omtrdc.net
@@ -4166,6 +4169,7 @@
 0.0.0.0 tidd.ly
 0.0.0.0 timeanddate-d.openx.net
 0.0.0.0 time.izatcloud.net
+0.0.0.0 t.imgur.com
 0.0.0.0 t.indeed.com
 0.0.0.0 tinyurl.com
 0.0.0.0 tisoomi-services.com
@@ -4764,6 +4768,7 @@
 0.0.0.0 www.msn.com
 0.0.0.0 www.newnownext.com
 0.0.0.0 www.nexus.ensighten.com
+0.0.0.0 www.npttech.com
 0.0.0.0 www.ojrq.net
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.outbrain.com

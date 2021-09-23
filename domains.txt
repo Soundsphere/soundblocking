@@ -1281,6 +1281,7 @@ cloud-observer.ip-label.net
 cluster006.ovh.net
 cm.adform.net
 cm.adgrx.com
+cm.adsafety.net
 cmap.alibaba.com
 cm.everesttech.net
 cm.eyereturn.com
@@ -1667,6 +1668,7 @@ ddff39a5e611c51827407a377f503780.safeframe.googlesyndication.com
 de.ads.justpremium.com
 de.aliexpress.com
 decide.mixpanel.com
+de-config.sensic.net
 de-gmtdmp.mookie1.com
 de.ioam.de
 del.icio.us
@@ -2235,6 +2237,7 @@ hnbutton.appspot.com
 h.nexac.com
 hn.inspectlet.com
 h.online-metrix.net
+hopeman.de
 horizon.sailthru.com
 hospitality-optimizer.com
 hp.com.ssl.d1.sc.omtrdc.net
@@ -4165,6 +4168,7 @@ tia.timeinc.net
 tidd.ly
 timeanddate-d.openx.net
 time.izatcloud.net
+t.imgur.com
 t.indeed.com
 tinyurl.com
 tisoomi-services.com
@@ -4763,6 +4767,7 @@ www.movable-ink-2183.com
 www.msn.com
 www.newnownext.com
 www.nexus.ensighten.com
+www.npttech.com
 www.ojrq.net
 www.okcupid.com
 www.outbrain.com
