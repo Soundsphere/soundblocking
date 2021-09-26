@@ -2722,6 +2722,7 @@
 0.0.0.0 me-cdn.effectivemeasure.net
 0.0.0.0 med-api.admost.com
 0.0.0.0 med.heyzap.com
+0.0.0.0 media1.bildschirmarbeiter.com
 0.0.0.0 media.admob.com
 0.0.0.0 media.adrcdn.com
 0.0.0.0 media.carambo.la
