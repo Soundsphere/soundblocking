@@ -257,6 +257,7 @@
 0.0.0.0 ads19.vertamedia.com
 0.0.0.0 ads2.servebom.com
 0.0.0.0 ads30.adcolony.com
+0.0.0.0 ads4.admatic.com.tr
 0.0.0.0 ads7.vertamedia.com
 0.0.0.0 ads.adap.tv
 0.0.0.0 ads.adaptv.advertising.com
@@ -2702,6 +2703,7 @@
 0.0.0.0 maxcdn.bootstrapcdn.com
 0.0.0.0 mazu.3g.qq.com
 0.0.0.0 mazu.sec.miui.com
+0.0.0.0 mb9eo-nkrlx.ads.tremorhub.com
 0.0.0.0 mbid.marfeelrev.com
 0.0.0.0 mblapi.ssl2.duapps.com
 0.0.0.0 mb.moatads.com
@@ -2868,6 +2870,7 @@
 0.0.0.0 netdna.bootstrapcdn.com
 0.0.0.0 net.rayjump.com
 0.0.0.0 network.bazaarvoice.com
+0.0.0.0 networkn-d.openx.net
 0.0.0.0 networksdk.ssacdn.com
 0.0.0.0 netzwelt-gmbh-d.openx.net
 0.0.0.0 newjobs.d1.sc.omtrdc.net
@@ -3177,6 +3180,7 @@
 0.0.0.0 prf.hn
 0.0.0.0 p.rfihub.com
 0.0.0.0 prg.smartadserver.com
+0.0.0.0 primis-d.openx.net
 0.0.0.0 prism.app-us1.com
 0.0.0.0 privacyportal.onetrust.com
 0.0.0.0 privatestats.whatsapp.net
@@ -4016,6 +4020,7 @@
 0.0.0.0 sync.aralego.com
 0.0.0.0 sync.bfmio.com
 0.0.0.0 sync.clickonometrics.pl
+0.0.0.0 sync.console.adtarget.com.tr
 0.0.0.0 sync.crwdcntrl.net
 0.0.0.0 sync-dsp.ad-m.asia
 0.0.0.0 sync-eu.connectad.io

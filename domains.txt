@@ -257,6 +257,7 @@ ads19.adtelligent.com
 ads19.vertamedia.com
 ads2.servebom.com
 ads30.adcolony.com
+ads4.admatic.com.tr
 ads7.vertamedia.com
 ads.adap.tv
 ads.adaptv.advertising.com
@@ -2701,6 +2702,7 @@ mathid-origin.mathtag.com
 maxcdn.bootstrapcdn.com
 mazu.3g.qq.com
 mazu.sec.miui.com
+mb9eo-nkrlx.ads.tremorhub.com
 mbid.marfeelrev.com
 mblapi.ssl2.duapps.com
 mb.moatads.com
@@ -2867,6 +2869,7 @@ nervoussummer.com
 netdna.bootstrapcdn.com
 net.rayjump.com
 network.bazaarvoice.com
+networkn-d.openx.net
 networksdk.ssacdn.com
 netzwelt-gmbh-d.openx.net
 newjobs.d1.sc.omtrdc.net
@@ -3176,6 +3179,7 @@ prefix.hit.gemius.pl
 prf.hn
 p.rfihub.com
 prg.smartadserver.com
+primis-d.openx.net
 prism.app-us1.com
 privacyportal.onetrust.com
 privatestats.whatsapp.net
@@ -4015,6 +4019,7 @@ sync.adtelligent.com
 sync.aralego.com
 sync.bfmio.com
 sync.clickonometrics.pl
+sync.console.adtarget.com.tr
 sync.crwdcntrl.net
 sync-dsp.ad-m.asia
 sync-eu.connectad.io
