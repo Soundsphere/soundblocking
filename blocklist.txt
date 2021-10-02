@@ -2846,6 +2846,7 @@
 0.0.0.0 mytopf.com
 0.0.0.0 myvolumio.firebaseio.com
 0.0.0.0 n01d05.cumulus-cloud.com
+0.0.0.0 n26-trusted.n26.com
 0.0.0.0 n2.mouseflow.com
 0.0.0.0 nab.com.au
 0.0.0.0 nan.netmng.com
