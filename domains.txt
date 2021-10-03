@@ -1834,6 +1834,7 @@ edge.quantserve.com
 edge.simplereach.com
 edigitalsurvey.com
 e.dlx.addthis.com
+eel.beekeeperstudio.io
 eepurl.com
 eldamar01-loadbalanced.kameleoon.com
 eldamar02-loadbalanced.kameleoon.com
