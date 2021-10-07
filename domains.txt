@@ -1829,6 +1829,7 @@ ed98512111bb19e5.in.net
 edaa.eu
 edatasales.com
 edba.brealtime.com
+edge.activity.windows.com
 edge.addthis.com
 edge.quantserve.com
 edge.simplereach.com
@@ -2905,6 +2906,7 @@ nr.taboola.com
 nsm.dell.com
 ns.zdbb.net
 ntp.msn.com
+nw-umwatson.events.data.microsoft.com
 nxtck.com
 nycp-hlb.dvgtm.akadns.net
 nyidt.adsafeprotected.com
@@ -4384,6 +4386,7 @@ ultimate-guitar-d.openx.net
 um2.eqads.com
 ums.adtech.de
 um.simpli.fi
+umwatson.events.data.microsoft.com
 uncoached-d.openx.net
 unconf.adkmob.com
 undefined.fls.doubleclick.net
