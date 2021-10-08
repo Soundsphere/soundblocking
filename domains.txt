@@ -1099,6 +1099,7 @@ cdn.flashtalking.com
 cdn.geodns.tubemogul.com
 cdn.getsmartcontent.com
 cdn-gl.imrworldwide.com
+cdn-gl.nmrodam.com
 cdn.heapanalytics.com
 cdn-highwinds.unityads.unity3d.com
 cdn-images.mailchimp.com
@@ -3185,6 +3186,7 @@ p.rfihub.com
 prg.smartadserver.com
 primis-d.openx.net
 prism.app-us1.com
+privacy-api.9gag.com
 privacyportal.onetrust.com
 privatestats.whatsapp.net
 priv-policy.imrworldwide.com
@@ -4546,6 +4548,7 @@ watson.telemetry.microsoft.com
 wa.ui-portal.de
 waust.at
 waves.retentionscience.com
+wa.wdr.de
 wbtrkk.teufel.de
 w.cnzz.com
 wcs.naver.com

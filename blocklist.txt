@@ -1099,6 +1099,7 @@
 0.0.0.0 cdn.geodns.tubemogul.com
 0.0.0.0 cdn.getsmartcontent.com
 0.0.0.0 cdn-gl.imrworldwide.com
+0.0.0.0 cdn-gl.nmrodam.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn-images.mailchimp.com
@@ -3186,6 +3187,7 @@
 0.0.0.0 prg.smartadserver.com
 0.0.0.0 primis-d.openx.net
 0.0.0.0 prism.app-us1.com
+0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacyportal.onetrust.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 priv-policy.imrworldwide.com
@@ -4547,6 +4549,7 @@
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 waust.at
 0.0.0.0 waves.retentionscience.com
+0.0.0.0 wa.wdr.de
 0.0.0.0 wbtrkk.teufel.de
 0.0.0.0 w.cnzz.com
 0.0.0.0 wcs.naver.com
