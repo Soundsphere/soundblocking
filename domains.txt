@@ -516,6 +516,7 @@ analytics.smallpdf.com
 analytics-static.ugc.bazaarvoice.com
 analytics.tradedoubler.com
 analytics.twitter.com
+analytics.ubports.com
 analytics-udg.netdna-ssl.com
 analytics.webgains.io
 analytics.webpushr.com

@@ -516,6 +516,7 @@
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.twitter.com
+0.0.0.0 analytics.ubports.com
 0.0.0.0 analytics-udg.netdna-ssl.com
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.webpushr.com
