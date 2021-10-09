@@ -1093,6 +1093,7 @@ cdn-eu.dynamicyield.com
 cdn.evergage.com
 cdn.exactag.com
 cdn.exelator.com
+cdn-f.adsmoloco.com
 cdn.fbsbx.com
 cdn.firstimpression.io
 cdn.flashtalking.com
@@ -2831,6 +2832,7 @@ msntrademarketing.112.2o7.net
 mssl.fwmrm.net
 mtrx.go.sonobi.com
 m.uberall.com
+mug.criteo.com
 munchkin.marketo.net
 mvconf.cloud.360safe.com
 mwzeom.zeotap.com

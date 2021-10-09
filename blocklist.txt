@@ -1093,6 +1093,7 @@
 0.0.0.0 cdn.evergage.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exelator.com
+0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn.fbsbx.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com
@@ -2832,6 +2833,7 @@
 0.0.0.0 mssl.fwmrm.net
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 m.uberall.com
+0.0.0.0 mug.criteo.com
 0.0.0.0 munchkin.marketo.net
 0.0.0.0 mvconf.cloud.360safe.com
 0.0.0.0 mwzeom.zeotap.com
