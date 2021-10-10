@@ -2565,6 +2565,7 @@ live.chartboost.com
 live.hyprmx.com
 live.rezync.com
 live.sekindo.com
+livetrafficfeed.com
 lm.licenses.adobe.com
 lmyd3iz3qn.kameleoon.eu
 lnkd.demdex.net

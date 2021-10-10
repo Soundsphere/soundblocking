@@ -2565,6 +2565,7 @@
 0.0.0.0 live.hyprmx.com
 0.0.0.0 live.rezync.com
 0.0.0.0 live.sekindo.com
+0.0.0.0 livetrafficfeed.com
 0.0.0.0 lm.licenses.adobe.com
 0.0.0.0 lmyd3iz3qn.kameleoon.eu
 0.0.0.0 lnkd.demdex.net
