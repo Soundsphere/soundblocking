@@ -2400,6 +2400,7 @@ intel11.edgekey.net
 interngraph.prod.scgraph.facebook.com
 interngraph.scgraph.facebook.com
 interngraph.staging.scgraph.facebook.com
+intextlinks.idg.zone
 intg.snapchat.com
 intljs.rmtag.com
 inv-nets.admixer.net

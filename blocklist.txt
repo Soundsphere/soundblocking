@@ -2400,6 +2400,7 @@
 0.0.0.0 interngraph.prod.scgraph.facebook.com
 0.0.0.0 interngraph.scgraph.facebook.com
 0.0.0.0 interngraph.staging.scgraph.facebook.com
+0.0.0.0 intextlinks.idg.zone
 0.0.0.0 intg.snapchat.com
 0.0.0.0 intljs.rmtag.com
 0.0.0.0 inv-nets.admixer.net
