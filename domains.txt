@@ -3847,6 +3847,7 @@ static.adfarm1.adition.com
 static.adman.gr
 static.adsafeprotected.com
 static.ads-twitter.com
+static.adzerk.net
 static.adziff.com
 static.affilae.com
 static.apester.com

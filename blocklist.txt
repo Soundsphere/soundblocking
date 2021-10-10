@@ -3848,6 +3848,7 @@
 0.0.0.0 static.adman.gr
 0.0.0.0 static.adsafeprotected.com
 0.0.0.0 static.ads-twitter.com
+0.0.0.0 static.adzerk.net
 0.0.0.0 static.adziff.com
 0.0.0.0 static.affilae.com
 0.0.0.0 static.apester.com
