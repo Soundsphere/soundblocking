@@ -514,6 +514,7 @@
 0.0.0.0 analytics.sleeknote.com
 0.0.0.0 analytics.smallpdf.com
 0.0.0.0 analytics-static.ugc.bazaarvoice.com
+0.0.0.0 analytics.tiktok.com
 0.0.0.0 analytics.tradedoubler.com
 0.0.0.0 analytics.twitter.com
 0.0.0.0 analytics.ubports.com

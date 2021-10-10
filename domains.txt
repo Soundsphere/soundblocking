@@ -514,6 +514,7 @@ analytics.skyscanner.net
 analytics.sleeknote.com
 analytics.smallpdf.com
 analytics-static.ugc.bazaarvoice.com
+analytics.tiktok.com
 analytics.tradedoubler.com
 analytics.twitter.com
 analytics.ubports.com
