@@ -294,6 +294,7 @@ adserver.eyeonx.ch
 adserver.idg.de
 adserver.pressboard.ca
 adserver.reklamstore.com
+adserver.rheinpfalz.de
 adserver.unityads.unity3d.com
 adserver-us.adtech.advertising.com
 adserver.us-east1.prod.chicoryapp.com
@@ -1302,6 +1303,7 @@ cmp.bz-berlin.de
 cmp-cdn.ghostery.com
 cmp.macworld.com
 cmp.mediavine.com
+cmp.rheinpfalz.de
 cmp.teads.mgr.consensu.org
 cmp.uniconsent.com
 cm.revcontent.com
