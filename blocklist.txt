@@ -2538,6 +2538,7 @@
 0.0.0.0 launchpoint.marketo.com
 0.0.0.0 lb.apicit.net
 0.0.0.0 l.betrad.com
+0.0.0.0 lc.iadvize.com
 0.0.0.0 lciapi.ninthdecimal.com
 0.0.0.0 lcprd1.samsungcloudsolution.net
 0.0.0.0 lddy25pglm.kameleoon.eu

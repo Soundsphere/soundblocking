@@ -2538,6 +2538,7 @@ launchpadlibrarian.net
 launchpoint.marketo.com
 lb.apicit.net
 l.betrad.com
+lc.iadvize.com
 lciapi.ninthdecimal.com
 lcprd1.samsungcloudsolution.net
 lddy25pglm.kameleoon.eu
