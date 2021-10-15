@@ -4920,3 +4920,4 @@
 0.0.0.0 z-p4-graph.facebook.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z.webengage.co
+consentmanager.mgr.consensu.org
