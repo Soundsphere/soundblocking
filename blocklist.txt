@@ -1385,6 +1385,7 @@
 0.0.0.0 consent.cmp.oath.com
 0.0.0.0 consent.cookiebot.com
 0.0.0.0 consent.cookiebot.com.edgekey.net
+0.0.0.0 consentmanager.mgr.consensu.org
 0.0.0.0 consent.truste.com
 0.0.0.0 consent.webmasterplan.com
 0.0.0.0 consumer.krxd.net
@@ -4920,4 +4921,3 @@
 0.0.0.0 z-p4-graph.facebook.com
 0.0.0.0 zpu.samsungelectronics.com
 0.0.0.0 z.webengage.co
-consentmanager.mgr.consensu.org
