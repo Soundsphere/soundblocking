@@ -632,6 +632,7 @@ apiservices.krxd.net
 api.setting.intl.miui.com
 api.share.mob.com
 api.smartredirect.de
+api.smoot.apple.com
 apis.quantcast.mgr.consensu.org
 api.stathat.com
 api.taboola.com
@@ -2148,6 +2149,7 @@ glitter.services.disqus.com
 g.live.com
 globalapi.ad.xiaomi.com
 global.ib-ibi.com
+global.proper.io
 global.telemetry.insights.video.a2z.com
 glogger.inspcloud.com
 gmads.net
@@ -2572,6 +2574,7 @@ linkinghub.elsevier.com
 links.services.disqus.com
 live.chartboost.com
 live.hyprmx.com
+live.primis.tech
 live.rezync.com
 live.sekindo.com
 livetrafficfeed.com

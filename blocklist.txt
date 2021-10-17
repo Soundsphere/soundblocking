@@ -632,6 +632,7 @@
 0.0.0.0 api.setting.intl.miui.com
 0.0.0.0 api.share.mob.com
 0.0.0.0 api.smartredirect.de
+0.0.0.0 api.smoot.apple.com
 0.0.0.0 apis.quantcast.mgr.consensu.org
 0.0.0.0 api.stathat.com
 0.0.0.0 api.taboola.com
@@ -2149,6 +2150,7 @@
 0.0.0.0 g.live.com
 0.0.0.0 globalapi.ad.xiaomi.com
 0.0.0.0 global.ib-ibi.com
+0.0.0.0 global.proper.io
 0.0.0.0 global.telemetry.insights.video.a2z.com
 0.0.0.0 glogger.inspcloud.com
 0.0.0.0 gmads.net
@@ -2573,6 +2575,7 @@
 0.0.0.0 links.services.disqus.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 live.hyprmx.com
+0.0.0.0 live.primis.tech
 0.0.0.0 live.rezync.com
 0.0.0.0 live.sekindo.com
 0.0.0.0 livetrafficfeed.com
