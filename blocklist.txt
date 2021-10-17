@@ -12,6 +12,7 @@
 0.0.0.0 194792.engine.mobileapptracking.com
 0.0.0.0 194-vvc-221.mktoresp.com
 0.0.0.0 1.chipde.damoh.schneevonmorgen.com
+0.0.0.0 1.f.ix.de
 0.0.0.0 1.gmxnet.damoh.schneevonmorgen.com
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 1x1.a-mo.net
@@ -2003,6 +2004,7 @@
 0.0.0.0 files.constantcontact.com
 0.0.0.0 files.drivers-logitech.com
 0.0.0.0 files.slack.com
+0.0.0.0 files.upscore.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fireads.online
 0.0.0.0 firebaselogging.googleapis.com
@@ -2241,6 +2243,7 @@
 0.0.0.0 hits.europuls.eu
 0.0.0.0 hits-i.iubenda.com
 0.0.0.0 hive-d.openx.net
+0.0.0.0 hl.upscore.com
 0.0.0.0 hm732.com
 0.0.0.0 hm.baidu.com
 0.0.0.0 hnbutton.appspot.com
@@ -3257,6 +3260,7 @@
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulsar.ebay.de
 0.0.0.0 purch-match.dotomi.com
+0.0.0.0 push.services.mozilla.com
 0.0.0.0 pv-tm.everesttech.net
 0.0.0.0 p.vtracy.de
 0.0.0.0 pv.tubemogul.com

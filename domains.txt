@@ -12,6 +12,7 @@
 194792.engine.mobileapptracking.com
 194-vvc-221.mktoresp.com
 1.chipde.damoh.schneevonmorgen.com
+1.f.ix.de
 1.gmxnet.damoh.schneevonmorgen.com
 1und1internetag.d3.sc.omtrdc.net
 1x1.a-mo.net
@@ -2002,6 +2003,7 @@ file.market.xiaomi.com
 files.constantcontact.com
 files.drivers-logitech.com
 files.slack.com
+files.upscore.com
 find.api.micloud.xiaomi.net
 fireads.online
 firebaselogging.googleapis.com
@@ -2240,6 +2242,7 @@ hit.dogannet.tv
 hits.europuls.eu
 hits-i.iubenda.com
 hive-d.openx.net
+hl.upscore.com
 hm732.com
 hm.baidu.com
 hnbutton.appspot.com
@@ -3255,6 +3258,7 @@ pugm22000nf.pubmatic.com
 pulsar.ebay.com
 pulsar.ebay.de
 purch-match.dotomi.com
+push.services.mozilla.com
 pv-tm.everesttech.net
 p.vtracy.de
 pv.tubemogul.com
