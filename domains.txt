@@ -889,6 +889,7 @@ beap1.cb.g01.yahoodns.net
 beap-bc.yahoo.com
 beeg.com
 behacdn.ksmobile.net
+berliner-zeitung.met.vgwort.de
 best.aliexpress.com
 bestbuy.com
 betathome.glb.adtech.de
@@ -2193,6 +2194,7 @@ gscounters.eu1.gigya.com
 gscounters.us1.gigya.com
 gslb-2.demdex.net
 gslbeacon.lijit.com
+gs-loc.apple.com
 gstaticadssl.l.google.com
 gum.criteo.com
 gumroad.com

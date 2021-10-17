@@ -889,6 +889,7 @@
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beeg.com
 0.0.0.0 behacdn.ksmobile.net
+0.0.0.0 berliner-zeitung.met.vgwort.de
 0.0.0.0 best.aliexpress.com
 0.0.0.0 bestbuy.com
 0.0.0.0 betathome.glb.adtech.de
@@ -2194,6 +2195,7 @@
 0.0.0.0 gscounters.us1.gigya.com
 0.0.0.0 gslb-2.demdex.net
 0.0.0.0 gslbeacon.lijit.com
+0.0.0.0 gs-loc.apple.com
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 gumroad.com
