@@ -3490,6 +3490,7 @@ sa.bbc.co.uk
 s.adroll.com
 s.adtelligent.com
 s.agentanalytics.com
+sak.userreport.com
 salesforcecom.demdex.net
 salesviewer.org
 s.amazon-adsystem.com
@@ -4406,6 +4407,7 @@ umwatson.events.data.microsoft.com
 uncoached-d.openx.net
 unconf.adkmob.com
 undefined.fls.doubleclick.net
+undom.net
 unilever2.demdex.net
 universal.iperceptions.com
 unpkg.com
@@ -4765,6 +4767,7 @@ www.getdrip.com
 www.googleadservices.com
 www.google-analytics.com
 www-google-analytics.l.google.com
+www.googleoptimize.com
 www.googletagmanager.com
 www-googletagmanager.l.google.com
 www.googletagservices.com
