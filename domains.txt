@@ -3365,6 +3365,7 @@ rem-track.bild.de
 report.appmetrica.webvisor.com
 report.appmetrica.yandex.net
 reporting.aatkit.com
+reporting.go-mpulse.net
 reporting.singlefeed.com
 reports.crashlytics.com
 req.startappservice.com

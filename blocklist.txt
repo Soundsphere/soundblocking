@@ -3367,6 +3367,7 @@
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 reporting.aatkit.com
+0.0.0.0 reporting.go-mpulse.net
 0.0.0.0 reporting.singlefeed.com
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 req.startappservice.com
