@@ -2592,6 +2592,7 @@ load.s3.amazonaws.com
 load.sumome.com
 loadus.exelator.com
 loadus.tm.ssl.exelator.com
+location.l.force.com
 location.services.mozilla.com
 lockerdome.com
 log2.musical.ly
@@ -2829,6 +2830,7 @@ monitor.econda-monitor.de
 mon-va.byteoversea.com
 mormont.gamer-network.net
 movip.wps.com
+mozilla.cloudflare-dns.com
 mp-https.info
 mpp.vindicosuite.com
 mproxy.banner.linksynergy.com

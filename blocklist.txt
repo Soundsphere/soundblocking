@@ -2593,6 +2593,7 @@
 0.0.0.0 load.sumome.com
 0.0.0.0 loadus.exelator.com
 0.0.0.0 loadus.tm.ssl.exelator.com
+0.0.0.0 location.l.force.com
 0.0.0.0 location.services.mozilla.com
 0.0.0.0 lockerdome.com
 0.0.0.0 log2.musical.ly
@@ -2831,6 +2832,7 @@
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 movip.wps.com
+0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 mp-https.info
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mproxy.banner.linksynergy.com
