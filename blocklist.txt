@@ -644,6 +644,7 @@
 0.0.0.0 api.unbounce.com
 0.0.0.0 api.uprivaladserver.net
 0.0.0.0 api.usebutton.com
+0.0.0.0 api.userleap.com
 0.0.0.0 api.userlike.com
 0.0.0.0 api.usersnap.com
 0.0.0.0 apiv2.moengage.com
@@ -1897,6 +1898,8 @@
 0.0.0.0 eu.groupondata.com
 0.0.0.0 eulerian.sarenza.com
 0.0.0.0 eu.market-place.su
+0.0.0.0 eum-eu-west-1.instana.io
+0.0.0.0 eum.instana.io
 0.0.0.0 eu.nuggad.net
 0.0.0.0 eu.qualtrics.com
 0.0.0.0 eur-ukp.adsrvr.org
@@ -2328,6 +2331,7 @@
 0.0.0.0 image4.pubmatic.com
 0.0.0.0 image5.pubmatic.com
 0.0.0.0 image6.pubmatic.com
+0.0.0.0 image.ard.de
 0.0.0.0 image.ibb.co
 0.0.0.0 images.dmca.com
 0.0.0.0 images.intellitxt.com
@@ -2429,6 +2433,7 @@
 0.0.0.0 ip.nuggad.net
 0.0.0.0 i.po.st
 0.0.0.0 ipv6-wildcard.applovin.com.edgekey.net
+0.0.0.0 iqdigital-ams.gscontxt.net
 0.0.0.0 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 0.0.0.0 i.r1-cdn.net
 0.0.0.0 ir2.beap.gemini.yahoo.com
@@ -3320,6 +3325,7 @@
 0.0.0.0 r3---sn-4g5ednee.gvt1.com
 0.0.0.0 r6---sn-4g5edne7.gvt1.com
 0.0.0.0 radar.cedexis.com
+0.0.0.0 radarsubmissions.apple.com
 0.0.0.0 r.adc-serv.net
 0.0.0.0 r.adrolays.de
 0.0.0.0 r.adserver01.de
@@ -3386,6 +3392,7 @@
 0.0.0.0 retrack.q-divisioncdn.de
 0.0.0.0 reuters.demdex.net
 0.0.0.0 reveal.clearbit.com
+0.0.0.0 rewedigital.sc.omtrdc.net
 0.0.0.0 rh.revolvermaps.com
 0.0.0.0 riafinancial.d2.sc.omtrdc.net
 0.0.0.0 r.kelkoo.com
@@ -3811,6 +3818,7 @@
 0.0.0.0 ssl.1.damoh.chip.de
 0.0.0.0 ssl.bblck.me
 0.0.0.0 ssl.geoplugin.net
+0.0.0.0 ssl-golem.met.vgwort.de
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl.kaptcha.com
@@ -4664,6 +4672,7 @@
 0.0.0.0 wtk.db.com
 0.0.0.0 wtpn.twenga.de
 0.0.0.0 wt.soundestlink.com
+0.0.0.0 wt.vhb.de
 0.0.0.0 w.uptolike.com
 0.0.0.0 w.usabilla.com
 0.0.0.0 wv.inner-active.mobi
@@ -4921,6 +4930,7 @@
 0.0.0.0 zm232.com
 0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 0.0.0.0 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com

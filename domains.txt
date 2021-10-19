@@ -644,6 +644,7 @@ api.uca.cloud.unity3d.com
 api.unbounce.com
 api.uprivaladserver.net
 api.usebutton.com
+api.userleap.com
 api.userlike.com
 api.usersnap.com
 apiv2.moengage.com
@@ -1896,6 +1897,8 @@ eu-gmtdmp.gd1.mookie1.com
 eu.groupondata.com
 eulerian.sarenza.com
 eu.market-place.su
+eum-eu-west-1.instana.io
+eum.instana.io
 eu.nuggad.net
 eu.qualtrics.com
 eur-ukp.adsrvr.org
@@ -2327,6 +2330,7 @@ image2.pubmatic.com
 image4.pubmatic.com
 image5.pubmatic.com
 image6.pubmatic.com
+image.ard.de
 image.ibb.co
 images.dmca.com
 images.intellitxt.com
@@ -2428,6 +2432,7 @@ ipm-provider.ff.avast.com
 ip.nuggad.net
 i.po.st
 ipv6-wildcard.applovin.com.edgekey.net
+iqdigital-ams.gscontxt.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
 i.r1-cdn.net
 ir2.beap.gemini.yahoo.com
@@ -3318,6 +3323,7 @@ r2---sn-4g5ednsy.gvt1.com
 r3---sn-4g5ednee.gvt1.com
 r6---sn-4g5edne7.gvt1.com
 radar.cedexis.com
+radarsubmissions.apple.com
 r.adc-serv.net
 r.adrolays.de
 r.adserver01.de
@@ -3384,6 +3390,7 @@ retcode.taobao.com
 retrack.q-divisioncdn.de
 reuters.demdex.net
 reveal.clearbit.com
+rewedigital.sc.omtrdc.net
 rh.revolvermaps.com
 riafinancial.d2.sc.omtrdc.net
 r.kelkoo.com
@@ -3809,6 +3816,7 @@ s.skimresources.com
 ssl.1.damoh.chip.de
 ssl.bblck.me
 ssl.geoplugin.net
+ssl-golem.met.vgwort.de
 ssl.google-analytics.com
 ssl-google-analytics.l.google.com
 ssl.kaptcha.com
@@ -4662,6 +4670,7 @@ ws.tapjoyads.com
 wtk.db.com
 wtpn.twenga.de
 wt.soundestlink.com
+wt.vhb.de
 w.uptolike.com
 w.usabilla.com
 wv.inner-active.mobi
@@ -4919,6 +4928,7 @@ ziffdavis-d.openx.net
 zm232.com
 z-m-graph.facebook.com
 z.moatads.com
+zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
