@@ -1081,6 +1081,7 @@ cdn.connectad.io
 cdn.consentmanager.mgr.consensu.org
 cdn.contentspread.net
 cdn.conversant.mgr.consensu.org
+cdn.convertbox.com
 cdn.cookielaw.org
 cdn.cpnscdn.com
 cdn.cquotient.com

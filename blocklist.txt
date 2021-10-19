@@ -1081,6 +1081,7 @@
 0.0.0.0 cdn.consentmanager.mgr.consensu.org
 0.0.0.0 cdn.contentspread.net
 0.0.0.0 cdn.conversant.mgr.consensu.org
+0.0.0.0 cdn.convertbox.com
 0.0.0.0 cdn.cookielaw.org
 0.0.0.0 cdn.cpnscdn.com
 0.0.0.0 cdn.cquotient.com
