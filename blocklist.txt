@@ -761,6 +761,7 @@
 0.0.0.0 assets1.adroll.com
 0.0.0.0 assets.adobedtm.com
 0.0.0.0 assets.adstage.io
+0.0.0.0 assets.a-mo.net
 0.0.0.0 assets.applovin.com
 0.0.0.0 assets.bounceexchange.com
 0.0.0.0 assets.customer.io
@@ -821,6 +822,7 @@
 0.0.0.0 axel-springer-d.openx.net
 0.0.0.0 az1.qualtrics.com
 0.0.0.0 az416426.vo.msecnd.net
+0.0.0.0 az601263.vo.msecnd.net
 0.0.0.0 azawebspace.com
 0.0.0.0 a.zdbb.net
 0.0.0.0 az-partners.net
@@ -2098,6 +2100,7 @@
 0.0.0.0 gdc.indeed.com
 0.0.0.0 gde-default.hit.gemius.pl
 0.0.0.0 gdetr.hit.gemius.pl
+0.0.0.0 gdpr-tcfv2.sp-prod.net
 0.0.0.0 gd-stats.jpush.cn
 0.0.0.0 gearwom.de
 0.0.0.0 g.eclick.vn
@@ -3004,6 +3007,7 @@
 0.0.0.0 o.ss2.us
 0.0.0.0 otf.msn.com
 0.0.0.0 otnolatrnup.com
+0.0.0.0 ot.obi.de
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ow-gateway.supersonicads.com
@@ -4505,6 +4509,7 @@
 0.0.0.0 vast-test.mathtag.com
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 vcdn.adnxs.com
+0.0.0.0 vc.hotjar.io
 0.0.0.0 v.connatix.com
 0.0.0.0 vdna.exelator.com
 0.0.0.0 venatusmedia-d.openx.net
@@ -4591,6 +4596,7 @@
 0.0.0.0 wct.link
 0.0.0.0 wd.adcolony.com
 0.0.0.0 weather-analytics-events.apple.com
+0.0.0.0 weather.com
 0.0.0.0 web.53.localytics.com
 0.0.0.0 web.adblade.com
 0.0.0.0 web-analytics.engagio.com

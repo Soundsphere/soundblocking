@@ -761,6 +761,7 @@ asset.pagefair.net
 assets1.adroll.com
 assets.adobedtm.com
 assets.adstage.io
+assets.a-mo.net
 assets.applovin.com
 assets.bounceexchange.com
 assets.customer.io
@@ -821,6 +822,7 @@ ax-d.pixfuture.net
 axel-springer-d.openx.net
 az1.qualtrics.com
 az416426.vo.msecnd.net
+az601263.vo.msecnd.net
 azawebspace.com
 a.zdbb.net
 az-partners.net
@@ -2097,6 +2099,7 @@ gcdsdk.appsflyer.com
 gdc.indeed.com
 gde-default.hit.gemius.pl
 gdetr.hit.gemius.pl
+gdpr-tcfv2.sp-prod.net
 gd-stats.jpush.cn
 gearwom.de
 g.eclick.vn
@@ -3002,6 +3005,7 @@ origin-images.wikia.com
 o.ss2.us
 otf.msn.com
 otnolatrnup.com
+ot.obi.de
 outcome-ssp.supersonicads.com
 ovc2-ustokyyneikyfasnm.stackpathdns.com
 ow-gateway.supersonicads.com
@@ -4503,6 +4507,7 @@ vast-pop-zrh.mathtag.com
 vast-test.mathtag.com
 vast.videocdn.tv
 vcdn.adnxs.com
+vc.hotjar.io
 v.connatix.com
 vdna.exelator.com
 venatusmedia-d.openx.net
@@ -4589,6 +4594,7 @@ wcs.naver.com
 wct.link
 wd.adcolony.com
 weather-analytics-events.apple.com
+weather.com
 web.53.localytics.com
 web.adblade.com
 web-analytics.engagio.com
