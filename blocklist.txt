@@ -3737,6 +3737,7 @@
 0.0.0.0 sjrtp8.marketo.com
 0.0.0.0 sjs.bizographics.com
 0.0.0.0 sjsmartcontent.org
+0.0.0.0 skadsdk.appsflyer.com
 0.0.0.0 s.ktxtr.com
 0.0.0.0 skyde.inq.com
 0.0.0.0 skydeutschland.demdex.net
@@ -3871,6 +3872,7 @@
 0.0.0.0 stat.dealtime.com
 0.0.0.0 states.newegg.com
 0.0.0.0 stat.flashtalking.com
+0.0.0.0 statgw.devtodev.com
 0.0.0.0 static1.squarespace.com
 0.0.0.0 static4.smi2.net
 0.0.0.0 static5.smi2.net
