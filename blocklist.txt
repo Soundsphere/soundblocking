@@ -1360,6 +1360,7 @@
 0.0.0.0 collector-pxss13u803.perimeterx.net
 0.0.0.0 collector-pxur63h57z.perimeterx.net
 0.0.0.0 collector-pxzhh9f9x0.perimeterx.net
+0.0.0.0 collector.rn.de
 0.0.0.0 collector.roistat.com
 0.0.0.0 collector.sspinc.io
 0.0.0.0 collect.tealiumiq.com
@@ -4339,6 +4340,7 @@
 0.0.0.0 track.noz.de
 0.0.0.0 track.omguk.com
 0.0.0.0 track.pricespider.com
+0.0.0.0 track.seadform.net
 0.0.0.0 track.securedvisit.com
 0.0.0.0 tracksrv.zdf.de
 0.0.0.0 track.tenjin.io

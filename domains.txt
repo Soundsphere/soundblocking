@@ -1360,6 +1360,7 @@ collector-pxrw7m6iav.perimeterx.net
 collector-pxss13u803.perimeterx.net
 collector-pxur63h57z.perimeterx.net
 collector-pxzhh9f9x0.perimeterx.net
+collector.rn.de
 collector.roistat.com
 collector.sspinc.io
 collect.tealiumiq.com
@@ -4337,6 +4338,7 @@ track.mopo.de
 track.noz.de
 track.omguk.com
 track.pricespider.com
+track.seadform.net
 track.securedvisit.com
 tracksrv.zdf.de
 track.tenjin.io
