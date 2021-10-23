@@ -530,6 +530,7 @@
 0.0.0.0 angieslist.tt.omtrdc.net
 0.0.0.0 ani.adspruce.com
 0.0.0.0 animate.adobe.com
+0.0.0.0 anon-stats.eff.org
 0.0.0.0 anonymousdemographics.com
 0.0.0.0 ans.mlb.com
 0.0.0.0 antyweb.push-ad.com

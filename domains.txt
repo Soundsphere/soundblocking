@@ -530,6 +530,7 @@ a.netmng.com
 angieslist.tt.omtrdc.net
 ani.adspruce.com
 animate.adobe.com
+anon-stats.eff.org
 anonymousdemographics.com
 ans.mlb.com
 antyweb.push-ad.com
