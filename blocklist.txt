@@ -4431,6 +4431,7 @@
 0.0.0.0 ums.adtech.de
 0.0.0.0 um.simpli.fi
 0.0.0.0 umwatson.events.data.microsoft.com
+0.0.0.0 unagi-na.amazon.com
 0.0.0.0 uncoached-d.openx.net
 0.0.0.0 unconf.adkmob.com
 0.0.0.0 undefined.fls.doubleclick.net
