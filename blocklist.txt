@@ -1098,6 +1098,7 @@
 0.0.0.0 cdneast2-xch.media.net
 0.0.0.0 cdneast-xch.media.net
 0.0.0.0 cdn.elasticad.net
+0.0.0.0 cdn.elev.io
 0.0.0.0 cdn.embedly.com
 0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 cdn-eu.dynamicyield.com

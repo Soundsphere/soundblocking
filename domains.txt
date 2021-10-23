@@ -1098,6 +1098,7 @@ cdn.dynamicyield.com
 cdneast2-xch.media.net
 cdneast-xch.media.net
 cdn.elasticad.net
+cdn.elev.io
 cdn.embedly.com
 cdn.engine.4dsply.com
 cdn-eu.dynamicyield.com
