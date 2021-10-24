@@ -1977,6 +1977,7 @@
 0.0.0.0 extremetracking.com
 0.0.0.0 ext-sq.squarespace.com
 0.0.0.0 eyeota-sync.dotomi.com
+0.0.0.0 f1.media.brightcove.com
 0.0.0.0 f5.market.mi-img.com
 0.0.0.0 f69e.engage.squarespace-mail.com
 0.0.0.0 f7-de.adhigh.net
@@ -4950,6 +4951,7 @@
 0.0.0.0 zm232.com
 0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
 0.0.0.0 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
