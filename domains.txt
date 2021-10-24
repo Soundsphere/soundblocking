@@ -1116,6 +1116,7 @@ cdn-gl.imrworldwide.com
 cdn-gl.nmrodam.com
 cdn.heapanalytics.com
 cdn-highwinds.unityads.unity3d.com
+cdn.id5-sync.com
 cdn-images.mailchimp.com
 cdn.inskinad.com
 cdn.inspectlet.com
@@ -1827,6 +1828,7 @@ e5460.g.akamaiedge.net
 e6603.g.akamaiedge.net
 e7081.g.akamaiedge.net
 e8960.e2.akamaiedge.net
+ea3c730e0c8933fef3a858c262bf2096.safeframe.googlesyndication.com
 eastwestmodels.de
 easycounter.com
 eb2.3lift.com
@@ -2311,6 +2313,7 @@ i.ctnsnet.com
 ic.tynt.com
 id5-sync.com
 idcdn.de
+id.crwdcntrl.net
 identity.mparticle.com
 ident.me
 idg.amp.permutive.com
@@ -2439,6 +2442,7 @@ ipinfo.io
 ipm-provider.ff.avast.com
 ip.nuggad.net
 i.po.st
+ipv6.he.net
 ipv6-wildcard.applovin.com.edgekey.net
 iqdigital-ams.gscontxt.net
 iqdigitalmediamarketinggmbh.sc.omtrdc.net
@@ -3609,6 +3613,7 @@ secure.adnxs.com
 secure-assets.rubiconproject.com
 secureaud.solocpm.com
 secure-au.imrworldwide.com
+secure.cdn.fastclick.net
 secure-cdn.mplxtms.com
 secure-cert.imrworldwide.com
 secure-dcr.imrworldwide.com
