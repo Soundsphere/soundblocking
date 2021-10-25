@@ -791,6 +791,7 @@
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
 0.0.0.0 ats.otto.de
+0.0.0.0 attr.appsflyer.com
 0.0.0.0 a.twiago.com
 0.0.0.0 au1.qualtrics.com
 0.0.0.0 auction.unityads.unity3d.com
@@ -1172,6 +1173,7 @@
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdns.eu1.gigya.com
 0.0.0.0 cdns.gigya.com
+0.0.0.0 cdn.shopify.com
 0.0.0.0 cdn-sic.33across.com
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.simpleanalytics.io
@@ -2132,6 +2134,7 @@
 0.0.0.0 geo.query.yahoo.com
 0.0.0.0 geoservice.curse.com
 0.0.0.0 geotags.w55c.net
+0.0.0.0 geotargetly.co
 0.0.0.0 geo-um.btrll.com
 0.0.0.0 geover-prod.do.dsp.mp.microsoft.com
 0.0.0.0 geo.vortex.data.microsoft.com.akadns.net

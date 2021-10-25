@@ -791,6 +791,7 @@ atonato.de
 a.tribalfusion.com
 a.trkme.net
 ats.otto.de
+attr.appsflyer.com
 a.twiago.com
 au1.qualtrics.com
 auction.unityads.unity3d.com
@@ -1172,6 +1173,7 @@ cdn.segment.io
 cdn-settings.segment.com
 cdns.eu1.gigya.com
 cdns.gigya.com
+cdn.shopify.com
 cdn-sic.33across.com
 cdn.siftscience.com
 cdn.simpleanalytics.io
@@ -2131,6 +2133,7 @@ geo.qualaroo.com
 geo.query.yahoo.com
 geoservice.curse.com
 geotags.w55c.net
+geotargetly.co
 geo-um.btrll.com
 geover-prod.do.dsp.mp.microsoft.com
 geo.vortex.data.microsoft.com.akadns.net
