@@ -1244,6 +1244,7 @@ chatrouter-skyde.inq.com
 chatrouter-ups.inq.com
 chattestdu.de
 chaturbate.com
+chidc2.outbrain.org
 chimpstatic.com
 choices.trustarc.com
 choices.truste.com
@@ -2206,6 +2207,7 @@ graph.accountkit.com
 graph.facebook.com
 graph.facebook.com
 graph.instagram.com
+graphql.usercentrics.eu
 green.erne.co
 grid.bidswitch.net
 grmtech.net

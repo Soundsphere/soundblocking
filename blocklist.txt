@@ -1244,6 +1244,7 @@
 0.0.0.0 chatrouter-ups.inq.com
 0.0.0.0 chattestdu.de
 0.0.0.0 chaturbate.com
+0.0.0.0 chidc2.outbrain.org
 0.0.0.0 chimpstatic.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
@@ -2207,6 +2208,7 @@
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
+0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 green.erne.co
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 grmtech.net
