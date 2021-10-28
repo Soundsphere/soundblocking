@@ -4424,6 +4424,7 @@
 0.0.0.0 ubiquitousyard.com
 0.0.0.0 ubm.tt.omtrdc.net
 0.0.0.0 ucarecdn.com
+0.0.0.0 udc-neb.kampyle.com
 0.0.0.0 udc.yahoo.com
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
@@ -4481,6 +4482,7 @@
 0.0.0.0 useast.bfmio.com
 0.0.0.0 usemaxserver.de
 0.0.0.0 usergrid.com
+0.0.0.0 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
 0.0.0.0 user-sync.adhese.com
