@@ -1520,6 +1520,7 @@
 0.0.0.0 d12ulf131zb0yj.cloudfront.net
 0.0.0.0 d16fk4ms6rqz1v.cloudfront.net
 0.0.0.0 d16xpr36wrmcmk.cloudfront.net
+0.0.0.0 d186rixkn5ruba.cloudfront.net
 0.0.0.0 d18p8z0ptb8qab.cloudfront.net
 0.0.0.0 d1af033869koo7.cloudfront.net
 0.0.0.0 d-1.co
@@ -2965,6 +2966,7 @@
 0.0.0.0 o.addthis.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oascentral.consumerreports.org
+0.0.0.0 obi-all.wt-eu02.net
 0.0.0.0 ocsp.apple.com
 0.0.0.0 ocsp.digicert.com
 0.0.0.0 ocsp.godaddy.com
@@ -3902,6 +3904,7 @@
 0.0.0.0 static.apester.com
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static-bp.kameleoon.com
+0.0.0.0 static-cdn.jtvnw.net
 0.0.0.0 static.chartbeat.com
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clicktripz.com

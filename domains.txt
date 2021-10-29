@@ -1519,6 +1519,7 @@ d10lpsik1i8c69.cloudfront.net
 d12ulf131zb0yj.cloudfront.net
 d16fk4ms6rqz1v.cloudfront.net
 d16xpr36wrmcmk.cloudfront.net
+d186rixkn5ruba.cloudfront.net
 d18p8z0ptb8qab.cloudfront.net
 d1af033869koo7.cloudfront.net
 d-1.co
@@ -2963,6 +2964,7 @@ o2.mouseflow.com
 o.addthis.com
 oasc05.247realmedia.com
 oascentral.consumerreports.org
+obi-all.wt-eu02.net
 ocsp.apple.com
 ocsp.digicert.com
 ocsp.godaddy.com
@@ -3900,6 +3902,7 @@ static.affilae.com
 static.apester.com
 static.atgsvcs.com
 static-bp.kameleoon.com
+static-cdn.jtvnw.net
 static.chartbeat.com
 static.cleverpush.com
 static.clicktripz.com
