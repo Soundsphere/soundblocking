@@ -73,6 +73,7 @@
 a-0003.a-msedge.net
 a01.korrelate.net
 a0.smi2.ru
+a11701662245.cdn-pci.optimizely.com
 a17126690382.cdn.optimizely.com
 a1.adform.net
 a1.seadform.net
@@ -147,6 +148,7 @@ aax-eu.amazon.de
 aax-eu-retail-direct.amazon-adsystem.com
 aax-us.amazon-adsystem.com
 aax-us-east.amazon-adsystem.com
+aax-us-east-retail-direct.amazon.com
 aax-us-iad.amazon.com
 abc.esprit.de
 abeagle-public.buzzfeed.com
@@ -412,6 +414,7 @@ aka-cdn.adtech.de
 aka-cdn.adtechus.com
 aka-cdn-ns.adtech.de
 akamai.mathtag.com
+akamai-san122.exacttarget.com.edgekey.net
 akamai.smartadserver.com
 ak.imgfarm.com
 a.klaviyo.com
@@ -551,6 +554,7 @@ a.optnmstr.com
 aorta.clickagy.com
 apex.go.sonobi.com
 api-2-0.spot.im
+api2.amplitude.com
 api2.branch.io
 api3.siftscience.com
 api.accengage.com
@@ -564,6 +568,7 @@ api.apptentive.com
 api.autopilothq.com
 api.b2c.com
 api.bazaarvoice.com
+api.bibblio.org
 api.bounceexchange.com
 api.branch.io
 api.brs.intl.miui.com
@@ -1149,6 +1154,7 @@ cdn.onesignal.com
 cdn.onthe.io
 cdn.optimizely.com
 cdn.parsely.com
+cdn.pbstck.com
 cdn.perfdrive.com
 cdn.permutive.com
 cdn.petametrics.com
@@ -1299,6 +1305,7 @@ cloudapi.imrworldwide.com
 cloudfront-labs.amazonaws.com
 cloud-observer.ip-label.net
 cluster006.ovh.net
+clustrmaps.com
 cm.adform.net
 cm.adgrx.com
 cm.adsafety.net
@@ -2012,6 +2019,7 @@ fc.vodafone.de
 fc.webmasterpro.de
 fc.yahoo.com
 fdts.ebay-kleinanzeigen.de
+fdyn.pubwise.io
 feedback.adrecover.com
 feedburner.google.com
 feed.engage.im
@@ -2203,6 +2211,7 @@ go.sonnenbatterie.de
 go.sonnen.de
 go.toutapp.com
 gounlimited.to
+g.pcmag.com
 grace.shareaholic.com
 graph.accountkit.com
 graph.facebook.com
@@ -2221,6 +2230,7 @@ gs-loc.apple.com
 gstaticadssl.l.google.com
 gum.criteo.com
 gumroad.com
+gurgle.pcmag.com
 gurgle.zdbb.net
 gwmtracking.com
 gwm.w-cdn.com
@@ -2565,6 +2575,7 @@ l96jc26jvj.kameleoon.eu
 l9bjkkhaycw6f8f4.soundcloud.com
 laas.americanexpress.com
 lasteventf-tm.everesttech.net
+launcher.spot.im
 launches.appsflyer.com
 launchpadlibrarian.net
 launchpoint.marketo.com
@@ -2961,6 +2972,7 @@ nzz.d3.sc.omtrdc.net
 o1.qnsr.com
 o278969.ingest.sentry.io
 o2.mouseflow.com
+o64374.ingest.sentry.io
 o.addthis.com
 oasc05.247realmedia.com
 oascentral.consumerreports.org
@@ -3077,6 +3089,7 @@ petiteumbrella.com
 pfa.levexis.com
 pf.newegg.com
 phar.gu-web.net
+phillateemis.iad-03.braze.com
 phonograph2.voxmedia.com
 pics.wikifeet.com
 p.imgur.com
@@ -3233,6 +3246,7 @@ prg.smartadserver.com
 primis-d.openx.net
 prism.app-us1.com
 privacy-api.9gag.com
+privacy-policy.truste.com
 privacyportal.onetrust.com
 privatestats.whatsapp.net
 priv-policy.imrworldwide.com
@@ -3382,6 +3396,7 @@ redirect.viglink.com
 referrer.disqus.com
 reflethenfortoft.info
 reg.biv.sony.tv
+regionconfig.amplitude.com
 register.appsflyer.com
 register.xmpush.xiaomi.com
 relap.io
@@ -4448,6 +4463,7 @@ um2.eqads.com
 ums.adtech.de
 um.simpli.fi
 umwatson.events.data.microsoft.com
+unagi.amazon.com
 unagi-na.amazon.com
 uncoached-d.openx.net
 unconf.adkmob.com
@@ -4481,6 +4497,7 @@ usd.india-abc.com
 us-east-1.a.intentmedia.net
 us-east-1-decisionapi.lift.acquia.com
 useast.bfmio.com
+useast.quantumdex.io
 usemaxserver.de
 usergrid.com
 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
@@ -4626,6 +4643,7 @@ webanalytics.localytics.com
 webed.dm.gg
 web.facebook.com
 web.hb.ad.cpe.dotomi.com
+webhook.logentries.com
 webmdcom.tt.omtrdc.net
 websdk.moengage.com
 web-sdk.urbanairship.com

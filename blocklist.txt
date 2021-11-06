@@ -73,6 +73,7 @@
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a01.korrelate.net
 0.0.0.0 a0.smi2.ru
+0.0.0.0 a11701662245.cdn-pci.optimizely.com
 0.0.0.0 a17126690382.cdn.optimizely.com
 0.0.0.0 a1.adform.net
 0.0.0.0 a1.seadform.net
@@ -147,6 +148,7 @@
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
+0.0.0.0 aax-us-east-retail-direct.amazon.com
 0.0.0.0 aax-us-iad.amazon.com
 0.0.0.0 abc.esprit.de
 0.0.0.0 abeagle-public.buzzfeed.com
@@ -412,6 +414,7 @@
 0.0.0.0 aka-cdn.adtechus.com
 0.0.0.0 aka-cdn-ns.adtech.de
 0.0.0.0 akamai.mathtag.com
+0.0.0.0 akamai-san122.exacttarget.com.edgekey.net
 0.0.0.0 akamai.smartadserver.com
 0.0.0.0 ak.imgfarm.com
 0.0.0.0 a.klaviyo.com
@@ -551,6 +554,7 @@
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 apex.go.sonobi.com
 0.0.0.0 api-2-0.spot.im
+0.0.0.0 api2.amplitude.com
 0.0.0.0 api2.branch.io
 0.0.0.0 api3.siftscience.com
 0.0.0.0 api.accengage.com
@@ -564,6 +568,7 @@
 0.0.0.0 api.autopilothq.com
 0.0.0.0 api.b2c.com
 0.0.0.0 api.bazaarvoice.com
+0.0.0.0 api.bibblio.org
 0.0.0.0 api.bounceexchange.com
 0.0.0.0 api.branch.io
 0.0.0.0 api.brs.intl.miui.com
@@ -1149,6 +1154,7 @@
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.parsely.com
+0.0.0.0 cdn.pbstck.com
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
@@ -1299,6 +1305,7 @@
 0.0.0.0 cloudfront-labs.amazonaws.com
 0.0.0.0 cloud-observer.ip-label.net
 0.0.0.0 cluster006.ovh.net
+0.0.0.0 clustrmaps.com
 0.0.0.0 cm.adform.net
 0.0.0.0 cm.adgrx.com
 0.0.0.0 cm.adsafety.net
@@ -2013,6 +2020,7 @@
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fc.yahoo.com
 0.0.0.0 fdts.ebay-kleinanzeigen.de
+0.0.0.0 fdyn.pubwise.io
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedburner.google.com
 0.0.0.0 feed.engage.im
@@ -2204,6 +2212,7 @@
 0.0.0.0 go.sonnen.de
 0.0.0.0 go.toutapp.com
 0.0.0.0 gounlimited.to
+0.0.0.0 g.pcmag.com
 0.0.0.0 grace.shareaholic.com
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
@@ -2222,6 +2231,7 @@
 0.0.0.0 gstaticadssl.l.google.com
 0.0.0.0 gum.criteo.com
 0.0.0.0 gumroad.com
+0.0.0.0 gurgle.pcmag.com
 0.0.0.0 gurgle.zdbb.net
 0.0.0.0 gwmtracking.com
 0.0.0.0 gwm.w-cdn.com
@@ -2566,6 +2576,7 @@
 0.0.0.0 l9bjkkhaycw6f8f4.soundcloud.com
 0.0.0.0 laas.americanexpress.com
 0.0.0.0 lasteventf-tm.everesttech.net
+0.0.0.0 launcher.spot.im
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchpadlibrarian.net
 0.0.0.0 launchpoint.marketo.com
@@ -2963,6 +2974,7 @@
 0.0.0.0 o1.qnsr.com
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o2.mouseflow.com
+0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o.addthis.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oascentral.consumerreports.org
@@ -3079,6 +3091,7 @@
 0.0.0.0 pfa.levexis.com
 0.0.0.0 pf.newegg.com
 0.0.0.0 phar.gu-web.net
+0.0.0.0 phillateemis.iad-03.braze.com
 0.0.0.0 phonograph2.voxmedia.com
 0.0.0.0 pics.wikifeet.com
 0.0.0.0 p.imgur.com
@@ -3235,6 +3248,7 @@
 0.0.0.0 primis-d.openx.net
 0.0.0.0 prism.app-us1.com
 0.0.0.0 privacy-api.9gag.com
+0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacyportal.onetrust.com
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 priv-policy.imrworldwide.com
@@ -3384,6 +3398,7 @@
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 reg.biv.sony.tv
+0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 register.xmpush.xiaomi.com
 0.0.0.0 relap.io
@@ -4450,6 +4465,7 @@
 0.0.0.0 ums.adtech.de
 0.0.0.0 um.simpli.fi
 0.0.0.0 umwatson.events.data.microsoft.com
+0.0.0.0 unagi.amazon.com
 0.0.0.0 unagi-na.amazon.com
 0.0.0.0 uncoached-d.openx.net
 0.0.0.0 unconf.adkmob.com
@@ -4483,6 +4499,7 @@
 0.0.0.0 us-east-1.a.intentmedia.net
 0.0.0.0 us-east-1-decisionapi.lift.acquia.com
 0.0.0.0 useast.bfmio.com
+0.0.0.0 useast.quantumdex.io
 0.0.0.0 usemaxserver.de
 0.0.0.0 usergrid.com
 0.0.0.0 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
@@ -4628,6 +4645,7 @@
 0.0.0.0 webed.dm.gg
 0.0.0.0 web.facebook.com
 0.0.0.0 web.hb.ad.cpe.dotomi.com
+0.0.0.0 webhook.logentries.com
 0.0.0.0 webmdcom.tt.omtrdc.net
 0.0.0.0 websdk.moengage.com
 0.0.0.0 web-sdk.urbanairship.com
