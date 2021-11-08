@@ -792,6 +792,7 @@ async-px.dynamicyield.com
 async-px-eu.dynamicyield.com
 a.teads.tv
 atemda.com
+atf.containers.piwik.pro
 atonato.de
 a.tribalfusion.com
 a.trkme.net
@@ -1116,6 +1117,7 @@ cdn-f.adsmoloco.com
 cdn.fbsbx.com
 cdn.firstimpression.io
 cdn.flashtalking.com
+cdn.geni.us
 cdn.geodns.tubemogul.com
 cdn.getsmartcontent.com
 cdn-gl.imrworldwide.com
@@ -2601,6 +2603,7 @@ libs.outbrain.com
 licensebuttons.net
 license.piriform.com
 licensing.bitmovin.com
+lidl.media01.eu
 liebessinn.de
 lifeandstylemag.com
 linkangood.com

@@ -792,6 +792,7 @@
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 a.teads.tv
 0.0.0.0 atemda.com
+0.0.0.0 atf.containers.piwik.pro
 0.0.0.0 atonato.de
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
@@ -1116,6 +1117,7 @@
 0.0.0.0 cdn.fbsbx.com
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.flashtalking.com
+0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.geodns.tubemogul.com
 0.0.0.0 cdn.getsmartcontent.com
 0.0.0.0 cdn-gl.imrworldwide.com
@@ -2602,6 +2604,7 @@
 0.0.0.0 licensebuttons.net
 0.0.0.0 license.piriform.com
 0.0.0.0 licensing.bitmovin.com
+0.0.0.0 lidl.media01.eu
 0.0.0.0 liebessinn.de
 0.0.0.0 lifeandstylemag.com
 0.0.0.0 linkangood.com
