@@ -980,6 +980,7 @@
 0.0.0.0 c1.microsoft.com
 0.0.0.0 c1.rfihub.net
 0.0.0.0 c212.net
+0.0.0.0 c2shb.ssp.yahoo.com
 0.0.0.0 c2.taboola.com
 0.0.0.0 c3.adalyser.com
 0.0.0.0 c4d-cdn.adcolony.com
@@ -4246,6 +4247,7 @@
 0.0.0.0 tg.socdm.com
 0.0.0.0 thaliade02.webtrekk.net
 0.0.0.0 tharbadir.com
+0.0.0.0 thedrive-d.openx.net
 0.0.0.0 theporndude.com
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thisiswaldo.com
@@ -4450,6 +4452,7 @@
 0.0.0.0 udm.scorecardresearch.com
 0.0.0.0 udmserve.net
 0.0.0.0 u.heatmap.it
+0.0.0.0 uhm26jyr11zv.www.freecodecamp.org
 0.0.0.0 uidbox.uimserv.net
 0.0.0.0 uid.mavencoalition.io
 0.0.0.0 uim.tifbs.net
@@ -4918,6 +4921,7 @@
 0.0.0.0 www.usemax.de
 0.0.0.0 www.usemaxserver.de
 0.0.0.0 www.userreport.com
+0.0.0.0 www.videoreach.de
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
 0.0.0.0 www.wikifeetx.com

@@ -980,6 +980,7 @@ c1.adform.net
 c1.microsoft.com
 c1.rfihub.net
 c212.net
+c2shb.ssp.yahoo.com
 c2.taboola.com
 c3.adalyser.com
 c4d-cdn.adcolony.com
@@ -4244,6 +4245,7 @@ t.gammaplatform.com
 tg.socdm.com
 thaliade02.webtrekk.net
 tharbadir.com
+thedrive-d.openx.net
 theporndude.com
 thind-gke-euw.prd.data.corp.unity3d.com
 thisiswaldo.com
@@ -4448,6 +4450,7 @@ udc.yahoo.com
 udm.scorecardresearch.com
 udmserve.net
 u.heatmap.it
+uhm26jyr11zv.www.freecodecamp.org
 uidbox.uimserv.net
 uid.mavencoalition.io
 uim.tifbs.net
@@ -4916,6 +4919,7 @@ www.usefomo.com
 www.usemax.de
 www.usemaxserver.de
 www.userreport.com
+www.videoreach.de
 www.vkmag.com
 www.vungle.com
 www.wikifeetx.com
