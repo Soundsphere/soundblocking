@@ -425,6 +425,7 @@
 0.0.0.0 alb.reddit.com
 0.0.0.0 a.ligatus.com
 0.0.0.0 ali-stats.jpush.cn
+0.0.0.0 alkutbay.starbolt.io
 0.0.0.0 alocdn.com
 0.0.0.0 alogs.umeng.com
 0.0.0.0 alog.umeng.co
@@ -1421,6 +1422,7 @@
 0.0.0.0 content.mql5.com
 0.0.0.0 content.quantcount.com
 0.0.0.0 content.tapjoy.com
+0.0.0.0 content.upscore.com
 0.0.0.0 contextual.media.net
 0.0.0.0 contextweb-match.dotomi.com
 0.0.0.0 continuum.dds.microsoft.com
@@ -1759,6 +1761,7 @@
 0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 distroscale-d.openx.net
 0.0.0.0 dis.us.criteo.com
+0.0.0.0 dit.whatsapp.net
 0.0.0.0 djtflbt20bdde.cloudfront.net
 0.0.0.0 dkb01.webtrekk.net
 0.0.0.0 dk-gmtdmp.mookie1.com
@@ -2278,6 +2281,7 @@
 0.0.0.0 h.imedia.cz
 0.0.0.0 history.google.com
 0.0.0.0 hit.dogannet.tv
+0.0.0.0 hit-error.upscore.com
 0.0.0.0 hits.europuls.eu
 0.0.0.0 hits-i.iubenda.com
 0.0.0.0 hive-d.openx.net
@@ -3863,9 +3867,11 @@
 0.0.0.0 ssl-golem.met.vgwort.de
 0.0.0.0 ssl.google-analytics.com
 0.0.0.0 ssl-google-analytics.l.google.com
+0.0.0.0 ssl-heise.met.vgwort.de
 0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 ssl.o.webmd.com
+0.0.0.0 ssl-tagesspiegel.met.vgwort.de
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 ssl.vizury.com
 0.0.0.0 sslwidget.criteo.com
@@ -4215,6 +4221,7 @@
 0.0.0.0 td.crwdcntrl.net
 0.0.0.0 tdn.r42tag.com
 0.0.0.0 tealium.hs.llnwd.net
+0.0.0.0 teams.events.data.microsoft.com
 0.0.0.0 technical-service.net
 0.0.0.0 technorati.com
 0.0.0.0 t.eclick.vn
