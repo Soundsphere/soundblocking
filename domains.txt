@@ -2281,6 +2281,7 @@ h.imedia.cz
 history.google.com
 hit.dogannet.tv
 hit-error.upscore.com
+hit-pool.upscore.com
 hits.europuls.eu
 hits-i.iubenda.com
 hive-d.openx.net
@@ -3262,6 +3263,7 @@ privymktg.com
 probe.yieldlab.net
 prod-a.applovin.com
 prod.cm.publishers.advertising.a2z.com
+prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prod-js.aws.y-track.com
 prod.scgraph.facebook.com
 prod.telemetry.ros.rockstargames.com
@@ -3905,6 +3907,7 @@ st.astraone.io
 stat1.moneycontrol.com
 stat3.moneycontrol.com
 stat.alibaba.com
+stat.ameba.jp
 stat.dealtime.com
 states.newegg.com
 stat.flashtalking.com
