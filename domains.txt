@@ -3402,6 +3402,7 @@ recs.richrelevance.com
 recs.shareaholic.com
 redhat.sc.omtrdc.net
 redirect.appmetrica.yandex.com
+redirector.gvt1.com
 redirect.viglink.com
 referrer.disqus.com
 reflethenfortoft.info

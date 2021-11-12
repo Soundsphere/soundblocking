@@ -3404,6 +3404,7 @@
 0.0.0.0 recs.shareaholic.com
 0.0.0.0 redhat.sc.omtrdc.net
 0.0.0.0 redirect.appmetrica.yandex.com
+0.0.0.0 redirector.gvt1.com
 0.0.0.0 redirect.viglink.com
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
