@@ -57,6 +57,7 @@
 5994599.fls.doubleclick.net
 5d0b6.v.fwmrm.net
 5fd74.v.fwmrm.net
+6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 6124109.fls.doubleclick.net
 6543402.fls.doubleclick.net
 688012155290337.mateti.net
@@ -873,6 +874,7 @@ b.boyfriendtv.com
 bcb-beacon-nr.rubiconproject.com
 bc.marfeelcache.com
 bc.marfeel.com
+b-code.liadm.com
 bcp.crwdcntrl.net
 bea4.v.fwmrm.net
 beacon.aimtell.com
@@ -2525,6 +2527,7 @@ js.gleam.io
 js.gumgum.com
 js.hsadspixel.net
 js.hs-analytics.net
+js.hs-banner.com
 js.hscollectedforms.net
 js.hscta.net
 js.hsforms.net
@@ -2552,6 +2555,7 @@ jsso.indiatimes.com
 js.spotx.tv
 js.stroeermediabrands.de
 js.trendmd.com
+js.usemessages.com
 js.users.51.la
 js-webt-lol.9cache.com
 justapinch-com-d.openx.net
@@ -3528,6 +3532,7 @@ s1.adform.net
 s1.listrakbi.com
 s240.mxcdn.net
 s290.mxcdn.net
+s2.adform.net
 s2.go-mpulse.net
 s2s.adjust.com
 s2s.singular.net

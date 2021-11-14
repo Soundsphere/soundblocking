@@ -57,6 +57,7 @@
 0.0.0.0 5994599.fls.doubleclick.net
 0.0.0.0 5d0b6.v.fwmrm.net
 0.0.0.0 5fd74.v.fwmrm.net
+0.0.0.0 6093eccf-6734-4877-ac8b-83d6d0e27b46.edge.permutive.app
 0.0.0.0 6124109.fls.doubleclick.net
 0.0.0.0 6543402.fls.doubleclick.net
 0.0.0.0 688012155290337.mateti.net
@@ -873,6 +874,7 @@
 0.0.0.0 bcb-beacon-nr.rubiconproject.com
 0.0.0.0 bc.marfeelcache.com
 0.0.0.0 bc.marfeel.com
+0.0.0.0 b-code.liadm.com
 0.0.0.0 bcp.crwdcntrl.net
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beacon.aimtell.com
@@ -2526,6 +2528,7 @@
 0.0.0.0 js.gumgum.com
 0.0.0.0 js.hsadspixel.net
 0.0.0.0 js.hs-analytics.net
+0.0.0.0 js.hs-banner.com
 0.0.0.0 js.hscollectedforms.net
 0.0.0.0 js.hscta.net
 0.0.0.0 js.hsforms.net
@@ -2553,6 +2556,7 @@
 0.0.0.0 js.spotx.tv
 0.0.0.0 js.stroeermediabrands.de
 0.0.0.0 js.trendmd.com
+0.0.0.0 js.usemessages.com
 0.0.0.0 js.users.51.la
 0.0.0.0 js-webt-lol.9cache.com
 0.0.0.0 justapinch-com-d.openx.net
@@ -3530,6 +3534,7 @@
 0.0.0.0 s1.listrakbi.com
 0.0.0.0 s240.mxcdn.net
 0.0.0.0 s290.mxcdn.net
+0.0.0.0 s2.adform.net
 0.0.0.0 s2.go-mpulse.net
 0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.singular.net
