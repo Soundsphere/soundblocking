@@ -51,6 +51,7 @@
 0.0.0.0 5029539.fls.doubleclick.net
 0.0.0.0 5035110.fls.doubleclick.net
 0.0.0.0 5164101.fls.doubleclick.net
+0.0.0.0 518000665.recs.igodigital.com
 0.0.0.0 5283813.fls.doubleclick.net
 0.0.0.0 5290727.fls.doubleclick.net
 0.0.0.0 5779200.fls.doubleclick.net
@@ -2973,6 +2974,7 @@
 0.0.0.0 notebooksbilliger02.webtrekk.net
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nova.collect.igodigital.com
+0.0.0.0 nova.recs.igodigital.com
 0.0.0.0 now.eloqua.com
 0.0.0.0 nqs.nice264.com
 0.0.0.0 nqs-nl12-c3.youboranqs01.com
