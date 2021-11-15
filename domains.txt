@@ -693,6 +693,7 @@ app.adjust.world
 app.adroll.com
 appanalysis.banggood.com
 app-analytics.snapchat.com
+app.backinstock.org
 appboot.netflix.com
 app.box.com
 appboy-images.com
@@ -1081,6 +1082,7 @@ cdn.avmws.com
 cdn.avocet.io
 cdn-a.yieldlove.com
 cdn.bannerflow.com
+cdn.bidder.dev
 cdn.bizible.com
 cdn.blueconic.net
 cdn.boomtrain.com
@@ -1404,6 +1406,7 @@ config.safedk.com
 config.samqaicongen.com
 config.uca.cloud.unity3d.com
 connatix-d.openx.net
+connect.digi.com
 connect.ekomi.de
 connect.facebook.com
 connect.facebook.net
@@ -1801,6 +1804,7 @@ downdetector.com
 downloadcenter.intel.com
 download.gamestar.de
 downloads.intercomcdn.com
+downloads.mailchimp.com
 dp2.33across.com
 dpm.demdex.net
 dpm.zebestof.com
@@ -2393,6 +2397,7 @@ img.bet-at-home.com
 imgcdn.brightinfo.com
 img.connatix.com
 img.en25.com
+img.img-taboola.com
 img.macromill.com
 img.mediaplex.com
 img.mediaplex.com.edgesuite.net
@@ -3849,6 +3854,7 @@ sp.zalo.me
 sqm.telemetry.microsoft.com.nsatc.net
 squeakzinc.com
 squirrelhands.com
+squirrels.getsquirrel.co
 src.ebay-us.com
 srtb.msn.com
 srv.buysellads.com
@@ -4762,6 +4768,7 @@ www.265.com
 www2.criteo.com
 www2.glam.com
 www2.mpnrs.com
+www2.pardot.com
 www.33across.com
 www.3dstats.com
 www3.mpnrs.com
@@ -4992,6 +4999,7 @@ z.cdn.braun634.com
 zdbb.net
 zdbb.netshelter.net
 zd.map.fastly.net
+zdwidget3-bs.sphereup.com
 zeit.met.vgwort.de
 zem.outbrainimg.com
 z-eu.amazon-adsystem.com

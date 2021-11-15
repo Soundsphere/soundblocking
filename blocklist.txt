@@ -693,6 +693,7 @@
 0.0.0.0 app.adroll.com
 0.0.0.0 appanalysis.banggood.com
 0.0.0.0 app-analytics.snapchat.com
+0.0.0.0 app.backinstock.org
 0.0.0.0 appboot.netflix.com
 0.0.0.0 app.box.com
 0.0.0.0 appboy-images.com
@@ -1081,6 +1082,7 @@
 0.0.0.0 cdn.avocet.io
 0.0.0.0 cdn-a.yieldlove.com
 0.0.0.0 cdn.bannerflow.com
+0.0.0.0 cdn.bidder.dev
 0.0.0.0 cdn.bizible.com
 0.0.0.0 cdn.blueconic.net
 0.0.0.0 cdn.boomtrain.com
@@ -1404,6 +1406,7 @@
 0.0.0.0 config.samqaicongen.com
 0.0.0.0 config.uca.cloud.unity3d.com
 0.0.0.0 connatix-d.openx.net
+0.0.0.0 connect.digi.com
 0.0.0.0 connect.ekomi.de
 0.0.0.0 connect.facebook.com
 0.0.0.0 connect.facebook.net
@@ -1802,6 +1805,7 @@
 0.0.0.0 downloadcenter.intel.com
 0.0.0.0 download.gamestar.de
 0.0.0.0 downloads.intercomcdn.com
+0.0.0.0 downloads.mailchimp.com
 0.0.0.0 dp2.33across.com
 0.0.0.0 dpm.demdex.net
 0.0.0.0 dpm.zebestof.com
@@ -2394,6 +2398,7 @@
 0.0.0.0 imgcdn.brightinfo.com
 0.0.0.0 img.connatix.com
 0.0.0.0 img.en25.com
+0.0.0.0 img.img-taboola.com
 0.0.0.0 img.macromill.com
 0.0.0.0 img.mediaplex.com
 0.0.0.0 img.mediaplex.com.edgesuite.net
@@ -3851,6 +3856,7 @@
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
 0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
+0.0.0.0 squirrels.getsquirrel.co
 0.0.0.0 src.ebay-us.com
 0.0.0.0 srtb.msn.com
 0.0.0.0 srv.buysellads.com
@@ -4764,6 +4770,7 @@
 0.0.0.0 www2.criteo.com
 0.0.0.0 www2.glam.com
 0.0.0.0 www2.mpnrs.com
+0.0.0.0 www2.pardot.com
 0.0.0.0 www.33across.com
 0.0.0.0 www.3dstats.com
 0.0.0.0 www3.mpnrs.com
@@ -4994,6 +5001,7 @@
 0.0.0.0 zdbb.net
 0.0.0.0 zdbb.netshelter.net
 0.0.0.0 zd.map.fastly.net
+0.0.0.0 zdwidget3-bs.sphereup.com
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zem.outbrainimg.com
 0.0.0.0 z-eu.amazon-adsystem.com
