@@ -654,6 +654,7 @@ api.twitter.com
 api.uca.cloud.unity3d.com
 api.unbounce.com
 api.uprivaladserver.net
+api.us-east-1.aiv-delivery.net
 api.usebutton.com
 api.userleap.com
 api.userlike.com
@@ -1743,6 +1744,7 @@ device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 de-videovalis.videoplaza.tv
 dev.visualwebsiteoptimizer.com
+de.xhamster.com
 dff7tx5c2qbxc.cloudfront.net
 d.ghostery.com
 dh.serving-sys.com
@@ -3890,6 +3892,7 @@ ssl.o.webmd.com
 ssl-tagesspiegel.met.vgwort.de
 ssl-vg03.met.vgwort.de
 ssl.vizury.com
+ssl-weka.met.vgwort.de
 sslwidget.criteo.com
 ssl.widgets.webengage.com
 ssl.xplosion.de
@@ -3913,6 +3916,7 @@ stadtbremerhaven.digidip.net
 staging.scgraph.facebook.com
 stags.bluekai.com
 s.tagsrvcs.com
+stakingsmile.com
 stan.xing.com
 star.c10r.facebook.com
 star.facebook.com
@@ -4661,6 +4665,7 @@ wa.ui-portal.de
 waust.at
 waves.retentionscience.com
 wa.wdr.de
+waz.met.vgwort.de
 wbtrkk.teufel.de
 w.cnzz.com
 wcs.naver.com

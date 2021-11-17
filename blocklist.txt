@@ -654,6 +654,7 @@
 0.0.0.0 api.uca.cloud.unity3d.com
 0.0.0.0 api.unbounce.com
 0.0.0.0 api.uprivaladserver.net
+0.0.0.0 api.us-east-1.aiv-delivery.net
 0.0.0.0 api.usebutton.com
 0.0.0.0 api.userleap.com
 0.0.0.0 api.userlike.com
@@ -1744,6 +1745,7 @@
 0.0.0.0 device-metrics-us.amazon.com
 0.0.0.0 de-videovalis.videoplaza.tv
 0.0.0.0 dev.visualwebsiteoptimizer.com
+0.0.0.0 de.xhamster.com
 0.0.0.0 dff7tx5c2qbxc.cloudfront.net
 0.0.0.0 d.ghostery.com
 0.0.0.0 dh.serving-sys.com
@@ -3892,6 +3894,7 @@
 0.0.0.0 ssl-tagesspiegel.met.vgwort.de
 0.0.0.0 ssl-vg03.met.vgwort.de
 0.0.0.0 ssl.vizury.com
+0.0.0.0 ssl-weka.met.vgwort.de
 0.0.0.0 sslwidget.criteo.com
 0.0.0.0 ssl.widgets.webengage.com
 0.0.0.0 ssl.xplosion.de
@@ -3915,6 +3918,7 @@
 0.0.0.0 staging.scgraph.facebook.com
 0.0.0.0 stags.bluekai.com
 0.0.0.0 s.tagsrvcs.com
+0.0.0.0 stakingsmile.com
 0.0.0.0 stan.xing.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
@@ -4663,6 +4667,7 @@
 0.0.0.0 waust.at
 0.0.0.0 waves.retentionscience.com
 0.0.0.0 wa.wdr.de
+0.0.0.0 waz.met.vgwort.de
 0.0.0.0 wbtrkk.teufel.de
 0.0.0.0 w.cnzz.com
 0.0.0.0 wcs.naver.com
