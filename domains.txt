@@ -1181,6 +1181,7 @@ cdn.ravenjs.com
 cdn.rawgit.com
 cdn.refersion.com
 cdn.revcontent.com
+cdn.rudderlabs.com
 cdn-s2s.buysellads.net
 cdn.sagent.io
 cdns.brsrvr.com
@@ -3102,6 +3103,7 @@ pdx-col.eum-appdynamics.com
 pebed.dm-event.net
 pebed.dm.gg
 pentos-cdn.polarmobile.com
+perfalytics.com
 perf-events.cloud.unity3d.com
 perf.gds.mmstat.com
 perf.logsss.com
@@ -3127,6 +3129,7 @@ ping.getadblock.com
 pingma.qq.com
 pings.vidpulse.com
 ping.taplytics.com
+pinpoint.us-east-1.amazonaws.com
 pi.pardot.com
 pipedream.wistia.com
 pippio.com
@@ -3733,6 +3736,7 @@ servicer.mgid.com
 services.bilsyndication.com
 services.serving-sys.com
 servicesupport.hicloud.com
+services.vlitag.com
 serving.adbetclickin.pink
 serving.ad.org.vn
 servt.playbuzz.co
@@ -3885,6 +3889,7 @@ ssl.geoplugin.net
 ssl-golem.met.vgwort.de
 ssl.google-analytics.com
 ssl-google-analytics.l.google.com
+ssl-handelsblatt.met.vgwort.de
 ssl-heise.met.vgwort.de
 ssl.kaptcha.com
 ssl.mousestats.com
