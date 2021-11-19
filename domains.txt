@@ -2525,6 +2525,7 @@ js-agent.newrelic.com
 js.agkn.com
 js.appboycdn.com
 js.brealtime.com
+js.bronto.com
 js-cdn.dynatrace.com
 jscdn.yieldbird.com
 js.center.io
@@ -3383,6 +3384,7 @@ r.254a.com
 r2---sn-4g5e6n76.gvt1.com
 r2---sn-4g5ednsk.gvt1.com
 r2---sn-4g5ednsy.gvt1.com
+r3.o.lencr.org
 r3---sn-4g5ednee.gvt1.com
 r6---sn-4g5edne7.gvt1.com
 radar.cedexis.com

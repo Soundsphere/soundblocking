@@ -2526,6 +2526,7 @@
 0.0.0.0 js.agkn.com
 0.0.0.0 js.appboycdn.com
 0.0.0.0 js.brealtime.com
+0.0.0.0 js.bronto.com
 0.0.0.0 js-cdn.dynatrace.com
 0.0.0.0 jscdn.yieldbird.com
 0.0.0.0 js.center.io
@@ -3385,6 +3386,7 @@
 0.0.0.0 r2---sn-4g5e6n76.gvt1.com
 0.0.0.0 r2---sn-4g5ednsk.gvt1.com
 0.0.0.0 r2---sn-4g5ednsy.gvt1.com
+0.0.0.0 r3.o.lencr.org
 0.0.0.0 r3---sn-4g5ednee.gvt1.com
 0.0.0.0 r6---sn-4g5edne7.gvt1.com
 0.0.0.0 radar.cedexis.com
