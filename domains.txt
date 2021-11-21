@@ -2380,6 +2380,7 @@ image5.pubmatic.com
 image6.pubmatic.com
 image.ard.de
 image.ibb.co
+image.playstationemail.com
 images.dmca.com
 images.intellitxt.com
 images.mxpnl.com
@@ -3989,6 +3990,7 @@ static.klaviyo.com
 static.licdn.com
 static-lon1.dynamicyield.com
 static.mackeeper.com
+static.narrativ.com
 static.parsely.com
 static.plista.com
 static.scroll.com
