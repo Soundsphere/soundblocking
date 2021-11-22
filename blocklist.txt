@@ -4952,6 +4952,7 @@
 0.0.0.0 www.summerhamster.com
 0.0.0.0 www.taboola.com
 0.0.0.0 www.tag4arm.com
+0.0.0.0 www.tiktok.com
 0.0.0.0 www.tns-counter.ru
 0.0.0.0 www.tqlkg.com
 0.0.0.0 www.tracc.it
