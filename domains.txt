@@ -1942,6 +1942,7 @@ eu-gmtdmp.gd1.mookie1.com
 eu.groupondata.com
 eulerian.sarenza.com
 eu.market-place.su
+eum-blue-saas.instana.io
 eum-eu-west-1.instana.io
 eum.instana.io
 eu.nuggad.net
@@ -3140,6 +3141,7 @@ personalcapital.go2cloud.org
 petiteumbrella.com
 pfa.levexis.com
 pf.newegg.com
+pghub.io
 phar.gu-web.net
 phillateemis.iad-03.braze.com
 phonograph2.voxmedia.com
@@ -4184,6 +4186,7 @@ sync.ipredictive.com
 sync.mathtag.com
 sync.outbrain.com
 sync.rambler.ru
+sync.richaudience.com
 sync.rtk.io
 sync.search.spotxchange.com
 sync.serverbid.com
@@ -4768,6 +4771,7 @@ widget.eu.criteo.com
 widget.fitanalytics.com
 widget.fr.eu.criteo.com
 widget.marktjagd.de
+widget-mediator.zopim.com
 widgetmonitor.outbrain.com
 widget.nl.eu.criteo.com
 widget.perfectmarket.com
@@ -5001,6 +5005,7 @@ www.subzin.com
 www.summerhamster.com
 www.taboola.com
 www.tag4arm.com
+www.tiktok.com
 www.tns-counter.ru
 www.tqlkg.com
 www.tracc.it

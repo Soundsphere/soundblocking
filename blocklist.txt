@@ -1943,6 +1943,7 @@
 0.0.0.0 eu.groupondata.com
 0.0.0.0 eulerian.sarenza.com
 0.0.0.0 eu.market-place.su
+0.0.0.0 eum-blue-saas.instana.io
 0.0.0.0 eum-eu-west-1.instana.io
 0.0.0.0 eum.instana.io
 0.0.0.0 eu.nuggad.net
@@ -3142,6 +3143,7 @@
 0.0.0.0 petiteumbrella.com
 0.0.0.0 pfa.levexis.com
 0.0.0.0 pf.newegg.com
+0.0.0.0 pghub.io
 0.0.0.0 phar.gu-web.net
 0.0.0.0 phillateemis.iad-03.braze.com
 0.0.0.0 phonograph2.voxmedia.com
@@ -4186,6 +4188,7 @@
 0.0.0.0 sync.mathtag.com
 0.0.0.0 sync.outbrain.com
 0.0.0.0 sync.rambler.ru
+0.0.0.0 sync.richaudience.com
 0.0.0.0 sync.rtk.io
 0.0.0.0 sync.search.spotxchange.com
 0.0.0.0 sync.serverbid.com
@@ -4770,6 +4773,7 @@
 0.0.0.0 widget.fitanalytics.com
 0.0.0.0 widget.fr.eu.criteo.com
 0.0.0.0 widget.marktjagd.de
+0.0.0.0 widget-mediator.zopim.com
 0.0.0.0 widgetmonitor.outbrain.com
 0.0.0.0 widget.nl.eu.criteo.com
 0.0.0.0 widget.perfectmarket.com
