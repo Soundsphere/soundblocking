@@ -3686,6 +3686,7 @@ sdk.streamrail.com
 s.dpmsrv.com
 sdsbucket.s3.amazonaws.com
 sd.sharethis.com
+seal.digicert.com
 seal.geotrust.com
 seal.godaddy.com
 seal.verisign.com

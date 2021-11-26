@@ -3688,6 +3688,7 @@
 0.0.0.0 s.dpmsrv.com
 0.0.0.0 sdsbucket.s3.amazonaws.com
 0.0.0.0 sd.sharethis.com
+0.0.0.0 seal.digicert.com
 0.0.0.0 seal.geotrust.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.verisign.com
