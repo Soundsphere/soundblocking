@@ -535,6 +535,7 @@ analytics-udg.netdna-ssl.com
 analytics.webgains.io
 analytics.webpushr.com
 analytics.yomedia.vn
+anchor.digitalocean.com
 and.co.uk.102.122.2o7.net
 android.bugly.qq.com
 a.netmng.com
@@ -1759,6 +1760,7 @@ dialogue.sp-prod.net
 diapi.webgains.com
 diff.smartadserver.com
 digicertwc.rubiconproject.com.edgekey.net
+digitalocean1.mktoweb.com
 d.impactradius-event.com
 di.phncdn.com
 direct-events-collector.spot.im

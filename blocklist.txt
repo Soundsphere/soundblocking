@@ -535,6 +535,7 @@
 0.0.0.0 analytics.webgains.io
 0.0.0.0 analytics.webpushr.com
 0.0.0.0 analytics.yomedia.vn
+0.0.0.0 anchor.digitalocean.com
 0.0.0.0 and.co.uk.102.122.2o7.net
 0.0.0.0 android.bugly.qq.com
 0.0.0.0 a.netmng.com
@@ -1760,6 +1761,7 @@
 0.0.0.0 diapi.webgains.com
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
+0.0.0.0 digitalocean1.mktoweb.com
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 di.phncdn.com
 0.0.0.0 direct-events-collector.spot.im
