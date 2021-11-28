@@ -1275,6 +1275,8 @@
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
 0.0.0.0 ci37.actonsoftware.com
+0.0.0.0 ci3.googleusercontent.com
+0.0.0.0 ci4.googleusercontent.com
 0.0.0.0 ci61.actonsoftware.com
 0.0.0.0 ci89.actonsoftware.com
 0.0.0.0 ciksolre.net
@@ -1687,6 +1689,7 @@
 0.0.0.0 data.cnn.com
 0.0.0.0 datacollect6.abtasty.com
 0.0.0.0 data.coremetrics.com
+0.0.0.0 data.emb-api.com
 0.0.0.0 data.ero-advertising.com
 0.0.0.0 data.flurry.com
 0.0.0.0 data.gosquared.com
@@ -2243,6 +2246,7 @@
 0.0.0.0 gounlimited.to
 0.0.0.0 g.pcmag.com
 0.0.0.0 grace.shareaholic.com
+0.0.0.0 grafana.org
 0.0.0.0 graph.accountkit.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.facebook.com
@@ -2267,6 +2271,7 @@
 0.0.0.0 gzhls.at
 0.0.0.0 h6.msn.com
 0.0.0.0 h-adashx.ut.taobao.com
+0.0.0.0 hail-reporting.tutelatechnologies.com
 0.0.0.0 hajoopteg.com
 0.0.0.0 hal9000.redintelligence.net
 0.0.0.0 halc.iadvize.com
@@ -2994,6 +2999,7 @@
 0.0.0.0 ninja.onap.io
 0.0.0.0 n.mplxtms.com
 0.0.0.0 no-cache.hubspot.com
+0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 notebooksbilliger02.webtrekk.net
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nova.collect.igodigital.com
@@ -3669,6 +3675,7 @@
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk-android.ad.smaato.net
+0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk-assets.localytics.com
 0.0.0.0 sdk.beeketing.com
@@ -4120,6 +4127,7 @@
 0.0.0.0 storage.googleapis.com
 0.0.0.0 storage.live.com
 0.0.0.0 storage.outbrain.com
+0.0.0.0 store.steampowered.com
 0.0.0.0 st.polyad.net
 0.0.0.0 s.tradingview.com
 0.0.0.0 strat-talk.com
@@ -4992,6 +5000,7 @@
 0.0.0.0 www.redtube.com.br
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.roosterfirework.com
+0.0.0.0 www.salesforce.com
 0.0.0.0 www.sc.pages02.net
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.sedoparking.com

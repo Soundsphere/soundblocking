@@ -1275,6 +1275,8 @@ chimpstatic.com
 choices.trustarc.com
 choices.truste.com
 ci37.actonsoftware.com
+ci3.googleusercontent.com
+ci4.googleusercontent.com
 ci61.actonsoftware.com
 ci89.actonsoftware.com
 ciksolre.net
@@ -1686,6 +1688,7 @@ data.cmcore.com
 data.cnn.com
 datacollect6.abtasty.com
 data.coremetrics.com
+data.emb-api.com
 data.ero-advertising.com
 data.flurry.com
 data.gosquared.com
@@ -2242,6 +2245,7 @@ go.toutapp.com
 gounlimited.to
 g.pcmag.com
 grace.shareaholic.com
+grafana.org
 graph.accountkit.com
 graph.facebook.com
 graph.facebook.com
@@ -2266,6 +2270,7 @@ gwm.w-cdn.com
 gzhls.at
 h6.msn.com
 h-adashx.ut.taobao.com
+hail-reporting.tutelatechnologies.com
 hajoopteg.com
 hal9000.redintelligence.net
 halc.iadvize.com
@@ -2992,6 +2997,7 @@ nineto5mac-d.openx.net
 ninja.onap.io
 n.mplxtms.com
 no-cache.hubspot.com
+normandy.cdn.mozilla.net
 notebooksbilliger02.webtrekk.net
 notify.bugsnag.com
 nova.collect.igodigital.com
@@ -3667,6 +3673,7 @@ s.deepl.com
 sdk.accountkit.com
 sdk.adtiming.com
 sdk-android.ad.smaato.net
+sdk-api-v1.singular.net
 sdk.appsflyer.com
 sdk-assets.localytics.com
 sdk.beeketing.com
@@ -4118,6 +4125,7 @@ storage.cloud.kargo.com
 storage.googleapis.com
 storage.live.com
 storage.outbrain.com
+store.steampowered.com
 st.polyad.net
 s.tradingview.com
 strat-talk.com
@@ -4990,6 +4998,7 @@ www.rce-event.de
 www.redtube.com.br
 www.reimageplus.com
 www.roosterfirework.com
+www.salesforce.com
 www.sc.pages02.net
 www.sdad.guru
 www.sedoparking.com
