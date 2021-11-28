@@ -5000,7 +5000,6 @@
 0.0.0.0 www.redtube.com.br
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.roosterfirework.com
-0.0.0.0 www.salesforce.com
 0.0.0.0 www.sc.pages02.net
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.sedoparking.com
