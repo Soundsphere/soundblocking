@@ -938,6 +938,7 @@ bildschirmarbeiter.com
 bingads.microsoft.com
 bit.do
 bit.ly
+bitpay.com
 bitrix.info
 blockchain.info
 blocklists-settings.prod.mozaws.net

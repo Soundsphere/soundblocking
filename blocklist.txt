@@ -938,6 +938,7 @@
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
+0.0.0.0 bitpay.com
 0.0.0.0 bitrix.info
 0.0.0.0 blockchain.info
 0.0.0.0 blocklists-settings.prod.mozaws.net
