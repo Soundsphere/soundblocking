@@ -399,6 +399,7 @@ ad.yieldmanager.com
 ad.zanox.com
 ae01.alicdn.com
 aem.playstation.com.ssl.d1.sc.omtrdc.net
+a.et.nytimes.com
 aexp.demdex.net
 a.farlex.com
 aff.bstatic.com
@@ -3620,6 +3621,7 @@ salesviewer.org
 s.amazon-adsystem.com
 samcm.ksmobile.com
 samcmsec.ksmobile.com
+samizdat-graphql.nytimes.com
 sam.msn.com
 samsclub.com
 samsung.demdex.net

@@ -399,6 +399,7 @@
 0.0.0.0 ad.zanox.com
 0.0.0.0 ae01.alicdn.com
 0.0.0.0 aem.playstation.com.ssl.d1.sc.omtrdc.net
+0.0.0.0 a.et.nytimes.com
 0.0.0.0 aexp.demdex.net
 0.0.0.0 a.farlex.com
 0.0.0.0 aff.bstatic.com
@@ -3622,6 +3623,7 @@
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 samcm.ksmobile.com
 0.0.0.0 samcmsec.ksmobile.com
+0.0.0.0 samizdat-graphql.nytimes.com
 0.0.0.0 sam.msn.com
 0.0.0.0 samsclub.com
 0.0.0.0 samsung.demdex.net
