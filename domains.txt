@@ -661,6 +661,7 @@ api.unbounce.com
 api.uprivaladserver.net
 api.us-east-1.aiv-delivery.net
 api.usebutton.com
+api.usercentrics.eu
 api.userleap.com
 api.userlike.com
 api.usersnap.com
@@ -1225,6 +1226,7 @@ cdn.taplytics.com
 cdn.teads.tv
 cdn.teamskeetimages.com
 cdn.tercept.com
+cdn.threadloom.com
 cdn.tinypass.com
 cdn.trackjs.com
 cdn.tradelab.fr
@@ -3128,6 +3130,7 @@ pass.1688.com
 patagonia.122.2o7.net
 pa.tns-ua.com
 paypal.112.2o7.net
+paypal.adtag.where.com
 pb.adriver.ru
 pb-assets.tedcdn.com
 pbid.pro-market.net
@@ -3364,6 +3367,7 @@ public.servenobid.com
 public.vilynx.com
 publisher-config.unityads.unity3d.com
 pubmatic2waycm-atl.netmng.com
+pubmatic.edgekey.net
 pubmatic-match.dotomi.com
 pubmatic-winners-eu-west-1-rtb.adroll.com
 pubnative.info
