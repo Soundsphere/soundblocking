@@ -171,6 +171,7 @@ a.cdn.intentmedia.net
 acds-b.prod.eu-west-1.vidible.tv
 acds.prod.eu-west-1.vidible.tv
 acds.prod.vidible.tv
+ac.ecosia.org
 a.collective-media.net
 acookie.alibaba.com
 acsbapp.com
@@ -594,6 +595,7 @@ api.cortana.ai
 api.crittercism.com
 api.demandbase.com
 api.device.xiaomi.net
+api.ecosia.org
 api.eu-west-1.aiv-delivery.net
 api.exc.mob.com
 api.flocktory.com
@@ -1135,6 +1137,7 @@ cdn.exelator.com
 cdn-f.adsmoloco.com
 cdn.fbsbx.com
 cdn.firstimpression.io
+cdn.firstpromoter.com
 cdn.flashtalking.com
 cdn.geni.us
 cdn.geodns.tubemogul.com
@@ -1945,6 +1948,7 @@ eu-aa.online-metrix.net
 eu-adsrv.rtbsuperhub.com
 euasync01.admantx.com
 eu.a.volvelle.tech
+eu-central-1.prod.ecosia.org
 eu-dmpsync.3lift.com
 eu-eb2.3lift.com
 eu-gmtdmp.gd1.mookie1.com
@@ -3323,6 +3327,7 @@ privymktg.com
 probe.yieldlab.net
 prod-a.applovin.com
 prod.cm.publishers.advertising.a2z.com
+prod.ecosia.org
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prod-js.aws.y-track.com
 prod.scgraph.facebook.com

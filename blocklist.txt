@@ -171,6 +171,7 @@
 0.0.0.0 acds-b.prod.eu-west-1.vidible.tv
 0.0.0.0 acds.prod.eu-west-1.vidible.tv
 0.0.0.0 acds.prod.vidible.tv
+0.0.0.0 ac.ecosia.org
 0.0.0.0 a.collective-media.net
 0.0.0.0 acookie.alibaba.com
 0.0.0.0 acsbapp.com
@@ -594,6 +595,7 @@
 0.0.0.0 api.crittercism.com
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.device.xiaomi.net
+0.0.0.0 api.ecosia.org
 0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com
@@ -1135,6 +1137,7 @@
 0.0.0.0 cdn-f.adsmoloco.com
 0.0.0.0 cdn.fbsbx.com
 0.0.0.0 cdn.firstimpression.io
+0.0.0.0 cdn.firstpromoter.com
 0.0.0.0 cdn.flashtalking.com
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.geodns.tubemogul.com
@@ -1946,6 +1949,7 @@
 0.0.0.0 eu-adsrv.rtbsuperhub.com
 0.0.0.0 euasync01.admantx.com
 0.0.0.0 eu.a.volvelle.tech
+0.0.0.0 eu-central-1.prod.ecosia.org
 0.0.0.0 eu-dmpsync.3lift.com
 0.0.0.0 eu-eb2.3lift.com
 0.0.0.0 eu-gmtdmp.gd1.mookie1.com
@@ -3325,6 +3329,7 @@
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
+0.0.0.0 prod.ecosia.org
 0.0.0.0 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod.scgraph.facebook.com
