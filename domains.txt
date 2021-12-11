@@ -2895,6 +2895,7 @@ micro.rubiconproject.com
 microsoftwindows.112.2o7.net
 mid.rkdms.com
 milesandmore.d1.sc.omtrdc.net
+mitself.net
 mi.twitch.tv
 mixedmag.com
 ml314.com
@@ -3829,6 +3830,7 @@ showads.pubmatic.com
 shutterstock.inq.com
 sic.33across.com
 s.idio.co
+signin.intel.com
 silktide.com
 simage2.pubmatic.com
 simage4.pubmatic.com
@@ -3988,6 +3990,7 @@ stakingsmile.com
 stan.xing.com
 star.c10r.facebook.com
 star.facebook.com
+starget.intel.com
 startrekk.flaconi.de
 startup.mobile.yandex.net
 stas.outbrain.com
@@ -4107,6 +4110,7 @@ stat.sputnik.ru
 stats.redditmedia.com
 stats.seedr.com
 stats.smartclip.net
+stats.tchncs.de
 stats.tipser.com
 stats.topofblogs.com
 stats.tubemogul.com

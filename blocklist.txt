@@ -2897,6 +2897,7 @@
 0.0.0.0 microsoftwindows.112.2o7.net
 0.0.0.0 mid.rkdms.com
 0.0.0.0 milesandmore.d1.sc.omtrdc.net
+0.0.0.0 mitself.net
 0.0.0.0 mi.twitch.tv
 0.0.0.0 mixedmag.com
 0.0.0.0 ml314.com
@@ -3831,6 +3832,7 @@
 0.0.0.0 shutterstock.inq.com
 0.0.0.0 sic.33across.com
 0.0.0.0 s.idio.co
+0.0.0.0 signin.intel.com
 0.0.0.0 silktide.com
 0.0.0.0 simage2.pubmatic.com
 0.0.0.0 simage4.pubmatic.com
@@ -3990,6 +3992,7 @@
 0.0.0.0 stan.xing.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
+0.0.0.0 starget.intel.com
 0.0.0.0 startrekk.flaconi.de
 0.0.0.0 startup.mobile.yandex.net
 0.0.0.0 stas.outbrain.com
@@ -4109,6 +4112,7 @@
 0.0.0.0 stats.redditmedia.com
 0.0.0.0 stats.seedr.com
 0.0.0.0 stats.smartclip.net
+0.0.0.0 stats.tchncs.de
 0.0.0.0 stats.tipser.com
 0.0.0.0 stats.topofblogs.com
 0.0.0.0 stats.tubemogul.com
