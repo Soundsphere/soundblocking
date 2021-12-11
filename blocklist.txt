@@ -3618,6 +3618,7 @@
 0.0.0.0 s3.us-east-2.amazonaws.com
 0.0.0.0 s400.mxcdn.net
 0.0.0.0 s62.mxcdn.net
+0.0.0.0 s79.mxcdn.net
 0.0.0.0 s7.addthis.com
 0.0.0.0 s8.addthis.com
 0.0.0.0 s8t.teads.tv
