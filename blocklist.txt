@@ -4263,6 +4263,7 @@
 0.0.0.0 tag.crsspxl.com
 0.0.0.0 tag.demandbase.com
 0.0.0.0 tag.digitaltarget.ru
+0.0.0.0 tag.durationmedia.net
 0.0.0.0 t.agentanalytics.com
 0.0.0.0 tag.gammaplatform.com
 0.0.0.0 tagger.opecloud.com

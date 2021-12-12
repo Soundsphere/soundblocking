@@ -4261,6 +4261,7 @@ tag.contextweb.com
 tag.crsspxl.com
 tag.demandbase.com
 tag.digitaltarget.ru
+tag.durationmedia.net
 t.agentanalytics.com
 tag.gammaplatform.com
 tagger.opecloud.com
