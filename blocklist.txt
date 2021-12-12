@@ -3467,6 +3467,7 @@
 0.0.0.0 reachms.bfmio.com
 0.0.0.0 realtime.services.disqus.com
 0.0.0.0 realtor.com
+0.0.0.0 rebelmouse.map.fastly.net
 0.0.0.0 receptivereaction.com
 0.0.0.0 recipegirl.com
 0.0.0.0 reckinbuttiten.pro
@@ -5012,6 +5013,7 @@
 0.0.0.0 www.pornhub.com
 0.0.0.0 www.pornhublive.com
 0.0.0.0 www.porntrex.com
+0.0.0.0 www.premierguitar.com
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
