@@ -232,6 +232,7 @@ ad-emea.doubleclick.net
 adespresso.com
 adeventtracker.spotify.com
 adfarm.mediaplex.com
+adfdsaf.ow.truesteamachievements.com
 ad.foxitsoftware.com
 adf.tubemogul.com
 adhese.com
@@ -605,6 +606,7 @@ api.getdrip.com
 api.getvero.com
 api-global.netflix.com
 api.hostip.info
+api.huqindustries.co.uk
 api.hybrid.intl.xiaomi.com
 api-iam.intercom.io
 api.innomdc.com
@@ -863,6 +865,7 @@ backstage.taboola.com
 badges.instagram.com
 b.admedia.com
 b.aklamio.com
+bam.eu01.nr-data.net
 bam.nr-data.net
 bango.combango.org
 banner.congstar.de
@@ -1145,6 +1148,7 @@ cdn.geodns.tubemogul.com
 cdn.getsmartcontent.com
 cdn-gl.imrworldwide.com
 cdn-gl.nmrodam.com
+cdn.granify.com
 cdn.heapanalytics.com
 cdn-highwinds.unityads.unity3d.com
 cdn.id5-sync.com
@@ -2587,6 +2591,7 @@ js.sddan.com
 jssdkcdns.mparticle.com
 js-sec.casalemedia.com.edgekey.net
 js-sec.indexww.com
+js.sentry-cdn.com
 js.smartredirect.de
 jssocdn.indiatimes.com
 jsso.indiatimes.com
@@ -3829,6 +3834,7 @@ shopify.privy.com
 shopnetic.com
 showads.pubmatic.com
 shutterstock.inq.com
+sibautomation.com
 sic.33across.com
 s.idio.co
 signin.intel.com
@@ -4291,6 +4297,7 @@ tags.tiqcdn.com
 tags.us.onscroll.com
 tags.w55c.net
 tag.userreport.com
+tag.wknd.ai
 tag.yieldoptimizer.com
 talos.adman.gr
 tapestry.tapad.com
@@ -5089,6 +5096,7 @@ x.vindicosuite.com
 xxvideoss.org
 yagiay.com
 yandex.st
+yastatic.net
 yax-winners-eu-west-1-rtb.adroll.com
 yieldlove-d.openx.net
 yield-manager.browsiprod.com
@@ -5106,6 +5114,7 @@ z.cdn.braun634.com
 zdbb.net
 zdbb.netshelter.net
 zd.map.fastly.net
+zdstatic.ign.com
 zdwidget3-bs.sphereup.com
 zeit.met.vgwort.de
 zem.outbrainimg.com

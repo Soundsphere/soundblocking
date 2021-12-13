@@ -232,6 +232,7 @@
 0.0.0.0 adespresso.com
 0.0.0.0 adeventtracker.spotify.com
 0.0.0.0 adfarm.mediaplex.com
+0.0.0.0 adfdsaf.ow.truesteamachievements.com
 0.0.0.0 ad.foxitsoftware.com
 0.0.0.0 adf.tubemogul.com
 0.0.0.0 adhese.com
@@ -605,6 +606,7 @@
 0.0.0.0 api.getvero.com
 0.0.0.0 api-global.netflix.com
 0.0.0.0 api.hostip.info
+0.0.0.0 api.huqindustries.co.uk
 0.0.0.0 api.hybrid.intl.xiaomi.com
 0.0.0.0 api-iam.intercom.io
 0.0.0.0 api.innomdc.com
@@ -863,6 +865,7 @@
 0.0.0.0 badges.instagram.com
 0.0.0.0 b.admedia.com
 0.0.0.0 b.aklamio.com
+0.0.0.0 bam.eu01.nr-data.net
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bango.combango.org
 0.0.0.0 banner.congstar.de
@@ -1145,6 +1148,7 @@
 0.0.0.0 cdn.getsmartcontent.com
 0.0.0.0 cdn-gl.imrworldwide.com
 0.0.0.0 cdn-gl.nmrodam.com
+0.0.0.0 cdn.granify.com
 0.0.0.0 cdn.heapanalytics.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
 0.0.0.0 cdn.id5-sync.com
@@ -2588,6 +2592,7 @@
 0.0.0.0 jssdkcdns.mparticle.com
 0.0.0.0 js-sec.casalemedia.com.edgekey.net
 0.0.0.0 js-sec.indexww.com
+0.0.0.0 js.sentry-cdn.com
 0.0.0.0 js.smartredirect.de
 0.0.0.0 jssocdn.indiatimes.com
 0.0.0.0 jsso.indiatimes.com
@@ -3831,6 +3836,7 @@
 0.0.0.0 shopnetic.com
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 shutterstock.inq.com
+0.0.0.0 sibautomation.com
 0.0.0.0 sic.33across.com
 0.0.0.0 s.idio.co
 0.0.0.0 signin.intel.com
@@ -4293,6 +4299,7 @@
 0.0.0.0 tags.us.onscroll.com
 0.0.0.0 tags.w55c.net
 0.0.0.0 tag.userreport.com
+0.0.0.0 tag.wknd.ai
 0.0.0.0 tag.yieldoptimizer.com
 0.0.0.0 talos.adman.gr
 0.0.0.0 tapestry.tapad.com
@@ -5091,6 +5098,7 @@
 0.0.0.0 xxvideoss.org
 0.0.0.0 yagiay.com
 0.0.0.0 yandex.st
+0.0.0.0 yastatic.net
 0.0.0.0 yax-winners-eu-west-1-rtb.adroll.com
 0.0.0.0 yieldlove-d.openx.net
 0.0.0.0 yield-manager.browsiprod.com
@@ -5108,6 +5116,7 @@
 0.0.0.0 zdbb.net
 0.0.0.0 zdbb.netshelter.net
 0.0.0.0 zd.map.fastly.net
+0.0.0.0 zdstatic.ign.com
 0.0.0.0 zdwidget3-bs.sphereup.com
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zem.outbrainimg.com
