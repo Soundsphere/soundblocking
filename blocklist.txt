@@ -1218,6 +1218,7 @@
 0.0.0.0 cdn.socialannex.com
 0.0.0.0 cdn.special-offers.online
 0.0.0.0 cdn.speedcurve.com
+0.0.0.0 cdn.split.io
 0.0.0.0 cdn.springserve.com
 0.0.0.0 cdnssl.clicktale.net
 0.0.0.0 cdn-static.optimonk.com
@@ -2247,6 +2248,7 @@
 0.0.0.0 googleads.g.doubleclick.net
 0.0.0.0 google-analytics.bi.owox.com
 0.0.0.0 googleleadservices.com
+0.0.0.0 go.okex.com
 0.0.0.0 go.onelink.me
 0.0.0.0 go.pardot.com
 0.0.0.0 go.pub2srv.com

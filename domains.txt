@@ -1218,6 +1218,7 @@ cdn.snigelweb.com
 cdn.socialannex.com
 cdn.special-offers.online
 cdn.speedcurve.com
+cdn.split.io
 cdn.springserve.com
 cdnssl.clicktale.net
 cdn-static.optimonk.com
@@ -2246,6 +2247,7 @@ googleads4.g.doubleclick.net
 googleads.g.doubleclick.net
 google-analytics.bi.owox.com
 googleleadservices.com
+go.okex.com
 go.onelink.me
 go.pardot.com
 go.pub2srv.com
