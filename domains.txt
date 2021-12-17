@@ -2149,6 +2149,7 @@ gahu.hit.gemius.pl
 galleryapi.micloud.xiaomi.net
 gallery.mailchimp.com
 gameplayapi.intel.com
+gamernetwork.bbvms.com
 gamesradar-gb.gamesradar.com
 ganon.yahoo.com
 garu.hit.gemius.pl
@@ -3264,6 +3265,7 @@ platform.tumblr.com
 platform.twitter.com
 player.adtelligent.com
 player.aniview.com
+player.anyclip.com
 player-feedback-v1.glomex.com
 player.h-cdn.com
 player.ooyala.com

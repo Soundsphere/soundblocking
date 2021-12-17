@@ -2150,6 +2150,7 @@
 0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gallery.mailchimp.com
 0.0.0.0 gameplayapi.intel.com
+0.0.0.0 gamernetwork.bbvms.com
 0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 garu.hit.gemius.pl
@@ -3266,6 +3267,7 @@
 0.0.0.0 platform.twitter.com
 0.0.0.0 player.adtelligent.com
 0.0.0.0 player.aniview.com
+0.0.0.0 player.anyclip.com
 0.0.0.0 player-feedback-v1.glomex.com
 0.0.0.0 player.h-cdn.com
 0.0.0.0 player.ooyala.com
