@@ -4752,6 +4752,7 @@ vmss.boldchat.com
 vodafonenz.122.2o7.net
 vogelservices.122.2o7.net
 vop.sundaysky.com
+vortex.data.microsoft.com
 vpaid3.adsafeprotected.com
 vpaid.pubmatic.com
 vra.outbrain.com
