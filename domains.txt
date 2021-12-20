@@ -1903,6 +1903,7 @@ ed98512111bb19e5.in.net
 edaa.eu
 edatasales.com
 edba.brealtime.com
+e.deployads.com
 edge.activity.windows.com
 edge.addthis.com
 edge.quantserve.com
@@ -2909,6 +2910,7 @@ mixedmag.com
 ml314.com
 mlb.demdex.net
 mltrk.io
+mms.sp-prod.net
 mmtro.com
 mm.welt.de
 mobile.adfarm1.adition.com
@@ -3333,6 +3335,7 @@ prism.app-us1.com
 privacy-api.9gag.com
 privacy-policy.truste.com
 privacyportal.onetrust.com
+privacy.stroeerdigitalgroup.de
 privatestats.whatsapp.net
 priv-policy.imrworldwide.com
 privymktg.com
@@ -3696,6 +3699,7 @@ script.tapfiliate.com
 s-cs.send.microad.jp
 sc-static.net
 sc.tynt.com
+s.d3sv.net
 s.deepl.com
 sdk.accountkit.com
 sdk.adtiming.com

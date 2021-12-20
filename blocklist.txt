@@ -1904,6 +1904,7 @@
 0.0.0.0 edaa.eu
 0.0.0.0 edatasales.com
 0.0.0.0 edba.brealtime.com
+0.0.0.0 e.deployads.com
 0.0.0.0 edge.activity.windows.com
 0.0.0.0 edge.addthis.com
 0.0.0.0 edge.quantserve.com
@@ -2911,6 +2912,7 @@
 0.0.0.0 ml314.com
 0.0.0.0 mlb.demdex.net
 0.0.0.0 mltrk.io
+0.0.0.0 mms.sp-prod.net
 0.0.0.0 mmtro.com
 0.0.0.0 mm.welt.de
 0.0.0.0 mobile.adfarm1.adition.com
@@ -3335,6 +3337,7 @@
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacy-policy.truste.com
 0.0.0.0 privacyportal.onetrust.com
+0.0.0.0 privacy.stroeerdigitalgroup.de
 0.0.0.0 privatestats.whatsapp.net
 0.0.0.0 priv-policy.imrworldwide.com
 0.0.0.0 privymktg.com
@@ -3698,6 +3701,7 @@
 0.0.0.0 s-cs.send.microad.jp
 0.0.0.0 sc-static.net
 0.0.0.0 sc.tynt.com
+0.0.0.0 s.d3sv.net
 0.0.0.0 s.deepl.com
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.adtiming.com
