@@ -863,6 +863,7 @@
 0.0.0.0 b97.yahoo.co.jp
 0.0.0.0 b9-eu-imp.tribalfusion.com
 0.0.0.0 backstage.taboola.com
+0.0.0.0 backstory.ebay.com
 0.0.0.0 badges.instagram.com
 0.0.0.0 b.admedia.com
 0.0.0.0 b.aklamio.com
@@ -925,6 +926,7 @@
 0.0.0.0 beap-bc.yahoo.com
 0.0.0.0 beeg.com
 0.0.0.0 behacdn.ksmobile.net
+0.0.0.0 belkin.evyy.net
 0.0.0.0 berliner-zeitung.met.vgwort.de
 0.0.0.0 best.aliexpress.com
 0.0.0.0 bestbuy.com
@@ -3085,6 +3087,7 @@
 0.0.0.0 onetag-sys.com
 0.0.0.0 onscroll-d.openx.net
 0.0.0.0 ookla-d.openx.net
+0.0.0.0 open.inkfrog.com
 0.0.0.0 open.oneplus.net
 0.0.0.0 opensharecount.com
 0.0.0.0 opentag-stats.qubit.com
@@ -3251,6 +3254,7 @@
 0.0.0.0 pixel.tapad.com
 0.0.0.0 pixeltrack.eyeviewads.com
 0.0.0.0 pixel-us-east.rubiconproject.com
+0.0.0.0 pixel-us-west.rubiconproject.com
 0.0.0.0 pixel.watch
 0.0.0.0 pixel.wp.com
 0.0.0.0 pixel.yabidos.com

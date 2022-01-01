@@ -863,6 +863,7 @@ b92.yahoo.co.jp
 b97.yahoo.co.jp
 b9-eu-imp.tribalfusion.com
 backstage.taboola.com
+backstory.ebay.com
 badges.instagram.com
 b.admedia.com
 b.aklamio.com
@@ -925,6 +926,7 @@ beap1.cb.g01.yahoodns.net
 beap-bc.yahoo.com
 beeg.com
 behacdn.ksmobile.net
+belkin.evyy.net
 berliner-zeitung.met.vgwort.de
 best.aliexpress.com
 bestbuy.com
@@ -3083,6 +3085,7 @@ onetag-geo.s-onetag.com
 onetag-sys.com
 onscroll-d.openx.net
 ookla-d.openx.net
+open.inkfrog.com
 open.oneplus.net
 opensharecount.com
 opentag-stats.qubit.com
@@ -3249,6 +3252,7 @@ pixel-sync.sitescout.com
 pixel.tapad.com
 pixeltrack.eyeviewads.com
 pixel-us-east.rubiconproject.com
+pixel-us-west.rubiconproject.com
 pixel.watch
 pixel.wp.com
 pixel.yabidos.com
