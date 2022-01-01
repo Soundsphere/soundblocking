@@ -566,6 +566,7 @@
 0.0.0.0 a.optnmstr.com
 0.0.0.0 aorta.clickagy.com
 0.0.0.0 apex.go.sonobi.com
+0.0.0.0 api16-access-sg.pangle.io
 0.0.0.0 api-2-0.spot.im
 0.0.0.0 api2.amplitude.com
 0.0.0.0 api2.branch.io
@@ -865,6 +866,7 @@
 0.0.0.0 badges.instagram.com
 0.0.0.0 b.admedia.com
 0.0.0.0 b.aklamio.com
+0.0.0.0 bam-cell.nr-data.net
 0.0.0.0 bam.eu01.nr-data.net
 0.0.0.0 bam.nr-data.net
 0.0.0.0 bango.combango.org
@@ -2736,6 +2738,7 @@
 0.0.0.0 logs.amap.com
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
+0.0.0.0 logs.ironsrc.mobi
 0.0.0.0 logs.supersonic.com
 0.0.0.0 logv31.xiti.com
 0.0.0.0 log.worldsoft-cms.info
@@ -4422,6 +4425,7 @@
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.nativendo.de
+0.0.0.0 tnc16-alisg.isnssdk.com
 0.0.0.0 tofu.dmcdn.net
 0.0.0.0 to.getnitropack.com
 0.0.0.0 token.rubiconproject.com

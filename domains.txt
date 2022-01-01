@@ -566,6 +566,7 @@ a.optnmnstr.com
 a.optnmstr.com
 aorta.clickagy.com
 apex.go.sonobi.com
+api16-access-sg.pangle.io
 api-2-0.spot.im
 api2.amplitude.com
 api2.branch.io
@@ -865,6 +866,7 @@ backstage.taboola.com
 badges.instagram.com
 b.admedia.com
 b.aklamio.com
+bam-cell.nr-data.net
 bam.eu01.nr-data.net
 bam.nr-data.net
 bango.combango.org
@@ -2735,6 +2737,7 @@ logs4.xiti.com
 logs.amap.com
 logs.dashlane.com
 logs.gaana.com
+logs.ironsrc.mobi
 logs.supersonic.com
 logv31.xiti.com
 log.worldsoft-cms.info
@@ -4420,6 +4423,7 @@ tmscdn.coremetrics.com
 tm.tradetracker.net
 t.myvisualiq.net
 t.nativendo.de
+tnc16-alisg.isnssdk.com
 tofu.dmcdn.net
 to.getnitropack.com
 token.rubiconproject.com
