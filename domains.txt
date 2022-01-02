@@ -966,6 +966,7 @@ boards.greenhouse.io
 bombora.com
 bonfire.spklw.com
 boomerang.dell.com
+bordeaux.futurecdn.net
 boss.berlinonline.de
 b.perimeterx.net
 bpu.samsungelectronics.com
@@ -4533,6 +4534,7 @@ trafficmanager.anyclip.com
 traffic.outbrain.com
 trafforsrv.com
 tr.blismedia.com
+trc-events.taboola.com
 trck.bdi-services.de
 trck.cyberport.de
 trck.spoteffects.net
@@ -4583,6 +4585,7 @@ t.update.fbsbx.com
 t.update.rubiconproject.com
 twa.netcoresmartech.com
 t.wayfair.com
+twitter-badges.s3.amazonaws.com
 t.yesware.com
 u3s.mathtag.com
 ua-content.adriver.ru

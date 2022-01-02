@@ -966,6 +966,7 @@
 0.0.0.0 bombora.com
 0.0.0.0 bonfire.spklw.com
 0.0.0.0 boomerang.dell.com
+0.0.0.0 bordeaux.futurecdn.net
 0.0.0.0 boss.berlinonline.de
 0.0.0.0 b.perimeterx.net
 0.0.0.0 bpu.samsungelectronics.com
@@ -4535,6 +4536,7 @@
 0.0.0.0 traffic.outbrain.com
 0.0.0.0 trafforsrv.com
 0.0.0.0 tr.blismedia.com
+0.0.0.0 trc-events.taboola.com
 0.0.0.0 trck.bdi-services.de
 0.0.0.0 trck.cyberport.de
 0.0.0.0 trck.spoteffects.net
@@ -4585,6 +4587,7 @@
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 t.wayfair.com
+0.0.0.0 twitter-badges.s3.amazonaws.com
 0.0.0.0 t.yesware.com
 0.0.0.0 u3s.mathtag.com
 0.0.0.0 ua-content.adriver.ru
