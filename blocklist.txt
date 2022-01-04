@@ -1016,6 +1016,7 @@
 0.0.0.0 c.aaxads.com
 0.0.0.0 cache.addthiscdn.com
 0.0.0.0 cache.betweendigital.com
+0.0.0.0 cache.pressmailing.net
 0.0.0.0 cache.soso.com
 0.0.0.0 cache-ssl.celtra.com
 0.0.0.0 c.ad6media.fr
@@ -1364,6 +1365,7 @@
 0.0.0.0 cmp-cdn.ghostery.com
 0.0.0.0 cmp.macworld.com
 0.0.0.0 cmp.mediavine.com
+0.0.0.0 cmp.network-n.com
 0.0.0.0 cmp.rheinpfalz.de
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 cmp.uniconsent.com

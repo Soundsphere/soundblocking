@@ -1016,6 +1016,7 @@ ca1.qualtrics.com
 c.aaxads.com
 cache.addthiscdn.com
 cache.betweendigital.com
+cache.pressmailing.net
 cache.soso.com
 cache-ssl.celtra.com
 c.ad6media.fr
@@ -1364,6 +1365,7 @@ cmp.bz-berlin.de
 cmp-cdn.ghostery.com
 cmp.macworld.com
 cmp.mediavine.com
+cmp.network-n.com
 cmp.rheinpfalz.de
 cmp.teads.mgr.consensu.org
 cmp.uniconsent.com
