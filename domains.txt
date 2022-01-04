@@ -480,6 +480,7 @@ ams-usadmm.dotomi.com
 amzn.to
 analytics00.meride.tv
 analytics.ad.daum.net
+analytics.amiunique.org
 analytics.analytics-egain.com
 analytics.archive.org
 analytics.brave.com
@@ -3127,6 +3128,7 @@ p16-va-tiktok.ibyteimg.com
 p1-tt.byteimg.com
 p1-tt-ipv6.byteimg.com
 p26-tt.byteimg.com
+p3a.brave.com
 p3-tt-ipv6.byteimg.com
 p9-tt.byteimg.com
 p.ad.gt

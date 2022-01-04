@@ -480,6 +480,7 @@
 0.0.0.0 amzn.to
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
+0.0.0.0 analytics.amiunique.org
 0.0.0.0 analytics.analytics-egain.com
 0.0.0.0 analytics.archive.org
 0.0.0.0 analytics.brave.com
@@ -3129,6 +3130,7 @@
 0.0.0.0 p1-tt.byteimg.com
 0.0.0.0 p1-tt-ipv6.byteimg.com
 0.0.0.0 p26-tt.byteimg.com
+0.0.0.0 p3a.brave.com
 0.0.0.0 p3-tt-ipv6.byteimg.com
 0.0.0.0 p9-tt.byteimg.com
 0.0.0.0 p.ad.gt
