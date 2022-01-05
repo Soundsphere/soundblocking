@@ -1219,6 +1219,7 @@ cdns.eu1.gigya.com
 cdns.gigya.com
 cdn.shopify.com
 cdn-sic.33across.com
+cdn.sift.com
 cdn.siftscience.com
 cdn.simpleanalytics.io
 cdn.snigelweb.com

@@ -1219,6 +1219,7 @@
 0.0.0.0 cdns.gigya.com
 0.0.0.0 cdn.shopify.com
 0.0.0.0 cdn-sic.33across.com
+0.0.0.0 cdn.sift.com
 0.0.0.0 cdn.siftscience.com
 0.0.0.0 cdn.simpleanalytics.io
 0.0.0.0 cdn.snigelweb.com
