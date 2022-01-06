@@ -837,6 +837,7 @@
 0.0.0.0 autocomplete.demandbase.com
 0.0.0.0 autocontext.begun.ru
 0.0.0.0 autolinkmaker.itunes.apple.com
+0.0.0.0 autotrack.g.ebay.com
 0.0.0.0 aux-log1-sh.vertamedia.com
 0.0.0.0 aux-log2-sh.vertamedia.com
 0.0.0.0 aux-log.adtelligent.com
@@ -1336,6 +1337,7 @@
 0.0.0.0 client-event-reporter.twitch.tv
 0.0.0.0 clientmetrics.kik.com
 0.0.0.0 client.perimeterx.net
+0.0.0.0 client.px-cloud.net
 0.0.0.0 clients2.google.com
 0.0.0.0 clients6.google.com
 0.0.0.0 c.live.com
@@ -2634,6 +2636,7 @@
 0.0.0.0 kleinanzeigen-d.openx.net
 0.0.0.0 kpu.samsungelectronics.com
 0.0.0.0 kraken.rambler.ru
+0.0.0.0 krebsonsecurity.com
 0.0.0.0 kreiszeitung-de.intellitxt.com
 0.0.0.0 krk.kargo.com
 0.0.0.0 kropka.onet.pl
@@ -3031,6 +3034,7 @@
 0.0.0.0 no-cache.hubspot.com
 0.0.0.0 normandy.cdn.mozilla.net
 0.0.0.0 notebooksbilliger02.webtrekk.net
+0.0.0.0 notifier-configs.airbrake.io
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 nova.collect.igodigital.com
 0.0.0.0 nova.recs.igodigital.com

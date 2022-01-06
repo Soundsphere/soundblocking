@@ -837,6 +837,7 @@ auth.split.io
 autocomplete.demandbase.com
 autocontext.begun.ru
 autolinkmaker.itunes.apple.com
+autotrack.g.ebay.com
 aux-log1-sh.vertamedia.com
 aux-log2-sh.vertamedia.com
 aux-log.adtelligent.com
@@ -1336,6 +1337,7 @@ clientcdn.pushengage.com
 client-event-reporter.twitch.tv
 clientmetrics.kik.com
 client.perimeterx.net
+client.px-cloud.net
 clients2.google.com
 clients6.google.com
 c.live.com
@@ -2633,6 +2635,7 @@ kitbit.net
 kleinanzeigen-d.openx.net
 kpu.samsungelectronics.com
 kraken.rambler.ru
+krebsonsecurity.com
 kreiszeitung-de.intellitxt.com
 krk.kargo.com
 kropka.onet.pl
@@ -3029,6 +3032,7 @@ n.mplxtms.com
 no-cache.hubspot.com
 normandy.cdn.mozilla.net
 notebooksbilliger02.webtrekk.net
+notifier-configs.airbrake.io
 notify.bugsnag.com
 nova.collect.igodigital.com
 nova.recs.igodigital.com
