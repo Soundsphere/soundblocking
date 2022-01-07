@@ -3993,6 +3993,7 @@ ssl.kaptcha.com
 ssl.mousestats.com
 ssl.o.webmd.com
 ssl-tagesspiegel.met.vgwort.de
+ssl-t-online.met.vgwort.de
 ssl-vg03.met.vgwort.de
 ssl.vizury.com
 ssl-weka.met.vgwort.de
