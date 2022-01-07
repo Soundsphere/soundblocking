@@ -3941,6 +3941,7 @@ sp.analytics.yahoo.com
 spanids.dictionary.com
 spanids.thesaurus.com
 spanishdict-d.openx.net
+spectrum.gettyimages.com
 spgo.io
 spiegel-de.spiegel.de
 spiegel.met.vgwort.de
