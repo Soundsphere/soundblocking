@@ -148,6 +148,7 @@
 0.0.0.0 aaxdetect.com
 0.0.0.0 aax-eu.amazon-adsystem.com
 0.0.0.0 aax-eu.amazon.de
+0.0.0.0 aax-eu-dub.amazon.com
 0.0.0.0 aax-eu-retail-direct.amazon-adsystem.com
 0.0.0.0 aax-us.amazon-adsystem.com
 0.0.0.0 aax-us-east.amazon-adsystem.com
@@ -973,6 +974,7 @@
 0.0.0.0 b.perimeterx.net
 0.0.0.0 bpu.samsungelectronics.com
 0.0.0.0 brain.foresee.com
+0.0.0.0 brightcombid.marphezis.com
 0.0.0.0 britishskybroadcasti.tt.omtrdc.net
 0.0.0.0 browser.events.data.microsoft.com
 0.0.0.0 browser.events.data.msn.com
@@ -2162,6 +2164,7 @@
 0.0.0.0 galleryapi.micloud.xiaomi.net
 0.0.0.0 gallery.mailchimp.com
 0.0.0.0 gameplayapi.intel.com
+0.0.0.0 gamer-d.openx.net
 0.0.0.0 gamernetwork.bbvms.com
 0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 ganon.yahoo.com
@@ -3401,6 +3404,7 @@
 0.0.0.0 pubads.g.doubleclick.net
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 publicagent.com
+0.0.0.0 public.onlyfans.com
 0.0.0.0 public.profitwell.com
 0.0.0.0 public.servenobid.com
 0.0.0.0 public.vilynx.com
@@ -4717,6 +4721,7 @@
 0.0.0.0 vast-pop-zrh.mathtag.com
 0.0.0.0 vast-test.mathtag.com
 0.0.0.0 vast.videocdn.tv
+0.0.0.0 va.tawk.to
 0.0.0.0 vcdn.adnxs.com
 0.0.0.0 vc.hotjar.io
 0.0.0.0 v.connatix.com
