@@ -899,6 +899,7 @@ bc.marfeelcache.com
 bc.marfeel.com
 b-code.liadm.com
 bcp.crwdcntrl.net
+bdimg.share.baidu.com
 bea4.v.fwmrm.net
 beacon.aimtell.com
 beacon.errorception.com
@@ -2094,6 +2095,7 @@ files.slack.com
 files.upscore.com
 find.api.micloud.xiaomi.net
 fireads.online
+firebaseinstallations.googleapis.com
 firebaselogging.googleapis.com
 firebaselogging-pa.googleapis.com
 firebase-settings.crashlytics.com
@@ -4091,9 +4093,11 @@ static.klaviyo.com
 static.licdn.com
 static-lon1.dynamicyield.com
 static.mackeeper.com
+static.mailerlite.com
 static.narrativ.com
 static.parsely.com
 static.plista.com
+static.scarabresearch.com
 static.scroll.com
 static.segment.com
 static.sharethrough.com
@@ -4833,6 +4837,7 @@ webvideomarketing.ru
 webview.unityads.unity3d.com
 web.vortex.data.microsoft.com
 web.vortex.data.msn.com
+weebly.com
 wellsfargobankna.demdex.net
 weltonline01.webtrekk.net
 w.estat.com
@@ -5096,6 +5101,7 @@ www.userreport.com
 www.videoreach.de
 www.vkmag.com
 www.vungle.com
+www.weebly.com
 www.wikifeetx.com
 www.worldometers.info
 www.xaxis.com

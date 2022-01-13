@@ -899,6 +899,7 @@
 0.0.0.0 bc.marfeel.com
 0.0.0.0 b-code.liadm.com
 0.0.0.0 bcp.crwdcntrl.net
+0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beacon.aimtell.com
 0.0.0.0 beacon.errorception.com
@@ -2095,6 +2096,7 @@
 0.0.0.0 files.upscore.com
 0.0.0.0 find.api.micloud.xiaomi.net
 0.0.0.0 fireads.online
+0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
 0.0.0.0 firebaselogging-pa.googleapis.com
 0.0.0.0 firebase-settings.crashlytics.com
@@ -4093,9 +4095,11 @@
 0.0.0.0 static.licdn.com
 0.0.0.0 static-lon1.dynamicyield.com
 0.0.0.0 static.mackeeper.com
+0.0.0.0 static.mailerlite.com
 0.0.0.0 static.narrativ.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
+0.0.0.0 static.scarabresearch.com
 0.0.0.0 static.scroll.com
 0.0.0.0 static.segment.com
 0.0.0.0 static.sharethrough.com
@@ -4835,6 +4839,7 @@
 0.0.0.0 webview.unityads.unity3d.com
 0.0.0.0 web.vortex.data.microsoft.com
 0.0.0.0 web.vortex.data.msn.com
+0.0.0.0 weebly.com
 0.0.0.0 wellsfargobankna.demdex.net
 0.0.0.0 weltonline01.webtrekk.net
 0.0.0.0 w.estat.com
@@ -5098,6 +5103,7 @@
 0.0.0.0 www.videoreach.de
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
+0.0.0.0 www.weebly.com
 0.0.0.0 www.wikifeetx.com
 0.0.0.0 www.worldometers.info
 0.0.0.0 www.xaxis.com
