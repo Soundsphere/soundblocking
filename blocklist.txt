@@ -1481,6 +1481,7 @@
 0.0.0.0 convhkmp.taboola.com
 0.0.0.0 conv.tubemogul.com
 0.0.0.0 cookie.brealtime.com
+0.0.0.0 cookie-cdn.cookiepro.com
 0.0.0.0 cookiee1.veinteractive.com
 0.0.0.0 cookieinfoscript.com
 0.0.0.0 cookie-matching.mediarithmics.com
@@ -3366,6 +3367,7 @@
 0.0.0.0 probe.yieldlab.net
 0.0.0.0 prod-a.applovin.com
 0.0.0.0 prod.cm.publishers.advertising.a2z.com
+0.0.0.0 prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 0.0.0.0 prod.ecosia.org
 0.0.0.0 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 prod-js.aws.y-track.com
@@ -4804,6 +4806,7 @@
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vzuhe758ae.kameleoon.eu
 0.0.0.0 w7.berlin.de
+0.0.0.0 waproduction.postaffiliatepro.com
 0.0.0.0 warnerbros.112.2o7.net
 0.0.0.0 washingtonpost.com.102.112.2o7.net
 0.0.0.0 watson.telemetry.microsoft.com

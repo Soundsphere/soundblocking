@@ -1480,6 +1480,7 @@ conversions.appsflyer.com
 convhkmp.taboola.com
 conv.tubemogul.com
 cookie.brealtime.com
+cookie-cdn.cookiepro.com
 cookiee1.veinteractive.com
 cookieinfoscript.com
 cookie-matching.mediarithmics.com
@@ -3364,6 +3365,7 @@ privymktg.com
 probe.yieldlab.net
 prod-a.applovin.com
 prod.cm.publishers.advertising.a2z.com
+prod-dem-collector-elb-611025824.eu-west-1.elb.amazonaws.com
 prod.ecosia.org
 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 prod-js.aws.y-track.com
@@ -4802,6 +4804,7 @@ v.w-x.co
 vz-cdn.trafficjunky.net
 vzuhe758ae.kameleoon.eu
 w7.berlin.de
+waproduction.postaffiliatepro.com
 warnerbros.112.2o7.net
 washingtonpost.com.102.112.2o7.net
 watson.telemetry.microsoft.com
