@@ -3654,6 +3654,7 @@ s3.ll.videorolls.row.aiv-cdn.net
 s3.tradingview.com
 s3.us-east-1.amazonaws.com
 s3.us-east-2.amazonaws.com
+s3-us-west-2.amazonaws.com
 s400.mxcdn.net
 s62.mxcdn.net
 s79.mxcdn.net
