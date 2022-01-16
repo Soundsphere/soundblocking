@@ -1196,6 +1196,7 @@
 0.0.0.0 cdn.optimizely.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.pbstck.com
+0.0.0.0 cdn.pendo.io
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
@@ -2949,6 +2950,7 @@
 0.0.0.0 moevideo.biz
 0.0.0.0 mogointeractive.com
 0.0.0.0 monitor.econda-monitor.de
+0.0.0.0 monu.delivery
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 movip.wps.com
@@ -3061,12 +3063,14 @@
 0.0.0.0 nyidt.adsafeprotected.com
 0.0.0.0 nym1-ib.adnxs.com
 0.0.0.0 nypost-d.openx.net
+0.0.0.0 nytrng.com
 0.0.0.0 nzz.d3.sc.omtrdc.net
 0.0.0.0 o1.qnsr.com
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o2.mouseflow.com
 0.0.0.0 o418887.ingest.sentry.io
 0.0.0.0 o64374.ingest.sentry.io
+0.0.0.0 o83571.ingest.sentry.io
 0.0.0.0 o.addthis.com
 0.0.0.0 oasc05.247realmedia.com
 0.0.0.0 oascentral.consumerreports.org
@@ -4400,6 +4404,7 @@
 0.0.0.0 tg.socdm.com
 0.0.0.0 thaliade02.webtrekk.net
 0.0.0.0 tharbadir.com
+0.0.0.0 thebrainyard.engine.adglare.net
 0.0.0.0 thedrive-d.openx.net
 0.0.0.0 theporndude.com
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
@@ -4766,6 +4771,7 @@
 0.0.0.0 videoevents.outbrain.com
 0.0.0.0 video.moatads.com
 0.0.0.0 video.oms.eu
+0.0.0.0 video.primis.tech
 0.0.0.0 video-shield.mediavine.com
 0.0.0.0 video.unrulymedia.com
 0.0.0.0 vid-io-dub.springserve.com

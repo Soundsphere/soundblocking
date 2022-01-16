@@ -1196,6 +1196,7 @@ cdn.onthe.io
 cdn.optimizely.com
 cdn.parsely.com
 cdn.pbstck.com
+cdn.pendo.io
 cdn.perfdrive.com
 cdn.permutive.com
 cdn.petametrics.com
@@ -2947,6 +2948,7 @@ moe.video
 moevideo.biz
 mogointeractive.com
 monitor.econda-monitor.de
+monu.delivery
 mon-va.byteoversea.com
 mormont.gamer-network.net
 movip.wps.com
@@ -3059,12 +3061,14 @@ nycp-hlb.dvgtm.akadns.net
 nyidt.adsafeprotected.com
 nym1-ib.adnxs.com
 nypost-d.openx.net
+nytrng.com
 nzz.d3.sc.omtrdc.net
 o1.qnsr.com
 o278969.ingest.sentry.io
 o2.mouseflow.com
 o418887.ingest.sentry.io
 o64374.ingest.sentry.io
+o83571.ingest.sentry.io
 o.addthis.com
 oasc05.247realmedia.com
 oascentral.consumerreports.org
@@ -4398,6 +4402,7 @@ t.gammaplatform.com
 tg.socdm.com
 thaliade02.webtrekk.net
 tharbadir.com
+thebrainyard.engine.adglare.net
 thedrive-d.openx.net
 theporndude.com
 thind-gke-euw.prd.data.corp.unity3d.com
@@ -4764,6 +4769,7 @@ video-assets.mathtag.com
 videoevents.outbrain.com
 video.moatads.com
 video.oms.eu
+video.primis.tech
 video-shield.mediavine.com
 video.unrulymedia.com
 vid-io-dub.springserve.com
