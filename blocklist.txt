@@ -2086,6 +2086,7 @@
 0.0.0.0 fdts.ebay-kleinanzeigen.de
 0.0.0.0 fdyn.pubwise.io
 0.0.0.0 feedback.adrecover.com
+0.0.0.0 feedback.userreport.com
 0.0.0.0 feedbackws.icloud.com
 0.0.0.0 feedburner.google.com
 0.0.0.0 feed.engage.im
@@ -2342,6 +2343,7 @@
 0.0.0.0 heredeutschlandgmbh.d1.sc.omtrdc.net
 0.0.0.0 hertz.122.2o7.net
 0.0.0.0 hexagon-analytics.com
+0.0.0.0 hifi-d.openx.net
 0.0.0.0 hi.hellobar.com
 0.0.0.0 h.imedia.cz
 0.0.0.0 history.google.com

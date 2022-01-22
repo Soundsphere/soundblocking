@@ -2085,6 +2085,7 @@ fc.yahoo.com
 fdts.ebay-kleinanzeigen.de
 fdyn.pubwise.io
 feedback.adrecover.com
+feedback.userreport.com
 feedbackws.icloud.com
 feedburner.google.com
 feed.engage.im
@@ -2341,6 +2342,7 @@ helper-stats.wondershare.com
 heredeutschlandgmbh.d1.sc.omtrdc.net
 hertz.122.2o7.net
 hexagon-analytics.com
+hifi-d.openx.net
 hi.hellobar.com
 h.imedia.cz
 history.google.com
