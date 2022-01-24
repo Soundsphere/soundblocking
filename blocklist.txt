@@ -491,6 +491,7 @@
 0.0.0.0 analytics-cdn.redbubble.com
 0.0.0.0 analytics.clickdimensions.com
 0.0.0.0 analytics.cnd-motionmedia.de
+0.0.0.0 analytics.codemasters.com
 0.0.0.0 analyticsdcs.ccs.mcafee.com
 0.0.0.0 analytics.deutscher-apotheker-verlag.de
 0.0.0.0 analytics.dpd.com
@@ -2085,6 +2086,7 @@
 0.0.0.0 fc.yahoo.com
 0.0.0.0 fdts.ebay-kleinanzeigen.de
 0.0.0.0 fdyn.pubwise.io
+0.0.0.0 federatedml-pa.googleapis.com
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedback.userreport.com
 0.0.0.0 feedbackws.icloud.com

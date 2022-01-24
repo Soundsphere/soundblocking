@@ -491,6 +491,7 @@ analytics.ccs.mcafee.com
 analytics-cdn.redbubble.com
 analytics.clickdimensions.com
 analytics.cnd-motionmedia.de
+analytics.codemasters.com
 analyticsdcs.ccs.mcafee.com
 analytics.deutscher-apotheker-verlag.de
 analytics.dpd.com
@@ -2084,6 +2085,7 @@ fc.webmasterpro.de
 fc.yahoo.com
 fdts.ebay-kleinanzeigen.de
 fdyn.pubwise.io
+federatedml-pa.googleapis.com
 feedback.adrecover.com
 feedback.userreport.com
 feedbackws.icloud.com
