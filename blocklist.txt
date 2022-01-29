@@ -1156,6 +1156,7 @@
 0.0.0.0 cdn.firstimpression.io
 0.0.0.0 cdn.firstpromoter.com
 0.0.0.0 cdn.flashtalking.com
+0.0.0.0 cdn.fuseplatform.net
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.geodns.tubemogul.com
 0.0.0.0 cdn.getsmartcontent.com
@@ -1196,6 +1197,7 @@
 0.0.0.0 cdn.onesignal.com
 0.0.0.0 cdn.onthe.io
 0.0.0.0 cdn.optimizely.com
+0.0.0.0 cdn.otnolatrnup.com
 0.0.0.0 cdn.parsely.com
 0.0.0.0 cdn.pbstck.com
 0.0.0.0 cdn.pendo.io
@@ -1537,6 +1539,7 @@
 0.0.0.0 csc.beap.bc.yahoo.com
 0.0.0.0 cse.google.com
 0.0.0.0 cs.emxdgt.com
+0.0.0.0 c.sf-syn.com
 0.0.0.0 cs.gssprt.jp
 0.0.0.0 csi.gstatic.com
 0.0.0.0 cslogger.media.net
@@ -2081,6 +2084,7 @@
 0.0.0.0 faultycanvas.com
 0.0.0.0 faz.met.vgwort.de
 0.0.0.0 fbc.wcfbc.net
+0.0.0.0 f.convertkit.com
 0.0.0.0 fc.vodafone.de
 0.0.0.0 fc.webmasterpro.de
 0.0.0.0 fc.yahoo.com
@@ -2878,6 +2882,7 @@
 0.0.0.0 media.complex.com
 0.0.0.0 media-eu1.inq.com
 0.0.0.0 media-exp1.licdn.com
+0.0.0.0 mediafire-d.openx.net
 0.0.0.0 media.flixfacts.com
 0.0.0.0 media.go2speed.org
 0.0.0.0 media-lax1.inq.com
@@ -4812,6 +4817,7 @@
 0.0.0.0 vrp.outbrain.com
 0.0.0.0 vrt.outbrain.com
 0.0.0.0 vstats.digitaltrends.com
+0.0.0.0 vsti.winsite.com
 0.0.0.0 vs.webtrekk.net
 0.0.0.0 vt.adition.com
 0.0.0.0 vt.myvisualiq.net
@@ -4894,6 +4900,7 @@
 0.0.0.0 wildcard.moatads.com.edgekey.net
 0.0.0.0 wileypublishing.sc.omtrdc.net
 0.0.0.0 win8.ipv6.microsoft.com
+0.0.0.0 winsite.com
 0.0.0.0 wms.assoc-amazon.com
 0.0.0.0 wms.assoc-amazon.de
 0.0.0.0 wms-eu.amazon-adsystem.com
@@ -5058,6 +5065,7 @@
 0.0.0.0 www.linksalpha.com
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liveinternet.ru
+0.0.0.0 www.looperman.com
 0.0.0.0 www.mailchimp.com
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.marketo.com

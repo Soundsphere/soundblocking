@@ -1156,6 +1156,7 @@ cdn.fbsbx.com
 cdn.firstimpression.io
 cdn.firstpromoter.com
 cdn.flashtalking.com
+cdn.fuseplatform.net
 cdn.geni.us
 cdn.geodns.tubemogul.com
 cdn.getsmartcontent.com
@@ -1196,6 +1197,7 @@ cdn.onenote.net
 cdn.onesignal.com
 cdn.onthe.io
 cdn.optimizely.com
+cdn.otnolatrnup.com
 cdn.parsely.com
 cdn.pbstck.com
 cdn.pendo.io
@@ -1536,6 +1538,7 @@ cs.admanmedia.com
 csc.beap.bc.yahoo.com
 cse.google.com
 cs.emxdgt.com
+c.sf-syn.com
 cs.gssprt.jp
 csi.gstatic.com
 cslogger.media.net
@@ -2080,6 +2083,7 @@ fast.wistia.com
 faultycanvas.com
 faz.met.vgwort.de
 fbc.wcfbc.net
+f.convertkit.com
 fc.vodafone.de
 fc.webmasterpro.de
 fc.yahoo.com
@@ -2876,6 +2880,7 @@ media.carambo.la
 media.complex.com
 media-eu1.inq.com
 media-exp1.licdn.com
+mediafire-d.openx.net
 media.flixfacts.com
 media.go2speed.org
 media-lax1.inq.com
@@ -4810,6 +4815,7 @@ vra.outbrain.com
 vrp.outbrain.com
 vrt.outbrain.com
 vstats.digitaltrends.com
+vsti.winsite.com
 vs.webtrekk.net
 vt.adition.com
 vt.myvisualiq.net
@@ -4892,6 +4898,7 @@ wildcard.cdn.optimizely.com.edgekey.net
 wildcard.moatads.com.edgekey.net
 wileypublishing.sc.omtrdc.net
 win8.ipv6.microsoft.com
+winsite.com
 wms.assoc-amazon.com
 wms.assoc-amazon.de
 wms-eu.amazon-adsystem.com
@@ -5056,6 +5063,7 @@ www.linkconnector.com
 www.linksalpha.com
 www.linkwithin.com
 www.liveinternet.ru
+www.looperman.com
 www.mailchimp.com
 www.mainadv.com
 www.marketo.com
