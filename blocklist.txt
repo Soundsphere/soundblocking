@@ -2393,6 +2393,7 @@
 0.0.0.0 ia802604.us.archive.org
 0.0.0.0 iabmap.evidon.com
 0.0.0.0 iadsdk.apple.com
+0.0.0.0 iadsdk.apple.com.akadns.net
 0.0.0.0 i-am3p-cor004.api.p001.1drv.com
 0.0.0.0 iam-agof-app.irquest.com
 0.0.0.0 ib.3lift.com
@@ -3774,6 +3775,7 @@
 0.0.0.0 seal.geotrust.com
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.verisign.com
+0.0.0.0 seamlessupdate.app
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 sec.levexis.com
 0.0.0.0 s.eclick.vn
@@ -4079,6 +4081,7 @@
 0.0.0.0 static.adzerk.net
 0.0.0.0 static.adziff.com
 0.0.0.0 static.affilae.com
+0.0.0.0 static.affiliatly.com
 0.0.0.0 static.apester.com
 0.0.0.0 static.atgsvcs.com
 0.0.0.0 static-bp.kameleoon.com
@@ -5006,9 +5009,11 @@
 0.0.0.0 www.bookdepository.com
 0.0.0.0 www.breakingnews.ie
 0.0.0.0 www.browser-statistik.de
+0.0.0.0 www.bugherd.com
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clarity.ms
 0.0.0.0 www.clicktripz.com
+0.0.0.0 www.coinbase.com
 0.0.0.0 www.counter-gratis.com
 0.0.0.0 www.counter-kostenlos.net
 0.0.0.0 www.crazyegg.com
