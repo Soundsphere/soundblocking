@@ -493,6 +493,7 @@
 0.0.0.0 analytics.cnd-motionmedia.de
 0.0.0.0 analytics.codemasters.com
 0.0.0.0 analyticsdcs.ccs.mcafee.com
+0.0.0.0 analytics.decomposer.de
 0.0.0.0 analytics.deutscher-apotheker-verlag.de
 0.0.0.0 analytics.dpd.com
 0.0.0.0 analytics.ecosia.org
