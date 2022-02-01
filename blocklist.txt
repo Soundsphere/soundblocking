@@ -870,6 +870,7 @@
 0.0.0.0 b9-eu-imp.tribalfusion.com
 0.0.0.0 backstage.taboola.com
 0.0.0.0 backstory.ebay.com
+0.0.0.0 backstory.ebay.de
 0.0.0.0 badges.instagram.com
 0.0.0.0 b.admedia.com
 0.0.0.0 b.aklamio.com
@@ -2044,6 +2045,7 @@
 0.0.0.0 exapi-eu.rubiconproject.com
 0.0.0.0 exapxl.de
 0.0.0.0 ex.banner.t-online.de
+0.0.0.0 exchange.mediavine.com
 0.0.0.0 exch.quantcount.com
 0.0.0.0 exch.quantserve.com
 0.0.0.0 exmarketplace.com

@@ -870,6 +870,7 @@ b97.yahoo.co.jp
 b9-eu-imp.tribalfusion.com
 backstage.taboola.com
 backstory.ebay.com
+backstory.ebay.de
 badges.instagram.com
 b.admedia.com
 b.aklamio.com
@@ -2043,6 +2044,7 @@ ew3.io
 exapi-eu.rubiconproject.com
 exapxl.de
 ex.banner.t-online.de
+exchange.mediavine.com
 exch.quantcount.com
 exch.quantserve.com
 exmarketplace.com
