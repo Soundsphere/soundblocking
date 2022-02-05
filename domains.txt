@@ -4750,6 +4750,7 @@ vast-pop-zrh.mathtag.com
 vast-test.mathtag.com
 vast.videocdn.tv
 va.tawk.to
+va.v.liveperson.net
 vcdn.adnxs.com
 vc.hotjar.io
 v.connatix.com
