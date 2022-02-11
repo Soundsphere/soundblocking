@@ -899,6 +899,7 @@ bbnaut.bbelements.com
 bbnaut.ibillboard.com
 b.boyfriendtv.com
 bcb-beacon-nr.rubiconproject.com
+b.clarity.ms
 bc.marfeelcache.com
 bc.marfeel.com
 b-code.liadm.com
@@ -1060,6 +1061,7 @@ cbsinteractive.hb.omtrdc.net
 cc-api-data.adobe.io
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
+c.clarity.ms
 c.cnzz.com
 cc.swiftype.com
 cc.sys.intl.xiaomi.com
@@ -1940,6 +1942,7 @@ eldamar02-loadbalanced.kameleoon.com
 eldamar03-loadbalanced.kameleoon.com
 eldamar04-loadbalanced.kameleoon.com
 electrumx.ddns.net
+elqtrk.intel.de
 elr.sfr.fr
 elsevier.com.ssl.d1.sc.omtrdc.net
 e.mail.ru
@@ -2861,6 +2864,7 @@ mblapi.ssl2.duapps.com
 mb.moatads.com
 mboxedge21.tt.omtrdc.net
 mboxedge26.tt.omtrdc.net
+mboxedge37.tt.omtrdc.net
 mbsy.co
 mcafee12.tt.omtrdc.net
 mcdp-chidc2.outbrain.com
@@ -4055,6 +4059,7 @@ stan.xing.com
 star.c10r.facebook.com
 star.facebook.com
 starget.intel.com
+starget.intel.de
 startrekk.flaconi.de
 startup.mobile.yandex.net
 stas.outbrain.com
@@ -4966,6 +4971,7 @@ www6.smartadserver.com
 www.888casino.com
 www8.smartadserver.com
 www91.intel.com
+www91.intel.de
 www9.smartadserver.com
 www.abebooks.de
 www.acint.net
