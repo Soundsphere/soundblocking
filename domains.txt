@@ -864,6 +864,7 @@ azwancan.trafficmanager.net
 b0oqeyj7z5.kameleoon.eu
 b1img.com
 b1sync.zemanta.com
+b27ni7.g02.ign.com
 b.6sc.co
 b92.yahoo.co.jp
 b97.yahoo.co.jp
@@ -3199,6 +3200,7 @@ pb-assets.tedcdn.com
 pbid.pro-market.net
 p.bm23.com
 p.brsrvr.com
+pbs.twimg.com
 p.cpx.to
 pde.lp4.io
 pdn.applovin.com

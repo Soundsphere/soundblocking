@@ -864,6 +864,7 @@
 0.0.0.0 b0oqeyj7z5.kameleoon.eu
 0.0.0.0 b1img.com
 0.0.0.0 b1sync.zemanta.com
+0.0.0.0 b27ni7.g02.ign.com
 0.0.0.0 b.6sc.co
 0.0.0.0 b92.yahoo.co.jp
 0.0.0.0 b97.yahoo.co.jp
@@ -3201,6 +3202,7 @@
 0.0.0.0 pbid.pro-market.net
 0.0.0.0 p.bm23.com
 0.0.0.0 p.brsrvr.com
+0.0.0.0 pbs.twimg.com
 0.0.0.0 p.cpx.to
 0.0.0.0 pde.lp4.io
 0.0.0.0 pdn.applovin.com
