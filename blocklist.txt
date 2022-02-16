@@ -604,6 +604,7 @@
 0.0.0.0 api.demandbase.com
 0.0.0.0 api.device.xiaomi.net
 0.0.0.0 api.ecosia.org
+0.0.0.0 api-eu.mixpanel.com
 0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com

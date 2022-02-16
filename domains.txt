@@ -604,6 +604,7 @@ api.crittercism.com
 api.demandbase.com
 api.device.xiaomi.net
 api.ecosia.org
+api-eu.mixpanel.com
 api.eu-west-1.aiv-delivery.net
 api.exc.mob.com
 api.flocktory.com
