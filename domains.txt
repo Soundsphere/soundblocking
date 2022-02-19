@@ -1155,6 +1155,7 @@ cdn.embedly.com
 cdn.engine.4dsply.com
 cdn-eu.dynamicyield.com
 cdn.evergage.com
+cdn.evgnet.com
 cdn.exactag.com
 cdn.exelator.com
 cdn-f.adsmoloco.com

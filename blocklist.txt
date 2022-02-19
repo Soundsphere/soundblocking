@@ -1155,6 +1155,7 @@
 0.0.0.0 cdn.engine.4dsply.com
 0.0.0.0 cdn-eu.dynamicyield.com
 0.0.0.0 cdn.evergage.com
+0.0.0.0 cdn.evgnet.com
 0.0.0.0 cdn.exactag.com
 0.0.0.0 cdn.exelator.com
 0.0.0.0 cdn-f.adsmoloco.com
