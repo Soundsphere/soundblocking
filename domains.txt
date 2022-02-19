@@ -4166,6 +4166,7 @@ stats.buysellads.com
 stats.clickforknowledge.com
 stats.computecmedia.de
 stats.ebuckler.com
+stats.elementary.io
 statse.webtrendslive.com
 statsfe2.ws.microsoft.com
 statsf-tm.everesttech.net
@@ -4620,6 +4621,7 @@ tru.am
 trustx.digitru.st
 try.abtasty.com
 ts-crl.ws.symantec.com
+t.seedtag.com
 t.sf14g.com
 tsfe.trafficshaping.dsp.mp.microsoft.com
 t.sharethis.com
@@ -5112,6 +5114,7 @@ www.rce-event.de
 www.redtube.com.br
 www.reimageplus.com
 www.roosterfirework.com
+www.salesforce.com
 www.sc.pages02.net
 www.sdad.guru
 www.sedoparking.com

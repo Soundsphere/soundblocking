@@ -4168,6 +4168,7 @@
 0.0.0.0 stats.clickforknowledge.com
 0.0.0.0 stats.computecmedia.de
 0.0.0.0 stats.ebuckler.com
+0.0.0.0 stats.elementary.io
 0.0.0.0 statse.webtrendslive.com
 0.0.0.0 statsfe2.ws.microsoft.com
 0.0.0.0 statsf-tm.everesttech.net
@@ -4622,6 +4623,7 @@
 0.0.0.0 trustx.digitru.st
 0.0.0.0 try.abtasty.com
 0.0.0.0 ts-crl.ws.symantec.com
+0.0.0.0 t.seedtag.com
 0.0.0.0 t.sf14g.com
 0.0.0.0 tsfe.trafficshaping.dsp.mp.microsoft.com
 0.0.0.0 t.sharethis.com
@@ -5114,6 +5116,7 @@
 0.0.0.0 www.redtube.com.br
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.roosterfirework.com
+0.0.0.0 www.salesforce.com
 0.0.0.0 www.sc.pages02.net
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.sedoparking.com
