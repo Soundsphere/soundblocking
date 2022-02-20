@@ -816,6 +816,7 @@ aswpsdkeu.com
 aswpsdkus.com
 async-px.dynamicyield.com
 async-px-eu.dynamicyield.com
+at.adtech.redventures.io
 a.teads.tv
 atemda.com
 atf.containers.piwik.pro
@@ -1177,6 +1178,7 @@ cdn-images.mailchimp.com
 cdn.inskinad.com
 cdn.inspectlet.com
 cdn.interactivemedia.net
+cdn.intergi.com
 cdn.intergient.com
 cdn.iqcontentplatform.de
 cdn.iubenda.com
@@ -1560,6 +1562,7 @@ csr.onet.pl
 cstat.apple.com
 c.statcounter.com
 cstatic.weborama.fr
+cst.wpu.sh
 csync.loopme.me
 c.t4ft.de
 cti.w55c.net
@@ -1752,6 +1755,7 @@ dc56.s290.meetrics.net
 dc61.s290.meetrics.net
 dc84.s290.meetrics.net
 dc8xl0ndzn2cb.cloudfront.net
+d-cache.microad.jp
 dc.ads.linkedin.com
 dc.banggood.com
 dccss.banggood.com
@@ -2239,6 +2243,7 @@ get.cryptobrowser.site
 getexceptional.com
 gethatch.com
 get.mirando.de
+get.optad360.io
 getrockerbox.com
 get.s-onetag.com
 g.ezodn.com
@@ -4419,6 +4424,7 @@ telemetry.tradingview.com
 tempest.services.disqus.com
 tendertest.com
 tenor.com
+terrifictooth.com
 tesla.tt.omtrdc.net
 testlibs.coremetrics.com
 test.quantcast.mgr.consensu.org

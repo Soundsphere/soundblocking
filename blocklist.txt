@@ -816,6 +816,7 @@
 0.0.0.0 aswpsdkus.com
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 async-px-eu.dynamicyield.com
+0.0.0.0 at.adtech.redventures.io
 0.0.0.0 a.teads.tv
 0.0.0.0 atemda.com
 0.0.0.0 atf.containers.piwik.pro
@@ -1177,6 +1178,7 @@
 0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
 0.0.0.0 cdn.interactivemedia.net
+0.0.0.0 cdn.intergi.com
 0.0.0.0 cdn.intergient.com
 0.0.0.0 cdn.iqcontentplatform.de
 0.0.0.0 cdn.iubenda.com
@@ -1561,6 +1563,7 @@
 0.0.0.0 cstat.apple.com
 0.0.0.0 c.statcounter.com
 0.0.0.0 cstatic.weborama.fr
+0.0.0.0 cst.wpu.sh
 0.0.0.0 csync.loopme.me
 0.0.0.0 c.t4ft.de
 0.0.0.0 cti.w55c.net
@@ -1753,6 +1756,7 @@
 0.0.0.0 dc61.s290.meetrics.net
 0.0.0.0 dc84.s290.meetrics.net
 0.0.0.0 dc8xl0ndzn2cb.cloudfront.net
+0.0.0.0 d-cache.microad.jp
 0.0.0.0 dc.ads.linkedin.com
 0.0.0.0 dc.banggood.com
 0.0.0.0 dccss.banggood.com
@@ -2240,6 +2244,7 @@
 0.0.0.0 getexceptional.com
 0.0.0.0 gethatch.com
 0.0.0.0 get.mirando.de
+0.0.0.0 get.optad360.io
 0.0.0.0 getrockerbox.com
 0.0.0.0 get.s-onetag.com
 0.0.0.0 g.ezodn.com
@@ -4421,6 +4426,7 @@
 0.0.0.0 tempest.services.disqus.com
 0.0.0.0 tendertest.com
 0.0.0.0 tenor.com
+0.0.0.0 terrifictooth.com
 0.0.0.0 tesla.tt.omtrdc.net
 0.0.0.0 testlibs.coremetrics.com
 0.0.0.0 test.quantcast.mgr.consensu.org
