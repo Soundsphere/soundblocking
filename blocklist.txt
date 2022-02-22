@@ -1065,6 +1065,7 @@
 0.0.0.0 ccc.sys.intl.xiaomi.com
 0.0.0.0 ccc.sys.miui.com
 0.0.0.0 c.clarity.ms
+0.0.0.0 c.clicktale.net
 0.0.0.0 c.cnzz.com
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.sys.intl.xiaomi.com
@@ -1481,6 +1482,7 @@
 0.0.0.0 content.carambo.la
 0.0.0.0 content.mql5.com
 0.0.0.0 content.quantcount.com
+0.0.0.0 content.syndigo.com
 0.0.0.0 content.tapjoy.com
 0.0.0.0 content.upscore.com
 0.0.0.0 contextual.media.net
@@ -2926,6 +2928,7 @@
 0.0.0.0 metok-ccc.intl.xiaomi.com
 0.0.0.0 metrics.api.drift.com
 0.0.0.0 metrics-api.librato.com
+0.0.0.0 metrics.articulate.com
 0.0.0.0 metrics.aviasales.ru
 0.0.0.0 metrics.brightcove.com
 0.0.0.0 metrics-collector.s-onetag.com
@@ -3056,6 +3059,7 @@
 0.0.0.0 news.mirtesen.ru
 0.0.0.0 nextclick.pl
 0.0.0.0 nextmillennium.liqwid.net
+0.0.0.0 nexus.dell.com
 0.0.0.0 nexus.ensighten.com
 0.0.0.0 nexus.officeapps.live.com
 0.0.0.0 nexusrules.officeapps.live.com

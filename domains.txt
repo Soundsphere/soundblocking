@@ -1065,6 +1065,7 @@ cc-api-data.adobe.io
 ccc.sys.intl.xiaomi.com
 ccc.sys.miui.com
 c.clarity.ms
+c.clicktale.net
 c.cnzz.com
 cc.swiftype.com
 cc.sys.intl.xiaomi.com
@@ -1480,6 +1481,7 @@ content.aimatch.com
 content.carambo.la
 content.mql5.com
 content.quantcount.com
+content.syndigo.com
 content.tapjoy.com
 content.upscore.com
 contextual.media.net
@@ -2924,6 +2926,7 @@ meter-svc.nytimes.com
 metok-ccc.intl.xiaomi.com
 metrics.api.drift.com
 metrics-api.librato.com
+metrics.articulate.com
 metrics.aviasales.ru
 metrics.brightcove.com
 metrics-collector.s-onetag.com
@@ -3054,6 +3057,7 @@ newsmaxmedia.demdex.net
 news.mirtesen.ru
 nextclick.pl
 nextmillennium.liqwid.net
+nexus.dell.com
 nexus.ensighten.com
 nexus.officeapps.live.com
 nexusrules.officeapps.live.com
