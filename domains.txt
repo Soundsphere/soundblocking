@@ -71,6 +71,7 @@
 8468614.fls.doubleclick.net
 883205.fls.doubleclick.net
 935-kke-240.mktoresp.com
+9615939.fls.doubleclick.net
 96b7287f96e31b46a5034264400943a5.safeframe.googlesyndication.com
 a-0003.a-msedge.net
 a01.korrelate.net
@@ -4138,6 +4139,7 @@ static-lon1.dynamicyield.com
 static.mackeeper.com
 static.mailerlite.com
 static.narrativ.com
+static.olark.com
 static.parsely.com
 static.plista.com
 static.scarabresearch.com
@@ -4926,6 +4928,7 @@ wildcard.cdn.optimizely.com.edgekey.net
 wildcard.moatads.com.edgekey.net
 wileypublishing.sc.omtrdc.net
 win8.ipv6.microsoft.com
+winfuture.de
 winsite.com
 wms.assoc-amazon.com
 wms.assoc-amazon.de
