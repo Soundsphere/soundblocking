@@ -1007,6 +1007,7 @@
 0.0.0.0 btlr-eu-central-1.sharethrough.com
 0.0.0.0 btlr.sharethrough.com
 0.0.0.0 bt.mediaimpact.de
+0.0.0.0 btpnav.com
 0.0.0.0 bttrack.com
 0.0.0.0 bucket.rtk.io
 0.0.0.0 buffer-media-uploads.s3.amazonaws.com
@@ -3410,6 +3411,7 @@
 0.0.0.0 prod-ingestion.tracking.v2.yieldlove-ad-serving.net
 0.0.0.0 prod-js.aws.y-track.com
 0.0.0.0 prod.scgraph.facebook.com
+0.0.0.0 prod-telemetry.paradox-interactive.com
 0.0.0.0 prod.telemetry.ros.rockstargames.com
 0.0.0.0 prof.estat.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
