@@ -1264,6 +1264,7 @@
 0.0.0.0 cdn.teads.tv
 0.0.0.0 cdn.teamskeetimages.com
 0.0.0.0 cdn.tercept.com
+0.0.0.0 cdn.thisiswaldo.com
 0.0.0.0 cdn.threadloom.com
 0.0.0.0 cdn.tinypass.com
 0.0.0.0 cdn.trackjs.com
@@ -1312,6 +1313,7 @@
 0.0.0.0 chatrouter-ups.inq.com
 0.0.0.0 chattestdu.de
 0.0.0.0 chaturbate.com
+0.0.0.0 check.analytics.rlcdn.com
 0.0.0.0 chidc2.outbrain.org
 0.0.0.0 chimpstatic.com
 0.0.0.0 choices.trustarc.com
@@ -1611,6 +1613,7 @@
 0.0.0.0 d1lxhc4jvstzrp.cloudfront.net
 0.0.0.0 d1lxz4vuik53pc.cloudfront.net
 0.0.0.0 d1m6l9dfulcyw7.cloudfront.net
+0.0.0.0 d1miwkthq39xj8.cloudfront.net
 0.0.0.0 d1xfq2052q7thw.cloudfront.net
 0.0.0.0 d1z2jf7jlzjs58.cloudfront.net
 0.0.0.0 d1zgderxoe1a.cloudfront.net
@@ -3004,6 +3007,7 @@
 0.0.0.0 msmetrics.ws.sonos.com
 0.0.0.0 msntrademarketing.112.2o7.net
 0.0.0.0 mssl.fwmrm.net
+0.0.0.0 mstdn.social
 0.0.0.0 mtrx.go.sonobi.com
 0.0.0.0 m.uberall.com
 0.0.0.0 mug.criteo.com
@@ -3249,6 +3253,7 @@
 0.0.0.0 ping.dozuki.com
 0.0.0.0 ping.getadblock.com
 0.0.0.0 pingma.qq.com
+0.0.0.0 ping-meta-prd.jwpltx.com
 0.0.0.0 pings.vidpulse.com
 0.0.0.0 ping.taplytics.com
 0.0.0.0 pinpoint.us-east-1.amazonaws.com
@@ -3375,6 +3380,7 @@
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 pr-bh.ybp.yahoo.com
 0.0.0.0 prd-collector-anon.playbuzz.com
+0.0.0.0 prd.jwpltx.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 prebid.adnxs.com
 0.0.0.0 prebid.a-mo.net
@@ -3881,6 +3887,7 @@
 0.0.0.0 services.serving-sys.com
 0.0.0.0 servicesupport.hicloud.com
 0.0.0.0 services.vlitag.com
+0.0.0.0 services.wikia.com
 0.0.0.0 serving.adbetclickin.pink
 0.0.0.0 serving.ad.org.vn
 0.0.0.0 servt.playbuzz.co

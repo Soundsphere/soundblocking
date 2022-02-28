@@ -1264,6 +1264,7 @@ cdn.taplytics.com
 cdn.teads.tv
 cdn.teamskeetimages.com
 cdn.tercept.com
+cdn.thisiswaldo.com
 cdn.threadloom.com
 cdn.tinypass.com
 cdn.trackjs.com
@@ -1312,6 +1313,7 @@ chatrouter-skyde.inq.com
 chatrouter-ups.inq.com
 chattestdu.de
 chaturbate.com
+check.analytics.rlcdn.com
 chidc2.outbrain.org
 chimpstatic.com
 choices.trustarc.com
@@ -1610,6 +1612,7 @@ d1l6p2sc9645hc.cloudfront.net
 d1lxhc4jvstzrp.cloudfront.net
 d1lxz4vuik53pc.cloudfront.net
 d1m6l9dfulcyw7.cloudfront.net
+d1miwkthq39xj8.cloudfront.net
 d1xfq2052q7thw.cloudfront.net
 d1z2jf7jlzjs58.cloudfront.net
 d1zgderxoe1a.cloudfront.net
@@ -3002,6 +3005,7 @@ msh.amazon.co.uk
 msmetrics.ws.sonos.com
 msntrademarketing.112.2o7.net
 mssl.fwmrm.net
+mstdn.social
 mtrx.go.sonobi.com
 m.uberall.com
 mug.criteo.com
@@ -3247,6 +3251,7 @@ ping-dot-acp-magento.appspot.com
 ping.dozuki.com
 ping.getadblock.com
 pingma.qq.com
+ping-meta-prd.jwpltx.com
 pings.vidpulse.com
 ping.taplytics.com
 pinpoint.us-east-1.amazonaws.com
@@ -3373,6 +3378,7 @@ pp.userapi.com
 pq-direct.revsci.net
 pr-bh.ybp.yahoo.com
 prd-collector-anon.playbuzz.com
+prd.jwpltx.com
 pre.ads.justpremium.com
 prebid.adnxs.com
 prebid.a-mo.net
@@ -3879,6 +3885,7 @@ services.bilsyndication.com
 services.serving-sys.com
 servicesupport.hicloud.com
 services.vlitag.com
+services.wikia.com
 serving.adbetclickin.pink
 serving.ad.org.vn
 servt.playbuzz.co
