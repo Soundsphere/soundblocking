@@ -4502,6 +4502,7 @@ tmobile.demdex.net
 t.mookie1.com
 t.mplxtms.com
 tmscdn.coremetrics.com
+tms.oracle.com
 tm.tradetracker.net
 t.myvisualiq.net
 t.nativendo.de
@@ -4867,6 +4868,7 @@ w7.berlin.de
 waproduction.postaffiliatepro.com
 warnerbros.112.2o7.net
 washingtonpost.com.102.112.2o7.net
+watson.microsoft.com
 watson.telemetry.microsoft.com
 wa.ui-portal.de
 waust.at
@@ -5098,6 +5100,7 @@ www.i.matheranalytics.com
 www.increaserev.com
 www.inskinad.com
 www.ist-track.com
+www.kauschinger-artwork.com
 www.kqzyfj.com
 www.ladyboytube.tv
 www.lduhtrp.net

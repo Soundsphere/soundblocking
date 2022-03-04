@@ -4504,6 +4504,7 @@
 0.0.0.0 t.mookie1.com
 0.0.0.0 t.mplxtms.com
 0.0.0.0 tmscdn.coremetrics.com
+0.0.0.0 tms.oracle.com
 0.0.0.0 tm.tradetracker.net
 0.0.0.0 t.myvisualiq.net
 0.0.0.0 t.nativendo.de
@@ -4869,6 +4870,7 @@
 0.0.0.0 waproduction.postaffiliatepro.com
 0.0.0.0 warnerbros.112.2o7.net
 0.0.0.0 washingtonpost.com.102.112.2o7.net
+0.0.0.0 watson.microsoft.com
 0.0.0.0 watson.telemetry.microsoft.com
 0.0.0.0 wa.ui-portal.de
 0.0.0.0 waust.at
@@ -5100,6 +5102,7 @@
 0.0.0.0 www.increaserev.com
 0.0.0.0 www.inskinad.com
 0.0.0.0 www.ist-track.com
+0.0.0.0 www.kauschinger-artwork.com
 0.0.0.0 www.kqzyfj.com
 0.0.0.0 www.ladyboytube.tv
 0.0.0.0 www.lduhtrp.net
