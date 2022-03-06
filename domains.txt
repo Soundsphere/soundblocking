@@ -1180,6 +1180,7 @@ cdn.id5-sync.com
 cdn-images.mailchimp.com
 cdn.inskinad.com
 cdn.inspectlet.com
+cdn.instapagemetrics.com
 cdn.interactivemedia.net
 cdn.intergi.com
 cdn.intergient.com
@@ -2360,6 +2361,7 @@ hc.uralweb.ru
 healte.de
 healthline-d.openx.net
 heartbeats.omtrdc.net
+heatmap-events-collector.instapage.com
 heatmap.services
 heauty-viesected.com
 h-ebay.online-metrix.net

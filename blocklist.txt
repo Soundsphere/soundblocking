@@ -1180,6 +1180,7 @@
 0.0.0.0 cdn-images.mailchimp.com
 0.0.0.0 cdn.inskinad.com
 0.0.0.0 cdn.inspectlet.com
+0.0.0.0 cdn.instapagemetrics.com
 0.0.0.0 cdn.interactivemedia.net
 0.0.0.0 cdn.intergi.com
 0.0.0.0 cdn.intergient.com
@@ -2361,6 +2362,7 @@
 0.0.0.0 healte.de
 0.0.0.0 healthline-d.openx.net
 0.0.0.0 heartbeats.omtrdc.net
+0.0.0.0 heatmap-events-collector.instapage.com
 0.0.0.0 heatmap.services
 0.0.0.0 heauty-viesected.com
 0.0.0.0 h-ebay.online-metrix.net
