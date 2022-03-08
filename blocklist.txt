@@ -678,6 +678,7 @@
 0.0.0.0 api.userleap.com
 0.0.0.0 api.userlike.com
 0.0.0.0 api.usersnap.com
+0.0.0.0 api.userway.org
 0.0.0.0 apiv2.moengage.com
 0.0.0.0 api.vanilla.futurecdn.net
 0.0.0.0 api.viafoura.co
@@ -1816,6 +1817,7 @@
 0.0.0.0 dialogue.sp-prod.net
 0.0.0.0 diapi.webgains.com
 0.0.0.0 diff.smartadserver.com
+0.0.0.0 diffuser-cdn.app-us1.com
 0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
 0.0.0.0 digitalocean1.mktoweb.com
 0.0.0.0 d.impactradius-event.com
@@ -5245,6 +5247,7 @@
 0.0.0.0 zm232.com
 0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z.moatads.com
+0.0.0.0 zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 0.0.0.0 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 0.0.0.0 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com

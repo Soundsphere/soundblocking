@@ -678,6 +678,7 @@ api.usercentrics.eu
 api.userleap.com
 api.userlike.com
 api.usersnap.com
+api.userway.org
 apiv2.moengage.com
 api.vanilla.futurecdn.net
 api.viafoura.co
@@ -1815,6 +1816,7 @@ dh.serving-sys.com
 dialogue.sp-prod.net
 diapi.webgains.com
 diff.smartadserver.com
+diffuser-cdn.app-us1.com
 digicertwc.rubiconproject.com.edgekey.net
 digitalocean1.mktoweb.com
 d.impactradius-event.com
@@ -5243,6 +5245,7 @@ ziffdavis-d.openx.net
 zm232.com
 z-m-graph.facebook.com
 z.moatads.com
+zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
