@@ -1070,6 +1070,7 @@
 0.0.0.0 c.clarity.ms
 0.0.0.0 c.clicktale.net
 0.0.0.0 c.cnzz.com
+0.0.0.0 ccpa.sp-prod.net
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.sys.intl.xiaomi.com
 0.0.0.0 cc.zeit.de
@@ -1639,6 +1640,7 @@
 0.0.0.0 d2wu036mkcz52n.cloudfront.net
 0.0.0.0 d2wy8f7a9ursnm.cloudfront.net
 0.0.0.0 d2zah9y47r7bi2.cloudfront.net
+0.0.0.0 d2zv5rkii46miq.cloudfront.net
 0.0.0.0 d31bfnnwekbny6.cloudfront.net
 0.0.0.0 d31j93rd8oukbv.cloudfront.net
 0.0.0.0 d31qbv1cthcecs.cloudfront.net
@@ -2624,6 +2626,7 @@
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
 0.0.0.0 js.driftt.com
+0.0.0.0 js-eu1.hs-scripts.com
 0.0.0.0 js.genieessp.com
 0.0.0.0 js.gleam.io
 0.0.0.0 js.gumgum.com
@@ -5058,6 +5061,7 @@
 0.0.0.0 www.bugherd.com
 0.0.0.0 www.civicscience.com
 0.0.0.0 www.clarity.ms
+0.0.0.0 www.clickcease.com
 0.0.0.0 www.clicktripz.com
 0.0.0.0 www.coinbase.com
 0.0.0.0 www.counter-gratis.com
