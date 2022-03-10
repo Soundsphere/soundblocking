@@ -1951,6 +1951,7 @@
 0.0.0.0 e.deployads.com
 0.0.0.0 edge.activity.windows.com
 0.0.0.0 edge.addthis.com
+0.0.0.0 edge.curalate.com
 0.0.0.0 edge.quantserve.com
 0.0.0.0 edge.simplereach.com
 0.0.0.0 edigitalsurvey.com
@@ -2855,6 +2856,7 @@
 0.0.0.0 map.media6degrees.com
 0.0.0.0 mapmywayfree.com
 0.0.0.0 map.sddan.com
+0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
 0.0.0.0 marketing.criteo.com
 0.0.0.0 marketing.dropbox.com
@@ -3426,6 +3428,7 @@
 0.0.0.0 prod.scgraph.facebook.com
 0.0.0.0 prod-telemetry.paradox-interactive.com
 0.0.0.0 prod.telemetry.ros.rockstargames.com
+0.0.0.0 production-cmp.isgprivacy.cbsi.com
 0.0.0.0 prof.estat.com
 0.0.0.0 profile-api-prod-elb.53.localytics.com
 0.0.0.0 profile.localytics.com
@@ -3567,6 +3570,7 @@
 0.0.0.0 recs.richrelevance.com
 0.0.0.0 recs.shareaholic.com
 0.0.0.0 redhat.sc.omtrdc.net
+0.0.0.0 redhat.tt.omtrdc.net
 0.0.0.0 redirect.appmetrica.yandex.com
 0.0.0.0 redirector.gvt1.com
 0.0.0.0 redirect.viglink.com
@@ -3981,6 +3985,7 @@
 0.0.0.0 smetrics.delta.com
 0.0.0.0 smetrics.foxnews.com
 0.0.0.0 smetrics.mcafee.com
+0.0.0.0 smetrics.opensource.com
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.sky.com
 0.0.0.0 smetrics.washingtonpost.com

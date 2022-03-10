@@ -1950,6 +1950,7 @@ edba.brealtime.com
 e.deployads.com
 edge.activity.windows.com
 edge.addthis.com
+edge.curalate.com
 edge.quantserve.com
 edge.simplereach.com
 edigitalsurvey.com
@@ -2853,6 +2854,7 @@ mantodea.mantisadnetwork.com
 map.media6degrees.com
 mapmywayfree.com
 map.sddan.com
+ma.redhat.com
 marketing.alibaba.com
 marketing.criteo.com
 marketing.dropbox.com
@@ -3424,6 +3426,7 @@ prod-js.aws.y-track.com
 prod.scgraph.facebook.com
 prod-telemetry.paradox-interactive.com
 prod.telemetry.ros.rockstargames.com
+production-cmp.isgprivacy.cbsi.com
 prof.estat.com
 profile-api-prod-elb.53.localytics.com
 profile.localytics.com
@@ -3565,6 +3568,7 @@ rec.smartlook.com
 recs.richrelevance.com
 recs.shareaholic.com
 redhat.sc.omtrdc.net
+redhat.tt.omtrdc.net
 redirect.appmetrica.yandex.com
 redirector.gvt1.com
 redirect.viglink.com
@@ -3979,6 +3983,7 @@ smetrics.aem.playstation.com
 smetrics.delta.com
 smetrics.foxnews.com
 smetrics.mcafee.com
+smetrics.opensource.com
 smetrics.payback.de
 smetrics.sky.com
 smetrics.washingtonpost.com
