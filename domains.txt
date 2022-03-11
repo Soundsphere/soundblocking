@@ -450,6 +450,7 @@ a.mailmunch.co
 amazoncustomerservice.d2.sc.omtrdc.net
 amazonservices.122.2o7.net
 amazonwebservices.d2.sc.omtrdc.net
+amazonwebservicesinc.tt.omtrdc.net
 amazonwebstore.122.2o7.net
 amcdn.vn
 a.mgid.com
@@ -2959,6 +2960,7 @@ metrics.n-tv.de
 metrics.readme.io
 metrics.responsetap.com
 metrics.ryanair.com
+metrics.washingtonpost.com
 metric.volkswagen.com
 metrika.yandex.ru
 metro.co.uk.102.122.2o7.net
@@ -3928,6 +3930,7 @@ shopify.privy.com
 shopnetic.com
 showads.pubmatic.com
 shutterstock.inq.com
+shy.elfsight.com
 sibautomation.com
 sic.33across.com
 s.idio.co
@@ -4727,6 +4730,7 @@ uop.umeng.com
 up.cm.ksmobile.com
 ups.analytics.yahoo.com
 ups.demdex.net
+upsells.boldapps.net
 ups.inq.com
 ups.ksmobile.net
 ups.tt.omtrdc.net

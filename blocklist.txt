@@ -450,6 +450,7 @@
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
 0.0.0.0 amazonservices.122.2o7.net
 0.0.0.0 amazonwebservices.d2.sc.omtrdc.net
+0.0.0.0 amazonwebservicesinc.tt.omtrdc.net
 0.0.0.0 amazonwebstore.122.2o7.net
 0.0.0.0 amcdn.vn
 0.0.0.0 a.mgid.com
@@ -2961,6 +2962,7 @@
 0.0.0.0 metrics.readme.io
 0.0.0.0 metrics.responsetap.com
 0.0.0.0 metrics.ryanair.com
+0.0.0.0 metrics.washingtonpost.com
 0.0.0.0 metric.volkswagen.com
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 metro.co.uk.102.122.2o7.net
@@ -3930,6 +3932,7 @@
 0.0.0.0 shopnetic.com
 0.0.0.0 showads.pubmatic.com
 0.0.0.0 shutterstock.inq.com
+0.0.0.0 shy.elfsight.com
 0.0.0.0 sibautomation.com
 0.0.0.0 sic.33across.com
 0.0.0.0 s.idio.co
@@ -4729,6 +4732,7 @@
 0.0.0.0 up.cm.ksmobile.com
 0.0.0.0 ups.analytics.yahoo.com
 0.0.0.0 ups.demdex.net
+0.0.0.0 upsells.boldapps.net
 0.0.0.0 ups.inq.com
 0.0.0.0 ups.ksmobile.net
 0.0.0.0 ups.tt.omtrdc.net
