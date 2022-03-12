@@ -76,6 +76,7 @@
 0.0.0.0 a-0003.a-msedge.net
 0.0.0.0 a01.korrelate.net
 0.0.0.0 a0.smi2.ru
+0.0.0.0 a10681260716.cdn.optimizely.com
 0.0.0.0 a1168.g.akamai.net
 0.0.0.0 a11701662245.cdn-pci.optimizely.com
 0.0.0.0 a17126690382.cdn.optimizely.com
@@ -811,6 +812,7 @@
 0.0.0.0 assets.purch.com
 0.0.0.0 assets.revcontent.com
 0.0.0.0 assets.servedby-buysellads.com
+0.0.0.0 assets.vidyard.com
 0.0.0.0 assistjs.skimresources.com
 0.0.0.0 a-ssl.ligatus.com
 0.0.0.0 asteriresearch.com
@@ -3892,6 +3894,7 @@
 0.0.0.0 service-api.kingsoft-office-service.com
 0.0.0.0 service.biv.sony.tv
 0.0.0.0 service.cmp.oath.com
+0.0.0.0 service.force.com
 0.0.0.0 service.fyber.com
 0.0.0.0 service.idsync.analytics.yahoo.com
 0.0.0.0 service.maxymiser.net
