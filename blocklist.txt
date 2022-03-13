@@ -1263,6 +1263,7 @@
 0.0.0.0 cdn.stickyadstv.com
 0.0.0.0 cdn.stripst.com
 0.0.0.0 cdn.stroeerdigitalmedia.de
+0.0.0.0 cdn.strpst.com
 0.0.0.0 cdn.switchadhub.com
 0.0.0.0 cdn.taboola.com
 0.0.0.0 cdn.tagcommander.com
@@ -2319,6 +2320,7 @@
 0.0.0.0 go.sonnen.de
 0.0.0.0 go.toutapp.com
 0.0.0.0 gounlimited.to
+0.0.0.0 go.xhamster.com
 0.0.0.0 g.pcmag.com
 0.0.0.0 grace.shareaholic.com
 0.0.0.0 grafana.org
@@ -2509,6 +2511,7 @@
 0.0.0.0 img.sedoparking.com
 0.0.0.0 imgs.signifyd.com
 0.0.0.0 imgssl.constantcontact.com
+0.0.0.0 img.strpst.com
 0.0.0.0 imp.control.kochava.com
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 imp.emxdgt.com
@@ -3347,6 +3350,7 @@
 0.0.0.0 platform.stumbleupon.com
 0.0.0.0 platform.tumblr.com
 0.0.0.0 platform.twitter.com
+0.0.0.0 plausible.io
 0.0.0.0 player.adtelligent.com
 0.0.0.0 player.aniview.com
 0.0.0.0 player.anyclip.com
@@ -3480,6 +3484,7 @@
 0.0.0.0 pubnative.info
 0.0.0.0 pubpress.net
 0.0.0.0 pub-sdk-cfg.criteo.com
+0.0.0.0 pub.searchiq.co
 0.0.0.0 pugm22000nf.pubmatic.com
 0.0.0.0 pulsar.ebay.com
 0.0.0.0 pulsar.ebay.de
@@ -4166,6 +4171,7 @@
 0.0.0.0 static.klaviyo.com
 0.0.0.0 static.licdn.com
 0.0.0.0 static-lon1.dynamicyield.com
+0.0.0.0 static-lvlt.xhcdn.com
 0.0.0.0 static.mackeeper.com
 0.0.0.0 static.mailerlite.com
 0.0.0.0 static.narrativ.com
@@ -4479,6 +4485,7 @@
 0.0.0.0 t.hoood.info
 0.0.0.0 thor.rtk.io
 0.0.0.0 thrtle.com
+0.0.0.0 thumb-lvlt.xhcdn.com
 0.0.0.0 thumbs.wikifeet.com
 0.0.0.0 tia.timeinc.net
 0.0.0.0 tidd.ly

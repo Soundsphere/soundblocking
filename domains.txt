@@ -1263,6 +1263,7 @@ cdn.steepto.com
 cdn.stickyadstv.com
 cdn.stripst.com
 cdn.stroeerdigitalmedia.de
+cdn.strpst.com
 cdn.switchadhub.com
 cdn.taboola.com
 cdn.tagcommander.com
@@ -2318,6 +2319,7 @@ go.sonnenbatterie.de
 go.sonnen.de
 go.toutapp.com
 gounlimited.to
+go.xhamster.com
 g.pcmag.com
 grace.shareaholic.com
 grafana.org
@@ -2508,6 +2510,7 @@ img.revcontent.com
 img.sedoparking.com
 imgs.signifyd.com
 imgssl.constantcontact.com
+img.strpst.com
 imp.control.kochava.com
 impde.tradedoubler.com
 imp.emxdgt.com
@@ -3345,6 +3348,7 @@ platform.linkedin.com
 platform.stumbleupon.com
 platform.tumblr.com
 platform.twitter.com
+plausible.io
 player.adtelligent.com
 player.aniview.com
 player.anyclip.com
@@ -3478,6 +3482,7 @@ pubmatic-winners-eu-west-1-rtb.adroll.com
 pubnative.info
 pubpress.net
 pub-sdk-cfg.criteo.com
+pub.searchiq.co
 pugm22000nf.pubmatic.com
 pulsar.ebay.com
 pulsar.ebay.de
@@ -4164,6 +4169,7 @@ static.kameleoon.com
 static.klaviyo.com
 static.licdn.com
 static-lon1.dynamicyield.com
+static-lvlt.xhcdn.com
 static.mackeeper.com
 static.mailerlite.com
 static.narrativ.com
@@ -4477,6 +4483,7 @@ thisiswaldo.com
 t.hoood.info
 thor.rtk.io
 thrtle.com
+thumb-lvlt.xhcdn.com
 thumbs.wikifeet.com
 tia.timeinc.net
 tidd.ly
