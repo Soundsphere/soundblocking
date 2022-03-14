@@ -322,6 +322,7 @@
 0.0.0.0 ads.everesttech.net
 0.0.0.0 ads.e-webtrack.net
 0.0.0.0 ads.eyeonx.ch
+0.0.0.0 ads.filezilla-project.org
 0.0.0.0 ads.flurry.com
 0.0.0.0 ads.freeskreen.com
 0.0.0.0 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
@@ -517,6 +518,7 @@
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.kaltura.com
+0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 analytics.lego.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 analytics.linktr.ee
 0.0.0.0 analytics.localytics.com
@@ -4456,6 +4458,7 @@
 0.0.0.0 telemetry.allrecipes.com
 0.0.0.0 telemetry.api.playstation.com
 0.0.0.0 telemetry.api.swiftkey.com
+0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.dropbox.com
 0.0.0.0 telemetry-in.battle.net
 0.0.0.0 telemetry.jivosite.com

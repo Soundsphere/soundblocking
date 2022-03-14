@@ -322,6 +322,7 @@ ads.eu.criteo.com
 ads.everesttech.net
 ads.e-webtrack.net
 ads.eyeonx.ch
+ads.filezilla-project.org
 ads.flurry.com
 ads.freeskreen.com
 ads-game-configuration-master.ads.prd.ie.internal.unity3d.com
@@ -517,6 +518,7 @@ analytics.hindustantimes.com
 analytics.htmedia.in
 analytics-ingress-global.bitmovin.com
 analytics.kaltura.com
+analytics.languagetoolplus.com
 analytics.lego.com.ssl.d1.sc.omtrdc.net
 analytics.linktr.ee
 analytics.localytics.com
@@ -4454,6 +4456,7 @@ telekom01.webtrekk.net
 telemetry.allrecipes.com
 telemetry.api.playstation.com
 telemetry.api.swiftkey.com
+telemetry.art19.com
 telemetry.dropbox.com
 telemetry-in.battle.net
 telemetry.jivosite.com
