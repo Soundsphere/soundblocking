@@ -20,6 +20,7 @@
 2-01-2c3e-005c.cdx.cedexis.net
 243-mrr-459.mktoresp.com
 2507573.fls.doubleclick.net
+2518037.sedoparking.com
 2542116.fls.doubleclick.net
 29db4693976aa94f88edf08d3238099c.safeframe.googlesyndication.com
 2c3e38dc6508c4aa245fa4eeaca9f953.safeframe.googlesyndication.com
@@ -5009,6 +5010,7 @@ ww16.thomnan.de
 ww1.smartadserver.com
 ww2060.smartadserver.com
 ww251.smartadserver.com
+ww2.invidious.us
 ww50.smartadserver.com
 ww691.smartadserver.com
 www14.smartadserver.com
