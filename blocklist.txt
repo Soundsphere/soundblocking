@@ -4007,6 +4007,7 @@
 0.0.0.0 snap.licdn.com
 0.0.0.0 snapsort-d.openx.net
 0.0.0.0 snigel-d.openx.net
+0.0.0.0 snigelweb-com.videoplayerhub.com
 0.0.0.0 snippets.cdn.mozilla.net
 0.0.0.0 snoop.minecraft.net
 0.0.0.0 snrtp-cdn.marketo.com

@@ -4005,6 +4005,7 @@ s.mopub.com
 snap.licdn.com
 snapsort-d.openx.net
 snigel-d.openx.net
+snigelweb-com.videoplayerhub.com
 snippets.cdn.mozilla.net
 snoop.minecraft.net
 snrtp-cdn.marketo.com
