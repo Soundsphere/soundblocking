@@ -840,6 +840,7 @@ audev.zeit.de
 audiag.112.2o7.net
 audible.tt.omtrdc.net
 audit.quantcast.mgr.consensu.org
+audit-tcfv2.quantcast.mgr.consensu.org
 au.download.windowsupdate.com.c.footprint.net
 aud.pubmatic.com
 aufeminin-e-d.openx.net
@@ -1345,6 +1346,7 @@ clarium.global.ssl.fastly.net
 clc.stackoverflow.com
 clevernt.com
 click.alibaba.com
+click.alternate.de
 click.clickanalytics208.com
 click.clktraker.com
 click-de.plista.com

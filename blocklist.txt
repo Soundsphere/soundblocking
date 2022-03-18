@@ -840,6 +840,7 @@
 0.0.0.0 audiag.112.2o7.net
 0.0.0.0 audible.tt.omtrdc.net
 0.0.0.0 audit.quantcast.mgr.consensu.org
+0.0.0.0 audit-tcfv2.quantcast.mgr.consensu.org
 0.0.0.0 au.download.windowsupdate.com.c.footprint.net
 0.0.0.0 aud.pubmatic.com
 0.0.0.0 aufeminin-e-d.openx.net
@@ -1345,6 +1346,7 @@
 0.0.0.0 clc.stackoverflow.com
 0.0.0.0 clevernt.com
 0.0.0.0 click.alibaba.com
+0.0.0.0 click.alternate.de
 0.0.0.0 click.clickanalytics208.com
 0.0.0.0 click.clktraker.com
 0.0.0.0 click-de.plista.com
