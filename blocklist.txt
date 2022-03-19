@@ -626,6 +626,7 @@
 0.0.0.0 api.instabug.com
 0.0.0.0 api.intentiq.com
 0.0.0.0 api.iperceptions.com
+0.0.0.0 api.ipify.org
 0.0.0.0 api.ipstack.com
 0.0.0.0 api.iris.tv
 0.0.0.0 api.keen.io
@@ -1855,6 +1856,7 @@
 0.0.0.0 dk-gmtdmp.mookie1.com
 0.0.0.0 dkuim.de
 0.0.0.0 d.ligatus.com
+0.0.0.0 dlsdk.appsflyer.com
 0.0.0.0 dlvr.it
 0.0.0.0 dmd.metaservices.microsoft.com
 0.0.0.0 dmdrogerie01.webtrekk.net
@@ -2576,6 +2578,7 @@
 0.0.0.0 ioms.bfmio.com
 0.0.0.0 io.narrative.io
 0.0.0.0 ios.bugly.qq.com
+0.0.0.0 ip.42.pl
 0.0.0.0 ipapi.co
 0.0.0.0 ip-api.com
 0.0.0.0 ipcheck.tmgrup.com.tr

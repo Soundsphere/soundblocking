@@ -626,6 +626,7 @@ api.innomdc.com
 api.instabug.com
 api.intentiq.com
 api.iperceptions.com
+api.ipify.org
 api.ipstack.com
 api.iris.tv
 api.keen.io
@@ -1854,6 +1855,7 @@ dkb01.webtrekk.net
 dk-gmtdmp.mookie1.com
 dkuim.de
 d.ligatus.com
+dlsdk.appsflyer.com
 dlvr.it
 dmd.metaservices.microsoft.com
 dmdrogerie01.webtrekk.net
@@ -2575,6 +2577,7 @@ iocdn.coremetrics.com
 ioms.bfmio.com
 io.narrative.io
 ios.bugly.qq.com
+ip.42.pl
 ipapi.co
 ip-api.com
 ipcheck.tmgrup.com.tr
