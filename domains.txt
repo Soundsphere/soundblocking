@@ -1,6 +1,7 @@
 00be678ee7b58a1dc18187d35908bfb7.safeframe.googlesyndication.com
 0.gravatar.com
 1016557.fls.doubleclick.net
+10927979.collect.igodigital.com
 112-tzm-766.mktoresp.com
 11.tlu.dl.delivery.mp.microsoft.com
 15.taboola.com
@@ -3781,6 +3782,7 @@ s.click.aliexpress.com
 s.clickiocdn.com
 scomcluster.cxense.com
 scontent-iad3-1.cdninstagram.com
+scontent.webcollage.net
 scontent.xx.fbcdn.net
 scout24-d.openx.net
 s.cpx.to
@@ -4201,6 +4203,7 @@ static.woopra.com
 static.xx.fbcdn.net
 static.yieldmo.com
 static.zanox.com
+static.ziffdavis.com
 static.zotabox.com
 statistics.11880.com
 statistics.aldi-international.com
