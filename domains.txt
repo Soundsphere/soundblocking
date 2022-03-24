@@ -1523,6 +1523,7 @@ cookiesync.vertamedia.com
 cookiex.ngd.yahoo.com
 core.connatix.com
 core.polyad.net
+corpredirect.intel.com
 counter.kingsoft.com
 counter.rambler.ru
 counter.snackly.co
@@ -1974,6 +1975,7 @@ eldamar02-loadbalanced.kameleoon.com
 eldamar03-loadbalanced.kameleoon.com
 eldamar04-loadbalanced.kameleoon.com
 electrumx.ddns.net
+elqtrk.intel.com
 elqtrk.intel.de
 elr.sfr.fr
 elsevier.com.ssl.d1.sc.omtrdc.net
@@ -2640,6 +2642,7 @@ js.center.io
 jsc.idealmedia.io
 jsc.marketgid.com
 jsc.mgid.com
+js.datadome.co
 js.driftt.com
 js-eu1.hs-scripts.com
 js.genieessp.com
@@ -4008,6 +4011,7 @@ smetrics.mcafee.com
 smetrics.opensource.com
 smetrics.payback.de
 smetrics.sky.com
+smetrics.ubi.com
 smetrics.washingtonpost.com
 s.mopub.com
 snap.licdn.com

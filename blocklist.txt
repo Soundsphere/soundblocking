@@ -1524,6 +1524,7 @@
 0.0.0.0 cookiex.ngd.yahoo.com
 0.0.0.0 core.connatix.com
 0.0.0.0 core.polyad.net
+0.0.0.0 corpredirect.intel.com
 0.0.0.0 counter.kingsoft.com
 0.0.0.0 counter.rambler.ru
 0.0.0.0 counter.snackly.co
@@ -1975,6 +1976,7 @@
 0.0.0.0 eldamar03-loadbalanced.kameleoon.com
 0.0.0.0 eldamar04-loadbalanced.kameleoon.com
 0.0.0.0 electrumx.ddns.net
+0.0.0.0 elqtrk.intel.com
 0.0.0.0 elqtrk.intel.de
 0.0.0.0 elr.sfr.fr
 0.0.0.0 elsevier.com.ssl.d1.sc.omtrdc.net
@@ -2641,6 +2643,7 @@
 0.0.0.0 jsc.idealmedia.io
 0.0.0.0 jsc.marketgid.com
 0.0.0.0 jsc.mgid.com
+0.0.0.0 js.datadome.co
 0.0.0.0 js.driftt.com
 0.0.0.0 js-eu1.hs-scripts.com
 0.0.0.0 js.genieessp.com
@@ -4010,6 +4013,7 @@
 0.0.0.0 smetrics.opensource.com
 0.0.0.0 smetrics.payback.de
 0.0.0.0 smetrics.sky.com
+0.0.0.0 smetrics.ubi.com
 0.0.0.0 smetrics.washingtonpost.com
 0.0.0.0 s.mopub.com
 0.0.0.0 snap.licdn.com
