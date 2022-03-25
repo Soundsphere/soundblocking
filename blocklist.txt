@@ -449,6 +449,7 @@
 0.0.0.0 aloofvest.com
 0.0.0.0 als-svc.nytimes.com
 0.0.0.0 altfarm.mediaplex.com
+0.0.0.0 am2prdapp01-canary.cloudapp.net
 0.0.0.0 am.adlooxtracking.com
 0.0.0.0 a.mailmunch.co
 0.0.0.0 amazoncustomerservice.d2.sc.omtrdc.net
@@ -615,6 +616,7 @@
 0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 api.exc.mob.com
 0.0.0.0 api.flocktory.com
+0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.gameanalytics.com
 0.0.0.0 api.getdrip.com
 0.0.0.0 api.getvero.com

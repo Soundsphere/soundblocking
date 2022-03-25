@@ -449,6 +449,7 @@ alog.umeng.com
 aloofvest.com
 als-svc.nytimes.com
 altfarm.mediaplex.com
+am2prdapp01-canary.cloudapp.net
 am.adlooxtracking.com
 a.mailmunch.co
 amazoncustomerservice.d2.sc.omtrdc.net
@@ -615,6 +616,7 @@ api-eu.mixpanel.com
 api.eu-west-1.aiv-delivery.net
 api.exc.mob.com
 api.flocktory.com
+api.fouanalytics.com
 api.gameanalytics.com
 api.getdrip.com
 api.getvero.com
