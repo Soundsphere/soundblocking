@@ -1580,6 +1580,7 @@ csm.nl.eu.criteo.net
 cs.ns1p.net
 c.spiegel.de
 cs.prd.msys.playstation.net
+csp-report.force.com
 csr.inspsearchapi.com
 csr.onet.pl
 cstat.apple.com
@@ -2120,6 +2121,7 @@ fastlane-adv.rubiconproject.com
 fastlane.rubiconproject.com
 fastly-insights.com
 fast.marriottinternationa.demdex.net
+fastred.biz
 fast.skydeutschland.demdex.net
 fast.wistia.com
 faultycanvas.com
@@ -2147,6 +2149,7 @@ files.drivers-logitech.com
 files.slack.com
 files.upscore.com
 find.api.micloud.xiaomi.net
+findicons.com
 fireads.online
 firebaseinstallations.googleapis.com
 firebaselogging.googleapis.com

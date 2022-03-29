@@ -1581,6 +1581,7 @@
 0.0.0.0 cs.ns1p.net
 0.0.0.0 c.spiegel.de
 0.0.0.0 cs.prd.msys.playstation.net
+0.0.0.0 csp-report.force.com
 0.0.0.0 csr.inspsearchapi.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 cstat.apple.com
@@ -2121,6 +2122,7 @@
 0.0.0.0 fastlane.rubiconproject.com
 0.0.0.0 fastly-insights.com
 0.0.0.0 fast.marriottinternationa.demdex.net
+0.0.0.0 fastred.biz
 0.0.0.0 fast.skydeutschland.demdex.net
 0.0.0.0 fast.wistia.com
 0.0.0.0 faultycanvas.com
@@ -2148,6 +2150,7 @@
 0.0.0.0 files.slack.com
 0.0.0.0 files.upscore.com
 0.0.0.0 find.api.micloud.xiaomi.net
+0.0.0.0 findicons.com
 0.0.0.0 fireads.online
 0.0.0.0 firebaseinstallations.googleapis.com
 0.0.0.0 firebaselogging.googleapis.com
