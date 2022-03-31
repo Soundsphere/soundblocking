@@ -2573,6 +2573,7 @@
 0.0.0.0 insticator-d.openx.net
 0.0.0.0 instreamvideo.ru
 0.0.0.0 intake-analytics.wikimedia.org
+0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 intel11.edgekey.net
 0.0.0.0 interngraph.prod.scgraph.facebook.com
 0.0.0.0 interngraph.scgraph.facebook.com
