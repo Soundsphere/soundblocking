@@ -3024,6 +3024,7 @@
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 movip.wps.com
 0.0.0.0 mozilla.cloudflare-dns.com
+0.0.0.0 mp.4dex.io
 0.0.0.0 mp-https.info
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mproxy.banner.linksynergy.com
@@ -3419,6 +3420,7 @@
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 pre.ads.justpremium.com
 0.0.0.0 prebid.adnxs.com
+0.0.0.0 prebid.ad.smaato.net
 0.0.0.0 prebid.a-mo.net
 0.0.0.0 prebid-a.rubiconproject.com
 0.0.0.0 prebid.deepintent.com
@@ -3676,6 +3678,7 @@
 0.0.0.0 rtb7.adscience.nl
 0.0.0.0 rtb.adentifi.com
 0.0.0.0 rtb.adgrx.com
+0.0.0.0 rtb.adpone.com
 0.0.0.0 rtbcdn.doubleverify.com
 0.0.0.0 rtb.com.ru
 0.0.0.0 rtb.connatix.com
@@ -4503,6 +4506,7 @@
 0.0.0.0 tharbadir.com
 0.0.0.0 thebrainyard.engine.adglare.net
 0.0.0.0 thedrive-d.openx.net
+0.0.0.0 the-eighth-d.openx.net
 0.0.0.0 theporndude.com
 0.0.0.0 thind-gke-euw.prd.data.corp.unity3d.com
 0.0.0.0 thisiswaldo.com

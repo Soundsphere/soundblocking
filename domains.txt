@@ -3022,6 +3022,7 @@ mon-va.byteoversea.com
 mormont.gamer-network.net
 movip.wps.com
 mozilla.cloudflare-dns.com
+mp.4dex.io
 mp-https.info
 mpp.vindicosuite.com
 mproxy.banner.linksynergy.com
@@ -3417,6 +3418,7 @@ prd-collector-anon.playbuzz.com
 prd.jwpltx.com
 pre.ads.justpremium.com
 prebid.adnxs.com
+prebid.ad.smaato.net
 prebid.a-mo.net
 prebid-a.rubiconproject.com
 prebid.deepintent.com
@@ -3674,6 +3676,7 @@ rtb123.com
 rtb7.adscience.nl
 rtb.adentifi.com
 rtb.adgrx.com
+rtb.adpone.com
 rtbcdn.doubleverify.com
 rtb.com.ru
 rtb.connatix.com
@@ -4501,6 +4504,7 @@ thaliade02.webtrekk.net
 tharbadir.com
 thebrainyard.engine.adglare.net
 thedrive-d.openx.net
+the-eighth-d.openx.net
 theporndude.com
 thind-gke-euw.prd.data.corp.unity3d.com
 thisiswaldo.com
