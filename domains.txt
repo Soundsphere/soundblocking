@@ -43,6 +43,7 @@
 4345210.fls.doubleclick.net
 4382365.fls.doubleclick.net
 4-4-2.com
+4635217.fls.doubleclick.net
 4711400.fls.doubleclick.net
 4798542.fls.doubleclick.net
 479-jpy-230.mktoresp.com
@@ -56,6 +57,7 @@
 518000665.recs.igodigital.com
 5283813.fls.doubleclick.net
 5290727.fls.doubleclick.net
+5496506.fls.doubleclick.net
 5779200.fls.doubleclick.net
 5994599.fls.doubleclick.net
 5d0b6.v.fwmrm.net
@@ -596,6 +598,7 @@ api.autopilothq.com
 api.b2c.com
 api.bazaarvoice.com
 api.bibblio.org
+api.bluecore.com
 api.bounceexchange.com
 api.branch.io
 api.brs.intl.miui.com
@@ -1139,6 +1142,7 @@ cdn.bannerflow.com
 cdn.bidder.dev
 cdn.bizible.com
 cdn.blueconic.net
+cdn.bluecore.com
 cdn.boomtrain.com
 cdn.branch.io
 cdn.callrail.com
@@ -1495,6 +1499,7 @@ consent.cookiebot.com.edgekey.net
 consent.truste.com
 consent.webmasterplan.com
 consumer.krxd.net
+container.pepperjam.com
 containertags.belboon.de
 content.adriver.ru
 content.aimatch.com
@@ -1788,6 +1793,7 @@ dccss.banggood.com
 dcdd29eaa743c493e732-7dc0216bc6cc2f4ed239035dfc17235b.ssl.cf3.rackcdn.com
 dcinfos.abtasty.com
 dcinfos-cache.abtasty.com
+d.clarity.ms
 dclk-match.dotomi.com
 dc.services.visualstudio.com
 dd6zx4ibq538k.cloudfront.net
@@ -1867,6 +1873,7 @@ dmdrogerie01.webtrekk.net
 dmg.digitaltarget.ru
 dm.hybrid.ai
 dm.journaldesfemmes.com
+d.monetate.net
 dmp.adform.net
 dmpsync.3lift.com
 dmp.theadex.com
@@ -3128,6 +3135,7 @@ nr.taboola.com
 nsm.dell.com
 ns.zdbb.net
 ntp.msn.com
+nvidiab2c.mktoweb.com
 nw-umwatson.events.data.microsoft.com
 nxtck.com
 nycp-hlb.dvgtm.akadns.net
@@ -3177,6 +3185,7 @@ onetag-geo-grouping.s-onetag.com
 onetag-geo.s-onetag.com
 onetag-sys.com
 onscroll-d.openx.net
+onsitestats.bluecore.com
 ookla-d.openx.net
 open.inkfrog.com
 open.oneplus.net
@@ -3238,6 +3247,7 @@ papi.mynativeplatform.com
 par02p.wns.windows.com
 partnerad.l.doubleclick.net
 partner.googleadservices.com
+partner.mediawallahscript.com
 partners.cmptch.com
 partner.shareaholic.com
 partners.tremorhub.com
@@ -5301,6 +5311,7 @@ zn0lxkzethotizctx-bahn.siteintercept.qualtrics.com
 zn1ynnliufrct75cb-paypalxm.siteintercept.qualtrics.com
 zn2rjw8v8ecfgyigt-paypalxm.siteintercept.qualtrics.com
 zn394yygoj0zd35dd-cbs.siteintercept.qualtrics.com
+zn4grkdxn4yjzxmdw-goprorc.siteintercept.qualtrics.com
 zn4pzx5r5auu7w4rx-hbp.siteintercept.qualtrics.com
 zn4tkr5tyyboykso1-quora.siteintercept.qualtrics.com
 zn6sdb0uwojrglmmn-fandango.siteintercept.qualtrics.com
