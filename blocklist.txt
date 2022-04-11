@@ -1088,6 +1088,7 @@
 0.0.0.0 ccpa.sp-prod.net
 0.0.0.0 cc.swiftype.com
 0.0.0.0 cc.sys.intl.xiaomi.com
+0.0.0.0 ccyq.adj.st
 0.0.0.0 cc.zeit.de
 0.0.0.0 cdata.carambo.la
 0.0.0.0 cd.connatix.com
@@ -3181,6 +3182,7 @@
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 oneclient.sfx.ms
 0.0.0.0 onecollector.cloudapp.aria.akadns.net
+0.0.0.0 onedrive.live.com
 0.0.0.0 oneid.mmstat.com
 0.0.0.0 oneocsp.microsoft.com
 0.0.0.0 onesignal.com

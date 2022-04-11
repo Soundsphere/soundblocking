@@ -1088,6 +1088,7 @@ c.cnzz.com
 ccpa.sp-prod.net
 cc.swiftype.com
 cc.sys.intl.xiaomi.com
+ccyq.adj.st
 cc.zeit.de
 cdata.carambo.la
 cd.connatix.com
@@ -3179,6 +3180,7 @@ onclickads.net
 oneadvertising-d.openx.net
 oneclient.sfx.ms
 onecollector.cloudapp.aria.akadns.net
+onedrive.live.com
 oneid.mmstat.com
 oneocsp.microsoft.com
 onesignal.com
