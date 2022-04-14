@@ -2343,6 +2343,7 @@ go.sonnenbatterie.de
 go.sonnen.de
 go.toutapp.com
 gounlimited.to
+go.westmonroe.com
 go.xhamster.com
 g.pcmag.com
 grace.shareaholic.com
@@ -2775,6 +2776,7 @@ load77.exelator.com
 loada.exelator.com
 loader.engage.gsfn.us
 loadeu.exelator.com
+load.fomo.com
 load.instinctiveads.com
 loadm.exelator.com
 loadr.exelator.com
@@ -4182,6 +4184,7 @@ static.chartbeat.com
 static.cleverpush.com
 static.clicktripz.com
 static.clmbtech.com
+static.cloud.coveo.com
 static.cloudflareinsights.com
 static.criteo.com
 static.criteo.net
@@ -4215,6 +4218,7 @@ static.narrativ.com
 static.olark.com
 static.parsely.com
 static.plista.com
+static.responsetap.com
 static.scarabresearch.com
 static.scroll.com
 static.segment.com

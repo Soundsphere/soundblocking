@@ -2344,6 +2344,7 @@
 0.0.0.0 go.sonnen.de
 0.0.0.0 go.toutapp.com
 0.0.0.0 gounlimited.to
+0.0.0.0 go.westmonroe.com
 0.0.0.0 go.xhamster.com
 0.0.0.0 g.pcmag.com
 0.0.0.0 grace.shareaholic.com
@@ -2776,6 +2777,7 @@
 0.0.0.0 loada.exelator.com
 0.0.0.0 loader.engage.gsfn.us
 0.0.0.0 loadeu.exelator.com
+0.0.0.0 load.fomo.com
 0.0.0.0 load.instinctiveads.com
 0.0.0.0 loadm.exelator.com
 0.0.0.0 loadr.exelator.com
@@ -4184,6 +4186,7 @@
 0.0.0.0 static.cleverpush.com
 0.0.0.0 static.clicktripz.com
 0.0.0.0 static.clmbtech.com
+0.0.0.0 static.cloud.coveo.com
 0.0.0.0 static.cloudflareinsights.com
 0.0.0.0 static.criteo.com
 0.0.0.0 static.criteo.net
@@ -4217,6 +4220,7 @@
 0.0.0.0 static.olark.com
 0.0.0.0 static.parsely.com
 0.0.0.0 static.plista.com
+0.0.0.0 static.responsetap.com
 0.0.0.0 static.scarabresearch.com
 0.0.0.0 static.scroll.com
 0.0.0.0 static.segment.com
