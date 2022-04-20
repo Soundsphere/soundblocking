@@ -524,6 +524,7 @@
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.kaltura.com
+0.0.0.0 analytics.kirchenaustritt.de
 0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 analytics.lego.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 analytics.linktr.ee
@@ -636,6 +637,7 @@
 0.0.0.0 api.ipify.org
 0.0.0.0 api.ipstack.com
 0.0.0.0 api.iris.tv
+0.0.0.0 api-js.datadome.co
 0.0.0.0 api.keen.io
 0.0.0.0 api.leadpages.io
 0.0.0.0 api.leanplum.com
@@ -2236,6 +2238,7 @@
 0.0.0.0 gamesradar-gb.gamesradar.com
 0.0.0.0 ganon.yahoo.com
 0.0.0.0 garu.hit.gemius.pl
+0.0.0.0 gatag.it
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
 0.0.0.0 gateway.foresee.com
@@ -4256,6 +4259,7 @@
 0.0.0.0 stats.buysellads.com
 0.0.0.0 stats.clickforknowledge.com
 0.0.0.0 stats.computecmedia.de
+0.0.0.0 stats.datawrapper.de
 0.0.0.0 stats.ebuckler.com
 0.0.0.0 stats.elementary.io
 0.0.0.0 statse.webtrendslive.com

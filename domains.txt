@@ -524,6 +524,7 @@ analytics.hindustantimes.com
 analytics.htmedia.in
 analytics-ingress-global.bitmovin.com
 analytics.kaltura.com
+analytics.kirchenaustritt.de
 analytics.languagetoolplus.com
 analytics.lego.com.ssl.d1.sc.omtrdc.net
 analytics.linktr.ee
@@ -636,6 +637,7 @@ api.iperceptions.com
 api.ipify.org
 api.ipstack.com
 api.iris.tv
+api-js.datadome.co
 api.keen.io
 api.leadpages.io
 api.leanplum.com
@@ -2235,6 +2237,7 @@ gamernetwork.bbvms.com
 gamesradar-gb.gamesradar.com
 ganon.yahoo.com
 garu.hit.gemius.pl
+gatag.it
 gate.datacaciques.com
 gate.hockeyapp.net
 gateway.foresee.com
@@ -4254,6 +4257,7 @@ stats.bluebillywig.com
 stats.buysellads.com
 stats.clickforknowledge.com
 stats.computecmedia.de
+stats.datawrapper.de
 stats.ebuckler.com
 stats.elementary.io
 statse.webtrendslive.com
