@@ -1,7 +1,9 @@
 00be678ee7b58a1dc18187d35908bfb7.safeframe.googlesyndication.com
 0.gravatar.com
 1016557.fls.doubleclick.net
+10578597.fls.doubleclick.net
 10927979.collect.igodigital.com
+11236391.fls.doubleclick.net
 112-tzm-766.mktoresp.com
 11.tlu.dl.delivery.mp.microsoft.com
 15.taboola.com
@@ -3175,6 +3177,7 @@ office-loesung.de.intellitxt.com
 ofhappinyer.com
 ohcohz.stroeerdp.de
 okt.to
+omd.commander1.com
 om.dowjoneson.com
 omniture.chip.de
 omns.americanexpress.com
@@ -5113,6 +5116,7 @@ www.a.shifen.com
 www.assoc-amazon.com
 www.assoc-amazon.de
 www.audiencemanager.de
+www.awin1.com
 www.awin.com
 www.awltovhc.com
 www.baidu.com
