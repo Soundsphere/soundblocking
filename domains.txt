@@ -1047,6 +1047,7 @@ c2shb.ssp.yahoo.com
 c2.taboola.com
 c3.adalyser.com
 c4d-cdn.adcolony.com
+c7c5336c25454095740d5f867f652f21fb106776a9661b153fb5ba9f.trk.sensic.net
 ca1.qualtrics.com
 c.aaxads.com
 cache.addthiscdn.com
@@ -1684,6 +1685,7 @@ d3lu45piikoyqh.cloudfront.net
 d3pkntwtp2ukl5.cloudfront.net
 d3qxef4rp70elm.cloudfront.net
 d3qxwzhswv93jk.cloudfront.net
+d3sai2k6w952qd.cloudfront.net
 d3sbxpiag177w8.cloudfront.net
 d3v27wwd40f0xu.cloudfront.net
 d5nxst8fruw4z.cloudfront.net
@@ -2893,6 +2895,7 @@ mansueto-d.openx.net
 mantodea.mantisadnetwork.com
 map.media6degrees.com
 mapmywayfree.com
+maps.a.forceusercontent.com
 map.sddan.com
 ma.redhat.com
 marketing.alibaba.com
@@ -4232,6 +4235,7 @@ static.sharethrough.com
 static.site24x7rum.com
 static.smi2.net
 statics.streamable.com
+static-v2.trbo.com
 static.vertamedia.com
 static.verticalscope.com
 staticw2.yotpo.com

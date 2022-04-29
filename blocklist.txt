@@ -1047,6 +1047,7 @@
 0.0.0.0 c2.taboola.com
 0.0.0.0 c3.adalyser.com
 0.0.0.0 c4d-cdn.adcolony.com
+0.0.0.0 c7c5336c25454095740d5f867f652f21fb106776a9661b153fb5ba9f.trk.sensic.net
 0.0.0.0 ca1.qualtrics.com
 0.0.0.0 c.aaxads.com
 0.0.0.0 cache.addthiscdn.com
@@ -1685,6 +1686,7 @@
 0.0.0.0 d3pkntwtp2ukl5.cloudfront.net
 0.0.0.0 d3qxef4rp70elm.cloudfront.net
 0.0.0.0 d3qxwzhswv93jk.cloudfront.net
+0.0.0.0 d3sai2k6w952qd.cloudfront.net
 0.0.0.0 d3sbxpiag177w8.cloudfront.net
 0.0.0.0 d3v27wwd40f0xu.cloudfront.net
 0.0.0.0 d5nxst8fruw4z.cloudfront.net
@@ -2895,6 +2897,7 @@
 0.0.0.0 mantodea.mantisadnetwork.com
 0.0.0.0 map.media6degrees.com
 0.0.0.0 mapmywayfree.com
+0.0.0.0 maps.a.forceusercontent.com
 0.0.0.0 map.sddan.com
 0.0.0.0 ma.redhat.com
 0.0.0.0 marketing.alibaba.com
@@ -4234,6 +4237,7 @@
 0.0.0.0 static.site24x7rum.com
 0.0.0.0 static.smi2.net
 0.0.0.0 statics.streamable.com
+0.0.0.0 static-v2.trbo.com
 0.0.0.0 static.vertamedia.com
 0.0.0.0 static.verticalscope.com
 0.0.0.0 staticw2.yotpo.com
