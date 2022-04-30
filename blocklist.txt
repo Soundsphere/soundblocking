@@ -2739,7 +2739,6 @@
 0.0.0.0 lasteventf-tm.everesttech.net
 0.0.0.0 launcher.spot.im
 0.0.0.0 launches.appsflyer.com
-0.0.0.0 launchpadlibrarian.net
 0.0.0.0 launchpoint.marketo.com
 0.0.0.0 lb.apicit.net
 0.0.0.0 l.betrad.com

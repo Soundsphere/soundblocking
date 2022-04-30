@@ -2738,7 +2738,6 @@ laas.americanexpress.com
 lasteventf-tm.everesttech.net
 launcher.spot.im
 launches.appsflyer.com
-launchpadlibrarian.net
 launchpoint.marketo.com
 lb.apicit.net
 l.betrad.com
