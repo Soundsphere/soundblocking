@@ -844,6 +844,7 @@
 0.0.0.0 a.tribalfusion.com
 0.0.0.0 a.trkme.net
 0.0.0.0 ats.otto.de
+0.0.0.0 ats.rlcdn.com
 0.0.0.0 attr.appsflyer.com
 0.0.0.0 a.twiago.com
 0.0.0.0 au1.qualtrics.com
@@ -1305,6 +1306,7 @@
 0.0.0.0 cdn.usefathom.com
 0.0.0.0 cdn.userreport.com
 0.0.0.0 cdn-v3.conductrics.com
+0.0.0.0 cdn.viafoura.net
 0.0.0.0 cdn.vidible.tv
 0.0.0.0 cdn.viglink.com
 0.0.0.0 cdn.vuukle.com
@@ -1594,6 +1596,7 @@
 0.0.0.0 c.spiegel.de
 0.0.0.0 cs.prd.msys.playstation.net
 0.0.0.0 csp-report.force.com
+0.0.0.0 csp-reporting.cloudflare.com
 0.0.0.0 csr.inspsearchapi.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 cstat.apple.com
@@ -2149,6 +2152,7 @@
 0.0.0.0 fc.yahoo.com
 0.0.0.0 fdts.ebay-kleinanzeigen.de
 0.0.0.0 fdyn.pubwise.io
+0.0.0.0 fearlessfaucet.com
 0.0.0.0 federatedml-pa.googleapis.com
 0.0.0.0 feedback.adrecover.com
 0.0.0.0 feedback.userreport.com
@@ -4275,6 +4279,7 @@
 0.0.0.0 stats.g.doubleclick.net
 0.0.0.0 stats.jpush.cn
 0.0.0.0 stats.kaltura.com
+0.0.0.0 stats.kde.org
 0.0.0.0 stats.l.doubleclick.net
 0.0.0.0 stats.lotlinx.com
 0.0.0.0 stats.merriam-webster.com

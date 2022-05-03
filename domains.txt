@@ -844,6 +844,7 @@ atonato.de
 a.tribalfusion.com
 a.trkme.net
 ats.otto.de
+ats.rlcdn.com
 attr.appsflyer.com
 a.twiago.com
 au1.qualtrics.com
@@ -1305,6 +1306,7 @@ cdn.undertone.com
 cdn.usefathom.com
 cdn.userreport.com
 cdn-v3.conductrics.com
+cdn.viafoura.net
 cdn.vidible.tv
 cdn.viglink.com
 cdn.vuukle.com
@@ -1593,6 +1595,7 @@ cs.ns1p.net
 c.spiegel.de
 cs.prd.msys.playstation.net
 csp-report.force.com
+csp-reporting.cloudflare.com
 csr.inspsearchapi.com
 csr.onet.pl
 cstat.apple.com
@@ -2148,6 +2151,7 @@ fc.webmasterpro.de
 fc.yahoo.com
 fdts.ebay-kleinanzeigen.de
 fdyn.pubwise.io
+fearlessfaucet.com
 federatedml-pa.googleapis.com
 feedback.adrecover.com
 feedback.userreport.com
@@ -4273,6 +4277,7 @@ stats.gc.apple.com
 stats.g.doubleclick.net
 stats.jpush.cn
 stats.kaltura.com
+stats.kde.org
 stats.l.doubleclick.net
 stats.lotlinx.com
 stats.merriam-webster.com
