@@ -2203,6 +2203,7 @@ foxnews.demdex.net
 foxnews.hb.omtrdc.net
 fp.msedge.net
 fptadtrue-d.openx.net
+fpt.live.com
 fqtag.com
 fra1-ib.adnxs.com
 fra1.mobile.adnxs.com
@@ -2709,6 +2710,7 @@ js.trendmd.com
 js.usemessages.com
 js.users.51.la
 js-webt-lol.9cache.com
+juggler.services.disqus.com
 justapinch-com-d.openx.net
 justpremium-d.openx.net
 jwpltx.com
@@ -3133,6 +3135,7 @@ nineto5mac-d.openx.net
 ninja.onap.io
 n.mplxtms.com
 no-cache.hubspot.com
+noc.social
 noembed.com
 normandy.cdn.mozilla.net
 notebooksbilliger02.webtrekk.net
