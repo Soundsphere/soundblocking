@@ -573,6 +573,7 @@
 0.0.0.0 anycast.fw.adsafeprotected.com
 0.0.0.0 anycast.pixel.adsafeprotected.com
 0.0.0.0 anycast.static.adsafeprotected.com
+0.0.0.0 anyclip-1.hs.llnwd.net
 0.0.0.0 anyclip-d.openx.net
 0.0.0.0 aoa.demdex.net
 0.0.0.0 aol-match.dotomi.com

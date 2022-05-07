@@ -573,6 +573,7 @@ an.yandex.ru
 anycast.fw.adsafeprotected.com
 anycast.pixel.adsafeprotected.com
 anycast.static.adsafeprotected.com
+anyclip-1.hs.llnwd.net
 anyclip-d.openx.net
 aoa.demdex.net
 aol-match.dotomi.com
