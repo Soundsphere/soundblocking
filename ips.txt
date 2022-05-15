@@ -21,11 +21,13 @@
 ## map highwinds cdn. Don't know what that is actually
 205.185.216.42
 205.185.216.10
+## some alibaba things. Can't remeber why it's on this list. Never had an issue, will therefore stay
 161.117.70.145
 161.117.71.36
 161.117.71.33
 161.117.70.136
 161.117.71.74
+## amazon data services
 205.251.194.210
 ## TikTok starts here
 18.67.76.46

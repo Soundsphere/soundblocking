@@ -3198,7 +3198,6 @@ omniture.chip.de
 omns.americanexpress.com
 oms.expedia.com
 oms.nuggad.net
-omtr2.partners.salesforce.com
 onclickads.net
 oneadvertising-d.openx.net
 oneclient.sfx.ms
@@ -3794,7 +3793,6 @@ s.adroll.com
 s.adtelligent.com
 s.agentanalytics.com
 sak.userreport.com
-salesforcecom.demdex.net
 salesviewer.org
 s.amazon-adsystem.com
 samcm.ksmobile.com
@@ -5240,7 +5238,6 @@ www.rce-event.de
 www.redtube.com.br
 www.reimageplus.com
 www.roosterfirework.com
-www.salesforce.com
 www.sc.pages02.net
 www.sdad.guru
 www.sedoparking.com

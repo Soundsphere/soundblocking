@@ -3200,7 +3200,6 @@
 0.0.0.0 omns.americanexpress.com
 0.0.0.0 oms.expedia.com
 0.0.0.0 oms.nuggad.net
-0.0.0.0 omtr2.partners.salesforce.com
 0.0.0.0 onclickads.net
 0.0.0.0 oneadvertising-d.openx.net
 0.0.0.0 oneclient.sfx.ms
@@ -3796,7 +3795,6 @@
 0.0.0.0 s.adtelligent.com
 0.0.0.0 s.agentanalytics.com
 0.0.0.0 sak.userreport.com
-0.0.0.0 salesforcecom.demdex.net
 0.0.0.0 salesviewer.org
 0.0.0.0 s.amazon-adsystem.com
 0.0.0.0 samcm.ksmobile.com
