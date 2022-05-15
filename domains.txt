@@ -436,6 +436,7 @@ aka-cdn.adtechus.com
 aka-cdn-ns.adtech.de
 akamai.mathtag.com
 akamai-san122.exacttarget.com.edgekey.net
+akamai-san4.exacttarget.com.edgekey.net
 akamai.smartadserver.com
 ak.imgfarm.com
 a.klaviyo.com
