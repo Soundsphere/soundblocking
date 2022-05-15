@@ -2793,6 +2793,7 @@
 0.0.0.0 load77.exelator.com
 0.0.0.0 loada.exelator.com
 0.0.0.0 loader.engage.gsfn.us
+0.0.0.0 loader.wisepops.com
 0.0.0.0 loadeu.exelator.com
 0.0.0.0 load.fomo.com
 0.0.0.0 load.instinctiveads.com
