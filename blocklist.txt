@@ -260,6 +260,7 @@
 0.0.0.0 admarvel.s3.amazonaws.com
 0.0.0.0 ad.mediaplex.com
 0.0.0.0 admicro1.vcmedia.vn
+0.0.0.0 adncdnend.azureedge.net
 0.0.0.0 adnow.com
 0.0.0.0 adnz.co
 0.0.0.0 adobe.com.ssl.d1.sc.omtrdc.net

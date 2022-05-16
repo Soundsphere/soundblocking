@@ -260,6 +260,7 @@ admanager.pushfire.de
 admarvel.s3.amazonaws.com
 ad.mediaplex.com
 admicro1.vcmedia.vn
+adncdnend.azureedge.net
 adnow.com
 adnz.co
 adobe.com.ssl.d1.sc.omtrdc.net
