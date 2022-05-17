@@ -1347,6 +1347,7 @@ chattestdu.de
 chaturbate.com
 check.analytics.rlcdn.com
 chidc2.outbrain.org
+childlikeform.com
 chimpstatic.com
 choices.trustarc.com
 choices.truste.com
@@ -2847,6 +2848,7 @@ logs1413.xiti.com
 logs3.xiti.com
 logs4.xiti.com
 logs.amap.com
+logs.browser-intake-datadoghq.com
 logs.dashlane.com
 logs.gaana.com
 logs.ironsrc.mobi
@@ -3172,6 +3174,7 @@ nzz.d3.sc.omtrdc.net
 o1.qnsr.com
 o278969.ingest.sentry.io
 o2.mouseflow.com
+o2.nonstoppartner.net
 o418887.ingest.sentry.io
 o64374.ingest.sentry.io
 o83571.ingest.sentry.io
@@ -3274,6 +3277,7 @@ par02p.wns.windows.com
 partnerad.l.doubleclick.net
 partner.googleadservices.com
 partner.mediawallahscript.com
+partner.o2online.de
 partners.cmptch.com
 partner.shareaholic.com
 partners.tremorhub.com
@@ -3357,6 +3361,7 @@ pixel.everesttech.net
 pixel.facebook.com
 pixelg.adswizz.com
 pixel-geo.prfct.co
+pixel.inforsea.com
 pixel.invitemedia.com
 pixel.jumptap.com
 pixel.keywee.co
@@ -3883,6 +3888,7 @@ seal.geotrust.com
 seal.godaddy.com
 seal.verisign.com
 seamlessupdate.app
+search-api.fie.future.net.uk
 seccdn-gl.imrworldwide.com
 sec.levexis.com
 s.eclick.vn
@@ -4131,6 +4137,7 @@ ssl.google-analytics.com
 ssl-google-analytics.l.google.com
 ssl-handelsblatt.met.vgwort.de
 ssl-heise.met.vgwort.de
+ssl-idgmagazine.met.vgwort.de
 ssl.kaptcha.com
 ssl.mousestats.com
 ssl.o.webmd.com
@@ -4757,6 +4764,7 @@ ttoversea.net
 t.trafmag.com
 t.update.fbsbx.com
 t.update.rubiconproject.com
+t.vi-serve.com
 twa.netcoresmartech.com
 t.wayfair.com
 twitter-badges.s3.amazonaws.com

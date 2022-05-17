@@ -1347,6 +1347,7 @@
 0.0.0.0 chaturbate.com
 0.0.0.0 check.analytics.rlcdn.com
 0.0.0.0 chidc2.outbrain.org
+0.0.0.0 childlikeform.com
 0.0.0.0 chimpstatic.com
 0.0.0.0 choices.trustarc.com
 0.0.0.0 choices.truste.com
@@ -2848,6 +2849,7 @@
 0.0.0.0 logs3.xiti.com
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs.amap.com
+0.0.0.0 logs.browser-intake-datadoghq.com
 0.0.0.0 logs.dashlane.com
 0.0.0.0 logs.gaana.com
 0.0.0.0 logs.ironsrc.mobi
@@ -3174,6 +3176,7 @@
 0.0.0.0 o1.qnsr.com
 0.0.0.0 o278969.ingest.sentry.io
 0.0.0.0 o2.mouseflow.com
+0.0.0.0 o2.nonstoppartner.net
 0.0.0.0 o418887.ingest.sentry.io
 0.0.0.0 o64374.ingest.sentry.io
 0.0.0.0 o83571.ingest.sentry.io
@@ -3276,6 +3279,7 @@
 0.0.0.0 partnerad.l.doubleclick.net
 0.0.0.0 partner.googleadservices.com
 0.0.0.0 partner.mediawallahscript.com
+0.0.0.0 partner.o2online.de
 0.0.0.0 partners.cmptch.com
 0.0.0.0 partner.shareaholic.com
 0.0.0.0 partners.tremorhub.com
@@ -3359,6 +3363,7 @@
 0.0.0.0 pixel.facebook.com
 0.0.0.0 pixelg.adswizz.com
 0.0.0.0 pixel-geo.prfct.co
+0.0.0.0 pixel.inforsea.com
 0.0.0.0 pixel.invitemedia.com
 0.0.0.0 pixel.jumptap.com
 0.0.0.0 pixel.keywee.co
@@ -3885,6 +3890,7 @@
 0.0.0.0 seal.godaddy.com
 0.0.0.0 seal.verisign.com
 0.0.0.0 seamlessupdate.app
+0.0.0.0 search-api.fie.future.net.uk
 0.0.0.0 seccdn-gl.imrworldwide.com
 0.0.0.0 sec.levexis.com
 0.0.0.0 s.eclick.vn
@@ -4133,6 +4139,7 @@
 0.0.0.0 ssl-google-analytics.l.google.com
 0.0.0.0 ssl-handelsblatt.met.vgwort.de
 0.0.0.0 ssl-heise.met.vgwort.de
+0.0.0.0 ssl-idgmagazine.met.vgwort.de
 0.0.0.0 ssl.kaptcha.com
 0.0.0.0 ssl.mousestats.com
 0.0.0.0 ssl.o.webmd.com
@@ -4759,6 +4766,7 @@
 0.0.0.0 t.trafmag.com
 0.0.0.0 t.update.fbsbx.com
 0.0.0.0 t.update.rubiconproject.com
+0.0.0.0 t.vi-serve.com
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 t.wayfair.com
 0.0.0.0 twitter-badges.s3.amazonaws.com
