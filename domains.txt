@@ -87,6 +87,7 @@ a1168.g.akamai.net
 a11701662245.cdn-pci.optimizely.com
 a17126690382.cdn.optimizely.com
 a1.adform.net
+a1.awin1.com
 a1.seadform.net
 a1.vdna-assets.com
 a2121.casalemedia.com
@@ -492,6 +493,7 @@ ams1.mobile.adnxs.com
 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 ams-ads-cornerstone-creatives.s3.amazonaws.com
 ams-usadmm.dotomi.com
+a.myfidevs.io
 amzn.to
 analytics00.meride.tv
 analytics.ad.daum.net
@@ -803,6 +805,7 @@ asia.creativecdn.com
 ask-d.openx.net
 askfm-usd-d.openx.net
 asmedia.adsupplyssl.com
+asmi.profiles.tagger.opecloud.com
 as.mytoys.de
 asn.advolution.de
 asn-trk.advolution.de
@@ -840,6 +843,7 @@ aswpsdkus.com
 async-px.dynamicyield.com
 async-px-eu.dynamicyield.com
 at.adtech.redventures.io
+at.bahn.de
 a.teads.tv
 atemda.com
 atf.containers.piwik.pro
@@ -1246,6 +1250,7 @@ cdn.pendo.io
 cdn.perfdrive.com
 cdn.permutive.com
 cdn.petametrics.com
+cdn.playbuzz.com
 cdn.pljs.ru
 cdn.p-n.io
 cdn.polyfill.io
@@ -1578,6 +1583,7 @@ crl3.digicert.com
 crl4.digicert.com
 crl.verisign.com
 crm-analytics.imweb.ru
+cr_stats.upscore.com
 crta.dailymail.co.uk
 crunchmind-d.openx.net
 cs1137.wpc.gammacdn.net
@@ -2411,6 +2417,7 @@ hb.vntsm.com
 hbxlp.media.net
 hbx.media.net
 hc.uralweb.ru
+h.df-srv.de
 healte.de
 healthline-d.openx.net
 heartbeats.omtrdc.net
@@ -2482,6 +2489,7 @@ ibt-d.openx.net
 ice.360yield.com
 ichnaea.netflix.com
 i.clean.gg
+i-cmg-amlg-prod.appspot.com
 icompass.insightexpressai.com
 i.compendium.com
 i.connatix.com
@@ -2539,6 +2547,7 @@ img2.zergnet.com
 img.3lift.com
 img4.zergnet.com
 img.alibaba.com
+img.apester.com
 img.bet-at-home.com
 imgcdn.brightinfo.com
 img.connatix.com
@@ -2559,6 +2568,7 @@ imp.control.kochava.com
 impde.tradedoubler.com
 imp.emxdgt.com
 impes.tradedoubler.com
+impfr.tradedoubler.com
 imprammp.taboola.com
 impression.appsflyer.com
 impression.link
@@ -2603,6 +2613,7 @@ instreamvideo.ru
 intake-analytics.wikimedia.org
 intake-logging.wikimedia.org
 intel11.edgekey.net
+interaction.apester.com
 interngraph.prod.scgraph.facebook.com
 interngraph.scgraph.facebook.com
 interngraph.staging.scgraph.facebook.com
@@ -3004,6 +3015,7 @@ metrics-collector.s-onetag.com
 metrics-config.icloud.com
 metrics.fitanalytics.com
 metrics.foxnews.com
+metrics.getrockerbox.com
 metrics.gfycat.com
 metrics.icloud.com
 metrics-logger.spot.im
@@ -3410,6 +3422,7 @@ platform.stumbleupon.com
 platform.tumblr.com
 platform.twitter.com
 plausible.io
+playbuzzltd-d.openx.net
 player.adtelligent.com
 player.aniview.com
 player.anyclip.com
@@ -3450,11 +3463,13 @@ port.sec.intl.miui.com
 powerad.ai
 powr-counter.herokuapp.com
 ppchero.com
+p.placed.com
 pp.lp4.io
 p.po.st
 pp.userapi.com
 pq-direct.revsci.net
 pr-bh.ybp.yahoo.com
+prd-collector-anon.ex.co
 prd-collector-anon.playbuzz.com
 prd.jwpltx.com
 pre.ads.justpremium.com
@@ -3578,6 +3593,7 @@ q14.cnzz.com
 q3.webtrekk.net
 q.addthis.com
 q.adrta.com
+qoe-1.yottaa.net
 qsearch.media.net
 qs.ioam.de
 q.stripe.com
@@ -3654,6 +3670,7 @@ reliancecorporateit.tt.omtrdc.net
 remarket.clicktripz.com
 remote-data.urbanairship.com
 rem-track.bild.de
+renderer.apester.com
 report.appmetrica.webvisor.com
 report.appmetrica.yandex.net
 reporting.aatkit.com
@@ -3685,6 +3702,7 @@ rlog.9gag.com
 rlog-api.under9.co
 r.logrocket.io
 r.mail.ru
+r.mateti.net
 rmsi.nuggad.net
 r.my.com
 r.nexac.com
@@ -3860,6 +3878,7 @@ s.deepl.com
 sdk.accountkit.com
 sdk.adtiming.com
 sdk-android.ad.smaato.net
+sdk.apester.com
 sdk-api-v1.singular.net
 sdk.appsflyer.com
 sdk-assets.localytics.com
@@ -4596,6 +4615,7 @@ tlp-03.kameleoon.com
 tlp-04.kameleoon.com
 tl.tradetracker.net
 tlx.3lift.com
+t.mateti.net
 tmbi.demdex.net
 tmk-eqx-geoloc.smartadserver.com
 tmk-secure.smartadserver.com

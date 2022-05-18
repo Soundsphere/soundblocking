@@ -87,6 +87,7 @@
 0.0.0.0 a11701662245.cdn-pci.optimizely.com
 0.0.0.0 a17126690382.cdn.optimizely.com
 0.0.0.0 a1.adform.net
+0.0.0.0 a1.awin1.com
 0.0.0.0 a1.seadform.net
 0.0.0.0 a1.vdna-assets.com
 0.0.0.0 a2121.casalemedia.com
@@ -492,6 +493,7 @@
 0.0.0.0 ams-ads-cornerstone-creatives-eu.s3.amazonaws.com
 0.0.0.0 ams-ads-cornerstone-creatives.s3.amazonaws.com
 0.0.0.0 ams-usadmm.dotomi.com
+0.0.0.0 a.myfidevs.io
 0.0.0.0 amzn.to
 0.0.0.0 analytics00.meride.tv
 0.0.0.0 analytics.ad.daum.net
@@ -803,6 +805,7 @@
 0.0.0.0 ask-d.openx.net
 0.0.0.0 askfm-usd-d.openx.net
 0.0.0.0 asmedia.adsupplyssl.com
+0.0.0.0 asmi.profiles.tagger.opecloud.com
 0.0.0.0 as.mytoys.de
 0.0.0.0 asn.advolution.de
 0.0.0.0 asn-trk.advolution.de
@@ -840,6 +843,7 @@
 0.0.0.0 async-px.dynamicyield.com
 0.0.0.0 async-px-eu.dynamicyield.com
 0.0.0.0 at.adtech.redventures.io
+0.0.0.0 at.bahn.de
 0.0.0.0 a.teads.tv
 0.0.0.0 atemda.com
 0.0.0.0 atf.containers.piwik.pro
@@ -1246,6 +1250,7 @@
 0.0.0.0 cdn.perfdrive.com
 0.0.0.0 cdn.permutive.com
 0.0.0.0 cdn.petametrics.com
+0.0.0.0 cdn.playbuzz.com
 0.0.0.0 cdn.pljs.ru
 0.0.0.0 cdn.p-n.io
 0.0.0.0 cdn.polyfill.io
@@ -1579,6 +1584,7 @@
 0.0.0.0 crl4.digicert.com
 0.0.0.0 crl.verisign.com
 0.0.0.0 crm-analytics.imweb.ru
+0.0.0.0 cr_stats.upscore.com
 0.0.0.0 crta.dailymail.co.uk
 0.0.0.0 crunchmind-d.openx.net
 0.0.0.0 cs1137.wpc.gammacdn.net
@@ -2412,6 +2418,7 @@
 0.0.0.0 hbxlp.media.net
 0.0.0.0 hbx.media.net
 0.0.0.0 hc.uralweb.ru
+0.0.0.0 h.df-srv.de
 0.0.0.0 healte.de
 0.0.0.0 healthline-d.openx.net
 0.0.0.0 heartbeats.omtrdc.net
@@ -2483,6 +2490,7 @@
 0.0.0.0 ice.360yield.com
 0.0.0.0 ichnaea.netflix.com
 0.0.0.0 i.clean.gg
+0.0.0.0 i-cmg-amlg-prod.appspot.com
 0.0.0.0 icompass.insightexpressai.com
 0.0.0.0 i.compendium.com
 0.0.0.0 i.connatix.com
@@ -2540,6 +2548,7 @@
 0.0.0.0 img.3lift.com
 0.0.0.0 img4.zergnet.com
 0.0.0.0 img.alibaba.com
+0.0.0.0 img.apester.com
 0.0.0.0 img.bet-at-home.com
 0.0.0.0 imgcdn.brightinfo.com
 0.0.0.0 img.connatix.com
@@ -2560,6 +2569,7 @@
 0.0.0.0 impde.tradedoubler.com
 0.0.0.0 imp.emxdgt.com
 0.0.0.0 impes.tradedoubler.com
+0.0.0.0 impfr.tradedoubler.com
 0.0.0.0 imprammp.taboola.com
 0.0.0.0 impression.appsflyer.com
 0.0.0.0 impression.link
@@ -2604,6 +2614,7 @@
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
 0.0.0.0 intel11.edgekey.net
+0.0.0.0 interaction.apester.com
 0.0.0.0 interngraph.prod.scgraph.facebook.com
 0.0.0.0 interngraph.scgraph.facebook.com
 0.0.0.0 interngraph.staging.scgraph.facebook.com
@@ -3006,6 +3017,7 @@
 0.0.0.0 metrics-config.icloud.com
 0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.foxnews.com
+0.0.0.0 metrics.getrockerbox.com
 0.0.0.0 metrics.gfycat.com
 0.0.0.0 metrics.icloud.com
 0.0.0.0 metrics-logger.spot.im
@@ -3412,6 +3424,7 @@
 0.0.0.0 platform.tumblr.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 plausible.io
+0.0.0.0 playbuzzltd-d.openx.net
 0.0.0.0 player.adtelligent.com
 0.0.0.0 player.aniview.com
 0.0.0.0 player.anyclip.com
@@ -3452,11 +3465,13 @@
 0.0.0.0 powerad.ai
 0.0.0.0 powr-counter.herokuapp.com
 0.0.0.0 ppchero.com
+0.0.0.0 p.placed.com
 0.0.0.0 pp.lp4.io
 0.0.0.0 p.po.st
 0.0.0.0 pp.userapi.com
 0.0.0.0 pq-direct.revsci.net
 0.0.0.0 pr-bh.ybp.yahoo.com
+0.0.0.0 prd-collector-anon.ex.co
 0.0.0.0 prd-collector-anon.playbuzz.com
 0.0.0.0 prd.jwpltx.com
 0.0.0.0 pre.ads.justpremium.com
@@ -3580,6 +3595,7 @@
 0.0.0.0 q3.webtrekk.net
 0.0.0.0 q.addthis.com
 0.0.0.0 q.adrta.com
+0.0.0.0 qoe-1.yottaa.net
 0.0.0.0 qsearch.media.net
 0.0.0.0 qs.ioam.de
 0.0.0.0 q.stripe.com
@@ -3656,6 +3672,7 @@
 0.0.0.0 remarket.clicktripz.com
 0.0.0.0 remote-data.urbanairship.com
 0.0.0.0 rem-track.bild.de
+0.0.0.0 renderer.apester.com
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
 0.0.0.0 reporting.aatkit.com
@@ -3687,6 +3704,7 @@
 0.0.0.0 rlog-api.under9.co
 0.0.0.0 r.logrocket.io
 0.0.0.0 r.mail.ru
+0.0.0.0 r.mateti.net
 0.0.0.0 rmsi.nuggad.net
 0.0.0.0 r.my.com
 0.0.0.0 r.nexac.com
@@ -3862,6 +3880,7 @@
 0.0.0.0 sdk.accountkit.com
 0.0.0.0 sdk.adtiming.com
 0.0.0.0 sdk-android.ad.smaato.net
+0.0.0.0 sdk.apester.com
 0.0.0.0 sdk-api-v1.singular.net
 0.0.0.0 sdk.appsflyer.com
 0.0.0.0 sdk-assets.localytics.com
@@ -4598,6 +4617,7 @@
 0.0.0.0 tlp-04.kameleoon.com
 0.0.0.0 tl.tradetracker.net
 0.0.0.0 tlx.3lift.com
+0.0.0.0 t.mateti.net
 0.0.0.0 tmbi.demdex.net
 0.0.0.0 tmk-eqx-geoloc.smartadserver.com
 0.0.0.0 tmk-secure.smartadserver.com
