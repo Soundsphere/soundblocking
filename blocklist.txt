@@ -2857,6 +2857,7 @@
 0.0.0.0 logs13.xiti.com
 0.0.0.0 logs1406.xiti.com
 0.0.0.0 logs1413.xiti.com
+0.0.0.0 logs1414.xiti.com
 0.0.0.0 logs3.xiti.com
 0.0.0.0 logs4.xiti.com
 0.0.0.0 logs.amap.com
@@ -4128,6 +4129,7 @@
 0.0.0.0 sputniknews.com
 0.0.0.0 sp.zalo.me
 0.0.0.0 sqm.telemetry.microsoft.com.nsatc.net
+0.0.0.0 sqs.us-east-1.amazonaws.com
 0.0.0.0 squeakzinc.com
 0.0.0.0 squirrelhands.com
 0.0.0.0 squirrels.getsquirrel.co

@@ -2856,6 +2856,7 @@ logs1242.xiti.com
 logs13.xiti.com
 logs1406.xiti.com
 logs1413.xiti.com
+logs1414.xiti.com
 logs3.xiti.com
 logs4.xiti.com
 logs.amap.com
@@ -4126,6 +4127,7 @@ s.pubmine.com
 sputniknews.com
 sp.zalo.me
 sqm.telemetry.microsoft.com.nsatc.net
+sqs.us-east-1.amazonaws.com
 squeakzinc.com
 squirrelhands.com
 squirrels.getsquirrel.co
