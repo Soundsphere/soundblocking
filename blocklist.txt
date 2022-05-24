@@ -4792,6 +4792,7 @@
 0.0.0.0 twa.netcoresmartech.com
 0.0.0.0 t.wayfair.com
 0.0.0.0 twitter-badges.s3.amazonaws.com
+0.0.0.0 twitterinc.tt.omtrdc.net
 0.0.0.0 t.yesware.com
 0.0.0.0 u3s.mathtag.com
 0.0.0.0 ua-content.adriver.ru
