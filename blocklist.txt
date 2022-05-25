@@ -5078,6 +5078,7 @@
 0.0.0.0 wolve.pro
 0.0.0.0 wpfc.ml
 0.0.0.0 wrapper-api.sp-prod.net
+0.0.0.0 wrap.tradedoubler.com
 0.0.0.0 writer.smartlook.com
 0.0.0.0 ws1.hotjar.com
 0.0.0.0 ws2.hotjar.com
