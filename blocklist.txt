@@ -5264,6 +5264,7 @@
 0.0.0.0 www.pornhub.com
 0.0.0.0 www.pornhublive.com
 0.0.0.0 www.porntrex.com
+0.0.0.0 www.powr.io
 0.0.0.0 www.qualcomm.cn
 0.0.0.0 www.qualtrics.com
 0.0.0.0 www.quantcast.com
