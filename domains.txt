@@ -831,6 +831,7 @@ assets.kromtech.net
 assets.pinterest.com
 assets.privy.com
 assets.purch.com
+assets.rebelmouse.io
 assets.revcontent.com
 assets.servedby-buysellads.com
 assets.vidyard.com
@@ -4866,6 +4867,7 @@ usergrid.com
 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 usermatch.krxd.net
 usersegment.wpdigital.net
+user-stats.rbl.ms
 user-sync.adhese.com
 use-tor.adsrvr.org
 use.typekit.net

@@ -831,6 +831,7 @@
 0.0.0.0 assets.pinterest.com
 0.0.0.0 assets.privy.com
 0.0.0.0 assets.purch.com
+0.0.0.0 assets.rebelmouse.io
 0.0.0.0 assets.revcontent.com
 0.0.0.0 assets.servedby-buysellads.com
 0.0.0.0 assets.vidyard.com
@@ -4868,6 +4869,7 @@
 0.0.0.0 userlike-cdn-widgets.s3-eu-west-1.amazonaws.com
 0.0.0.0 usermatch.krxd.net
 0.0.0.0 usersegment.wpdigital.net
+0.0.0.0 user-stats.rbl.ms
 0.0.0.0 user-sync.adhese.com
 0.0.0.0 use-tor.adsrvr.org
 0.0.0.0 use.typekit.net
