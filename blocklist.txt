@@ -1322,6 +1322,7 @@
 0.0.0.0 cdn.vuukle.com
 0.0.0.0 cdn.w55c.net
 0.0.0.0 cdn.wbtrk.net
+0.0.0.0 cdn.xplosion.de
 0.0.0.0 cdnx.tribalfusion.com
 0.0.0.0 cdn.yldbt.com
 0.0.0.0 cdn.ywxi.net
@@ -2431,6 +2432,7 @@
 0.0.0.0 hello.lov.net
 0.0.0.0 hello.myfonts.net
 0.0.0.0 helper-stats.wondershare.com
+0.0.0.0 helpster.met.vgwort.de
 0.0.0.0 heredeutschlandgmbh.d1.sc.omtrdc.net
 0.0.0.0 hertz.122.2o7.net
 0.0.0.0 hexagon-analytics.com
@@ -2614,6 +2616,7 @@
 0.0.0.0 instreamvideo.ru
 0.0.0.0 intake-analytics.wikimedia.org
 0.0.0.0 intake-logging.wikimedia.org
+0.0.0.0 intake.pbstck.com
 0.0.0.0 intel11.edgekey.net
 0.0.0.0 interaction.apester.com
 0.0.0.0 interngraph.prod.scgraph.facebook.com
@@ -2765,6 +2768,7 @@
 0.0.0.0 launcher.spot.im
 0.0.0.0 launches.appsflyer.com
 0.0.0.0 launchpoint.marketo.com
+0.0.0.0 lb84.s400.meetrics.net
 0.0.0.0 lb.apicit.net
 0.0.0.0 l.betrad.com
 0.0.0.0 lc.iadvize.com
@@ -4292,6 +4296,7 @@
 0.0.0.0 statistics.aldi-international.com
 0.0.0.0 statistics.riskommunal.net
 0.0.0.0 stat.media
+0.0.0.0 stat.meetrics.net
 0.0.0.0 stat.onestat.com
 0.0.0.0 stat.pladform.ru
 0.0.0.0 stat.radar.imgsmail.ru
