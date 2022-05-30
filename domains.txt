@@ -988,7 +988,6 @@ bid.socdm.com
 bid.sxp.smartclip.net
 bild01.webtrekk.net
 bilder.bild.de
-bildschirmarbeiter.com
 bingads.microsoft.com
 bit.do
 bit.ly
@@ -1447,7 +1446,6 @@ code.bildstatic.de
 code.etracker.com
 codefund.io
 code.ionicframework.com
-code.jquery.com
 code.murdoog.com
 c.office.com
 coinmarketcap.com
@@ -1974,7 +1972,6 @@ e6603.g.akamaiedge.net
 e7081.g.akamaiedge.net
 e8960.e2.akamaiedge.net
 ea3c730e0c8933fef3a858c262bf2096.safeframe.googlesyndication.com
-eastwestmodels.de
 easycounter.com
 eb2.3lift.com
 ebaydeb-d.openx.net
@@ -2365,17 +2362,13 @@ go.pub2srv.com
 go.redirectingat.com
 go.shareaholic.com
 go.skimresources.com
-go.sonnenbatterie.de
-go.sonnen.de
 go.toutapp.com
 gounlimited.to
 go.westmonroe.com
 go.xhamster.com
 g.pcmag.com
 grace.shareaholic.com
-grafana.org
 graph.accountkit.com
-graph.facebook.com
 graph.facebook.com
 graph.instagram.com
 graphql.usercentrics.eu
@@ -2912,7 +2905,6 @@ mads-eu.amazon.com
 m.adtiming.com
 mahimeta.com
 mail-ads.google.com
-mailchimp.com
 mailderef.web.de
 mailfoogae.appspot.com
 mail.radar.imgsmail.ru
@@ -3712,7 +3704,6 @@ rmsi.nuggad.net
 r.my.com
 r.nexac.com
 ro89.com
-rottentomatoes.com
 route.carambo.la
 router.infolinks.com
 router.utorrent.com
@@ -4048,7 +4039,6 @@ site.adform.com
 siteimproveanalytics.com
 siteintercept.qualtrics.com
 site-optimization-api.company-target.com
-sixcooler.de
 sjedt.adsafeprotected.com
 s.jpush.cn
 sjrtp5-cdn.marketo.com
@@ -5161,7 +5151,6 @@ www.adventori.com
 www.adwidecenter.com
 www.agkn.com
 www.amobee.com
-www.anker-skateparks.com
 www.anrdoezrs.net
 www.applift.com
 www.asadcdn.com
@@ -5177,7 +5166,6 @@ www.baidu.com
 www.barilliance.net
 www.bet365.com
 www.bilder-upload.eu
-www.bitcoin.de
 www.bizographics.com
 www.blogads.de
 www.bloggerei.de
@@ -5248,7 +5236,6 @@ www.linksalpha.com
 www.linkwithin.com
 www.liveinternet.ru
 www.looperman.com
-www.mailchimp.com
 www.mainadv.com
 www.marketo.com
 www.mb103.com
@@ -5263,7 +5250,6 @@ www.ojrq.net
 www.okcupid.com
 www.outbrain.com
 www.pages03.net
-www.phun.org
 www.plista.com
 www.pornhub.com
 www.pornhublive.com

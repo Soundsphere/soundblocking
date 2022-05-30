@@ -988,7 +988,6 @@
 0.0.0.0 bid.sxp.smartclip.net
 0.0.0.0 bild01.webtrekk.net
 0.0.0.0 bilder.bild.de
-0.0.0.0 bildschirmarbeiter.com
 0.0.0.0 bingads.microsoft.com
 0.0.0.0 bit.do
 0.0.0.0 bit.ly
@@ -1447,7 +1446,6 @@
 0.0.0.0 code.etracker.com
 0.0.0.0 codefund.io
 0.0.0.0 code.ionicframework.com
-0.0.0.0 code.jquery.com
 0.0.0.0 code.murdoog.com
 0.0.0.0 c.office.com
 0.0.0.0 coinmarketcap.com
@@ -1975,7 +1973,6 @@
 0.0.0.0 e7081.g.akamaiedge.net
 0.0.0.0 e8960.e2.akamaiedge.net
 0.0.0.0 ea3c730e0c8933fef3a858c262bf2096.safeframe.googlesyndication.com
-0.0.0.0 eastwestmodels.de
 0.0.0.0 easycounter.com
 0.0.0.0 eb2.3lift.com
 0.0.0.0 ebaydeb-d.openx.net
@@ -2366,17 +2363,13 @@
 0.0.0.0 go.redirectingat.com
 0.0.0.0 go.shareaholic.com
 0.0.0.0 go.skimresources.com
-0.0.0.0 go.sonnenbatterie.de
-0.0.0.0 go.sonnen.de
 0.0.0.0 go.toutapp.com
 0.0.0.0 gounlimited.to
 0.0.0.0 go.westmonroe.com
 0.0.0.0 go.xhamster.com
 0.0.0.0 g.pcmag.com
 0.0.0.0 grace.shareaholic.com
-0.0.0.0 grafana.org
 0.0.0.0 graph.accountkit.com
-0.0.0.0 graph.facebook.com
 0.0.0.0 graph.facebook.com
 0.0.0.0 graph.instagram.com
 0.0.0.0 graphql.usercentrics.eu
@@ -2914,7 +2907,6 @@
 0.0.0.0 m.adtiming.com
 0.0.0.0 mahimeta.com
 0.0.0.0 mail-ads.google.com
-0.0.0.0 mailchimp.com
 0.0.0.0 mailderef.web.de
 0.0.0.0 mailfoogae.appspot.com
 0.0.0.0 mail.radar.imgsmail.ru
@@ -3714,7 +3706,6 @@
 0.0.0.0 r.my.com
 0.0.0.0 r.nexac.com
 0.0.0.0 ro89.com
-0.0.0.0 rottentomatoes.com
 0.0.0.0 route.carambo.la
 0.0.0.0 router.infolinks.com
 0.0.0.0 router.utorrent.com
@@ -4050,7 +4041,6 @@
 0.0.0.0 siteimproveanalytics.com
 0.0.0.0 siteintercept.qualtrics.com
 0.0.0.0 site-optimization-api.company-target.com
-0.0.0.0 sixcooler.de
 0.0.0.0 sjedt.adsafeprotected.com
 0.0.0.0 s.jpush.cn
 0.0.0.0 sjrtp5-cdn.marketo.com
@@ -5163,7 +5153,6 @@
 0.0.0.0 www.adwidecenter.com
 0.0.0.0 www.agkn.com
 0.0.0.0 www.amobee.com
-0.0.0.0 www.anker-skateparks.com
 0.0.0.0 www.anrdoezrs.net
 0.0.0.0 www.applift.com
 0.0.0.0 www.asadcdn.com
@@ -5179,7 +5168,6 @@
 0.0.0.0 www.barilliance.net
 0.0.0.0 www.bet365.com
 0.0.0.0 www.bilder-upload.eu
-0.0.0.0 www.bitcoin.de
 0.0.0.0 www.bizographics.com
 0.0.0.0 www.blogads.de
 0.0.0.0 www.bloggerei.de
@@ -5250,7 +5238,6 @@
 0.0.0.0 www.linkwithin.com
 0.0.0.0 www.liveinternet.ru
 0.0.0.0 www.looperman.com
-0.0.0.0 www.mailchimp.com
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.marketo.com
 0.0.0.0 www.mb103.com
@@ -5265,7 +5252,6 @@
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.pages03.net
-0.0.0.0 www.phun.org
 0.0.0.0 www.plista.com
 0.0.0.0 www.pornhub.com
 0.0.0.0 www.pornhublive.com
@@ -5280,7 +5266,6 @@
 0.0.0.0 www.redtube.com.br
 0.0.0.0 www.reimageplus.com
 0.0.0.0 www.roosterfirework.com
-0.0.0.0 www.salesforce.com
 0.0.0.0 www.sc.pages02.net
 0.0.0.0 www.sdad.guru
 0.0.0.0 www.sedoparking.com
