@@ -1961,6 +1961,7 @@
 0.0.0.0 dynamic.criteo.com
 0.0.0.0 dyn.emetriq.de
 0.0.0.0 dyv1bugovvq1g.cloudfront.net
+0.0.0.0 e-0009.e-msedge.net
 0.0.0.0 e-10220.adzerk.net
 0.0.0.0 e1151.e12.akamaiedge.net
 0.0.0.0 e1.emxdgt.com
@@ -2108,6 +2109,7 @@
 0.0.0.0 event.yoochoose.net
 0.0.0.0 eviltracker.net
 0.0.0.0 ev.kck.st
+0.0.0.0 evoke-windowsservices-tas.msedge.net
 0.0.0.0 evolvemedia-d.openx.net
 0.0.0.0 evt.klarna.com
 0.0.0.0 ew3.io
@@ -2363,6 +2365,7 @@
 0.0.0.0 go.redirectingat.com
 0.0.0.0 go.shareaholic.com
 0.0.0.0 go.skimresources.com
+0.0.0.0 go.sonnenbatterie.de
 0.0.0.0 go.toutapp.com
 0.0.0.0 gounlimited.to
 0.0.0.0 go.westmonroe.com

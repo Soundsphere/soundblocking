@@ -1960,6 +1960,7 @@ dy.adserve.io
 dynamic.criteo.com
 dyn.emetriq.de
 dyv1bugovvq1g.cloudfront.net
+e-0009.e-msedge.net
 e-10220.adzerk.net
 e1151.e12.akamaiedge.net
 e1.emxdgt.com
@@ -2107,6 +2108,7 @@ events.whisk.com
 event.yoochoose.net
 eviltracker.net
 ev.kck.st
+evoke-windowsservices-tas.msedge.net
 evolvemedia-d.openx.net
 evt.klarna.com
 ew3.io
@@ -2362,6 +2364,7 @@ go.pub2srv.com
 go.redirectingat.com
 go.shareaholic.com
 go.skimresources.com
+go.sonnenbatterie.de
 go.toutapp.com
 gounlimited.to
 go.westmonroe.com
