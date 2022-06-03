@@ -1270,6 +1270,7 @@
 0.0.0.0 cdns.connatix.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
+0.0.0.0 cdn-settings.appsflyersdk.com
 0.0.0.0 cdn-settings.segment.com
 0.0.0.0 cdns.eu1.gigya.com
 0.0.0.0 cdns.gigya.com
@@ -1864,6 +1865,7 @@
 0.0.0.0 diff.smartadserver.com
 0.0.0.0 diffuser-cdn.app-us1.com
 0.0.0.0 digicertwc.rubiconproject.com.edgekey.net
+0.0.0.0 digiseg.io
 0.0.0.0 digitalocean1.mktoweb.com
 0.0.0.0 d.impactradius-event.com
 0.0.0.0 di.phncdn.com
@@ -2311,6 +2313,7 @@
 0.0.0.0 gethatch.com
 0.0.0.0 get.mirando.de
 0.0.0.0 get.optad360.io
+0.0.0.0 getpocket.cdn.mozilla.net
 0.0.0.0 getrockerbox.com
 0.0.0.0 get.s-onetag.com
 0.0.0.0 g.ezodn.com

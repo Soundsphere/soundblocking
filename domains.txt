@@ -1270,6 +1270,7 @@ cdn.scarabresearch.com
 cdns.connatix.com
 cdn.segment.com
 cdn.segment.io
+cdn-settings.appsflyersdk.com
 cdn-settings.segment.com
 cdns.eu1.gigya.com
 cdns.gigya.com
@@ -1863,6 +1864,7 @@ diapi.webgains.com
 diff.smartadserver.com
 diffuser-cdn.app-us1.com
 digicertwc.rubiconproject.com.edgekey.net
+digiseg.io
 digitalocean1.mktoweb.com
 d.impactradius-event.com
 di.phncdn.com
@@ -2310,6 +2312,7 @@ getexceptional.com
 gethatch.com
 get.mirando.de
 get.optad360.io
+getpocket.cdn.mozilla.net
 getrockerbox.com
 get.s-onetag.com
 g.ezodn.com
