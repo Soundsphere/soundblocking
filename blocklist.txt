@@ -40,6 +40,7 @@
 0.0.0.0 3797665.fls.doubleclick.net
 0.0.0.0 387bd331f74169dc0369fb558d18e621.safeframe.googlesyndication.com
 0.0.0.0 3.au.download.windowsupdate.com
+0.0.0.0 3bccfa1cf423d8f63a8b90db079d483c.safeframe.googlesyndication.com
 0.0.0.0 4228414.fls.doubleclick.net
 0.0.0.0 4258548.fls.doubleclick.net
 0.0.0.0 4345210.fls.doubleclick.net
@@ -3270,6 +3271,7 @@
 0.0.0.0 p16-tiktok-va-h2.ibyteimg.com
 0.0.0.0 p16-tiktok-va.ibyteimg.com
 0.0.0.0 p16-va-tiktok.ibyteimg.com
+0.0.0.0 p1.parsely.com
 0.0.0.0 p1-tt.byteimg.com
 0.0.0.0 p1-tt-ipv6.byteimg.com
 0.0.0.0 p26-tt.byteimg.com
