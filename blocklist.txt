@@ -531,6 +531,7 @@
 0.0.0.0 analytics.htmedia.in
 0.0.0.0 analytics-ingress-global.bitmovin.com
 0.0.0.0 analytics.kaltura.com
+0.0.0.0 analytics.keepassxc.org
 0.0.0.0 analytics.kirchenaustritt.de
 0.0.0.0 analytics.languagetoolplus.com
 0.0.0.0 analytics.lego.com.ssl.d1.sc.omtrdc.net
@@ -1550,6 +1551,7 @@
 0.0.0.0 cookie-script.com
 0.0.0.0 cookiesync.vertamedia.com
 0.0.0.0 cookiex.ngd.yahoo.com
+0.0.0.0 c.oracleinfinity.io
 0.0.0.0 core.connatix.com
 0.0.0.0 core.polyad.net
 0.0.0.0 corpredirect.intel.com
@@ -2799,6 +2801,7 @@
 0.0.0.0 linkconnector.com
 0.0.0.0 linkinghub.elsevier.com
 0.0.0.0 links.services.disqus.com
+0.0.0.0 littlebuddy.apple.com
 0.0.0.0 live.chartboost.com
 0.0.0.0 live.hyprmx.com
 0.0.0.0 live.primis.tech
@@ -3687,6 +3690,7 @@
 0.0.0.0 reports.crashlytics.com
 0.0.0.0 req.startappservice.com
 0.0.0.0 res1.applovin.com
+0.0.0.0 res.cloudinary.com
 0.0.0.0 researchgate-d.openx.net
 0.0.0.0 resolver.msg.xiaomi.net
 0.0.0.0 resources.infolinks.com
@@ -4363,6 +4367,7 @@
 0.0.0.0 s.thebrighttag.com
 0.0.0.0 stiffstem.com
 0.0.0.0 st-n.ads1-adnow.com
+0.0.0.0 stocks-analytics-events.apple.com
 0.0.0.0 storage.cloud.kargo.com
 0.0.0.0 storage.googleapis.com
 0.0.0.0 storage.live.com
@@ -5068,6 +5073,7 @@
 0.0.0.0 widgets.trustedshops.com
 0.0.0.0 widget.trustpilot.com
 0.0.0.0 widget.us.criteo.com
+0.0.0.0 widget.wickedreports.com
 0.0.0.0 wikia-d.openx.net
 0.0.0.0 wildcard.cdn.optimizely.com.edgekey.net
 0.0.0.0 wildcard.moatads.com.edgekey.net
@@ -5260,6 +5266,7 @@
 0.0.0.0 www.okcupid.com
 0.0.0.0 www.outbrain.com
 0.0.0.0 www.pages03.net
+0.0.0.0 www.phun.org
 0.0.0.0 www.plista.com
 0.0.0.0 www.pornhub.com
 0.0.0.0 www.pornhublive.com

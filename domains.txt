@@ -531,6 +531,7 @@ analytics.hindustantimes.com
 analytics.htmedia.in
 analytics-ingress-global.bitmovin.com
 analytics.kaltura.com
+analytics.keepassxc.org
 analytics.kirchenaustritt.de
 analytics.languagetoolplus.com
 analytics.lego.com.ssl.d1.sc.omtrdc.net
@@ -1549,6 +1550,7 @@ cookie-matching.mediarithmics.com
 cookie-script.com
 cookiesync.vertamedia.com
 cookiex.ngd.yahoo.com
+c.oracleinfinity.io
 core.connatix.com
 core.polyad.net
 corpredirect.intel.com
@@ -2798,6 +2800,7 @@ linkangood.com
 linkconnector.com
 linkinghub.elsevier.com
 links.services.disqus.com
+littlebuddy.apple.com
 live.chartboost.com
 live.hyprmx.com
 live.primis.tech
@@ -3685,6 +3688,7 @@ reporting.singlefeed.com
 reports.crashlytics.com
 req.startappservice.com
 res1.applovin.com
+res.cloudinary.com
 researchgate-d.openx.net
 resolver.msg.xiaomi.net
 resources.infolinks.com
@@ -4361,6 +4365,7 @@ st-euw1.dynamicyield.com
 s.thebrighttag.com
 stiffstem.com
 st-n.ads1-adnow.com
+stocks-analytics-events.apple.com
 storage.cloud.kargo.com
 storage.googleapis.com
 storage.live.com
@@ -5066,6 +5071,7 @@ widgets.stripst.com
 widgets.trustedshops.com
 widget.trustpilot.com
 widget.us.criteo.com
+widget.wickedreports.com
 wikia-d.openx.net
 wildcard.cdn.optimizely.com.edgekey.net
 wildcard.moatads.com.edgekey.net
@@ -5258,6 +5264,7 @@ www.ojrq.net
 www.okcupid.com
 www.outbrain.com
 www.pages03.net
+www.phun.org
 www.plista.com
 www.pornhub.com
 www.pornhublive.com
