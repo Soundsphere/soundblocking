@@ -1163,6 +1163,7 @@
 0.0.0.0 cdn.bluecore.com
 0.0.0.0 cdn.boomtrain.com
 0.0.0.0 cdn.branch.io
+0.0.0.0 cdn.bronto.com
 0.0.0.0 cdn.callrail.com
 0.0.0.0 cdn.carbonads.com
 0.0.0.0 cdn.chitika.net
@@ -1270,6 +1271,7 @@
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdn.scarabresearch.com
 0.0.0.0 cdns.connatix.com
+0.0.0.0 cdn-scripts.signifyd.com
 0.0.0.0 cdn.segment.com
 0.0.0.0 cdn.segment.io
 0.0.0.0 cdn-settings.appsflyersdk.com
@@ -1449,6 +1451,7 @@
 0.0.0.0 code.etracker.com
 0.0.0.0 codefund.io
 0.0.0.0 code.ionicframework.com
+0.0.0.0 code.jquery.com
 0.0.0.0 code.murdoog.com
 0.0.0.0 c.office.com
 0.0.0.0 coinmarketcap.com
@@ -1672,6 +1675,7 @@
 0.0.0.0 d29usylhdk1xyu.cloudfront.net
 0.0.0.0 d2bgg7rjywcwsy.cloudfront.net
 0.0.0.0 d2dq2ahtl5zl1z.cloudfront.net
+0.0.0.0 d2hrivdxn8ekm8.cloudfront.net
 0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 d2k03kvdk5cku0.cloudfront.net
 0.0.0.0 d2oh4tlt9mrke9.cloudfront.net
@@ -2292,6 +2296,7 @@
 0.0.0.0 geocode.usefomo.com
 0.0.0.0 geo.gorillanation.com
 0.0.0.0 geoip-db.com
+0.0.0.0 geoip-js.com
 0.0.0.0 geo.kaloo.ga
 0.0.0.0 geolocation-db.com
 0.0.0.0 geolocation.onetrust.com
@@ -4202,6 +4207,7 @@
 0.0.0.0 stan.xing.com
 0.0.0.0 star.c10r.facebook.com
 0.0.0.0 star.facebook.com
+0.0.0.0 star.fallback.c10r.facebook.com
 0.0.0.0 starget.intel.com
 0.0.0.0 starget.intel.de
 0.0.0.0 startrekk.flaconi.de
@@ -5255,6 +5261,7 @@
 0.0.0.0 www.mainadv.com
 0.0.0.0 www.marketo.com
 0.0.0.0 www.mb103.com
+0.0.0.0 www.mczbf.com
 0.0.0.0 www.media.net
 0.0.0.0 www.meltwater.com
 0.0.0.0 www.movable-ink-2183.com

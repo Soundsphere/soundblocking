@@ -1163,6 +1163,7 @@ cdn.blueconic.net
 cdn.bluecore.com
 cdn.boomtrain.com
 cdn.branch.io
+cdn.bronto.com
 cdn.callrail.com
 cdn.carbonads.com
 cdn.chitika.net
@@ -1270,6 +1271,7 @@ cdn.sagent.io
 cdns.brsrvr.com
 cdn.scarabresearch.com
 cdns.connatix.com
+cdn-scripts.signifyd.com
 cdn.segment.com
 cdn.segment.io
 cdn-settings.appsflyersdk.com
@@ -1449,6 +1451,7 @@ code.bildstatic.de
 code.etracker.com
 codefund.io
 code.ionicframework.com
+code.jquery.com
 code.murdoog.com
 c.office.com
 coinmarketcap.com
@@ -1671,6 +1674,7 @@ d26b395fwzu5fz.cloudfront.net
 d29usylhdk1xyu.cloudfront.net
 d2bgg7rjywcwsy.cloudfront.net
 d2dq2ahtl5zl1z.cloudfront.net
+d2hrivdxn8ekm8.cloudfront.net
 d2jjzw81hqbuqv.cloudfront.net
 d2k03kvdk5cku0.cloudfront.net
 d2oh4tlt9mrke9.cloudfront.net
@@ -2291,6 +2295,7 @@ geoced.smartadserver.com
 geocode.usefomo.com
 geo.gorillanation.com
 geoip-db.com
+geoip-js.com
 geo.kaloo.ga
 geolocation-db.com
 geolocation.onetrust.com
@@ -4200,6 +4205,7 @@ stakingsmile.com
 stan.xing.com
 star.c10r.facebook.com
 star.facebook.com
+star.fallback.c10r.facebook.com
 starget.intel.com
 starget.intel.de
 startrekk.flaconi.de
@@ -5253,6 +5259,7 @@ www.looperman.com
 www.mainadv.com
 www.marketo.com
 www.mb103.com
+www.mczbf.com
 www.media.net
 www.meltwater.com
 www.movable-ink-2183.com
