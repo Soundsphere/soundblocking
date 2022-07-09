@@ -3661,7 +3661,6 @@ r.adrolays.de
 r.adserver01.de
 ranker.sc.omtrdc.net
 ra.revolvermaps.com
-raw.githubusercontent.com
 rb.adnxs.com
 r.bbci.co.uk
 rbnt.org

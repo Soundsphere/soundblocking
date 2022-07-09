@@ -3663,7 +3663,6 @@
 0.0.0.0 r.adserver01.de
 0.0.0.0 ranker.sc.omtrdc.net
 0.0.0.0 ra.revolvermaps.com
-0.0.0.0 raw.githubusercontent.com
 0.0.0.0 rb.adnxs.com
 0.0.0.0 r.bbci.co.uk
 0.0.0.0 rbnt.org
