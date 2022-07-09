@@ -29,6 +29,7 @@
 2c3e38dc6508c4aa245fa4eeaca9f953.safeframe.googlesyndication.com
 2.chipde.damoh.schneevonmorgen.com
 2ciy2-9kbup.ads.tremorhub.com
+2.datadog.pool.ntp.org
 311c47d7.webengage.co
 3276817.fls.doubleclick.net
 33across-d.openx.net
@@ -635,6 +636,8 @@ api.gameanalytics.com
 api.getdrip.com
 api.getvero.com
 api-global.netflix.com
+api.goodnotescloud.com
+api.goodnotes.email
 api.hostip.info
 api.huqindustries.co.uk
 api.hybrid.intl.xiaomi.com
@@ -908,6 +911,7 @@ backstory.ebay.com
 backstory.ebay.de
 badges.instagram.com
 b.admedia.com
+bag.itunes.apple.com
 b.aklamio.com
 bam-cell.nr-data.net
 bam.eu01.nr-data.net
@@ -1296,6 +1300,7 @@ cdn.stat-rock.com
 cdn.steepto.com
 cdn.stickyadstv.com
 cdn.stripst.com
+cdn.stroeerdigitalgroup.de
 cdn.stroeerdigitalmedia.de
 cdn.strpst.com
 cdn.switchadhub.com
@@ -1326,6 +1331,7 @@ cdn.viglink.com
 cdn.vuukle.com
 cdn.w55c.net
 cdn.wbtrk.net
+cdn.webpushr.com
 cdn.xplosion.de
 cdnx.tribalfusion.com
 cdn.yldbt.com
@@ -1467,6 +1473,7 @@ collector.bunchbox.co
 collector.fitanalytics.com
 collector.fiverr.com
 collector.githubapp.com
+collector.github.com
 collector.leaddyno.com
 collector-medium.lightstep.com
 collector-px3vk96i6i.perimeterx.net
@@ -2271,6 +2278,7 @@ garu.hit.gemius.pl
 gatag.it
 gate.datacaciques.com
 gate.hockeyapp.net
+gateway.fe.apple-dns.net
 gateway.foresee.com
 gatr.hit.gemius.pl
 gaua.hit.gemius.pl
@@ -2395,6 +2403,12 @@ gscounters.us1.gigya.com
 gslb-2.demdex.net
 gslbeacon.lijit.com
 gs-loc.apple.com
+gspe11-ssl.ls.apple.com
+gspe12-ssl.ls.apple.com
+gspe19-ssl.ls.apple.com
+gspe1-ssl.ls.apple.com
+gspe1-ssl.ls.apple.com.edgekey.net
+gsp-ssl.ls-apple.com.akadns.net
 gstaticadssl.l.google.com
 gum.criteo.com
 gumroad.com
@@ -2589,6 +2603,7 @@ imstore.bet365affiliates.com
 in.api.glance.inmobi.com
 inapi.posst.co
 in.appcenter.ms
+inappcheck-lb.itunes-apple.com.akadns.net
 inapps.appsflyer.com
 in-automate.sendinblue.com
 includemodal.com
@@ -2945,6 +2960,8 @@ marketplace-ios-b189.hyprmx.com
 mark.reevoo.com
 marriott.btttag.com
 marriottinternationa.demdex.net
+mask-h2.icloud.com
+mask.icloud.com
 mastercard.demdex.net
 mastertag.kpcustomer.de
 mastertag.q-sis.de
@@ -2983,6 +3000,7 @@ md-a-c.apptimize.com
 md-i-s.apptimize.com
 m.dlx.addthis.com
 m.do.co
+me.apple-dns.net
 me-cdn.effectivemeasure.net
 med-api.admost.com
 med.heyzap.com
@@ -3164,6 +3182,7 @@ nfl.demdex.net
 nfl.hb.omtrdc.net
 nfoo-server.com
 nginx-auction-prd-gcp.adsx.unityads.unity3d.com
+nimbleswan.io
 ninegag-d.openx.net
 nineto5mac-d.openx.net
 ninja.onap.io
@@ -3270,6 +3289,7 @@ ot.obi.de
 outcome-ssp.supersonicads.com
 ovc2-ustokyyneikyfasnm.stackpathdns.com
 ow-gateway.supersonicads.com
+p107-contacts.icloud.com
 p11.techlab-cdn.com
 p16-ad-sg.ibyteimg.com
 p16-tiktok-sg.ibyteimg.com
@@ -3527,6 +3547,7 @@ prod-telemetry.paradox-interactive.com
 prod.telemetry.ros.rockstargames.com
 production-cmp.isgprivacy.cbsi.com
 prof.estat.com
+profile.accounts.firefox.com
 profile-api-prod-elb.53.localytics.com
 profile.localytics.com
 profiles.segment.com
@@ -3640,6 +3661,7 @@ r.adrolays.de
 r.adserver01.de
 ranker.sc.omtrdc.net
 ra.revolvermaps.com
+raw.githubusercontent.com
 rb.adnxs.com
 r.bbci.co.uk
 rbnt.org
@@ -3904,6 +3926,7 @@ sdkgw.us1.twilio.com
 sdk.iad-01.braze.com
 sdk.iad-03.braze.com
 sdk-ios.ad.smaato.net
+sdki.truepush.com
 sdkm.w.inmobi.com
 sdk.out.usbla.net
 sdk.privacy-center.org
@@ -4965,6 +4988,7 @@ video.moatads.com
 video.oms.eu
 video.primis.tech
 video-shield.mediavine.com
+video-streaming.ezoic.com
 video.unrulymedia.com
 vid-io-dub.springserve.com
 vid.pubmatic.com
@@ -5007,6 +5031,7 @@ v.w-x.co
 vz-cdn.trafficjunky.net
 vzuhe758ae.kameleoon.eu
 w7.berlin.de
+waitlist.goodnotesplatform.com
 waproduction.postaffiliatepro.com
 warnerbros.112.2o7.net
 washingtonpost.com.102.112.2o7.net
@@ -5233,6 +5258,7 @@ www.getdrip.com
 www.googleadservices.com
 www.google-analytics.com
 www-google-analytics.l.google.com
+www.google.com
 www.googleoptimize.com
 www.googletagmanager.com
 www-googletagmanager.l.google.com
