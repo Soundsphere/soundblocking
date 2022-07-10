@@ -2278,7 +2278,6 @@ garu.hit.gemius.pl
 gatag.it
 gate.datacaciques.com
 gate.hockeyapp.net
-gateway.fe.apple-dns.net
 gateway.foresee.com
 gatr.hit.gemius.pl
 gaua.hit.gemius.pl

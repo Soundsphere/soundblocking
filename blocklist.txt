@@ -2279,7 +2279,6 @@
 0.0.0.0 gatag.it
 0.0.0.0 gate.datacaciques.com
 0.0.0.0 gate.hockeyapp.net
-0.0.0.0 gateway.fe.apple-dns.net
 0.0.0.0 gateway.foresee.com
 0.0.0.0 gatr.hit.gemius.pl
 0.0.0.0 gaua.hit.gemius.pl
