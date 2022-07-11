@@ -2610,8 +2610,6 @@
 0.0.0.0 in.api.glance.inmobi.com
 0.0.0.0 inapi.posst.co
 0.0.0.0 in.appcenter.ms
-0.0.0.0 inappcheck.itunes.apple.com
-0.0.0.0 inappcheck-lb.itunes-apple.com.akadns.net
 0.0.0.0 inapps.appsflyer.com
 0.0.0.0 in-automate.sendinblue.com
 0.0.0.0 includemodal.com
@@ -3306,7 +3304,6 @@
 0.0.0.0 outcome-ssp.supersonicads.com
 0.0.0.0 ovc2-ustokyyneikyfasnm.stackpathdns.com
 0.0.0.0 ow-gateway.supersonicads.com
-0.0.0.0 p107-contacts.icloud.com
 0.0.0.0 p11.techlab-cdn.com
 0.0.0.0 p16-ad-sg.ibyteimg.com
 0.0.0.0 p16-tiktok-sg.ibyteimg.com

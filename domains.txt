@@ -2609,8 +2609,6 @@ imstore.bet365affiliates.com
 in.api.glance.inmobi.com
 inapi.posst.co
 in.appcenter.ms
-inappcheck.itunes.apple.com
-inappcheck-lb.itunes-apple.com.akadns.net
 inapps.appsflyer.com
 in-automate.sendinblue.com
 includemodal.com
@@ -3304,7 +3302,6 @@ ot.obi.de
 outcome-ssp.supersonicads.com
 ovc2-ustokyyneikyfasnm.stackpathdns.com
 ow-gateway.supersonicads.com
-p107-contacts.icloud.com
 p11.techlab-cdn.com
 p16-ad-sg.ibyteimg.com
 p16-tiktok-sg.ibyteimg.com
