@@ -1,4 +1,5 @@
 00be678ee7b58a1dc18187d35908bfb7.safeframe.googlesyndication.com
+0-courier.push.apple.com
 0.gravatar.com
 1016557.fls.doubleclick.net
 10578597.fls.doubleclick.net
@@ -74,6 +75,7 @@
 71i.nuggad.net
 727-zqe-044.mktoresp.com
 79423.analytics.edgekey.net
+7-courier.push.apple.com
 8127020.fls.doubleclick.net
 8209809.fls.doubleclick.net
 8468614.fls.doubleclick.net
@@ -773,6 +775,7 @@ app-measurement.com
 app.miui.com
 app.pendo.io
 app.redretarget.com
+app-site-association.cdn-apple.com
 app-sj01.marketo.com
 app-sj05.marketo.com
 app-sj13.marketo.com
@@ -809,6 +812,7 @@ ash.creativecdn.com
 asia.creativecdn.com
 ask-d.openx.net
 askfm-usd-d.openx.net
+a.slack-edge.com
 asmedia.adsupplyssl.com
 asmi.profiles.tagger.opecloud.com
 as.mytoys.de
@@ -1515,6 +1519,7 @@ config.ioam.de
 config.safedk.com
 config.samqaicongen.com
 config.uca.cloud.unity3d.com
+configuration.ls.apple.com
 connatix-d.openx.net
 connect.digi.com
 connect.ekomi.de
@@ -1594,6 +1599,7 @@ credit-agricole.fr
 criteo-sync.teads.tv
 crl3.digicert.com
 crl4.digicert.com
+crl.swisssign.net
 crl.verisign.com
 crm-analytics.imweb.ru
 cr_stats.upscore.com
@@ -2008,6 +2014,7 @@ edaa.eu
 edatasales.com
 edba.brealtime.com
 e.deployads.com
+edge-053.defra2.icloud-content.com
 edge.activity.windows.com
 edge.addthis.com
 edge.curalate.com
@@ -2277,7 +2284,9 @@ garu.hit.gemius.pl
 gatag.it
 gate.datacaciques.com
 gate.hockeyapp.net
+gateway.fe.apple-dns.net
 gateway.foresee.com
+gateway.icloud.com
 gatr.hit.gemius.pl
 gaua.hit.gemius.pl
 gazeta.hit.gemius.pl
@@ -2601,6 +2610,7 @@ imstore.bet365affiliates.com
 in.api.glance.inmobi.com
 inapi.posst.co
 in.appcenter.ms
+inappcheck.itunes.apple.com
 inappcheck-lb.itunes-apple.com.akadns.net
 inapps.appsflyer.com
 in-automate.sendinblue.com
@@ -2616,6 +2626,8 @@ ing-district.clicktale.net
 ingest.vungle.com
 in.getclicky.com
 inimage.carambo.la
+init.itunes.apple.com
+init.push.apple.com
 init.startappservice.com
 init.supersonicads.com
 ink1001.com
@@ -2789,10 +2801,14 @@ launches.appsflyer.com
 launchpoint.marketo.com
 lb84.s400.meetrics.net
 lb.apicit.net
+lb._dns-sd._udp.soundsphere
 l.betrad.com
 lc.iadvize.com
 lciapi.ninthdecimal.com
 lcprd1.samsungcloudsolution.net
+_ldap._tcp.dc._msdcs.sonnenbatterie.local
+_ldap._tcp.de-nbg-sig._sites.dc._msdcs.sonnenbatterie.local
+_ldap._tcp.f30fbad5-7561-4c4d-a0d6-7a9f29b185af.domains._msdcs.sonnenbatterie.local
 lddy25pglm.kameleoon.eu
 leadback.advertising.com
 lenovo.demdex.net
@@ -3049,6 +3065,7 @@ metrics.gfycat.com
 metrics.icloud.com
 metrics-logger.spot.im
 metrics.makemytrip.com
+metrics.media-amazon.com
 metrics.mzstatic.com
 metrics.nfl.com
 metrics-nl.fitanalytics.com
@@ -3224,6 +3241,7 @@ o.addthis.com
 oasc05.247realmedia.com
 oascentral.consumerreports.org
 obi-all.wt-eu02.net
+ocs-inventory.sonnen.wipo
 ocsp.apple.com
 ocsp.digicert.com
 ocsp.godaddy.com
@@ -4417,6 +4435,7 @@ style2.ad6.fr
 s.tyxo.com
 su.addthis.com
 subpixel.4players.de
+substrate.office.com
 sumo.com
 s.update.adsrvr.org
 s.update.fbsbx.com
@@ -5046,6 +5065,7 @@ wct.link
 wd.adcolony.com
 weather-analytics-events.apple.com
 weather.com
+weather-edge.apple.com
 web.53.localytics.com
 web.adblade.com
 web-analytics.engagio.com
@@ -5194,6 +5214,7 @@ www.adwidecenter.com
 www.agkn.com
 www.amobee.com
 www.anrdoezrs.net
+www.apple.com
 www.applift.com
 www.asadcdn.com
 www.ashemaletube.com
@@ -5351,6 +5372,7 @@ www.yceml.net
 www.yoloselfie.com
 www.zanox-affiliate.de
 www.zergnet.com
+x1.c.lencr.org
 x9vql09shn.kameleoon.eu
 x.bidswitch.net
 x.cnt.my
