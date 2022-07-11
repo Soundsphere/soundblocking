@@ -2415,7 +2415,6 @@ gspe12-ssl.ls.apple.com
 gspe19-ssl.ls.apple.com
 gspe1-ssl.ls.apple.com
 gspe1-ssl.ls.apple.com.edgekey.net
-gsp-ssl.ls-apple.com.akadns.net
 gstaticadssl.l.google.com
 gum.criteo.com
 gumroad.com
