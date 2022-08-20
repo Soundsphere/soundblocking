@@ -695,6 +695,7 @@
 0.0.0.0 api.stathat.com
 0.0.0.0 api.taboola.com
 0.0.0.0 api.taplytics.com
+0.0.0.0 api.taps.io
 0.0.0.0 api.theadex.com
 0.0.0.0 api.traversedlp.com
 0.0.0.0 api.twitter.com
@@ -803,6 +804,7 @@
 0.0.0.0 a.rfihub.com
 0.0.0.0 ariane.abtasty.com
 0.0.0.0 a.ria.ru
+0.0.0.0 artlist.postaffiliatepro.com
 0.0.0.0 as.adlooxtracking.com
 0.0.0.0 as.casalemedia.com
 0.0.0.0 as.ebz.io
@@ -1138,6 +1140,7 @@
 0.0.0.0 cdn6.mycliplister.com
 0.0.0.0 cdn-a.amazon-adsystem.com
 0.0.0.0 cdn.accelerator.arsdev.net
+0.0.0.0 cdn.acsbapp.com
 0.0.0.0 cdn.adaptv.advertising.com
 0.0.0.0 cdn.adikteev.com
 0.0.0.0 cdn.admixer.net
@@ -1456,6 +1459,7 @@
 0.0.0.0 cm.steepto.com
 0.0.0.0 cms-xch.33across.com
 0.0.0.0 cnzz.mmstat.com
+0.0.0.0 cockpit.symplr.de
 0.0.0.0 code.bildstatic.de
 0.0.0.0 code.etracker.com
 0.0.0.0 codefund.io
@@ -3045,6 +3049,7 @@
 0.0.0.0 memecrunch.com
 0.0.0.0 mepodownload.mediatek.com
 0.0.0.0 meraxes.polarmobile.com
+0.0.0.0 message.sp-prod.net
 0.0.0.0 me-ssl.effectivemeasure.net
 0.0.0.0 me.taboola.com
 0.0.0.0 meta.volumio.org
@@ -3821,6 +3826,7 @@
 0.0.0.0 run.adrizer.com
 0.0.0.0 run-syndicate.com
 0.0.0.0 runtime.lemonpi.io
+0.0.0.0 r.us-east-1.awstrack.me
 0.0.0.0 rv-gateway.supersonicads.com
 0.0.0.0 rxcdn.1rx.io
 0.0.0.0 s0.2mdn.net
@@ -4810,6 +4816,7 @@
 0.0.0.0 trk.pinterest.com
 0.0.0.0 trk.prod.vidible.tv
 0.0.0.0 trk.vidible.tv
+0.0.0.0 trmads.eu
 0.0.0.0 trmcdn.eu
 0.0.0.0 tr.outbrain.com
 0.0.0.0 tr.snapchat.com
@@ -5044,6 +5051,7 @@
 0.0.0.0 v.w-x.co
 0.0.0.0 vz-cdn.trafficjunky.net
 0.0.0.0 vzuhe758ae.kameleoon.eu
+0.0.0.0 w3-reporting.reddit.com
 0.0.0.0 w7.berlin.de
 0.0.0.0 waitlist.goodnotesplatform.com
 0.0.0.0 waproduction.postaffiliatepro.com

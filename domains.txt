@@ -695,6 +695,7 @@ apis.quantcast.mgr.consensu.org
 api.stathat.com
 api.taboola.com
 api.taplytics.com
+api.taps.io
 api.theadex.com
 api.traversedlp.com
 api.twitter.com
@@ -803,6 +804,7 @@ a.remarketstats.com
 a.rfihub.com
 ariane.abtasty.com
 a.ria.ru
+artlist.postaffiliatepro.com
 as.adlooxtracking.com
 as.casalemedia.com
 as.ebz.io
@@ -1138,6 +1140,7 @@ cdn5.userzoom.com
 cdn6.mycliplister.com
 cdn-a.amazon-adsystem.com
 cdn.accelerator.arsdev.net
+cdn.acsbapp.com
 cdn.adaptv.advertising.com
 cdn.adikteev.com
 cdn.admixer.net
@@ -1456,6 +1459,7 @@ cms.quantserve.com
 cm.steepto.com
 cms-xch.33across.com
 cnzz.mmstat.com
+cockpit.symplr.de
 code.bildstatic.de
 code.etracker.com
 codefund.io
@@ -3043,6 +3047,7 @@ members.cj.com
 memecrunch.com
 mepodownload.mediatek.com
 meraxes.polarmobile.com
+message.sp-prod.net
 me-ssl.effectivemeasure.net
 me.taboola.com
 meta.volumio.org
@@ -3819,6 +3824,7 @@ run.admost.com
 run.adrizer.com
 run-syndicate.com
 runtime.lemonpi.io
+r.us-east-1.awstrack.me
 rv-gateway.supersonicads.com
 rxcdn.1rx.io
 s0.2mdn.net
@@ -4808,6 +4814,7 @@ trkn.us
 trk.pinterest.com
 trk.prod.vidible.tv
 trk.vidible.tv
+trmads.eu
 trmcdn.eu
 tr.outbrain.com
 tr.snapchat.com
@@ -5042,6 +5049,7 @@ vuukle-analytics.appspot.com
 v.w-x.co
 vz-cdn.trafficjunky.net
 vzuhe758ae.kameleoon.eu
+w3-reporting.reddit.com
 w7.berlin.de
 waitlist.goodnotesplatform.com
 waproduction.postaffiliatepro.com
