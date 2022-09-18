@@ -221,6 +221,8 @@
 0.0.0.0 adadvisor.net
 0.0.0.0 ad.afy11.net
 0.0.0.0 adara.com
+0.0.0.0 adashbc.ut.taobao.com
+0.0.0.0 adash.man.aliyuncs.com
 0.0.0.0 adashx4ae.ut.taobao.com
 0.0.0.0 ad.atdmt.com
 0.0.0.0 adbetnet.advertserve.com
@@ -271,6 +273,7 @@
 0.0.0.0 adobe.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 adobecorp.sc.omtrdc.net
 0.0.0.0 adobe.demdex.net
+0.0.0.0 adobeinternalmobiles.tt.omtrdc.net
 0.0.0.0 adobe-sync.dotomi.com
 0.0.0.0 adobe.tt.omtrdc.net
 0.0.0.0 ado.pro-market.net
@@ -951,6 +954,7 @@
 0.0.0.0 bdimg.share.baidu.com
 0.0.0.0 bea4.v.fwmrm.net
 0.0.0.0 beacon.aimtell.com
+0.0.0.0 beacon-api.aliyuncs.com
 0.0.0.0 beacon.errorception.com
 0.0.0.0 beacon-eu2.rubiconproject.com
 0.0.0.0 beacon-eu-ams3.rubiconproject.com
@@ -1449,6 +1453,7 @@
 0.0.0.0 cmp.macworld.com
 0.0.0.0 cmp.mediavine.com
 0.0.0.0 cmp.network-n.com
+0.0.0.0 cmp.quantcast.com
 0.0.0.0 cmp.rheinpfalz.de
 0.0.0.0 cmp.teads.mgr.consensu.org
 0.0.0.0 cmp.uniconsent.com
@@ -1634,6 +1639,7 @@
 0.0.0.0 csr.inspsearchapi.com
 0.0.0.0 csr.onet.pl
 0.0.0.0 cstat.apple.com
+0.0.0.0 cstat.cdn-apple.com
 0.0.0.0 c.statcounter.com
 0.0.0.0 cstatic.weborama.fr
 0.0.0.0 cst.wpu.sh
@@ -2443,6 +2449,7 @@
 0.0.0.0 hb-api.omnitagjs.com
 0.0.0.0 hb.emxdgt.com
 0.0.0.0 hbevents.1rx.io
+0.0.0.0 hb.improvedigital.com
 0.0.0.0 hblg.media.net
 0.0.0.0 hb.nexage.com
 0.0.0.0 hbopenbid.pubmatic.com
@@ -3112,12 +3119,14 @@
 0.0.0.0 moevideo.biz
 0.0.0.0 mogointeractive.com
 0.0.0.0 monitor.econda-monitor.de
+0.0.0.0 monorail-edge.shopifysvc.com
 0.0.0.0 monu.delivery
 0.0.0.0 mon-va.byteoversea.com
 0.0.0.0 mormont.gamer-network.net
 0.0.0.0 movip.wps.com
 0.0.0.0 mozilla.cloudflare-dns.com
 0.0.0.0 mp.4dex.io
+0.0.0.0 mparticle.map.fastly.net
 0.0.0.0 mp-https.info
 0.0.0.0 mpp.vindicosuite.com
 0.0.0.0 mproxy.banner.linksynergy.com
@@ -5071,6 +5080,7 @@
 0.0.0.0 wd.adcolony.com
 0.0.0.0 weather-analytics-events.apple.com
 0.0.0.0 weather.com
+0.0.0.0 weather-data.apple.com.akadns.net
 0.0.0.0 weather-edge.apple.com
 0.0.0.0 web.53.localytics.com
 0.0.0.0 web.adblade.com

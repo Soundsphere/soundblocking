@@ -221,6 +221,8 @@ ad.adsrvr.org
 adadvisor.net
 ad.afy11.net
 adara.com
+adashbc.ut.taobao.com
+adash.man.aliyuncs.com
 adashx4ae.ut.taobao.com
 ad.atdmt.com
 adbetnet.advertserve.com
@@ -271,6 +273,7 @@ adnz.co
 adobe.com.ssl.d1.sc.omtrdc.net
 adobecorp.sc.omtrdc.net
 adobe.demdex.net
+adobeinternalmobiles.tt.omtrdc.net
 adobe-sync.dotomi.com
 adobe.tt.omtrdc.net
 ado.pro-market.net
@@ -951,6 +954,7 @@ bcp.crwdcntrl.net
 bdimg.share.baidu.com
 bea4.v.fwmrm.net
 beacon.aimtell.com
+beacon-api.aliyuncs.com
 beacon.errorception.com
 beacon-eu2.rubiconproject.com
 beacon-eu-ams3.rubiconproject.com
@@ -1449,6 +1453,7 @@ cmp-cdn.ghostery.com
 cmp.macworld.com
 cmp.mediavine.com
 cmp.network-n.com
+cmp.quantcast.com
 cmp.rheinpfalz.de
 cmp.teads.mgr.consensu.org
 cmp.uniconsent.com
@@ -1633,6 +1638,7 @@ csp-reporting.cloudflare.com
 csr.inspsearchapi.com
 csr.onet.pl
 cstat.apple.com
+cstat.cdn-apple.com
 c.statcounter.com
 cstatic.weborama.fr
 cst.wpu.sh
@@ -2442,6 +2448,7 @@ hb.adtelligent.com
 hb-api.omnitagjs.com
 hb.emxdgt.com
 hbevents.1rx.io
+hb.improvedigital.com
 hblg.media.net
 hb.nexage.com
 hbopenbid.pubmatic.com
@@ -3110,12 +3117,14 @@ moe.video
 moevideo.biz
 mogointeractive.com
 monitor.econda-monitor.de
+monorail-edge.shopifysvc.com
 monu.delivery
 mon-va.byteoversea.com
 mormont.gamer-network.net
 movip.wps.com
 mozilla.cloudflare-dns.com
 mp.4dex.io
+mparticle.map.fastly.net
 mp-https.info
 mpp.vindicosuite.com
 mproxy.banner.linksynergy.com
@@ -5069,6 +5078,7 @@ wct.link
 wd.adcolony.com
 weather-analytics-events.apple.com
 weather.com
+weather-data.apple.com.akadns.net
 weather-edge.apple.com
 web.53.localytics.com
 web.adblade.com
