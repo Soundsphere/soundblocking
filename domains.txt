@@ -5290,7 +5290,6 @@ www.getdrip.com
 www.googleadservices.com
 www.google-analytics.com
 www-google-analytics.l.google.com
-www.google.com
 www.googleoptimize.com
 www.googletagmanager.com
 www-googletagmanager.l.google.com
