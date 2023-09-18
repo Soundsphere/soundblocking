@@ -18,9 +18,6 @@
 157.240.14.35
 157.240.229.35
 185.60.216.35
-## map highwinds cdn. Don't know what that is actually
-205.185.216.42
-205.185.216.10
 ## some alibaba things. Can't remeber why it's on this list. Never had an issue, will therefore stay
 161.117.70.145
 161.117.71.36
