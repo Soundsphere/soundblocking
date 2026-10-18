@@ -5387,7 +5387,6 @@
 0.0.0.0 www.yoloselfie.com
 0.0.0.0 www.zanox-affiliate.de
 0.0.0.0 www.zergnet.com
-0.0.0.0 x1.c.lencr.org
 0.0.0.0 x9vql09shn.kameleoon.eu
 0.0.0.0 x.bidswitch.net
 0.0.0.0 x.cnt.my
