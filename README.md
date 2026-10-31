@@ -8,4 +8,4 @@ If you're looking for blocklists that are updated regularly and are not biased a
 
 They actually put work and effort in, so this should be your place to start, not my own list that I automatically update with scripts based on theirs.
 
-Thanks for understanding
+Thanks for understanding!
