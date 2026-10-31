@@ -1,4 +1,3 @@
-0.0.0.0 telemetry.individual.githubcopilot.com
 0.0.0.0 _ldap._tcp.dc._msdcs.sonnenbatterie.local
 0.0.0.0 _ldap._tcp.de-nbg-sig._sites.dc._msdcs.sonnenbatterie.local
 0.0.0.0 _ldap._tcp.f30fbad5-7561-4c4d-a0d6-7a9f29b185af.domains._msdcs.sonnenbatterie.local
@@ -4695,6 +4694,7 @@
 0.0.0.0 telemetry.api.swiftkey.com
 0.0.0.0 telemetry.art19.com
 0.0.0.0 telemetry.dropbox.com
+0.0.0.0 telemetry.individual.githubcopilot.com
 0.0.0.0 telemetry.jivosite.com
 0.0.0.0 telemetry.malwarebytes.com
 0.0.0.0 telemetry.sdk.inmobi.com
