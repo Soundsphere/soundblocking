@@ -1,3 +1,4 @@
+0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 _ldap._tcp.dc._msdcs.sonnenbatterie.local
 0.0.0.0 _ldap._tcp.de-nbg-sig._sites.dc._msdcs.sonnenbatterie.local
 0.0.0.0 _ldap._tcp.f30fbad5-7561-4c4d-a0d6-7a9f29b185af.domains._msdcs.sonnenbatterie.local
@@ -5451,7 +5452,6 @@
 0.0.0.0 www.vkmag.com
 0.0.0.0 www.vungle.com
 0.0.0.0 www.weebly.com
-0.0.0.0 www.wikifeetx.com
 0.0.0.0 www.worldometers.info
 0.0.0.0 www.xaxis.com
 0.0.0.0 www.xiti.com
@@ -5554,3 +5554,20 @@
 0.0.0.0 znedscsenlrql0rxd-teslamotors.siteintercept.qualtrics.com
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 zpu.samsungelectronics.com
+0.0.0.0 mweb-hb.presage.io
+0.0.0.0 region1.google-analytics.com
+0.0.0.0 fast.nexx360.io
+0.0.0.0 s.seedtag.com
+0.0.0.0 prebid2.cwi.re
+0.0.0.0 pub.doubleverify.com
+0.0.0.0 static-eu.cleverpush.com
+0.0.0.0 zwjvbnvhnzme.heise.de
+0.0.0.0 yxsu5ufd2m.kameleoon.eu
+0.0.0.0 data-fb7f8b3ae8.heise.de
+0.0.0.0 1a52c4588b27af374e6ec734623c30dc.safeframe.googlesyndication.com
+0.0.0.0 api.feedad.com
+0.0.0.0 t.visx.net
+0.0.0.0 s2s.yieldlove-ad-serving.net
+0.0.0.0 tracker.remp-beam.golem.de
+0.0.0.0 remp-campaign.golem.de
+0.0.0.0 web-banner.ads.aps.amazon-adsystem.com
