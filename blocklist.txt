@@ -1,4 +1,3 @@
-0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 _ldap._tcp.dc._msdcs.sonnenbatterie.local
 0.0.0.0 _ldap._tcp.de-nbg-sig._sites.dc._msdcs.sonnenbatterie.local
 0.0.0.0 _ldap._tcp.f30fbad5-7561-4c4d-a0d6-7a9f29b185af.domains._msdcs.sonnenbatterie.local
@@ -22,6 +21,7 @@
 0.0.0.0 189474.engine.mobileapptracking.com
 0.0.0.0 194-vvc-221.mktoresp.com
 0.0.0.0 194792.engine.mobileapptracking.com
+0.0.0.0 1a52c4588b27af374e6ec734623c30dc.safeframe.googlesyndication.com
 0.0.0.0 1und1internetag.d3.sc.omtrdc.net
 0.0.0.0 1x1.a-mo.net
 0.0.0.0 2-01-2a40-0017.cdx.cdxcn.net
@@ -662,6 +662,7 @@
 0.0.0.0 api.ecosia.org
 0.0.0.0 api.eu-west-1.aiv-delivery.net
 0.0.0.0 api.exc.mob.com
+0.0.0.0 api.feedad.com
 0.0.0.0 api.flocktory.com
 0.0.0.0 api.fouanalytics.com
 0.0.0.0 api.gameanalytics.com
@@ -1773,6 +1774,7 @@
 0.0.0.0 daldt.adsafeprotected.com
 0.0.0.0 dap.digitalgov.gov
 0.0.0.0 dart.l.doubleclick.net
+0.0.0.0 data-fb7f8b3ae8.heise.de
 0.0.0.0 data.24smi.net
 0.0.0.0 data.ad-score.com
 0.0.0.0 data.adsrvr.org
@@ -2194,6 +2196,7 @@
 0.0.0.0 fast.forbes.com
 0.0.0.0 fast.intelcorp.demdex.net
 0.0.0.0 fast.marriottinternationa.demdex.net
+0.0.0.0 fast.nexx360.io
 0.0.0.0 fast.skydeutschland.demdex.net
 0.0.0.0 fast.wistia.com
 0.0.0.0 fastlane-adv.rubiconproject.com
@@ -2422,6 +2425,7 @@
 0.0.0.0 graph.instagram.com
 0.0.0.0 graphql.usercentrics.eu
 0.0.0.0 green.erne.co
+0.0.0.0 grid-bidder.criteo.com
 0.0.0.0 grid.bidswitch.net
 0.0.0.0 grmtech.net
 0.0.0.0 grunerandjahr.112.2o7.net
@@ -3167,6 +3171,7 @@
 0.0.0.0 musical.ly
 0.0.0.0 musical.ly
 0.0.0.0 mvconf.cloud.360safe.com
+0.0.0.0 mweb-hb.presage.io
 0.0.0.0 mwzeom.zeotap.com
 0.0.0.0 my.hellobar.com
 0.0.0.0 my.leadpages.net
@@ -3584,6 +3589,7 @@
 0.0.0.0 prebid.media.net
 0.0.0.0 prebid.s-onetag.com
 0.0.0.0 prebid.technoratimedia.com
+0.0.0.0 prebid2.cwi.re
 0.0.0.0 predictivdisplay.com
 0.0.0.0 preferences-mgr.truste.com
 0.0.0.0 preferences.cid.samba.tv
@@ -3635,6 +3641,7 @@
 0.0.0.0 pt.ispot.tv
 0.0.0.0 pt.peerius.com
 0.0.0.0 pub-sdk-cfg.criteo.com
+0.0.0.0 pub.doubleverify.com
 0.0.0.0 pub.lavanetwork.net
 0.0.0.0 pub.searchiq.co
 0.0.0.0 pubads.g.doubleclick.net
@@ -3783,6 +3790,7 @@
 0.0.0.0 referrer.disqus.com
 0.0.0.0 reflethenfortoft.info
 0.0.0.0 reg.biv.sony.tv
+0.0.0.0 region1.google-analytics.com
 0.0.0.0 regionconfig.amplitude.com
 0.0.0.0 register.appsflyer.com
 0.0.0.0 register.xmpush.xiaomi.com
@@ -3791,6 +3799,7 @@
 0.0.0.0 rem-track.bild.de
 0.0.0.0 remarket.clicktripz.com
 0.0.0.0 remote-data.urbanairship.com
+0.0.0.0 remp-campaign.golem.de
 0.0.0.0 renderer.apester.com
 0.0.0.0 report.appmetrica.webvisor.com
 0.0.0.0 report.appmetrica.yandex.net
@@ -3915,6 +3924,7 @@
 0.0.0.0 s.ntv.io
 0.0.0.0 s.po.st
 0.0.0.0 s.pubmine.com
+0.0.0.0 s.seedtag.com
 0.0.0.0 s.skimresources.com
 0.0.0.0 s.spolecznosci.net
 0.0.0.0 s.spoutable.com
@@ -3949,6 +3959,7 @@
 0.0.0.0 s290.mxcdn.net
 0.0.0.0 s2s.adjust.com
 0.0.0.0 s2s.singular.net
+0.0.0.0 s2s.yieldlove-ad-serving.net
 0.0.0.0 s3-analytics-events.easybrain.com
 0.0.0.0 s3-eu-central-1.amazonaws.com
 0.0.0.0 s3-eu-west-1.amazonaws.com
@@ -4355,6 +4366,7 @@
 0.0.0.0 static-cdn.jtvnw.net
 0.0.0.0 static-de.plista.com
 0.0.0.0 static-eb.media.net
+0.0.0.0 static-eu.cleverpush.com
 0.0.0.0 static-euw1.dynamicyield.com
 0.0.0.0 static-lon1.dynamicyield.com
 0.0.0.0 static-lvlt.xhcdn.com
@@ -4614,6 +4626,7 @@
 0.0.0.0 t.update.fbsbx.com
 0.0.0.0 t.update.rubiconproject.com
 0.0.0.0 t.vi-serve.com
+0.0.0.0 t.visx.net
 0.0.0.0 t.wayfair.com
 0.0.0.0 t.yesware.com
 0.0.0.0 t1.extreme-dm.com
@@ -4860,6 +4873,7 @@
 0.0.0.0 tracker.nbcuas.com
 0.0.0.0 tracker.nmp1.com
 0.0.0.0 tracker.opentrackr.org
+0.0.0.0 tracker.remp-beam.golem.de
 0.0.0.0 tracker.samplicio.us
 0.0.0.0 tracker.unbxdapi.com
 0.0.0.0 trackersimulator.org
@@ -5177,6 +5191,7 @@
 0.0.0.0 weather-edge.apple.com
 0.0.0.0 weather.com
 0.0.0.0 web-analytics.engagio.com
+0.0.0.0 web-banner.ads.aps.amazon-adsystem.com
 0.0.0.0 web-sdk.urbanairship.com
 0.0.0.0 web-t.9gag.com
 0.0.0.0 web.53.localytics.com
@@ -5515,6 +5530,7 @@
 0.0.0.0 yourporn.sexy
 0.0.0.0 ypu.samsungelectronics.com
 0.0.0.0 yui.yahooapis.com
+0.0.0.0 yxsu5ufd2m.kameleoon.eu
 0.0.0.0 z-eu.amazon-adsystem.com
 0.0.0.0 z-m-graph.facebook.com
 0.0.0.0 z-na.amazon-adsystem.com
@@ -5554,20 +5570,4 @@
 0.0.0.0 znedscsenlrql0rxd-teslamotors.siteintercept.qualtrics.com
 0.0.0.0 zoopla-d.openx.net
 0.0.0.0 zpu.samsungelectronics.com
-0.0.0.0 mweb-hb.presage.io
-0.0.0.0 region1.google-analytics.com
-0.0.0.0 fast.nexx360.io
-0.0.0.0 s.seedtag.com
-0.0.0.0 prebid2.cwi.re
-0.0.0.0 pub.doubleverify.com
-0.0.0.0 static-eu.cleverpush.com
 0.0.0.0 zwjvbnvhnzme.heise.de
-0.0.0.0 yxsu5ufd2m.kameleoon.eu
-0.0.0.0 data-fb7f8b3ae8.heise.de
-0.0.0.0 1a52c4588b27af374e6ec734623c30dc.safeframe.googlesyndication.com
-0.0.0.0 api.feedad.com
-0.0.0.0 t.visx.net
-0.0.0.0 s2s.yieldlove-ad-serving.net
-0.0.0.0 tracker.remp-beam.golem.de
-0.0.0.0 remp-campaign.golem.de
-0.0.0.0 web-banner.ads.aps.amazon-adsystem.com
